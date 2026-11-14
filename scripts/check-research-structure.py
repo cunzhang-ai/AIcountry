@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Check the current research tree without changing historical editions."""
+"""Check the current research tree."""
 
 from pathlib import Path
 import re
@@ -13,9 +13,7 @@ SCHEME = re.compile(r"^[a-zA-Z][a-zA-Z0-9+.-]*:")
 
 
 def current_files():
-    for path in ROOT.rglob("*.md"):
-        if not any(part.startswith("2026-") for part in path.relative_to(ROOT).parts):
-            yield path
+    return ROOT.rglob("*.md")
 
 
 def table_rows(path):

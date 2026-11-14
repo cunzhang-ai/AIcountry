@@ -24,7 +24,7 @@ and [ordinary justice](25-ordinary-justice-and-public-prosecution.md).
 It requires competent prospective adoption. It gives no court power
 to enact a tax, choose a supplier or assume executive management.
 [Evidence and adverse cases](../../settlement/public-remedy/README.md)
-· [Decision record](../../2026-11-repeated-public-failure-and-remedy/decision-record.md)
+· [Decision record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-repeated-public-failure-and-remedy/decision-record.md)
 
 [OM01–OM12](../C04/13-public-ombuds-and-systemic-correction.md)
 can expose a recurring problem and require a reasoned response.

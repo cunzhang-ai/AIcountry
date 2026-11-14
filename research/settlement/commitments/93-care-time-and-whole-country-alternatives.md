@@ -24,5 +24,5 @@ Preserve1399 complete179 artifacts,37 full functions/61 selections/119 inherited
 complete references and all old source-hash values;37 remains open. A new
 prospective ordinary Act and paid OP/T asset/worker/pension/contract/creditor/
 record/case/claim succession are required. No actual source/adoption/operation,
-independent approval or observed benefit is claimed. [Record](../../2026-11-care-time-and-whole-country-alternatives/decision-record.md)
+independent approval or observed benefit is claimed. [Record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-care-time-and-whole-country-alternatives/decision-record.md)
 retains objections, source inspection limits and the whole-country next question.

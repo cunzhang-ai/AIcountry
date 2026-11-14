@@ -20,7 +20,7 @@ and an affordable exit available if the arrangement fails.
    compares retention and transfer, keeps independent approvals, and funds service before control passes.
 
 [Observed evidence and joined budget case](../../settlement/public-concessions/README.md)
-· [Choice, tradeoffs and migration](../../2026-11-public-concessions-and-future-budget-control/decision-record.md)
+· [Choice, tradeoffs and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-public-concessions-and-future-budget-control/decision-record.md)
 
 [PCR01–PCR08](../C03/01/02-public-commitments-before-effective-review.md) checks practical lock-in
 before a covered concession or disposal. Preserve PL authority and sector review.

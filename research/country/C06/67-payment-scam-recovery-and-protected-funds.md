@@ -95,4 +95,4 @@ simpler route. Preserve applicable M, B, PT, P, PD and OP/T rights.
 [Credit, payments and conduct](02/02-credit-payments-and-conduct.md)
 · [Original civil restitution](../C08/13/02-performance-property-and-restitution.md)
 · [Worked comparison](../../settlement/payment-scam-recovery/README.md)
-· [Design251 decision](../../2026-11-payment-fraud-recovery-and-protected-funds/decision-record.md)
+· [Design251 decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-payment-fraud-recovery-and-protected-funds/decision-record.md)

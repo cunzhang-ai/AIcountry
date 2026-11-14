@@ -25,6 +25,6 @@ legislative/electoral bids do not pay the whole scope; census stays open.
 All37 complete functions/61 selections/113 inherited reference objects and old
 source hashes remain exact. Five new actual-evidence fields remain null. Full
 funding, independent affected/legal authority, practical source/control and
-better lives remain unknown. [Decision](../../2026-11-public-national-initiatives/decision-record.md)
+better lives remain unknown. [Decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-public-national-initiatives/decision-record.md)
 retains representative/panel and direct popular-vote rivals. Actual constitution,
 software, contribution permissions, holds and stronger old rights continue.

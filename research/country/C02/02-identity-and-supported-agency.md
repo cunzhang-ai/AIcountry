@@ -10,7 +10,7 @@ route preserves the claim while nationality, parentage and electoral eligibility
 are decided under their distinct laws. Children retain their own identity and
 voice even when adults disagree. Chosen supporters may assist an adult with
 specified decisions, but support does not silently transfer the person's legal
-capacity, property or vote. The [personal-status decision](../../2026-10-personal-status-and-care/decision-record.md)
+capacity, property or vote. The [personal-status decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-personal-status-and-care/decision-record.md)
 records the competing family and state-power risks and the unresolved lawful
 adoption questions.
 The [advance-choice and death-record route](../C08/08-end-of-life-decisions-and-survivors.md)

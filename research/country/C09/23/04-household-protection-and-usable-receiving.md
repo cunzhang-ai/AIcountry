@@ -63,4 +63,4 @@ continuing repair and original breach record. Record verified return,
 funded continuation and any uncovered interval separately.
 
 [Household case](../../C13/23-household-protection-and-usable-receiving.md)
-· [Decision and migration](../../../2026-11-household-protection-and-usable-receiving/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-household-protection-and-usable-receiving/decision-record.md)

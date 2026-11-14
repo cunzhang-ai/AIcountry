@@ -79,7 +79,7 @@ simpler route that secures equivalent public control.
 [Independent fiscal analysis](../../C06/60/07-independent-fiscal-forecast-and-budget-release.md) ·
 [Opening liabilities](../../C14/02/05-opening-liabilities-and-protected-budget.md) ·
 [Worked comparison](../../../settlement/election-fiscal-baseline/01-first-week-cash-and-late-liability.md) ·
-[Decision and evidence](../../../2026-11-election-fiscal-baseline/decision-record.md)
+[Decision and evidence](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-election-fiscal-baseline/decision-record.md)
 
 [HT32–HT38](08-contestable-transition-preparation.md) gives the distinct portfolio briefing
 a common factual baseline, confidentiality and an independent receiving route.

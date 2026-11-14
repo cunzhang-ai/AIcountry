@@ -90,7 +90,7 @@ Immediate individual claims and employment protections continue while that
 choice is made. If the Assembly's queue blocks a due funding decision, C03's
 protected agenda and C06's lawful continuity route apply. This is a research
 selection, not a forecast that AIcountry will become a post-work society or
-proof that one income model is superior. The [decision record](../../2026-10-automation-settlement/decision-record.md)
+proof that one income model is superior. The [decision record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-automation-settlement/decision-record.md)
 sets out rival packages and the real-world test. Reopen this design if actual
 income, service or power data show that plural ownership with general taxation
 cannot distribute gains or maintain democratic independence.

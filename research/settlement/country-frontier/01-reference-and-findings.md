@@ -42,7 +42,7 @@ for existing financial equity creates0 new output by title transfer alone.
 These boundaries refute specified false inferences; they are not observed
 Danish cash flows, all property-accounting rules or actual project costs.
 
-[Sources and event check](../../2026-11-country-source-and-capacity-frontier/sources.md)
+[Sources and event check](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-country-source-and-capacity-frontier/sources.md)
 retain the separately dated October2026 EDP2025 notice without mixing it into
 June-vintage2023 accounts. No negative fiscal observation is clamped away.
 Observed net lending is no proof of available cash, desirable debt policy,

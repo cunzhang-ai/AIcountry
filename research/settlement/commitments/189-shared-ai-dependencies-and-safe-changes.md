@@ -5,6 +5,6 @@ service route under common release and recovery loss. Keep
 affected advice distinct from lawful acts, receipt and review.
 
 [Observed and authored checks](../../settlement/shared-ai-change/README.md)
-· [Decision and migration](../../2026-11-shared-ai-dependencies-and-safe-changes/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-shared-ai-dependencies-and-safe-changes/decision-record.md)
 
 Actual qualified change and receiving remain open.

@@ -4,7 +4,7 @@ Design187 · Current research choices, not enacted law or renewed final review
 
 The canonical topics own their clauses. This page states current selections,
 real alternatives and unresolved objections; source observations, adopted law,
-paid receiving and better lives are separate. [Prior full working register](../../history/06-current-research/10-former-operation-register.md)
+paid receiving and better lives are separate. [Prior full working register](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/history/06-current-research/10-former-operation-register.md)
 retains earlier reasoning and superseded queues without reviving them.
 
 | Joint question | Current organizing choice | Unresolved condition / canonical owner |
@@ -22,7 +22,7 @@ These are operating choices, not a renewed approval of every earlier study.
 Historical queues and source observations are in the preserved record; their
 age or position in a folder grants no authority. No generally binding community
 procedure is adopted by this consolidation.
-[Current status](../../DESIGN-STATUS.md) · [Research history](../../history/06-current-research/README.md)
+[Current status](../../DESIGN-STATUS.md) · [Research history](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/history/06-current-research/README.md)
 
 [BC serious external harms](../../country/C10/14-cross-border-buying-and-responsibility.md)
 now has a substantive buyer duty, safe direct claims, targeted evidence and

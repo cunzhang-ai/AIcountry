@@ -83,4 +83,4 @@ after hidden conflicts, late notice, shared controller failure, coercive
 case transfers or a better lawful ordinary route.
 
 [Matched execution comparison](../../../settlement/conflicting-public-orders/README.md)
-· [Decision and migration](../../../2026-11-conflicting-public-orders/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-conflicting-public-orders/decision-record.md)

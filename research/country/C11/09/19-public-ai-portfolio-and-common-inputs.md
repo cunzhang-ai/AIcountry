@@ -77,7 +77,7 @@ options. It cannot admit its own use, assign legal priority,
 release a budget or certify continuity.
 
 [Worked national portfolio comparison](../../../settlement/public-ai-portfolio-and-common-inputs/01-two-public-uses-one-physical-budget.md)
-· [Decision and migration](../../../2026-11-public-ai-portfolio-and-common-inputs/decision-record.md).
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-public-ai-portfolio-and-common-inputs/decision-record.md).
 
 [Worked schedule and existing energy commitments](../../../settlement/electricity-flexibility-and-service-recovery/01-a-cheaper-hour-and-a-busier-connection.md).
 

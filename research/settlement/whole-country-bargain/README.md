@@ -14,8 +14,8 @@ No additional simplification regulator, automatic model veto or new tax.
 | [Canonical whole alternatives](../../country/C01/03/06-current-country-and-strong-alternatives.md) | Five different diagnoses, material arrangements and retained conflicts |
 | [Canonical disposition](../../country/C01/03/07-compulsory-burdens-and-country-disposition.md) | Simpler-route preference, funded access, retained country and finite next positive-rule gap |
 | [Ordinary, adverse and transition comparison](01-whole-lives-control-and-transition.md) | What each rival changes and cannot remove |
-| [Pinned comparison scope](../../2026-11-whole-country-bargain-and-institutional-burden/comparison.json) | All14 chapters/37 original functions, five institutional models, unknown actual costs/outcomes |
-| [Decision and evidence limits](../../2026-11-whole-country-bargain-and-institutional-burden/decision-record.md) | Retain/revise/reject, objections, current publisher evidence and continuing duties |
+| [Pinned comparison scope](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-whole-country-bargain-and-institutional-burden/comparison.json) | All14 chapters/37 original functions, five institutional models, unknown actual costs/outcomes |
+| [Decision and evidence limits](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-whole-country-bargain-and-institutional-burden/decision-record.md) | Retain/revise/reject, objections, current publisher evidence and continuing duties |
 
 This completes a bounded institutional-level comparison, not full rival legal
 codes, calibrated countries or proof of global superiority. No lower burden

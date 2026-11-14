@@ -29,7 +29,7 @@ context-sensitive evidence and legitimate value choices, not a universal
 ranking. A proposal may improve a known mechanism without proving global
 dominance. Keep that limitation visible while completing the design itself.
 
-[Design-79 audit](04-country-audit-findings.md) updates these earlier conclusions
+[Design-79 audit](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/status/completion/04-country-audit-findings.md) updates these earlier conclusions
 without changing the objective: special-law candidates now exist; corrected
 production support, cohort starts and residual power are selected through CP.
 [Design-80 CJ](../../country/C03/08-constitutional-review-and-public-control.md) now

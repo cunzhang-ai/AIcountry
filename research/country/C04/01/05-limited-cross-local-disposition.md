@@ -71,4 +71,4 @@ Reopen where local equivalence is refused without grounds, a partial
 release forecloses a real option, or a handback exposes a protected duty.
 
 [Basin comparison](../../../settlement/cross-local-effects/02-a-shared-limit-with-local-methods.md)
-· [Decision and migration](../../../2026-11-cross-local-residual-scope/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-cross-local-residual-scope/decision-record.md)

@@ -69,4 +69,4 @@ correction. The numerical results are specific to this setup,
 with no proof of national balance, contingency costs or delivery.
 
 [Scenario check](verify-protected-corrections.py)
-· [Evidence and boundary](../../2026-11-protected-corrections-and-first-budget/sources.md)
+· [Evidence and boundary](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-protected-corrections-and-first-budget/sources.md)

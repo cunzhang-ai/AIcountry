@@ -4,7 +4,7 @@ Design185 · Current research choices, not enacted law or renewed final review
 
 The canonical topics own their clauses. This page states current selections,
 real alternatives and unresolved objections; source observations, adopted law,
-paid receiving and better lives are separate. [Prior full working register](../../history/06-current-research/08-former-money-register.md)
+paid receiving and better lives are separate. [Prior full working register](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/history/06-current-research/08-former-money-register.md)
 retains earlier reasoning and superseded queues without reviving them.
 
 | Decision | Current choice and live rival | Remaining source or value conflict |
@@ -22,7 +22,7 @@ retains earlier reasoning and superseded queues without reviving them.
 Actual private/foreign production, household incidence, skills/peaks, capital,
 legacy and paid transition remain in the same open account. Missing evidence
 is not a newly chosen tax/cut and no single spending ratio proves infeasibility.
-[Current status](../../DESIGN-STATUS.md) · [Preserved source reasoning](../../history/06-current-research/README.md)
+[Current status](../../DESIGN-STATUS.md) · [Preserved source reasoning](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/history/06-current-research/README.md)
 
 [CL19–CL20](../../country/C05/17/04-source-transition-and-rivals.md) assigns the
 new capped public care replacement to G, withdrawing the generic unspecified

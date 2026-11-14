@@ -28,7 +28,7 @@ nonresponses stay outside these denominators. These are municipal reports,
 not person-level delays, national incidence or causal attribution. The appendix
 uses 191 for its first item after five partial responses. The source record
 keeps both denominators. [Original agency report](https://www.socialstyrelsen.se/contentassets/b687a7ca75c84711b36335bd767045ea/2025-4-9562.pdf)
-· [Pinned source](../../2026-11-funded-portability/sources.md).
+· [Pinned source](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-funded-portability/sources.md).
 
 ## Decide the smallest funded arrangement that carries both calls
 

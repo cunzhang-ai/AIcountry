@@ -17,7 +17,7 @@ an unaged 2026 cohort, a launch date or a claim that transition is complete.
 | [Unfinished country choices](48/05-country-choice-and-next.md) | What remains unpriced, and what work can change the choice? |
 
 [Comparison and reproducible book](../../settlement/joined-country/README.md) ·
-[Dated decision](../../2026-11-joined-country-operating-book/decision-record.md) ·
+[Dated decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-joined-country-operating-book/decision-record.md) ·
 [Commitment dependencies](../../settlement/commitments/38-joined-country-operating-book.md)
 
 Existing OP public-backed plural provision remains conditional. Direct public

@@ -36,6 +36,6 @@ extension. Without it, the day-30 decision duty is overdue.
 The education owner retains due support and the outside route.
 A transfer on day 20 does not move that date.
 
-The [decision record](../../2026-11-learning-support-before-assessment/decision-record.md)
+The [decision record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-learning-support-before-assessment/decision-record.md)
 retains the alternatives and field check. No real diagnosis, worker
 capacity or improvement in learning is inferred.

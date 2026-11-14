@@ -38,4 +38,4 @@ Before scaling, budget full schedules, allocate simultaneous calls
 across localities and price the next reserve after depletion.
 Do not infer a national reserve ratio from this case.
 
-[Scenario check](verify-voluntary-care.py) · [Observed evidence](../../2026-11-voluntary-care-and-paid-continuity/sources.md)
+[Scenario check](verify-voluntary-care.py) · [Observed evidence](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-voluntary-care-and-paid-continuity/sources.md)

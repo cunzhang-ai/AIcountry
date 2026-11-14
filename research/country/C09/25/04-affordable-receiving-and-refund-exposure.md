@@ -73,7 +73,7 @@ lease or fund transfer. Review at the first funding change and earlier on
 a material loss of income, funds, supply or safe access.
 
 [Observed accounts and authored housing start](../../../settlement/affordable-housing-and-refunds/README.md)
-· [Decision and migration](../../../2026-11-affordable-housing-and-refund-exposure/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-affordable-housing-and-refund-exposure/decision-record.md)
 
 [WF105–WF110](../../C06/58/24-housing-warmth-and-budget-coverage.md)
 adds a common-population budget comparison with warmth and income.

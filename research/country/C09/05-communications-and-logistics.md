@@ -81,7 +81,7 @@ universal-service subsidy, spare capacity, inspections and funded fallback;
 C11 retains source records and AI may assist forecasting and routing without
 issuing a binding censorship, delivery-denial or emergency priority. Actual
 sites, geography, operators, costs and lawful treaty obligations remain
-unknown. The [decision record](../../2026-10-communications-logistics/decision-record.md)
+unknown. The [decision record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-communications-logistics/decision-record.md)
 compares ownership and coordination options. Reopen this selection if
 regulated plural routes fail to provide usable access, if state control
 captures civic communication, or if the fallback cannot move essential goods.

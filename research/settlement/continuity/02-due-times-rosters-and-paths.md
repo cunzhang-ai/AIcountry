@@ -4,7 +4,7 @@
 
 The candidate Act makes the earlier useful protection time prevail over
 an administrative outer clock. A response may arrive on the administrative
-deadline and still fail the duty. The [model](../../2026-10-continuity-law/model.py)
+deadline and still fail the duty. The [model](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-continuity-law/model.py)
 tests that distinction using five deliberately adverse cases:
 
 | Duty | Candidate outer limit | Authored latest useful time | Completed action | Finding |

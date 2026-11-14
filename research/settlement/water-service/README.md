@@ -19,6 +19,6 @@ actual public roles, new permission terms, seasonal sharing and who pays.
 
 [Balances, control and real rivals](01-balances-control-and-rivals.md) preserves
 regressive fixed-charge, rural cost, public capture, prior-right and newcomer
-objections. [Decision/evidence](../../2026-11-water-allocation-and-service/decision-record.md)
+objections. [Decision/evidence](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-water-allocation-and-service/decision-record.md)
 separates23 authored arithmetic cases and16 written adverse arguments from
 actual source, hydrology, legal/affected review, affordability or better lives.

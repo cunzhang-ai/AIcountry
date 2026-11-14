@@ -12,7 +12,7 @@ tax valuation, bank ratio, token or official upload as ownership.
 [Adversarial routes and rival arrangements](01-adversarial-routes-and-rivals.md)
 trace source, affected parties, immediate remedy, payer and remaining loss.
 Authored cases do not represent actual litigation, public consent or independent
-observations. [Decision/source record](../../2026-11-property-title-and-secured-credit/decision-record.md)
+observations. [Decision/source record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-property-title-and-secured-credit/decision-record.md)
 pins the predecessor and legal comparators. Calculations examine only assumed
 priority intervals, capped debt and proceeds; actual rights are not computed.
 

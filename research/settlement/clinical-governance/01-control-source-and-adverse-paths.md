@@ -37,7 +37,7 @@ No actual independent actors, physical source or costs have been qualified.
 
 These are different authority/employment/source choices, not averaged into a
 score winner. Integration does not imply a national patient graph, one AI host
-or universal public ownership. The [source record](../../2026-11-clinical-service-and-independent-review/sources.md)
+or universal public ownership. The [source record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-clinical-service-and-independent-review/sources.md)
 distinguishes policy context from field/cost proof. The institutional selection
 has a finite positive result; full national sources/independent paid operation/
 actual authority and better lives remain unknown. Next integrated ordinary/

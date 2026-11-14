@@ -77,7 +77,7 @@ Preserve any enacted date and seek lawful correction if a source
 or a roster fails. Review safe resident receipt alongside usable
 time, pay and burdens for workers and households.
 
-[Reproduction](verify-commencement-incidence.py)
+[Reproduction](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/settlement/matched-national-work/verify-commencement-incidence.py)
 · [Canonical national comparison](../../country/C06/58/19-matched-national-work-and-first-budget.md)
 · [Local funding rule](../../country/C04/08/09-equalization-and-local-service.md).
 

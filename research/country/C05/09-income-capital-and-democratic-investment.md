@@ -52,7 +52,7 @@ only for their frozen cohorts, prices, claims and accounting definitions.
 
 Actual public preferences, territory, tax bases, lawful titles, finance,
 qualification, participation and outcomes remain unknown. The
-[decision record](../../2026-11-income-and-investment-settlement/decision-record.md)
+[decision record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-income-and-investment-settlement/decision-record.md)
 preserves the predecessor, alternatives and objections. Completion of this
 written choice does not establish a superior or launch-ready country.
 

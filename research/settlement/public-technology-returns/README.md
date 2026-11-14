@@ -45,4 +45,4 @@ worker claims. Compare on actual burdens, useful work and
 independence before claiming a benefit. No current price,
 adoption or actual future return is assumed.
 
-[Scenario check](verify-public-returns.py) · [Primary evidence](../../2026-11-public-investment-and-realized-technology-returns/sources.md)
+[Scenario check](verify-public-returns.py) · [Primary evidence](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-public-investment-and-realized-technology-returns/sources.md)

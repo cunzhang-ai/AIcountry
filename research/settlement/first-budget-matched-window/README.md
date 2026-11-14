@@ -9,10 +9,10 @@ one dated budget and a second call on the same reserve.
 2. [Authored operating alternatives](02-authored-operating-alternatives.md)
    compares funded routes at the poll, the later payment deadline and
    an additional demand.
-3. [Reproduction](verify-protected-window.py) checks archived source
+3. [Reproduction](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/settlement/first-budget-matched-window/verify-protected-window.py) checks archived source
    rows, date differences and the separate authored cash comparison.
 
-[Decision and source scope](../../2026-11-first-budget-matched-protected-window/decision-record.md)
+[Decision and source scope](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-first-budget-matched-protected-window/decision-record.md)
 
 [The independent execution comparison](../independent-remedy-execution/README.md)
 continues the one-unit shortfall using a separately authorized source

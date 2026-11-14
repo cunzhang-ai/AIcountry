@@ -6,6 +6,6 @@ review, actual access and timely elected scrutiny. Preserve protected
 information, independent case decisions and original due times.
 
 [Observed and constructed comparisons](../parliamentary-evidence/README.md)
-· [Decision and compatibility](../../2026-11-parliamentary-evidence-and-independent-access/decision-record.md)
+· [Decision and compatibility](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-parliamentary-evidence-and-independent-access/decision-record.md)
 
 Actual paid independence, protected custody and received remedies remain open.

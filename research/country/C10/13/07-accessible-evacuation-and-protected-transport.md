@@ -83,7 +83,7 @@ rival. A live transfer preserves all prior bookings, source terms
 and protected clocks through a named successor.
 
 [Matched dispatch comparison](../../../settlement/accessible-evacuation/README.md)
-· [Decision and migration](../../../2026-11-accessible-evacuation-and-protected-transport/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-accessible-evacuation-and-protected-transport/decision-record.md)
 
 [VP01–VP05](../../C03/13/07-voting-through-displacement.md)
 authorizes a qualified host receiver and independently staffed

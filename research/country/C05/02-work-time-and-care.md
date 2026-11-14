@@ -28,7 +28,7 @@ also treats a plant closure or new green industry as a work and local-revenue
 change: bargaining, accrued claims, paid learning time and a viable next
 livelihood are distinct from enrolling people in a training course.
 
-The selected [time-and-care settlement](../../2026-10-democracy-and-time/time-and-care.md)
+The selected [time-and-care settlement](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-democracy-and-time/time-and-care.md)
 adds an enforceable national floor for bounded work hours, recurring rest,
 advance notice of material schedule changes, limits on compulsory availability,
 paid annual and medical leave, and protection from retaliation for using them.

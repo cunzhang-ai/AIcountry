@@ -51,4 +51,4 @@ review. Reopen on recurring common failure, unpaid work or a
 qualifying alternative that provides better access and usable time.
 
 [Published price and roster comparison](../../../settlement/patient-access-and-paid-roster/01-cost-and-receipt.md)
-· [Decision and sources](../../../2026-11-patient-access-and-paid-roster/decision-record.md)
+· [Decision and sources](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-patient-access-and-paid-roster/decision-record.md)

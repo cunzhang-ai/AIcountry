@@ -88,7 +88,7 @@ constitutional/software/contribution permission or hold changes. Existing
 worker/pension/contract/creditor/record/claim successors need paid actual
 acceptance; missed receiving remains failure, not a research-approved delay.
 
-[Observed anchors and authored exposure](../../../2026-11-early-care-and-whole-offer-capacity/README.md)
+[Observed anchors and authored exposure](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-early-care-and-whole-offer-capacity/README.md)
 close this finite task with actual full-cost/source qualification unresolved.
 Next choose the largest whole-offer decision needing matched resource/evidence,
 including care/clinical/learning/control and private work, against retain/repair;

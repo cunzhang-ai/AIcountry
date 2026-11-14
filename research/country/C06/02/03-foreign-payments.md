@@ -20,7 +20,7 @@ The [public-debt rule](../06-sovereign-debt-and-distress.md) governs any
 proposed workout; a domestic decision cannot itself alter a foreign-law claim.
 
 Each budget and material midyear or framework-law change uses the selected
-[whole-country commitment account](../../../2026-10-whole-country-resources/decision-record.md).
+[whole-country commitment account](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-whole-country-resources/decision-record.md).
 
 The [national economic comparison](../20-national-economic-package.md)
 adds private/public imports, export and foreign-interest counterparties.

@@ -78,4 +78,4 @@ prospectively with paid review and named successors.
 [Joint incidence](04-tax-interaction-and-finance.md) ·
 [Early care funding](../../C07/23-funded-local-early-care.md) ·
 [Worked comparison](../../../settlement/coordinated-benefit-withdrawal/01-earned-income-and-care-fees.md) ·
-[Decision and evidence](../../../2026-11-coordinated-benefit-withdrawal/decision-record.md)
+[Decision and evidence](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-coordinated-benefit-withdrawal/decision-record.md)

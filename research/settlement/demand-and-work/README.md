@@ -34,11 +34,11 @@ public ownership category, private cash bill or foreign settlement contract.
 The large education and demand changes are linear extrapolations, not calibrated
 programmes. Better care/time can justify changed production through legitimate
 public and voluntary private choices; a model cannot declare those losses safe.
-The [decision](../../2026-11-whole-country-demand-and-work/decision-record.md)
+The [decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-whole-country-demand-and-work/decision-record.md)
 retains real ownership/time/security rivals and the missing fiscal, household,
-skill, foreign, legacy and independence evidence. [Sources](../../2026-11-whole-country-demand-and-work/sources.md)
+skill, foreign, legacy and independence evidence. [Sources](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-whole-country-demand-and-work/sources.md)
 preserve exact primary bytes, layer/rounding joins and same-family limitations.
-[Results](../../2026-11-whole-country-demand-and-work/results.json) retain all 117
+[Results](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-whole-country-demand-and-work/results.json) retain all 117
 industry allocations and both employee/nonemployee comparisons, including zeros.
 
 [Commitments](../commitments/101-whole-country-demand-and-work.md) preserve

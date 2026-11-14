@@ -18,7 +18,7 @@ resource evidence is also incomplete; missing source is not a zero-cost saving.
 
 [Canonical joint schedule](../../country/C06/18-joint-commitment-and-delivery-schedule.md)
 continues to own country cost/capacity duties; no new coordinator, fiscal guardian,
-claim-ranking algorithm or governing review procedure is created. [Scope/decision](../../2026-11-current-country-integration/decision-record.md)
+claim-ranking algorithm or governing review procedure is created. [Scope/decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-current-country-integration/decision-record.md)
 distinguishes current inspection from old support and actual participation.
 
 The original37 objects and61 selections remain exact. Their bids total1053.05m

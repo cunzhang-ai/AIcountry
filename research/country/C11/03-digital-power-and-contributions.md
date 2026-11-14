@@ -2,7 +2,7 @@
 
 *Part of [C11. Knowledge, culture and AI as public capability](../C11-knowledge-culture-and-ai.md); integrated design 96 research, not enacted law.*
 
-The selected [digital-power arrangement](../../2026-10-core-institutions/digital-ai-power.md)
+The selected [digital-power arrangement](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-core-institutions/digital-ai-power.md)
 uses publicly governed, replaceable shared infrastructure. The Assembly sets legal
 purposes, rights and funding; each service authority owns its decisions and records;
 a technical operator maintains versioned exchange and authentication standards

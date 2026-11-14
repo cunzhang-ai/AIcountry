@@ -96,4 +96,4 @@ priority or certify that water reached people. Reopen on repeated forecast
 error, exclusion, unfunded burdens or an equally protective less costly path.
 
 [Worked comparison](../../../settlement/multi-season-water-reserves/01-two-dry-seasons-and-one-reservoir.md)
-· [Decision and migration](../../../2026-11-multi-season-water-reserves/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-multi-season-water-reserves/decision-record.md)

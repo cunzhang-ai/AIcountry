@@ -8,7 +8,7 @@ such as participation in judicial selection under applicable law and
 regulated career decisions, while removing the ability to make the
 senior appointments identified by the Commission. The restriction
 was specific to the acting council and did not dissolve the courts.
-[Original law, pp. 35948–35951](../../2026-11-appointment-independence-and-concurrent-vacancies/original-sources/boe-2021-4907.pdf)
+[Original law, pp. 35948–35951](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-appointment-independence-and-concurrent-vacancies/original-sources/boe-2021-4907.pdf)
 · [Commission country chapter, pp. 3–5](https://commission.europa.eu/document/download/2bd09a6f-ef56-494a-8303-e0de808ee981_en?filename=23_1_58063_coun_chap_spain_en_0.pdf)
 
 The Commission's July 2024 report records **27 Supreme Court
@@ -21,8 +21,8 @@ appointments to the council on each parliamentary chamber's proposal.
 These are two groups of council members, a different population from
 the 99 pending judicial posts.
 [Commission country chapter, p. 5](https://commission.europa.eu/document/download/2bd09a6f-ef56-494a-8303-e0de808ee981_en?filename=23_1_58063_coun_chap_spain_en_0.pdf)
-· [Congress proposal decree](../../2026-11-appointment-independence-and-concurrent-vacancies/original-sources/boe-congress-appointment-2024.html)
-· [Senate proposal decree](../../2026-11-appointment-independence-and-concurrent-vacancies/original-sources/boe-senate-appointment-2024.html)
+· [Congress proposal decree](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-appointment-independence-and-concurrent-vacancies/original-sources/boe-congress-appointment-2024.html)
+· [Senate proposal decree](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-appointment-independence-and-concurrent-vacancies/original-sources/boe-senate-appointment-2024.html)
 
 The record supports tracing downstream positions and ordinary service
 under an appointment interruption. It gives neither the number of cases

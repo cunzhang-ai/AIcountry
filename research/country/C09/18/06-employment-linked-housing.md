@@ -110,6 +110,6 @@ simpler arrangement with equal protection.
 [Secure tenancy](../12/01-home-tenure-and-repair.md) ·
 [Portable status](../../C02/06/05-admission-and-independent-status.md) ·
 [Worked comparison](../../../settlement/employment-linked-housing/01-job-loss-and-two-housing-paths.md) ·
-[Decision and evidence](../../../2026-11-employment-linked-housing/decision-record.md)
+[Decision and evidence](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-employment-linked-housing/decision-record.md)
 
 [Worked option before leaving](../../../settlement/independent-exit-and-continuing-protection/01-a-usable-option-before-leaving.md).

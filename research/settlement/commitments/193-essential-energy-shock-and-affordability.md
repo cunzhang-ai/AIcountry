@@ -4,7 +4,7 @@
 household bridge and existing essential duties in one elected choice.
 
 [Observed and authored checks](../../settlement/essential-energy-shock/README.md)
-· [Decision and migration](../../2026-11-essential-energy-shock-and-affordability/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-essential-energy-shock-and-affordability/decision-record.md)
 
 Carry earned claims and protected routes through expiry. Actual sources,
 receiving and improved lives remain open.

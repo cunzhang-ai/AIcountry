@@ -89,4 +89,4 @@ prospective migration. Reopen on recurring payments for preventable conflicts,
 unfunded fallback, harm to other users or less burdensome ordinary repair.
 
 [Two residents and one missing connection](../../../settlement/funded-cross-service-connections/01-two-residents-one-incompatible-morning.md)
-· [Decision and migration](../../../2026-11-funded-cross-service-connections/decision-record.md).
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-funded-cross-service-connections/decision-record.md).

@@ -58,7 +58,7 @@ places use published entry, cost and appeal rules; the state cannot promise
 every requested course or direct a person's career. C06 counts teachers,
 rooms, transport, interpreters, learning materials, placement partners and
 maintenance against health, care and other commitments. The [decision
-record](../../2026-10-life-course-services/decision-record.md) keeps local
+record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-life-course-services/decision-record.md) keeps local
 school power and the national floor as a testable choice, not a proven
 education outcome.
 

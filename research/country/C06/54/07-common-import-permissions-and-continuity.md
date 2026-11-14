@@ -85,4 +85,4 @@ late recoveries, changed licence terms, unmet second calls or a
 better independently qualified ordinary route.
 
 [Two-window comparison](../../../settlement/common-import-permissions/README.md)
-· [Decision and migration](../../../2026-11-common-import-permissions-and-continuity/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-common-import-permissions-and-continuity/decision-record.md)

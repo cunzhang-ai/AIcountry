@@ -100,4 +100,4 @@ exits or a simpler test with equivalent protection. The authority cannot
 change the gate, clear its own related transaction or self-fund from cases.
 
 [Worked comparison](../../../settlement/successive-acquisitions-and-market-choice/01-three-small-acquisitions-and-one-local-market.md)
-· [Decision and migration](../../../2026-11-successive-acquisitions-and-market-choice/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-successive-acquisitions-and-market-choice/decision-record.md)

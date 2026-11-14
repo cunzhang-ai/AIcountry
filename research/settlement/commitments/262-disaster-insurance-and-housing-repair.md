@@ -4,6 +4,6 @@
 separates owed insurance, proceeds custody, staged repair, temporary
 housing and the creditor's lawful claim. Count only usable cash.
 
-The [decision](../../2026-11-disaster-insurance-and-housing-repair/decision-record.md)
+The [decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-disaster-insurance-and-housing-repair/decision-record.md)
 retains simpler direct releases and separate voluntary movement.
 Actual sources, protected custody and usable receiving remain open.

@@ -5,7 +5,7 @@
 [AA01–AA40](../../country/C04/04-public-audit-and-accountable-oversight.md)
 answers A1's positive institutional question. Its eight canonical parts own the
 rules. [Dependencies](../commitments/34-public-audit-and-accountable-oversight.md)
-joins actual sources/people; [completion](../../status/completion/29-public-audit-and-current-operating-reference.md)
+joins actual sources/people; [completion](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/status/completion/29-public-audit-and-current-operating-reference.md)
 separates the candidate from actual adoption/qualified independence/outcomes.
 
 The issue is both suppression and abuse: a Cabinet-dependent head may bury public
@@ -42,7 +42,7 @@ clean sample is not a clean country. Future methods can change understanding,
 not multiply mandates, erase unfamiliar public/private ties or enact standards.
 Source dependence, framing and mediator replacement remain challengeable.
 
-All role/vote/term/report values are hypotheses, not optima. [Decision/sources](../../2026-11-public-audit-and-accountable-oversight/decision-record.md)
+All role/vote/term/report values are hypotheses, not optima. [Decision/sources](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-public-audit-and-accountable-oversight/decision-record.md)
 records limited primary comparison, dissent and authored boundary cases. No
 actual staff/affected consent, independent professional validation, current paid
 country source, executed remedy or superior lives is established. Next return

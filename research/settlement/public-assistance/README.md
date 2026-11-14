@@ -18,6 +18,6 @@ actual provider/outside source and continuity relationship.
 
 [Examples and real rivals](01-scope-capacity-and-rivals.md) compares stronger
 existing agency help, this bounded person-side service and a broader personal-
-agent utility. [Decision/evidence](../../2026-11-person-directed-public-assistance/decision-record.md)
+agent utility. [Decision/evidence](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-person-directed-public-assistance/decision-record.md)
 qualifies actual scope: no full national source, measured local benefit,
 qualified independence, legitimate adoption or better lives is established.

@@ -47,7 +47,7 @@ perishable goods, worker and carrier claims, evidence and lawful release
 through a tested alternate site or manual process. Existing trade contracts,
 licenses and appeal clocks need a successor before institutional transfer.
 
-The [decision record](../../2026-10-service-boundaries/decision-record.md)
+The [decision record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-service-boundaries/decision-record.md)
 compares distinct powers with coordinated clearance against a unified border
 command and dispersed queues. Actual treaties, geography, product hazards,
 imports and lawful rates remain unknown. Reopen if divided review becomes

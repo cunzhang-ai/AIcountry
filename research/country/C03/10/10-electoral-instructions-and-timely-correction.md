@@ -75,4 +75,4 @@ Reopen if the correction targets lawful opposition, misses people
 without access, shares the compromised controller or arrives late.
 
 [Matched correction comparison](../../../settlement/electoral-instruction-correction/README.md)
-· [Decision and migration](../../../2026-11-electoral-instructions-and-timely-correction/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-electoral-instructions-and-timely-correction/decision-record.md)

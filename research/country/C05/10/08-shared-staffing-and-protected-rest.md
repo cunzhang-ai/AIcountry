@@ -91,4 +91,4 @@ funded successors. Reopen on persistent double booking, unsafe fatigue,
 exclusion of multi-job workers or a simpler equally protective route.
 
 [Worked comparison](../../../settlement/shared-staffing-and-protected-rest/01-one-worker-two-service-rosters.md)
-· [Decision and migration](../../../2026-11-shared-staffing-and-protected-rest/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-shared-staffing-and-protected-rest/decision-record.md)

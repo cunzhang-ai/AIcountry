@@ -72,7 +72,7 @@ timing permits circumvention, urgent action repeatedly fails, or a
 better ordinary procurement route protects the same duties.
 
 [Observed late-term decisions and authored choice](../../../settlement/caretaker-commitments/README.md)
-· [Decision and migration](../../../2026-11-caretaker-commitments-and-public-choice/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-caretaker-commitments-and-public-choice/decision-record.md)
 
 [OL01–OL05](../../C14/02/05-opening-liabilities-and-protected-budget.md)
 carries newly disclosed or disputed opening exposure to the elected

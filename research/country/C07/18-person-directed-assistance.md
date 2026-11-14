@@ -41,7 +41,7 @@ Neither its invented prices nor an annual-hours pass qualifies a national roster
 or full source. A written right to direct care has not proved actual freedom.
 
 [Country design](../../COUNTRY-DESIGN.md) · [Status](../../DESIGN-STATUS.md) ·
-[Decision and source limits](../../2026-11-person-directed-assistance/decision-record.md)
+[Decision and source limits](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-person-directed-assistance/decision-record.md)
 
 [Adaptive home support](25-adaptive-home-support.md) adds flexible team
 delivery without changing AS routes, employer rights or the person's choice.

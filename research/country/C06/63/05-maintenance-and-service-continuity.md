@@ -74,7 +74,7 @@ visible and prior duties intact.
 [Budget balances and released capacity](../62/01-underspending-and-released-capacity.md)
 · [Territorial access](04-territorial-capital-and-basic-access.md)
 · [Evidence and options](../../../settlement/maintenance-continuity/README.md)
-· [Design249 decision](../../../2026-11-maintenance-and-service-continuity/decision-record.md)
+· [Design249 decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-maintenance-and-service-continuity/decision-record.md)
 
 [IV28–IV32](07-renewal-and-future-budget-capacity.md)
 carries the inspection, due service and work window across years.

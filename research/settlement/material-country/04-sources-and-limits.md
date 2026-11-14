@@ -23,7 +23,7 @@ The UN SNA landing page redirected to a one-line tool response. No newly read
 bridge's limited correction and retired support remain preserved. No source
 supports identifying a nominal GVA ratio with clinical or engineering capacity.
 
-[The dated source record](../../2026-10-material-country-and-public-backbone/sources.json)
+[The dated source record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-material-country-and-public-backbone/sources.json)
 separates successful and failed routes. These are two institutional source
 families, documentary guidance rather than independent original observations.
 Publisher bytes were not archived. Root/three agents share a controller; their

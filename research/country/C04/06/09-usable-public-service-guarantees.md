@@ -75,4 +75,4 @@ dates through any transfer. Reopen on repeated nonreceipt, a dominant
 supplier, payment delays, crowding out or a safer less burdensome route.
 
 [Joined first-budget test](../../../settlement/usable-public-service-guarantees/01-two-services-and-a-shared-access-failure.md)
-· [Decision and sources](../../../2026-11-usable-public-service-guarantees/decision-record.md)
+· [Decision and sources](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-usable-public-service-guarantees/decision-record.md)

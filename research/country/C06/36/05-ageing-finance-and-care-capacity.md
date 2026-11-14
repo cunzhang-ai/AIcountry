@@ -66,7 +66,7 @@ Reopen on material unmet need, retirement or workforce changes,
 a corrected source, or a better funded ordinary alternative.
 
 [Denmark projection and paired comparison](../../../settlement/ageing-finance/01-pensions-care-and-the-same-budget.md)
-· [Decision and migration](../../../2026-11-ageing-pensions-care-and-sources/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-ageing-pensions-care-and-sources/decision-record.md)
 
 [Y36–Y41](../../C07/04/09-safe-work-and-retirement-bridge.md)
 adds the proposed general-revenue retirement bridge to this joint account.

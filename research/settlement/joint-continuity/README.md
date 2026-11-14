@@ -9,7 +9,7 @@ and pay for its recurring operation.
 - [Observed interdependence](01-observed-interdependence.md)
 - [Four duties and two failures](02-four-duties-and-two-failures.md)
 - [Reproduce the authored comparison](verify-window.py) with Python 3
-- [Selection, open questions and migration](../../2026-11-joint-continuity-and-first-budget/decision-record.md)
+- [Selection, open questions and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-joint-continuity-and-first-budget/decision-record.md)
 
 The [first-budget and later-cohort comparison](../whole-budget-continuity/README.md)
 tests annual financial and care commitments. The

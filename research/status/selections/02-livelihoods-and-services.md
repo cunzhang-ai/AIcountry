@@ -55,7 +55,7 @@ personal income without a duplicate general allowance. Full/part-time and
 net-pension losers, residual/cost exemption, actual receipts and prior net/source
 rights need explicit prospective law and sources; no full launch is financed.
 
-[Design98 competition law](../../country/C05/11-competition-and-economic-power.md) now supplies MP/MA/MR exact cartel/exclusion/merger rules, limited chief/careers, court control and prospective narrow VD11. Economic scale/cooperation is not guilt; due services and paid receiving survive. [The country follow-up](../completion/09-competition-and-country-design-gaps.md) retains source/authority and remaining national gaps.
+[Design98 competition law](../../country/C05/11-competition-and-economic-power.md) now supplies MP/MA/MR exact cartel/exclusion/merger rules, limited chief/careers, court control and prospective narrow VD11. Economic scale/cooperation is not guilt; due services and paid receiving survive. [The country follow-up](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/status/completion/09-competition-and-country-design-gaps.md) retains source/authority and remaining national gaps.
 
 Design115 [living standards](../../settlement/income-floor/03-living-standard-and-context.md)
 selects component/private control, 20% ordinary cash-need inside N, lawful actual

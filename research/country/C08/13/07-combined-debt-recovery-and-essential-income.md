@@ -89,4 +89,4 @@ Reopen on recurring underprotection, abusive hiding of assets,
 unreachable child support, or a simpler equally protective route.
 
 [Matched collection case](../../../settlement/combined-debt-recovery-and-essential-income/01-one-pay-cycle-and-three-claims.md)
-· [Decision and migration](../../../2026-11-combined-debt-recovery-and-essential-income/decision-record.md).
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-combined-debt-recovery-and-essential-income/decision-record.md).

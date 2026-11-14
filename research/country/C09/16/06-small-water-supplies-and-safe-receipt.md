@@ -89,4 +89,4 @@ Reopen on excluded users, common lab or payer failure, repeated
 nonreceipt, unsafe repair or a better qualified local method.
 
 [Worked delivery and primary records](../../../settlement/small-water-supplies-and-safe-receipt/01-two-supplies-and-one-backup.md)
-· [Decision and migration](../../../2026-11-small-water-supplies-and-safe-receipt/decision-record.md).
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-small-water-supplies-and-safe-receipt/decision-record.md).

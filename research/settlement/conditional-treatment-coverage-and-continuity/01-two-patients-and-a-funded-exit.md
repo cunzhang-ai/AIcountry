@@ -51,5 +51,5 @@ or inconclusive result can end new starts. Any continued care for
 existing patients uses the original clinical law and actual safety.
 The example establishes no treatment recommendation or source.
 
-[Primary records](../../2026-11-conditional-treatment-coverage-and-continuity/sources.md)
-· [Executable comparison](verify-conditional-coverage.py).
+[Primary records](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-conditional-treatment-coverage-and-continuity/sources.md)
+· [Executable comparison](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/settlement/conditional-treatment-coverage-and-continuity/verify-conditional-coverage.py).

@@ -10,7 +10,7 @@ financial accounting and independent monitoring. The order's legal
 authority was South Africa's own. It illustrates the risk of a service
 that depends on a contractor after the tender has been found invalid.
 It supplies no general power to renew an invalid contract in AIcountry.
-[Constitutional Court, 2017 operative order](../../2026-11-essential-service-exit-and-recovery/original-sources/black-sash-2017.pdf)
+[Constitutional Court, 2017 operative order](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-essential-service-exit-and-recovery/original-sources/black-sash-2017.pdf)
 
 The Court's March 2018 order extended suspension a further six months
 for the cash-payment service. The August reasons record late
@@ -18,7 +18,7 @@ preparation, insufficient candour and a contingency plan the initial
 application had omitted. The limited extension sought to avoid
 serious harm to recipients. These are findings about authority,
 scope and preparation. The order does not verify timely receipt by
-each resident. [Constitutional Court, 2018 reasons and reproduced order](../../2026-11-essential-service-exit-and-recovery/original-sources/sassa-2018.pdf)
+each resident. [Constitutional Court, 2018 reasons and reproduced order](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-essential-service-exit-and-recovery/original-sources/sassa-2018.pdf)
 
 ## Published rand amounts with different legal meaning
 
@@ -47,7 +47,7 @@ reports that a referee appointment was recalled after disagreement
 about who would pay and other administration issues. It did not
 resolve all disputed group transfers. Separate valid service,
 financial records, assessed remedies, collection and actual
-independent oversight. [Constitutional Court, 2026 order and reasons](../../2026-11-essential-service-exit-and-recovery/original-sources/black-sash-2026.pdf)
+independent oversight. [Constitutional Court, 2026 order and reasons](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-essential-service-exit-and-recovery/original-sources/black-sash-2026.pdf)
 
 ## What the first budget can use
 

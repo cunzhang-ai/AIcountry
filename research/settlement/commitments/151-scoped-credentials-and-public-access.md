@@ -5,6 +5,6 @@ independent proof and recovery. Keep source facts, service decisions,
 legal dates, settled acts and paid alternate access distinct.
 
 [Evidence and case](../../settlement/scoped-credentials/README.md)
-· [Decision and transition](../../2026-11-scoped-credentials-and-public-access/decision-record.md)
+· [Decision and transition](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-scoped-credentials-and-public-access/decision-record.md)
 
 Actual public source, qualified operators and effective relief remain open.

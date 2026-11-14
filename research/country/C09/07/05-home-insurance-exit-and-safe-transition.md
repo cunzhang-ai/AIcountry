@@ -84,4 +84,4 @@ Reopen when uninsured harm grows, a support layer becomes recurrent,
 a transition moves risk elsewhere, or a better funded option qualifies.
 
 [Observed insurance markets and renewal comparison](../../../settlement/home-insurance-exit-and-safe-transition/01-renewal-deductible-and-two-claims.md)
-· [Decision and migration](../../../2026-11-home-insurance-exit-and-safe-transition/decision-record.md).
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-home-insurance-exit-and-safe-transition/decision-record.md).

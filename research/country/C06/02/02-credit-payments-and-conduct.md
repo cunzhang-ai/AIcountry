@@ -4,7 +4,7 @@
 
 ## Credit, payments and financial conduct
 
-The selected [credit-and-finance architecture](../../../2026-10-credit-and-finance/decision-record.md)
+The selected [credit-and-finance architecture](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-credit-and-finance/decision-record.md)
 links normal lending to that failure regime. Payments, savings, investment and
 credit carry different claims and risks; a resident must know whether a balance
 is an insured deposit, safeguarded client asset, investment at risk or debt.

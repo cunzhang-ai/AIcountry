@@ -5,7 +5,7 @@
 The country needs a credible way to finance and supply its guarantees. Join
 individual resources, businesses, public services, insurance and external trade
 instead of treating tax receipts, output and cash as interchangeable. The
-[dated six-sector bridge](../../2026-10-finance-and-delivery-bridge/README.md)
+[dated six-sector bridge](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-finance-and-delivery-bridge/README.md)
 now computes planned counterpart transactions and same-measure production tests.
 It replaces none of the actual unknowns with verified capacity.
 

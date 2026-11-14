@@ -64,7 +64,7 @@ baseline, uncovered due date, correlated failure or stronger
 funded alternative.
 
 [Joined worked budget](../../../settlement/joined-opening-budget-and-release/01-four-payers-two-windows.md)
-· [Decision and migration](../../../2026-11-joined-opening-budget-and-release/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-joined-opening-budget-and-release/decision-record.md)
 
 [T91–T94](20-second-year-financing-and-service.md) continues the four-payer
 case through the later first-year and second-year windows.

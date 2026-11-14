@@ -76,4 +76,4 @@ Reopen on concealed control, weak participation, a failed reserve
 or a simpler qualified route.
 
 [Matched tender and service comparison](../../../settlement/independent-bids-and-protected-supply/01-three-offers-and-two-delivery-paths.md)
-· [Decision and migration](../../../2026-11-independent-bids-and-protected-supply/decision-record.md).
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-independent-bids-and-protected-supply/decision-record.md).

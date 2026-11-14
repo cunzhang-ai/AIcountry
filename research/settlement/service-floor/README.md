@@ -12,11 +12,11 @@ provider, professional, local, evidence and independent-remedy chains.
 | [Service quantities and distinct skills](01-quantities-skills-and-joint-delivery.md) | People, groups, preparation, care and genuine joint activity |
 | [Peaks, candidate repairs and limits](02-peaks-repairs-and-limits.md) | Annual balance versus due periods, extra qualified supply and remaining country gaps |
 
-[Inputs](../../2026-10-service-entitlements-and-workload/inputs.json),
-[model](../../2026-10-service-entitlements-and-workload/model.py),
-[results](../../2026-10-service-entitlements-and-workload/results.json),
-[validation](../../2026-10-service-entitlements-and-workload/validation.json)
-and [decision](../../2026-10-service-entitlements-and-workload/decision-record.md)
+[Inputs](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-service-entitlements-and-workload/inputs.json),
+[model](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-service-entitlements-and-workload/model.py),
+[results](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-service-entitlements-and-workload/results.json),
+[validation](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-service-entitlements-and-workload/validation.json)
+and [decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-service-entitlements-and-workload/decision-record.md)
 pin assumptions and boundaries. Neither numerical consistency nor a service
 label proves safety, actual qualification, receipt or improved lives.
 

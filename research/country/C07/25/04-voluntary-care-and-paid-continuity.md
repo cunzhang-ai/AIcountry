@@ -72,7 +72,7 @@ cause coerced care, more missed visits or an avoidable shift from
 chosen family life to formal services.
 
 [Matched budget comparison](../../../settlement/voluntary-care/README.md)
-· [Decision and migration](../../../2026-11-voluntary-care-and-paid-continuity/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-voluntary-care-and-paid-continuity/decision-record.md)
 
 [YCR01–YCR07](../07/01-young-carers-and-funded-family-support.md)
 protects confidential child access and separate education and care.

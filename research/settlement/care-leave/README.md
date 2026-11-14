@@ -35,7 +35,7 @@ protects common fundamental needs/democracy/agency and actual due claims without
 requiring every unadopted rival to copy all candidate numbers. Different terms
 need actual human/source/transition comparison; unknown adequacy stays unknown.
 
-[Decision and adverse cases](../../2026-11-care-time-and-whole-country-alternatives/decision-record.md)
+[Decision and adverse cases](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-care-time-and-whole-country-alternatives/decision-record.md)
 select a complete written care-time promise, not a calibrated/funded country.
 Three original guidance pages from two institutional families are mechanism
 context, not causal proof. Actual affected/independent qualified review, source,

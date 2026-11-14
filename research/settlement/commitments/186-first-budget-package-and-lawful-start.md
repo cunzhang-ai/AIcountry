@@ -5,6 +5,6 @@ exact approvals and paid joint or independent starts. Check resources
 and accepted successors for each effective combination.
 
 [Observed and authored checks](../../settlement/first-country-package/README.md)
-· [Decision and migration](../../2026-11-first-budget-package-and-lawful-start/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-first-budget-package-and-lawful-start/decision-record.md)
 
 Actual adoption, accepted transition and outcomes remain open.

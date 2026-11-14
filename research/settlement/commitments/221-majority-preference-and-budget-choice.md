@@ -13,5 +13,5 @@ Prior votes, financial and programme obligations, standing payments,
 independent remedies and pending cases continue under applicable law.
 Fresh ordering never authorizes fiscal lapse spending on its own.
 No authority migrates from an actual government or to an AI by
-publication of this proposal. See the [decision record](../../2026-11-budget-majority-and-final-choice/decision-record.md)
+publication of this proposal. See the [decision record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-budget-majority-and-final-choice/decision-record.md)
 for evidence, objections and the paid readiness question.

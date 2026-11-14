@@ -40,7 +40,7 @@ country. Additional take-up must be separately received, not wished away by
 holding episodes fixed. CL income alone is no direct service-output shock;
 actual lost work and safe cover remain separate unresolved resource effects.
 
-[Decision, model and evidence](../../2026-11-public-financing-and-real-service-offer/decision-record.md)
+[Decision, model and evidence](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-public-financing-and-real-service-offer/decision-record.md)
 retain real rivals and source qualifications. No new governing procedure, tax,
 source power or legal timing follows; current promises and actual paid OP/T
 successors remain. Complete the whole-offer increment/source task next, not a

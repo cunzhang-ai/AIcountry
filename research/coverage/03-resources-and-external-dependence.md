@@ -31,7 +31,7 @@ remain unverified. No new duplicate function or operational certificate is added
 
 [CP](../country/C06/28-national-commitments-and-residual-scarcity.md) now
 corrects market-GVA support and specifies a narrow residual allocation within
-existing owners. [The audit](../status/completion/04-country-audit-findings.md)
+existing owners. [The audit](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/status/completion/04-country-audit-findings.md)
 locates remaining country choices without treating an expenditure map as a closed
 universe or fresh qualification of actual capacity, costs or delivery.
 

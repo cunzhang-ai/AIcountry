@@ -65,4 +65,4 @@ Reopen on silent scope growth, retaliation, repeated omissions,
 blocked source access or a less intrusive equally effective review.
 
 [Observed audit and cross-agency comparison](../../../settlement/discovering-public-ai-reliance/01-contracted-features-and-shared-fallback.md)
-· [Decision and migration](../../../2026-11-discovering-public-ai-reliance/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-discovering-public-ai-reliance/decision-record.md)

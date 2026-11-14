@@ -76,8 +76,8 @@ is identified, but land/title/levy/finance and actual source remain unresolved.
 If the credited rent fails, the corresponding modeled G cost reopens, not the
 person's tenure or due I05. The S reserve is after a due bill, not annual surplus.
 
-[Model/results](../../2026-11-matched-country-comparison/README.md) and
-[decision](../../2026-11-matched-country-comparison/decision-record.md) state
+[Model/results](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-matched-country-comparison/README.md) and
+[decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-matched-country-comparison/decision-record.md) state
 exact assumptions, raw reviews, correction and continuation. Next finish the
 independent producer/title/source case; retain, resize or reject the reference
 on that evidence. An additional local appendix cannot substitute for this gap.

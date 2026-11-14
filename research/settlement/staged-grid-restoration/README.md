@@ -9,8 +9,8 @@ what each piece can establish.
    distinct restoration paths and limits the inference to recorded endpoints.
 2. [Authored comparison](02-authored-restoration-comparison.md) distinguishes
    startup power, sustained supply, handoff endurance and receiving.
-3. [Reproduction](verify-restoration.py) checks the documented intervals
+3. [Reproduction](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/settlement/staged-grid-restoration/verify-restoration.py) checks the documented intervals
    and the authored assumptions and arithmetic.
 
-[Decision record](../../2026-11-staged-grid-restoration-and-essential-receipt/decision-record.md)
-· [Source scope](../../2026-11-staged-grid-restoration-and-essential-receipt/sources.md)
+[Decision record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-staged-grid-restoration-and-essential-receipt/decision-record.md)
+· [Source scope](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-staged-grid-restoration-and-essential-receipt/sources.md)

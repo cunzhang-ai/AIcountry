@@ -80,7 +80,7 @@ alternative or a changed service calendar.
 · [Paid learning and AI](../../C05/07/02-people-learning-and-ai.md)
 · [Joint release test](../65/03-release-and-bound-obligations.md)
 · [Source and first-budget choices](../../../settlement/staffing-formation/README.md)
-· [Design245 decision](../../../2026-11-staffing-formation-and-first-service-capacity/decision-record.md)
+· [Design245 decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-staffing-formation-and-first-service-capacity/decision-record.md)
 
 [DP33–DP37](../../C11/09/08-verified-gains-and-public-service-receipt.md)
 makes released time usable only with measured service, compatible paid

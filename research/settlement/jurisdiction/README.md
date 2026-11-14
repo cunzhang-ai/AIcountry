@@ -11,10 +11,10 @@ recognition, coercive authority, execution and actual received remedy.
 2. [Transfer, evidence and delivery](02-transfer-evidence-and-delivery.md).
 3. [Models, sources and unresolved scope](03-selection-sources-and-limits.md).
 
-[Decision](../../2026-10-jurisdiction-and-legal-cooperation/decision-record.md),
-[reference quantities](../../2026-10-jurisdiction-and-legal-cooperation/reference-cases.json),
-[limited checks](../../2026-10-jurisdiction-and-legal-cooperation/validation.json)
-and [350-artifact predecessor](../../2026-10-jurisdiction-and-legal-cooperation/predecessor-design-71/SNAPSHOT.md)
+[Decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-jurisdiction-and-legal-cooperation/decision-record.md),
+[reference quantities](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-jurisdiction-and-legal-cooperation/reference-cases.json),
+[limited checks](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-jurisdiction-and-legal-cooperation/validation.json)
+and [350-artifact predecessor](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-jurisdiction-and-legal-cooperation/predecessor-design-71/SNAPSHOT.md)
 preserve scope and dissent. Twenty-four cases are reasoned hypotheticals;
 money/time/staff examples do not decide legal recognition, risk, guilt,
 foreign consent or the real availability of protection. Same AI author/

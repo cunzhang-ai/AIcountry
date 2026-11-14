@@ -99,4 +99,4 @@ nonreceipt, common employer loss, unpaid work, disputed credit or
 a better qualified arrangement.
 
 [Worked comparison](../../../settlement/portable-apprenticeships-and-paid-continuity/01-two-apprentices-and-one-mentor.md)
-· [Decision and evidence](../../../2026-11-portable-apprenticeships-and-paid-continuity/decision-record.md).
+· [Decision and evidence](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-portable-apprenticeships-and-paid-continuity/decision-record.md).

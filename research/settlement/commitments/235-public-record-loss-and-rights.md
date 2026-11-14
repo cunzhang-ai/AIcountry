@@ -7,6 +7,6 @@ need, review and execution separately. Preserve prior claims, evidence
 scope and the lawful handover. Keep the interim period, final entitlement
 and recovery distinct.
 
-The [decision](../../2026-11-public-record-loss-and-rights/decision-record.md)
+The [decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-public-record-loss-and-rights/decision-record.md)
 retains ordinary reconstruction and full claimed payment as alternatives.
 Actual paid receiving and independent review remain unverified.

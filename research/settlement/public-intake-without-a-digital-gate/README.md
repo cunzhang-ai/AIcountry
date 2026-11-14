@@ -9,7 +9,7 @@ before optional use of a voice or text assistant.
 - [Authored public service comparison](02-authored-service-receipt.md)
   tests competing intake choices, including a better headline with more
   missed urgent cases.
-- [Decision and migration](../../2026-11-public-intake-without-a-digital-gate/decision-record.md)
+- [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-public-intake-without-a-digital-gate/decision-record.md)
   records what can start and what still needs a separate decision.
 
 Run `python3 research/settlement/public-intake-without-a-digital-gate/verify-intake.py`

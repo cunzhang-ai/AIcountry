@@ -60,7 +60,7 @@ Reopen when received service, accepted staff, household burden,
 source availability or a stronger rival changes the comparison.
 
 [Reference and comparative budget](../../../settlement/national-reform-and-qualified-capacity/01-reference-and-choices.md)
-· [Decision and sources](../../../2026-11-national-reform-and-qualified-capacity/decision-record.md)
+· [Decision and sources](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-national-reform-and-qualified-capacity/decision-record.md)
 
 [T105–T108](23-patient-access-and-paid-roster.md) applies this choice to published patient
 transport and paid-roster terms. Actual role and source acceptance remain open.

@@ -24,7 +24,7 @@ pre-existing CF money. Local ballot qualification/count/representation and C14
 petition/approval authority do not arise from a finance registration. Equal
 baseline access is distinct from private credit popularity and actual reach.
 
-The [decision and authored probes](../../2026-11-continuous-political-finance/README.md)
+The [decision and authored probes](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-continuous-political-finance/README.md)
 compare whole rivals and control/cost failures. The [dependency account](../../settlement/commitments/23-continuous-political-finance.md)
 names new annual, local, referendum, source-record and execution duties. Original37
 functions/61 selections and actual nulls remain; no old bid pays every new duty.

@@ -21,7 +21,7 @@ also applies to a clinician, mobile responder or police officer acting on
 mental distress: a treatment label cannot reset a custody clock or conceal
 force, injury or a death from outside review.
 
-The [public-power abuse decision](../../2026-10-public-power-abuse/decision-record.md)
+The [public-power abuse decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-public-power-abuse/decision-record.md)
 makes that requirement an operating chain. A person can report to an accessible
 service, a court, an ombud or a prosecutor without first obtaining the implicated
 commander's permission. A death or serious injury in custody or after official

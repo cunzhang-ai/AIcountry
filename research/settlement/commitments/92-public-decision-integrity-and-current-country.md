@@ -27,6 +27,6 @@ Actual constitutional/software/contribution permissions stay unchanged.
 and all old source-hash values are preserved; the function census stays open.
 Current choice/rival/objection/owner summaries replace chronological status;
 46 narratives/five complete old bodies retain exact reversible link migration.
-Navigation creates no law or fresh approval. [Record](../../2026-11-public-decision-integrity-and-current-country/decision-record.md)
+Navigation creates no law or fresh approval. [Record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-public-decision-integrity-and-current-country/decision-record.md)
 retains structural rivals, source/participation limits and the whole-country next
 question. No actual independent review, full price, funding or better lives shown.

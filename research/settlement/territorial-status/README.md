@@ -14,7 +14,7 @@ calendar joins and continuing obligations. It adds no permanent office, first
 permission ballot, forced mediator or self-executing sovereignty. National veto
 and exclusion/administrative burden objections remain material.
 
-The [decision](../../2026-11-territorial-status-and-constitutional-coherence/decision-record.md)
+The [decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-territorial-status-and-constitutional-coherence/decision-record.md)
 compares no-change, ordinary repair, discretionary talks and unilateral-area
 alternatives. Original comparator sources are limited legal examples, not an
 empirical finding that this procedure outperforms others. Model checks use

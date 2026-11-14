@@ -91,7 +91,7 @@ accepted contracts. Reopen on persistent bridging, strategic undercollection,
 missed people, stranded fixed capacity or a stronger shared-service path.
 
 [Annual and dated comparison](../../../settlement/local-funding-and-population-change/README.md)
-· [Decision and migration](../../../2026-11-local-funding-and-population-change/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-local-funding-and-population-change/decision-record.md)
 
 [AT23–AT27](../../C05/18/06-place-and-worker-transition.md)
 joins the common floor, host capacity and household rights when a

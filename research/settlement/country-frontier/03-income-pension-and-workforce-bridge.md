@@ -45,7 +45,7 @@ explicit. Next build representative matched needs/housing/service workforce
 bundles and coherent source histories with conservative ranges; do not keep
 adding aggregate tables or demand exhaustive private-life records.
 
-[Dated sources and limitations](../../2026-11-income-pension-and-service-capacity/sources.md)
-and [decision](../../2026-11-income-pension-and-service-capacity/decision-record.md)
+[Dated sources and limitations](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-income-pension-and-service-capacity/sources.md)
+and [decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-income-pension-and-service-capacity/decision-record.md)
 preserve source vintages, missing original participation and compatibility.
 All actual candidate costs/sources/authority/readiness/outcomes remain unknown.

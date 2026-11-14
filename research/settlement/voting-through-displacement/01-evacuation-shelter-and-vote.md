@@ -49,6 +49,6 @@ ascertainability limb. The bounds assign no actual preference to anyone.
 The same access record would expose a refusal to open the qualified
 host route under pressure from the incumbent.
 
-The [decision record](../../2026-11-voting-through-displacement/decision-record.md)
+The [decision record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-voting-through-displacement/decision-record.md)
 contains the alternatives, reliance and remaining field check. The
 accompanying verifier tests authored timing and source distinctions.

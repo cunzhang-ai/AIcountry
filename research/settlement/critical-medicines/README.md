@@ -6,5 +6,5 @@
   distinguishes dependence, temporary supply, substitution and actual use.
 - [Two regions, two medicines and two deadlines](02-two-regions-and-two-deadlines.md)
   tests local receipt, substitute headroom and next-window replenishment.
-- [Choice and transition](../../2026-11-critical-medicines-and-safe-continuity/decision-record.md)
+- [Choice and transition](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-critical-medicines-and-safe-continuity/decision-record.md)
   records the institution, rivals and conditions for reconsidering it.

@@ -31,7 +31,7 @@ mechanism can differ. They supply no observed same-service result.
 AIcountry's retained paid-break and rest rules have their own scope.
 [French public service working-time guide](https://www.fonction-publique.gouv.fr/etre-agent-public/mon-quotidien-au-travail/temps-de-travail-et-conges/la-duree-du-travail-dans-la-fonction-publique)
 
-The existing [matched study record](../../2026-11-paid-time-and-joint-source/sources.md)
+The existing [matched study record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-paid-time-and-joint-source/sources.md)
 already qualifies evidence of recovery and wellbeing from reduced
 hours. The legal examples add allocation and timing mechanisms.
 They do not provide additional observations from the same worker

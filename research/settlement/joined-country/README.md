@@ -9,13 +9,13 @@ It is the current country entry for this comparison, not a new legal code.
 
 | Follow the evidence | Scope |
 |---|---|
-| [Inputs](../../2026-11-joined-country-operating-book/inputs.json) | Authored mature2030 cross-section, pay/calendar/entry/stress/ownership assumptions |
-| [Model](../../2026-11-joined-country-operating-book/country_model.py) | Calls separate public-component and democratic-capacity calculations |
-| [Results](../../2026-11-joined-country-operating-book/results.json) | Both37-function/component cases, household/housing learning, source and claim sensitivities |
-| [Module map](../../2026-11-joined-country-operating-book/commitment-module-map.json) | All37 predecessor commitment modules, priced pieces and unknown scope |
-| [Decision](../../2026-11-joined-country-operating-book/decision-record.md) | Alternatives, objections, corrections, source/control limits and continuation |
-| [Sources](../../2026-11-joined-country-operating-book/sources.json) | Local dependency scope and bounded primary external inspection |
-| [Checks](../../2026-11-joined-country-operating-book/validation.json) | Exact preservation and scenario arithmetic; no national readiness approval |
+| [Inputs](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-joined-country-operating-book/inputs.json) | Authored mature2030 cross-section, pay/calendar/entry/stress/ownership assumptions |
+| [Model](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-joined-country-operating-book/country_model.py) | Calls separate public-component and democratic-capacity calculations |
+| [Results](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-joined-country-operating-book/results.json) | Both37-function/component cases, household/housing learning, source and claim sensitivities |
+| [Module map](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-joined-country-operating-book/commitment-module-map.json) | All37 predecessor commitment modules, priced pieces and unknown scope |
+| [Decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-joined-country-operating-book/decision-record.md) | Alternatives, objections, corrections, source/control limits and continuation |
+| [Sources](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-joined-country-operating-book/sources.json) | Local dependency scope and bounded primary external inspection |
+| [Checks](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-joined-country-operating-book/validation.json) | Exact preservation and scenario arithmetic; no national readiness approval |
 
 Named allocations are778.436222m plural or763.023796m direct public domestic.
 They include different public-owned renewal reservations and exclude unresolved

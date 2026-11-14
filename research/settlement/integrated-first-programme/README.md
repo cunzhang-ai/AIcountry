@@ -11,7 +11,7 @@ apply to each alternative.
   states the first-programme disposition across all fourteen chapters.
 - [Canonical programme selection](../../country/C14/06/05-integrated-first-government-programme.md)
   explains the order and continuing rights.
-- [Historical evidence and decision](../../2026-11-integrated-first-government-programme/decision-record.md)
+- [Historical evidence and decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-integrated-first-government-programme/decision-record.md)
   distinguishes historical evidence, designed choices and open qualifications.
 
 Run `python3 research/settlement/integrated-first-programme/verify-programme.py`

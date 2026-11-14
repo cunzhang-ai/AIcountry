@@ -36,4 +36,4 @@ ordinary Assembly vote without a finding of incapacity.
 This case tests authority, deadlines and receipt separately. It
 does not price an actual Cabinet, judge, records custodian or service.
 
-[Decision and sources](../../2026-11-executive-incapacity-and-bounded-succession/decision-record.md).
+[Decision and sources](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-executive-incapacity-and-bounded-succession/decision-record.md).

@@ -97,4 +97,4 @@ shared protected functions and lawful authority. The guidance establishes
 an evaluation practice. It supplies no evidence that this country has adopted
 or operated its model. [HM Treasury, Test and Learn](https://www.gov.uk/government/publications/the-magenta-book/test-and-learn-html)
 
-[First-round decisions](01-decisions-and-conditions.md) · [Government change](04-government-change-and-the-next-budget.md) · [Decision record](../../2026-11-first-mandate-validation/decision-record.md).
+[First-round decisions](01-decisions-and-conditions.md) · [Government change](04-government-change-and-the-next-budget.md) · [Decision record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-first-mandate-validation/decision-record.md).

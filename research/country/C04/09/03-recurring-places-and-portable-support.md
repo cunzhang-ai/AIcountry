@@ -79,7 +79,7 @@ unserved routes, unfair residence proxies, privacy harm or a
 simpler comparably safe arrangement.
 
 [Worked household schedule](../../../settlement/cross-local-continuity/03-recurring-places-and-portable-support.md)
-· [Decision and migration](../../../2026-11-portable-services-across-recurring-places/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-portable-services-across-recurring-places/decision-record.md)
 
 [Fixed and usage funding comparison](../../../settlement/portable-services-and-host-capacity/01-pay-for-receiving-before-visits.md).
 

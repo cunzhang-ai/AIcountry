@@ -33,4 +33,4 @@ not count unique incidents or crews, unmet need that was never
 requested, harm or the causal effect of priority rules. The two years
 are one reporting family. They show why a national account should
 expose unfilled demand and use a separate receiving check.
-[Evidence scope and archived originals](../../2026-11-domestic-mutual-aid-and-concurrent-need/sources.md)
+[Evidence scope and archived originals](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-domestic-mutual-aid-and-concurrent-need/sources.md)

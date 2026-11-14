@@ -2,7 +2,7 @@
 
 AIcountry is a research project designing a future constitutional parliamentary democracy. It proposes enforceable rights, reliable essential services, meaningful local self-government, and a plural economy. AI helps analyze evidence, draft proposals, and check assumptions under accountable public authority.
 
-[Read the design](https://cunzhang-ai.github.io/AIcountry/) · [National settlement](research/NATIONAL-SETTLEMENT.md) · [Fourteen chapters](research/country/README.md) · [Edition 1](research/2026-11-first-edition/README.md)
+[Read the design](https://cunzhang-ai.github.io/AIcountry/) · [National settlement](research/NATIONAL-SETTLEMENT.md) · [Fourteen chapters](research/country/README.md) · [Edition 1](research/edition/README.md)
 
 **Edition 1 (Design548)** proposes three opening decisions: establish lawful democratic authority, fund continuing obligations, and repair documented failures. People and communities keep discretion over ordinary choices. National intervention needs a specific public purpose and legal authority.
 
@@ -12,7 +12,7 @@ Z initiated the project and developed the research with AI in Codex, including G
 
 ## Limits
 
-The design is a research proposal. It has yet to be adopted or tested as a whole. Simulations and comparisons with existing institutions expose weaknesses. Affordability, local delivery, democratic safeguards in operation, and improvements in people's lives still need independent evidence. The [Edition 2 docket](research/2026-11-first-edition/NEXT-EDITION.md) records the unresolved questions.
+The design is a research proposal. It has yet to be adopted or tested as a whole. Simulations and comparisons with existing institutions expose weaknesses. Affordability, local delivery, democratic safeguards in operation, and improvements in people's lives still need independent evidence. The [Edition 2 docket](research/edition/NEXT-EDITION.md) records the unresolved questions.
 
 ## Contribute
 

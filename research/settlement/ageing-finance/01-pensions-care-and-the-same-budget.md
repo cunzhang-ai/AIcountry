@@ -73,5 +73,5 @@ source. The numbers establish which plans fail in this example.
 No actual tax base, revenue, appropriation, pension payment or
 care capacity is inferred.
 
-[Source values](../../2026-11-ageing-pensions-care-and-sources/observations.json)
-· [Reproduction](verify-ageing-finance.py)
+[Source values](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-ageing-pensions-care-and-sources/observations.json)
+· [Reproduction](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/settlement/ageing-finance/verify-ageing-finance.py)

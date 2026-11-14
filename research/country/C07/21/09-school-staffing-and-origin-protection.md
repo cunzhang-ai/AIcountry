@@ -76,4 +76,4 @@ schools at lower cost and burden.
 [Education sources and inspection](04-inspection-source-and-transition.md) ·
 [National workforce formation](../../C06/58/20-staffing-formation-and-first-service-capacity.md) ·
 [Two-school comparison](../../../settlement/school-staffing-and-origin-protection/01-two-schools-and-a-shared-teacher.md) ·
-[Decision record](../../../2026-11-school-staffing-and-origin-protection/decision-record.md)
+[Decision record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-school-staffing-and-origin-protection/decision-record.md)

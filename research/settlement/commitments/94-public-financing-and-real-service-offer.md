@@ -22,6 +22,6 @@ Actual OP/T paid accepted assets/staff/pension/contracts/creditor/records/cases/
 claims successors, constitutional/software/contribution permissions/holds persist.
 
 Preserve1407 exact180 artifacts/37 functions/61 selections/120 complete inherited
-references/all old source-hash values;37 remains open. [Decision](../../2026-11-public-financing-and-real-service-offer/decision-record.md)
+references/all old source-hash values;37 remains open. [Decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-public-financing-and-real-service-offer/decision-record.md)
 retains rivals and source/privacy/ownership limits. No independent affected
 approval, full national price/source, paid readiness or better lives is proved.

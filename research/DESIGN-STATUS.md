@@ -9,10 +9,10 @@ Its intended gain is practical independence: people can sustain ordinary life,
 leave dependence, oppose government and receive correction. Neither prosperity
 nor an AI's performance substitutes for equal political standing.
 
-The [current national settlement](NATIONAL-SETTLEMENT.md) states the selected architecture and what could displace it. The [first-round settlement](FIRST-ROUND-SETTLEMENT.md) records the integrated selection and acceptance conditions. [Design520 first-round freeze](2026-11-first-round-stable/README.md) preserves the reviewed package. [Design521 worker participation](country/C05/18/08-worker-participation-in-realized-surplus.md) selects a prospective sector trial after the freeze. [The comparison](settlement/worker-participation-floor/01-a-share-that-survives-employer-change.md) separates the calculated claim, actual payment and net household gain. The [integrated overview](COUNTRY-DESIGN.md) and [fourteen canonical chapters](country/README.md)
+The [current national settlement](NATIONAL-SETTLEMENT.md) states the selected architecture and what could displace it. The [first-round settlement](FIRST-ROUND-SETTLEMENT.md) records the integrated selection and acceptance conditions. [Design520 first-round freeze](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-first-round-stable/README.md) preserves the reviewed package. [Design521 worker participation](country/C05/18/08-worker-participation-in-realized-surplus.md) selects a prospective sector trial after the freeze. [The comparison](settlement/worker-participation-floor/01-a-share-that-survives-employer-change.md) separates the calculated claim, actual payment and net household gain. The [integrated overview](COUNTRY-DESIGN.md) and [fourteen canonical chapters](country/README.md)
 contain the country. The [matched first-term comparison](settlement/first-round-mandate/06-three-countries-on-the-same-week.md) shows when ordinary repair or direct-public provision wins under different costs. [All five arrangements](settlement/first-round-mandate/07-cash-and-mutual-rivals-on-the-same-week.md) include the separate cost of a universal cash floor and the independent mutual route. This register states active decisions and unresolved choices,
-not a sequence of research reports. [Complete earlier working summaries](history/06-current-research/README.md)
-retain reasons, objections and superseded queues; [design history](DESIGN-HISTORY.md)
+not a sequence of research reports. [Complete earlier working summaries](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/history/06-current-research/README.md)
+retain reasons, objections and superseded queues; [design history](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/DESIGN-HISTORY.md)
 records consequential revisions. The [authority across the fourteen chapters](country/AUTHORITY.md) explains the scope for national, local and personal decisions. The [enterprise governance choice](country/C05/13-enterprise-and-association-constitutions.md) selects lawful private ordering for ordinary board composition and preserves the previous fixed formula as an alternative. A later date or successful file check adopts no law.
 
 ## Current choices by public purpose
@@ -62,11 +62,11 @@ rights or value choices. A justified better whole rival may displace the prefere
 No comprehensive absent branch was established by the179 scoped entrance review.
 PI addresses a specific positive gap: ordinary non-electoral influence and
 particular elected-office interests, with a proposed constitutional constraint
-and narrow public-interest claim. [PI record](2026-11-public-decision-integrity-and-current-country/decision-record.md)
+and narrow public-interest claim. [PI record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-public-decision-integrity-and-current-country/decision-record.md)
 preserves objections, mandate/standing/privacy/source boundaries and actual limits. [Parallel local trials](country/C14/03/01-parallel-local-trials-and-shared-obligations.md) keeps separate proposals, exact authority and shared exposure visible before any commitment.
 This is not all-clause legal certification or proof that every function is finished.
 
-[CL care-time decision](2026-11-care-time-and-whole-country-alternatives/decision-record.md)
+[CL care-time decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-care-time-and-whole-country-alternatives/decision-record.md)
 now fills the deferred child/chosen-person leave promise: actual duration,
 reserved/shared time, portable replacement, source and protected return. It
 retains actual services/medical/earned rights and both TW stages. Its cost,
@@ -97,7 +97,7 @@ fee or national price follows. The foreign minimum-wage example is historical.
 
 ## Edition 1 disposition
 
-The [frozen Edition 1](2026-11-first-edition/README.md) fixes the national selection and the three opening instruments. The [next edition docket](2026-11-first-edition/NEXT-EDITION.md) carries the remaining questions. The [ordinary works calibration](settlement/first-public-ai-programme/02-an-ordinary-check-on-public-works.md) verifies a fixed baseline on open examples for any later optional AI comparison.
+The [frozen Edition 1](edition/README.md) fixes the national selection and the three opening instruments. The [next edition docket](edition/NEXT-EDITION.md) carries the remaining questions. The [ordinary works calibration](settlement/first-public-ai-programme/02-an-ordinary-check-on-public-works.md) verifies a fixed baseline on open examples for any later optional AI comparison.
 
 ## Current cross-country refinements
 

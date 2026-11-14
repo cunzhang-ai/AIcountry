@@ -52,4 +52,4 @@ priorities, private careers or political authority. Research method, contributio
 permissions, software and constitutional holds remain unchanged.
 
 [Country design](../../COUNTRY-DESIGN.md) · [Status](../../DESIGN-STATUS.md) ·
-[Decision, evidence and dissent](../../2026-11-recurring-finance-and-pension-commitments/decision-record.md)
+[Decision, evidence and dissent](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-recurring-finance-and-pension-commitments/decision-record.md)

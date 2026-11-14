@@ -7,6 +7,6 @@ independent sources and timely alternate execution. Keep the
 ordinary urgent liberty roster protected through the change.
 
 [Evidence and timed case](../../settlement/neutral-enforcement/README.md)
-· [Decision and transition](../../2026-11-open-contests-and-neutral-enforcement/decision-record.md)
+· [Decision and transition](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-open-contests-and-neutral-enforcement/decision-record.md)
 
 Actual staffed independence and restored opportunities remain open.

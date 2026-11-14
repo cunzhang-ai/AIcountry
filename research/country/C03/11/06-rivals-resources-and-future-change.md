@@ -34,7 +34,7 @@ property and separately owned FX retain their own obligations. No expected fine,
 AI productivity, free testimony or private exporter currency funds new work.
 
 The [dependency note](../../../settlement/commitments/19-delegated-rules-and-public-control.md)
-and [dated fixtures](../../../2026-11-delegated-rules-and-public-control/results.json)
+and [dated fixtures](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-delegated-rules-and-public-control/results.json)
 expose elected-hour, cash, owned-FX and qualified legal-shift shortfalls. They
 are invented quantities, not national cost forecasts. An annual surplus cannot
 supply the same interpreter or member in simultaneous hearings. If safe exact

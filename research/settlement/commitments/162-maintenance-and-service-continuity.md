@@ -6,6 +6,6 @@ service. Fund maintenance and continuity through commissioning, repair
 or transfer, and keep source and protection dates across succession.
 
 [Observed and authored comparisons](../maintenance-continuity/README.md)
-· [Decision and transition](../../2026-11-maintenance-and-service-continuity/decision-record.md)
+· [Decision and transition](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-maintenance-and-service-continuity/decision-record.md)
 
 Actual lawful funding, inspection, safe alternate and outcomes remain open.

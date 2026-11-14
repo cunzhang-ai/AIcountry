@@ -12,7 +12,7 @@ Region also uses a publicly dispatched capacity model. Its separate
 administration reported DKK 17.4 million in one-time setup for a
 short bridge. These describe different contracts and cannot price
 the North Denmark package or be added to the hourly illustration.
-[Source record](../../2026-11-patient-access-and-paid-roster/sources.md).
+[Source record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-patient-access-and-paid-roster/sources.md).
 
 Under the ATAX–3F reference, 37 hours at the October 2025 daytime
 base of DKK 170.27 yields DKK 6,299.99 per week. Retaining that
@@ -74,4 +74,4 @@ service claims and record any missed receiving. Advance repair
 and price a standby route and roster change separately. The
 available public evidence does not qualify a joint start.
 
-[Calculation](verify-access-and-roster.py) · [Decision](../../2026-11-patient-access-and-paid-roster/decision-record.md).
+[Calculation](verify-access-and-roster.py) · [Decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-patient-access-and-paid-roster/decision-record.md).

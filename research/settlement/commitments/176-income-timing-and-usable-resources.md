@@ -6,6 +6,6 @@ original date, prior-law claim and scoped correction. Book ordinary
 award changes and the protected hardship route separately.
 
 [Observed and authored checks](../../settlement/income-timing-and-usable-resources/README.md)
-· [Decision and migration](../../2026-11-income-timing-and-usable-resources/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-income-timing-and-usable-resources/decision-record.md)
 
 Actual authority, cash, staffing and household outcomes remain open.

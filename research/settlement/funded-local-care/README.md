@@ -46,7 +46,7 @@ The estimates and reserve are different fiscal objects and are not added.
 The 2026 city receipt is neither a recurring local entitlement nor a share
 that can be projected unchanged into later years. L35's fee amendments
 were referred to committee after first reading on 20 October 2026.
-[Reserve account and source scope](../../2026-11-funded-local-early-care/sources.md)
+[Reserve account and source scope](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-funded-local-early-care/sources.md)
 · [Recalculation](https://uvm.dk/aktuelt/nyheder/2025/december/251218-lovforslag-om-aendring-af-dagtilbudsloven-er-sendt-i-offentlig-hoering/)
 · [Bill timetable](https://www.ft.dk/samling/20261/lovforslag/l35/tidsplan.htm)
 

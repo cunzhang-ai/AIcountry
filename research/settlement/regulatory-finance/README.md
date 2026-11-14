@@ -13,8 +13,8 @@ incompatibility, without treating more regulation as evidence of better lives.
 | [Financing arithmetic and competing choices](02-financing-and-alternatives.md) | Reproduces old bank asset/equity facts and the new chosen ceiling; no invented investor |
 | [Primary sources and limits](03-sources-and-limits.md) | Dated inspected official references; no automatic incorporation or conformity claim |
 
-The [dated decision](../../2026-10-regulatory-and-financial-law/decision-record.md)
-and [379-artifact predecessor](../../2026-10-regulatory-and-financial-law/predecessor-design-73/SNAPSHOT.md)
+The [dated decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-regulatory-and-financial-law/decision-record.md)
+and [379-artifact predecessor](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-regulatory-and-financial-law/predecessor-design-73/SNAPSHOT.md)
 retain scope and objections. New equity/liquidity/coverage/price parameters
 are hypotheses. Old fiscal and model checks keep their original scope and
 cannot qualify this changed bank/insurance/source package.

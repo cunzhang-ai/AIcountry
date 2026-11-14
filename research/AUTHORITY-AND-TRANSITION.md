@@ -12,9 +12,9 @@ The earlier manuscript is a research
 edition with AI-exclusive drafting permissions, not an operating constitution for
 a known territory. These clauses are replacement candidates, not a change to that
 edition, the software's permissions or any real person's legal rights.
-The later [legal-hierarchy decision](2026-10-legal-hierarchy/decision-record.md)
+The later [legal-hierarchy decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-legal-hierarchy/decision-record.md)
 maps the integrated country's subsequent choices to distinct legal ranks.
-It preserves the [pre-hierarchy wording](2026-10-legal-hierarchy/AUTHORITY-AND-TRANSITION-pre-hierarchy.md)
+It preserves the [pre-hierarchy wording](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-legal-hierarchy/AUTHORITY-AND-TRANSITION-pre-hierarchy.md)
 and does not claim that a proposed procedure can adopt itself.
 
 ## Contents

@@ -16,4 +16,4 @@ preference, proportional seat count and independent candidacy remain.
 | [NM09–NM12. Freeze, funds and commencement](23/03-freeze-funding-and-migration.md) | Recognize completed results, preserve valid separate choices and pay for independent operation and transition. |
 
 [Comparators and timed nomination case](../../settlement/list-nominations/README.md)
-· [Decision and migration](../../2026-11-contestable-list-nominations/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-contestable-list-nominations/decision-record.md)

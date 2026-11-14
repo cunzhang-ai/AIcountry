@@ -77,4 +77,4 @@ receipt. Reopen on politically selective timing, repeated correlated
 exhaustion, supplier dependence or a simpler equivalent funded route.
 
 [Historical transfers and two-window comparison](../../../settlement/local-fiscal-shocks-and-service-reserves/01-two-localities-and-one-national-reserve.md)
-· [Decision and migration](../../../2026-11-local-fiscal-shocks-and-service-reserves/decision-record.md).
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-local-fiscal-shocks-and-service-reserves/decision-record.md).

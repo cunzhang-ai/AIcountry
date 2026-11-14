@@ -1,6 +1,6 @@
 # One interface and two real receiving routes
 
-*Design388 · Constructed comparison with [primary records](../../2026-11-public-standards-and-replaceable-implementation/sources.md).*
+*Design388 · Constructed comparison with [primary records](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-public-standards-and-replaceable-implementation/sources.md).*
 
 Two authorities exchange an essential payment case. The original
 claim was received on day 1. A prior installment was paid on day 2.

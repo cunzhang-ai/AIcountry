@@ -68,7 +68,7 @@ an earlier demand, lost independent route, new unpayable claim,
 repeat call or stronger matched alternative.
 
 [Observed calendar and authored common budget](../../../settlement/first-budget-matched-window/README.md)
-· [Decision and transition record](../../../2026-11-first-budget-matched-protected-window/decision-record.md)
+· [Decision and transition record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-first-budget-matched-protected-window/decision-record.md)
 
 [SR13–SR17](../../C08/30/04-independent-remedy-execution-and-second-call.md)
 tests the additional order with a separately authorized execution source.

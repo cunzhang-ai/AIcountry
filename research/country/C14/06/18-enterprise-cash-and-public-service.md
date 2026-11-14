@@ -57,4 +57,4 @@ Reopen on an unpriced guarantee, missing route capacity, a
 material source revision or a better funded continuity option.
 
 [Observed rail accounts and worked stress](../../../settlement/enterprise-cash-and-public-service/01-dsb-and-a-protected-rail-window.md)
-· [Decision and migration](../../../2026-11-enterprise-cash-and-public-service/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-enterprise-cash-and-public-service/decision-record.md)

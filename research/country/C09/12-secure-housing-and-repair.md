@@ -39,7 +39,7 @@ A paid500-home conversion changes ownership, not total supply; its grant and
 debt variants expose funding burdens rather than promise cheaper rent. No actual
 homes, acquisition quote, qualified crews, source or household consent is known.
 
-[Decision and dissent](../../2026-11-secure-housing-and-repair/decision-record.md)
+[Decision and dissent](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-secure-housing-and-repair/decision-record.md)
 preserve the predecessor and source limits. I03, civil title/security, disaster
 recovery, TW paid time and elected C06 funding continue. A later investment
 window's expiry cannot terminate leases, repairs or debt. Next complete the

@@ -36,10 +36,10 @@ punishes only its precisely listed intentional implemented cartel and knowing/
 reckless live reportable-merger gun-jump, with V/P/Q safeguards; no exclusion
 fine, generic record offense, automatic damages or MP-only custody is added.
 
-[The country audit](../../status/completion/09-competition-and-country-design-gaps.md)
+[The country audit](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/status/completion/09-competition-and-country-design-gaps.md)
 and [shared delivery map](../../settlement/commitments/14-competition-and-economic-power.md)
 preserve unresolved bank-resolution, tax, campaign-formula, intelligence,
-delegation and whole-country source choices. [Decision, cases and sources](../../2026-11-competition-and-economic-freedom/decision-record.md)
+delegation and whole-country source choices. [Decision, cases and sources](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-competition-and-economic-freedom/decision-record.md)
 record competing court-only, chief/panel and essential-gateway public options.
 No actual source law, public mandate, paid roster, safe receiver, independent
 professional/affected review or superior lived result is established.

@@ -23,9 +23,9 @@ uncalled detail still needs the named issuer's lawful act after day30.
 Missing votes never create approval. Old lawful duties continue on their own
 source, not a generic revival of every earlier regulation.
 
-[Decision, received objections and source limits](../../2026-11-delegated-rules-and-public-control/decision-record.md)
+[Decision, received objections and source limits](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-delegated-rules-and-public-control/decision-record.md)
 retain the predecessor and competing packages. [Paid dependencies](../../settlement/commitments/19-delegated-rules-and-public-control.md)
-separate scrutiny from its actual staff/cash/FX. The [remaining-country audit](../../status/completion/14-delegated-law-and-country-control.md)
+separate scrutiny from its actual staff/cash/FX. The [remaining-country audit](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/status/completion/14-delegated-law-and-country-control.md)
 distinguishes completed rule design from authority, readiness and lived outcomes.
 
 

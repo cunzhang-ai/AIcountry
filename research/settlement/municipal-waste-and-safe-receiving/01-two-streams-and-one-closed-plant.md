@@ -39,4 +39,4 @@ actual costs. If the shortfall persists, the Steward retains the
 duty and the designated national sector owner must address any
 unresolved essential need within lawful authority and funded capacity.
 
-[Evidence and decision](../../2026-11-municipal-waste-and-safe-receiving/decision-record.md).
+[Evidence and decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-municipal-waste-and-safe-receiving/decision-record.md).

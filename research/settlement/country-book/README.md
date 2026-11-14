@@ -13,11 +13,11 @@ joins resources, counterpart finance, sources and remaining obligations.
 | [Shared systems, external and knowledge bids](04-shared-systems-bids.md) | R01–R11/K01–K03 allocations and remaining needs |
 | [Finance and conditions](05-finance-and-conditions.md) | Normal accounts, pensions, independent FX, working credit and failed conditions |
 
-[Inputs](../../2026-10-country-operating-book/inputs.json),
-[model](../../2026-10-country-operating-book/model.py),
-[results](../../2026-10-country-operating-book/results.json),
-[validation](../../2026-10-country-operating-book/validation.json) and
-[decision](../../2026-10-country-operating-book/decision-record.md)
+[Inputs](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-country-operating-book/inputs.json),
+[model](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-country-operating-book/model.py),
+[results](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-country-operating-book/results.json),
+[validation](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-country-operating-book/validation.json) and
+[decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-country-operating-book/decision-record.md)
 pin numerical and institutional dependencies. The 37-function map is open
 to new needs; allocation coverage is not full law or full country feasibility.
 

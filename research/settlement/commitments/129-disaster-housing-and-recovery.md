@@ -6,7 +6,7 @@ and service sources, long-run stewardship and accepted successors.
 Continue existing clocks and distinguish claims and actual receipts.
 
 [Observed and constructed comparisons](../disaster-housing-and-recovery/README.md)
-· [Decision record](../../2026-11-disaster-housing-and-recovery/decision-record.md)
+· [Decision record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-disaster-housing-and-recovery/decision-record.md)
 
 The scoped comparison gives an observed fiscal and organizational
 reference. Actual consent, authority, independent paid execution and

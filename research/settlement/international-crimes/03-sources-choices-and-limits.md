@@ -22,7 +22,7 @@ not international law or an independent empirical demonstration of good lives.
 Its life/mandatory-minimum provisions are **not** selected for this country.
 
 Raw source files and separate derived text are preserved in the
-[dated source folder](../../2026-10-international-crimes-and-accountability/sources/README.md),
+[dated source folder](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-international-crimes-and-accountability/sources/README.md),
 with publisher/version/retrieval/hash records. The current ICC PDF/ICRC
 retrieval paths did not yield a verifiable full text here; no latest-version
 copy, exact-ICC conformity or invented successful download is claimed.

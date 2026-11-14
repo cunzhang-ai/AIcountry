@@ -25,9 +25,9 @@ A continuing finite charter with annual audit/hearings avoids an annual payment
 cliff, but can preserve stale/captured limits. Domestic issuance creates no
 Treasury revenue, privately owned FX, actual imports or funded welfare by itself.
 
-[Decision and received reviews](../../2026-11-money-and-financial-public-control/decision-record.md),
+[Decision and received reviews](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-money-and-financial-public-control/decision-record.md),
 [paid dependencies](../../settlement/commitments/20-money-and-financial-public-control.md)
-and [country follow-up](../../status/completion/15-money-and-country-source-gaps.md)
+and [country follow-up](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/status/completion/15-money-and-country-source-gaps.md)
 separate research selection from actual public authority, paid qualified capacity,
 received remedies and superior lives. Present software permissions do not change.
 

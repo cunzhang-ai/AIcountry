@@ -77,4 +77,4 @@ receipt. Preserve actual claims, lawful contracts and funded review
 through local boundary, operator or source change.
 
 [Matched access case](../../../settlement/local-funding-and-neighborhood-access/01-one-council-two-neighborhoods.md)
-· [Decision and migration](../../../2026-11-local-funding-and-neighborhood-access/decision-record.md).
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-local-funding-and-neighborhood-access/decision-record.md).

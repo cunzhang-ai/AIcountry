@@ -76,7 +76,7 @@ policy prospectively, but cannot erase accrued duties or call irreversible
 damage a rollback.
 
 This rule is a research selection, not an adopted environmental limit or a
-finding that a particular project should be refused. The [decision record](../../2026-10-future-options/decision-record.md)
+finding that a particular project should be refused. The [decision record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-future-options/decision-record.md)
 compares rival institutions and records the missing evidence. For an actual
 jurisdiction, test one contested long-lived project with original place data,
 current service needs, alternative costs, affected participation and a lawful

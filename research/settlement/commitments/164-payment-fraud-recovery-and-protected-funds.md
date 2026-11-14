@@ -6,6 +6,6 @@ unrelated access, an independent remedy, actual return and regulated
 consumer reimbursement separate. No settlement by assumption.
 
 [Worked comparison](../payment-scam-recovery/README.md)
-· [Decision and transition](../../2026-11-payment-fraud-recovery-and-protected-funds/decision-record.md)
+· [Decision and transition](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-payment-fraud-recovery-and-protected-funds/decision-record.md)
 
 Actual adoption, provider liquidity, upheld rights and outcomes remain open.

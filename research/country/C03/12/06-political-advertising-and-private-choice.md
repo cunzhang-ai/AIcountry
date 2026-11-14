@@ -92,4 +92,4 @@ Reopen on evasion, inaccessible lawful campaigns, a chilled
 publication, privacy harm or a better independently usable route.
 
 [Worked campaign and evidence](../../../settlement/political-advertising-and-private-choice/01-three-messages-and-two-voting-windows.md)
-· [Decision and migration](../../../2026-11-political-advertising-and-private-choice/decision-record.md).
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-political-advertising-and-private-choice/decision-record.md).

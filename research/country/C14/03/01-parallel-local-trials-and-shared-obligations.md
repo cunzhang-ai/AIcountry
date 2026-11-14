@@ -69,7 +69,7 @@ whether a trial becomes law. Reopen on unresolved common harm,
 loss of source, forced participation or a better matched rival.
 
 [Two councils and a catchment](../../../settlement/parallel-local-trials/README.md)
-· [Decision and migration](../../../2026-11-parallel-local-trials-and-shared-obligations/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-parallel-local-trials-and-shared-obligations/decision-record.md)
 
 [LT06–LT10](02-expansion-with-origin-and-receiving-capacity.md)
 carries source effects and proven operating conditions into the next

@@ -125,4 +125,4 @@ reviewable terms. Neither variation has a complete budget here. A fully
 matched comparison needs actual scope, credible costs and affected-party
 evidence. The case identifies what changes the selected route.
 
-[Political alternation](04-government-change-and-the-next-budget.md) · [Joint first-mandate verification](05-verify-the-first-mandate-as-one-country.md) · [Portable support](../../country/C04/09/04-funding-portable-essential-support.md) · [Independent public work](../../country/C11/09/21-standing-independent-public-capacity.md) · [Decision record](../../2026-11-compound-country-comparison/decision-record.md).
+[Political alternation](04-government-change-and-the-next-budget.md) · [Joint first-mandate verification](05-verify-the-first-mandate-as-one-country.md) · [Portable support](../../country/C04/09/04-funding-portable-essential-support.md) · [Independent public work](../../country/C11/09/21-standing-independent-public-capacity.md) · [Decision record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-compound-country-comparison/decision-record.md).

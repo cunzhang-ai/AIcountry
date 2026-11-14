@@ -2,7 +2,7 @@
 
 [Canonical rules](../../country/C11/11-evidence-corrections-and-public-reliance.md)
 · [Worked decisions](01-allocations-and-indexation.md)
-· [Original observations](../../2026-11-evidence-corrections-and-public-reliance/sources.md)
+· [Original observations](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-evidence-corrections-and-public-reliance/sources.md)
 
 Compare three responses to the same discovery. Publishing corrected evidence and
 relying on ordinary appeals is simple and protects legal stability. It is a strong

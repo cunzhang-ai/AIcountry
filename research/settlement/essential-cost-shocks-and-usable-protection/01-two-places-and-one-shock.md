@@ -1,6 +1,6 @@
 # Two places, one cost shock and the next delivery
 
-*Design380 · Constructed comparison with separate [UK price evidence](../../2026-11-essential-cost-shocks-and-usable-protection/sources.md).*
+*Design380 · Constructed comparison with separate [UK price evidence](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-essential-cost-shocks-and-usable-protection/sources.md).*
 
 Two people each have 100 units of usable funds for a seven-day
 ordinary basket. Food costs 40, necessary mobility 20 and other

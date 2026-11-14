@@ -81,4 +81,4 @@ providers are repeatedly unfunded, handoffs exclude people or a simpler
 lawfully integrated service offers equal protection and accountability.
 
 [Two-service worked comparison](../../../settlement/essential-service-duty-while-responsibility-is-disputed/01-two-duties-and-a-disputed-payer.md)
-· [Decision and migration](../../../2026-11-essential-service-duty-while-responsibility-is-disputed/decision-record.md).
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-essential-service-duty-while-responsibility-is-disputed/decision-record.md).

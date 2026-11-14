@@ -40,4 +40,4 @@ richer live exchange and uses more care resources. This comparison
 does not assign a price to deliberation or settle the wider
 relative value of optional time, improved services or more pay.
 
-[Scenario check](verify-usable-time.py) · [Original evidence and limits](../../2026-11-usable-time-and-public-participation/sources.md)
+[Scenario check](verify-usable-time.py) · [Original evidence and limits](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-usable-time-and-public-participation/sources.md)

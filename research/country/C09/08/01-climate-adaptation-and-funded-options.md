@@ -105,4 +105,4 @@ and duties intact. Reopen on changed evidence, missing funding,
 repeated harm, a lost option or a better qualified route.
 
 [Worked comparison](../../../settlement/climate-adaptation-and-funded-options/01-one-clinic-and-two-flood-dates.md)
-· [Decision and evidence](../../../2026-11-climate-adaptation-and-funded-options/decision-record.md).
+· [Decision and evidence](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-climate-adaptation-and-funded-options/decision-record.md).

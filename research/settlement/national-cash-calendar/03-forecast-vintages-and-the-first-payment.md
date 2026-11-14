@@ -89,4 +89,4 @@ dates. The payers and independent reviewers verify actual payment.
 
 [Canonical cash rules](../../country/C06/58/21-national-cash-and-first-budget.md)
 · [Recurring funding](../../country/C06/62/10-recurring-revenue-and-budget-choices.md)
-· [Decision record](../../2026-11-revenue-vintages-and-due-date-cash/decision-record.md).
+· [Decision record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-revenue-vintages-and-due-date-cash/decision-record.md).

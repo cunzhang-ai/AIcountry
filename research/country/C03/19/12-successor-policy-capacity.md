@@ -79,4 +79,4 @@ prospectively. Retain existing enforceable liabilities and remedies and seek
 lawful repair where past commitments already removed a choice.
 
 [Two individually lawful acts on one budget](../../../settlement/first-round-mandate/09-a-successor-cannot-spend-a-roster.md)
-· [Decision and migration](../../../2026-11-successor-policy-capacity/decision-record.md).
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-successor-policy-capacity/decision-record.md).

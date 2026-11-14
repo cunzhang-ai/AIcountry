@@ -7,15 +7,15 @@
 [CX context](../../country/C14/10-context-and-commencement-comparison.md) close
 three identified choices without claiming full funding or a complete country.
 
-- [Mobility cases](../../2026-11-whole-country-access-and-evidence/mobility-cases.md):
+- [Mobility cases](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-whole-country-access-and-evidence/mobility-cases.md):
   packing, deadhead, paid work/stock quotes and failed wheelchair departure.
-- [Inputs](../../2026-11-whole-country-access-and-evidence/inputs.json),
-  [calculation](../../2026-11-whole-country-access-and-evidence/model.py) and
-  [results](../../2026-11-whole-country-access-and-evidence/results.json):
+- [Inputs](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-whole-country-access-and-evidence/inputs.json),
+  [calculation](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-whole-country-access-and-evidence/model.py) and
+  [results](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-whole-country-access-and-evidence/results.json):
   conditional quote arithmetic, fixed-seat vote thresholds and scoped cases.
-- [Decision](../../2026-11-whole-country-access-and-evidence/decision-record.md),
-  [sources](../../2026-11-whole-country-access-and-evidence/sources.json) and
-  [validation](../../2026-11-whole-country-access-and-evidence/validation.json).
+- [Decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-whole-country-access-and-evidence/decision-record.md),
+  [sources](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-whole-country-access-and-evidence/sources.json) and
+  [validation](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-whole-country-access-and-evidence/validation.json).
 
 All speeds, quotes, use, packing and institutional numbers are authored normative
 or test assumptions. No engineering roster, actual vehicle, public assent,

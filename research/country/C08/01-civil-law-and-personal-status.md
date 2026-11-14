@@ -29,14 +29,14 @@ law can add land-use, tenancy, work or consumer protections only within express
 constitutional or statutory competence. A published conflict rule determines the
 law and forum for cross-boundary conduct; an agency cannot send a claimant between
 localities until a deadline expires. Courts resolve competence disputes with
-reasons, not a power to write general policy. The [ordinary-law comparison](../../2026-10-civil-law-review/analysis.md)
+reasons, not a power to write general policy. The [ordinary-law comparison](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-civil-law-review/analysis.md)
 preserves the existing manuscript's useful civil and administrative provisions as
 predecessors requiring reconciliation.
 The [consumer and product-safety topic](05-consumer-and-product-safety.md)
 specifies the common market floor, traceable recalls and practical redress;
 sector safety and ordinary courts retain their distinct decisions.
 
-The [personal-status and care decision](../../2026-10-personal-status-and-care/decision-record.md)
+The [personal-status and care decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-personal-status-and-care/decision-record.md)
 specifies how that common floor treats identity and family power. A civil-status
 service records birth, death and lawful relationship changes with accessible,
 privacy-protecting correction and independent review. Its record is evidence,

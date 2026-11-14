@@ -11,12 +11,12 @@ It selects protected stages, not the numerical projects below.
 |---|---|
 | [Schedule and obligations](01-schedule-and-obligations.md) | What must be paid before usable capacity and who is displaced? |
 | [Failure cases and alternatives](02-failure-cases-and-alternatives.md) | Does cash hide missing FX, salaries, delay or post-horizon obligations? |
-| [Decision record](../../2026-10-staged-transition/decision-record.md) | Selection, competing models, objections, continuity and remaining limits |
+| [Decision record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-staged-transition/decision-record.md) | Selection, competing models, objections, continuity and remaining limits |
 
-[Inputs](../../2026-10-staged-transition/inputs.json),
-[calculation](../../2026-10-staged-transition/model.py),
-[results](../../2026-10-staged-transition/results.json) and
-[checks](../../2026-10-staged-transition/validation.json) preserve the exact
+[Inputs](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-staged-transition/inputs.json),
+[calculation](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-staged-transition/model.py),
+[results](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-staged-transition/results.json) and
+[checks](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-staged-transition/validation.json) preserve the exact
 scope. There is no actual funding agreement, jurisdiction, qualified roster,
 engineering design, supplier, safe receipt, independent public participation
 or observed outcome. The [prior national cases](../national-economy/README.md)

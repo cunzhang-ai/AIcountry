@@ -55,7 +55,7 @@ conflicting authority, loss of a protected path or a better funded
 whole alternative.
 
 [Fourteen-chapter adoption register and first mandate](../../../settlement/founding-and-first-mandate/01-adoption-register-and-first-mandate.md)
-· [Decision and migration](../../../2026-11-founding-and-first-mandate/decision-record.md).
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-founding-and-first-mandate/decision-record.md).
 
 **Join the first mandate, fiscal year and independent execution.**
 The exact founding instrument fixes the first prospective year for

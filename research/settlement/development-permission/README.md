@@ -18,7 +18,7 @@ an incumbent neighbor nor a minister sells an individual political exception.
 | Continuing duties | Finite new commencement term, maintenance/abandonment and paid lawful successors, without old-grant expiry |
 
 [Examples and genuine rivals](01-capacity-charges-and-rivals.md) exposes capacity,
-cost and control conflicts. [Decision and evidence](../../2026-11-development-permission-and-serviced-land/decision-record.md)
+cost and control conflicts. [Decision and evidence](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-development-permission-and-serviced-land/decision-record.md)
 qualifies original permit evidence and dated policy context; neither establishes
 completed affordable housing, actual fees or an optimal institutional model.
 This is proposed country design, not a site permission or adopted procedure.

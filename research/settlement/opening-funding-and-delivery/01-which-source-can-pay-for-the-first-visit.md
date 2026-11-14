@@ -18,7 +18,7 @@ own payers. The comparison does not assert a specific resident has lost care.
 
 The published amounts show how to test the proposed cost against a
 specific purpose. They supply no executable quote or idle funding.
-The reviewed municipal sources are listed in the [source record](../../2026-11-opening-funding-and-delivery/sources.md).
+The reviewed municipal sources are listed in the [source record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-opening-funding-and-delivery/sources.md).
 
 ## Compare what actually has to be reserved
 

@@ -90,7 +90,7 @@ repeated budget transfer, common dependency loss or a better qualified
 way to buy the same readiness.
 
 [Copenhagen evidence and the matched operating comparison](../../../settlement/election-cycle-first-budget/README.md)
-· [Design255 decision](../../../2026-11-election-cycle-and-first-budget/decision-record.md)
+· [Design255 decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-election-cycle-and-first-budget/decision-record.md)
 
 [ER21–ER25](../../C03/10/10-electoral-instructions-and-timely-correction.md)
 adds staffed alternate information and civil execution to the readiness

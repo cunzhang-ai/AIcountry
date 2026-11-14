@@ -5,7 +5,7 @@ Design87 · Proposed research selection FD01–FD12, not adopted procedure
 [Canonical country decision](../../country/C06/35-finance-production-and-delivery-bridge.md)
 joins sources, I05/Y, price incidence, supply/use, actual capital versus reserves,
 voluntary lenders and a costed judicial/receiving redesign. The
-[dated package](../../2026-10-finance-and-delivery-bridge/README.md) preserves
+[dated package](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-finance-and-delivery-bridge/README.md) preserves
 inputs, results, review corrections and exact design86 predecessors.
 
 All four source comparators fail their disclosed financing and independent

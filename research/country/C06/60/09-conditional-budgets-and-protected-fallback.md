@@ -93,6 +93,6 @@ unfunded standby, manipulated delay or a stronger jointly approved
 arrangement.
 
 [Same-budget housing and care comparison](../../../settlement/integrated-first-programme/10-conditional-housing-and-fallback.md)
-· [Decision and migration](../../../2026-11-conditional-budget-and-fallback/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-conditional-budget-and-fallback/decision-record.md)
 
 [Two votes, common effect and separate delivery](../../../settlement/joint-legislative-and-operating-readiness/01-two-votes-and-a-lawful-start.md).

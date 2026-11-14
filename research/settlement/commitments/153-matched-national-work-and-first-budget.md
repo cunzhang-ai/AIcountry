@@ -6,6 +6,6 @@ commencement. Keep protected claims, wages, service, private
 counterparts, dated source and independent review.
 
 [Observed data and case](../../settlement/matched-national-work/README.md)
-· [Decision and transition](../../2026-11-matched-national-work-and-first-budget/decision-record.md)
+· [Decision and transition](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-matched-national-work-and-first-budget/decision-record.md)
 
 Actual staffing, complete cost, authorization and receipt remain open.

@@ -56,7 +56,7 @@ productive source or first-day cash. The route's contract-price quotes receive
 no second domestic 6% markup. Initial 187 m assets are not added as another annual
 consumption bill, actual retrofit price or automatic Treasury title.
 
-[Inputs/model/results](../../2026-11-life-needs-and-paid-capacity/README.md)
+[Inputs/model/results](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-life-needs-and-paid-capacity/README.md)
 retain every item. Existing S/AS/I/TW/WL/OE/H/OJ/AA/source rights and independent
 remedy capacity remain; none of the table's counts caps actual need or authorizes
 a service denial. Named costs omit important scope and do not establish a national

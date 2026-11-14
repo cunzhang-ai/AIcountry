@@ -32,7 +32,7 @@ ecological/future limits, safe transition and English usable organization.
 RC improves a proposed ownership/dispatch chain; none of those whole-goal
 requirements is established by its existence or by passing artifact checks.
 
-[Sixteen written adverse arguments](../../2026-11-civil-rescue-and-incident-command/adverse-register.json)
+[Sixteen written adverse arguments](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-civil-rescue-and-incident-command/adverse-register.json)
 cover failed arrival, local poverty, repeated crews, compromised Director,
 coordinator expansion, omitted Cabinet vote, clock resets, a protected stock
 collision, forced clinical treatment, private volunteer force, evidence capture,

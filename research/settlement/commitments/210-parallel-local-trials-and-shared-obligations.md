@@ -4,4 +4,4 @@
 retains independent choices, exact authority and a shared resource limit
 with continuing obligations and a funded exit.
 
-[Comparison](../parallel-local-trials/README.md) · [Decision and migration](../../2026-11-parallel-local-trials-and-shared-obligations/decision-record.md)
+[Comparison](../parallel-local-trials/README.md) · [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-parallel-local-trials-and-shared-obligations/decision-record.md)

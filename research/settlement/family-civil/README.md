@@ -12,10 +12,10 @@ one registry deciding every status, asset and payment.
 2. [Property, maintenance, estates and receiving](02-property-support-and-receiving.md).
 3. [Alternatives, sources and unresolved scope](03-selection-sources-and-limits.md).
 
-[Decision](../../2026-10-family-civil-and-estates/decision-record.md),
-[reference quantities](../../2026-10-family-civil-and-estates/reference-cases.json),
-[fresh limited checks](../../2026-10-family-civil-and-estates/validation.json)
-and [337-artifact predecessor](../../2026-10-family-civil-and-estates/predecessor-design-70/SNAPSHOT.md)
+[Decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-family-civil-and-estates/decision-record.md),
+[reference quantities](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-family-civil-and-estates/reference-cases.json),
+[fresh limited checks](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-family-civil-and-estates/validation.json)
+and [337-artifact predecessor](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-family-civil-and-estates/predecessor-design-70/SNAPSHOT.md)
 preserve the reasoning. Numerical examples are not prices, court awards,
 forecasts or actual receipts. Checks cannot test a verdict or prove safe
 family life; same AI author/controller, no independent legal review,

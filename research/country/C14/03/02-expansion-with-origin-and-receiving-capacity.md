@@ -73,7 +73,7 @@ or a more effective funded ordinary alternative.
 
 [National expansion](../07-dated-national-expansion.md)
 · [Worked care comparison](../../../settlement/integrated-first-programme/11-expansion-and-origin-capacity.md)
-· [Decision and migration](../../../2026-11-service-expansion-and-origin-capacity/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-service-expansion-and-origin-capacity/decision-record.md)
 
 [PCO17–PCO21](../04/06-outcomes-and-displaced-burdens.md) carries affected source
 areas into the outcome account and qualifies causal comparisons before

@@ -50,6 +50,6 @@ independence. Reopen on concentrated control, unnecessary duplication,
 selective availability or a stronger route.
 
 [Worked budget and judicial execution](../../../settlement/democratic-safeguards-in-a-shared-budget/01-funded-on-paper-and-blocked-in-use.md)
-· [Decision and migration](../../../2026-11-democratic-safeguards-in-a-shared-budget/decision-record.md).
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-democratic-safeguards-in-a-shared-budget/decision-record.md).
 
 **Verify practical opposition and replacement.** Under the [first-mandate rehearsal](../../../settlement/democratic-rehearsal/01-prove-the-right-to-oppose-and-replace.md), fund ordinary production and independently usable cover where a common controller can stop a protected act. Verify useful-time ballot access and receipt, the rival’s own exact amendment through consideration, executed review and receiving-end handover. A rehearsal changes no existing date, mandate or remedy.

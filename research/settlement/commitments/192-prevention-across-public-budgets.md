@@ -4,7 +4,7 @@
 elected contributions and maintains distinct duties and remedies.
 
 [Observed and authored checks](../../settlement/prevention-across-budgets/README.md)
-· [Decision and migration](../../2026-11-prevention-across-public-budgets/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-prevention-across-public-budgets/decision-record.md)
 
 Preserve earlier claims and leases after enrolment closes. Actual authority,
 receiving and improved lives remain open.

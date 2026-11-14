@@ -80,7 +80,7 @@ closure, blocked proof, repeated unmatched credits, unsafe disclosure,
 missed receipt or a simpler protected alternative.
 
 [Worked correction and cash comparison](../../../settlement/earnings-records-and-portable-correction/README.md)
-· [Decision and migration](../../../2026-11-earnings-records-and-portable-correction/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-earnings-records-and-portable-correction/decision-record.md)
 
 [Y30–Y35](08-cross-border-pension-rights.md) extends the assisted record route
 to a move across borders. Preserve domestic dates, apply foreign qualifications

@@ -16,7 +16,7 @@ people and clients a funded way to challenge exclusion and unsafe admission.
 and existing sector acts retain their scope. This common proposal neither
 defines which acts are reserved in every sector nor creates a sanction.
 [The matched exercise](../../settlement/fair-licensing/01-inspections-and-independent-decisions.md)
-and [decision record](../../2026-11-fair-licensing-and-portable-competence/decision-record.md)
+and [decision record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-fair-licensing-and-portable-competence/decision-record.md)
 set out alternatives, lost capacity and what would reopen the choice.
 
 [DMR01–DMR08](../C04/01/03-domestic-recognition-and-local-protection.md) supplies a distinct route for

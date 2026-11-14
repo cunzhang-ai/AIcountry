@@ -57,5 +57,5 @@ ordinary resident duties while a durable option is decided. It
 cannot determine market-wide affordability, an actual premium
 subsidy, reserve size, or whether a specific property should move.
 
-[Primary source records](../../2026-11-home-insurance-exit-and-safe-transition/sources.md)
-· [Executable comparison](verify-insurance-transition.py).
+[Primary source records](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-home-insurance-exit-and-safe-transition/sources.md)
+· [Executable comparison](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/settlement/home-insurance-exit-and-safe-transition/verify-insurance-transition.py).

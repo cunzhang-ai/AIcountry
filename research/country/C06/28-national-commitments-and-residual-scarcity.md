@@ -21,7 +21,7 @@ balancing items. This is not selection of an affordable operating country.
 
 The [whole-country audit/support](../../settlement/country-reconciliation/README.md)
 identifies missing substantive choices separately from unknown actual context,
-unadopted law and unproved outcomes. The new [production bridge](../../2026-10-whole-country-reconciliation/results.json)
+unadopted law and unproved outcomes. The new [production bridge](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-whole-country-reconciliation/results.json)
 corrects prior GVA/productivity reporting without changing preserved cash/GDP
 identities or pretending that a resource proxy is an engineering measurement.
 

@@ -73,4 +73,4 @@ If the case for more places fails, maintain prior duties and reconsider
 the next uncommitted cohort rather than withdrawing existing rights.
 
 [Observed funding and authored mentor comparison](../../../settlement/care-training-and-mentor-cover/README.md)
-· [Decision and migration](../../../2026-11-care-training-and-mentor-cover/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-care-training-and-mentor-cover/decision-record.md)

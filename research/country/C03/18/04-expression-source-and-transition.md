@@ -84,7 +84,7 @@ prior-court scrutiny costs actual staff and can itself be captured. No arrangeme
 wins merely because it sounds freer or adds a judge. The six/24-hour and seven-day
 limits are hypotheses, not UN-prescribed or demonstrated optimal clocks.
 
-[Decision and adverse cases](../../../2026-11-peaceful-assembly-and-public-dissent/decision-record.md)
+[Decision and adverse cases](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-peaceful-assembly-and-public-dissent/decision-record.md)
 close this finite positive country choice. Independent local legal/affected-party
 review, paid simultaneous capacity, legitimate adoption and observed practical
 opposition/safety remain unverified. Reopen for suppression by delay/renamed

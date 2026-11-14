@@ -38,7 +38,7 @@ differences between rounded displayed rows and totals. Do not reuse the
 published three-year total as audited dated cash. The Board tabled the
 March agenda item for April discussion. Neither inclusion in the packet
 nor contractor reporting establishes independent validation of site
-resilience. [Attachment and table scope](../../2026-11-essential-service-outage-continuity/sources.md)
+resilience. [Attachment and table scope](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-essential-service-outage-continuity/sources.md)
 · [Board minutes](https://www.mckinleyvillecsd.ca.gov/files/788dd6cad/An%2BAgenda%2BApril%2B1%2C%2B2026%2BPACKET.pdf)
 
 Storm Arwen offers a different observation. Ofgem reports nearly 4,000

@@ -103,4 +103,4 @@ used the ride. This estimates an offer on that particular channel in an urban
 sample. It does not estimate a separately accepted trip-and-receiving route in
 a remote area. Use the journal's corrected results. [Trial and correction notice](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2671405)
 
-[National budget rule](../../country/C06/65/10-buy-evidence-before-a-material-commitment.md) · [Decision record](../../2026-11-first-budget-access-under-uncertainty/decision-record.md).
+[National budget rule](../../country/C06/65/10-buy-evidence-before-a-material-commitment.md) · [Decision record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-first-budget-access-under-uncertainty/decision-record.md).

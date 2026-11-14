@@ -20,7 +20,7 @@ protection.
 
 [Observed comparator and two-sector exercise](01-observations-and-capacity-case.md)
 separates findings about model referrals from the timing effects of review.
-[Decision record](../../2026-11-public-ai-screening-and-queues/decision-record.md)
+[Decision record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-public-ai-screening-and-queues/decision-record.md)
 preserves the tradeoff, inherited boundaries and what would warrant reversal.
 Actual users, competent reviewers, lawful adoption, paid capacity and delivered
 relief have yet to be established.

@@ -73,4 +73,4 @@ discharge. Reopen on repeated unsafe transfers, unmet ward demand, coerced
 acceptance, a failed backup or a simpler qualified community route.
 
 [Matched discharge and urgent bed case](../../../settlement/hospital-to-community-and-safe-receiving/01-one-discharge-and-one-urgent-bed.md)
-· [Decision and migration](../../../2026-11-hospital-to-community-and-safe-receiving/decision-record.md).
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-hospital-to-community-and-safe-receiving/decision-record.md).

@@ -9,7 +9,7 @@ qualified release conditions without transferring the Assembly's vote.
 2. [Authored whole-window comparison](02-authored-forecast-and-release-comparison.md)
    carries local service, household payment, court and election duties
    through disputed forecasts and a common loss.
-3. [Reproduction](verify-fiscal-release.py) checks dated observations
+3. [Reproduction](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/settlement/independent-fiscal-forecast/verify-fiscal-release.py) checks dated observations
    and the separate authored arithmetic.
 
-[Decision and source scope](../../2026-11-independent-fiscal-forecast-and-budget-release/decision-record.md)
+[Decision and source scope](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-independent-fiscal-forecast-and-budget-release/decision-record.md)

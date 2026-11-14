@@ -68,6 +68,6 @@ claim, staffing labels or AI model counts.
 Retain the service-first democratic/plural/mixed-source country, TW and real
 retain/U/provider/common rivals. Full national cost/source, actual safer care,
 independent affected participation, authority and better lives remain unknown.
-[Decision and source record](../../2026-11-living-bundles-and-early-care/decision-record.md)
+[Decision and source record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-living-bundles-and-early-care/decision-record.md)
 pin exact scope. Next whole-country inspection and the largest consequential
 positive/control/source gap, rather than an automatic childcare subquestion.

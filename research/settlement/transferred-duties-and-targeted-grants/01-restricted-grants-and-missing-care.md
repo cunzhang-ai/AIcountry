@@ -12,7 +12,7 @@ The paper identifies reprioritization within the frame, adjusting
 the scope of municipal operating agreements and drawing on other
 hospital budgets as possible responses. It requests discussion
 before a later decision. The arithmetic supplies neither a final
-funding gap nor a paid agreement. [Agenda paper, pp. 1–4](../../2026-11-transferred-duties-and-targeted-grants/original-sources/capital-health-council-funding-paper.pdf).
+funding gap nor a paid agreement. [Agenda paper, pp. 1–4](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-transferred-duties-and-targeted-grants/original-sources/capital-health-council-funding-paper.pdf).
 
 The Copenhagen November committee agenda separately reports
 DKK 54.4 million of 2027 local health investment funding across
@@ -53,4 +53,4 @@ authority if that restores both. Keep the unresolved referral,
 original dates and review. No identified task, funds or residents
 in this constructed case are actual observations.
 
-[Reproduction](verify-transfer-scope.py) · [Decision](../../2026-11-transferred-duties-and-targeted-grants/decision-record.md).
+[Reproduction](verify-transfer-scope.py) · [Decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-transferred-duties-and-targeted-grants/decision-record.md).

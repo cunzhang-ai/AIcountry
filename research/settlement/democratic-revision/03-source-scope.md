@@ -29,7 +29,7 @@ statutory optimum. The two OECD texts are not independent empirical samples.
 No primary election/process observations, original sample frame, affected-party
 participation, qualified external review, full legal conformity assessment or
 outcome comparison was obtained. Rendered primary pages/PDF text were read;
-publisher bytes were not archived. [Dated sources](../../2026-10-democratic-repair-and-finite-attention/sources.json)
+publisher bytes were not archived. [Dated sources](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-democratic-repair-and-finite-attention/sources.json)
 records exact URLs and inspected scope; local hashes identify our artifacts,
 not immutable copies of changing remote pages. Same-controller agent advice
 adds reasoning, not a new source family or a democratic mandate.

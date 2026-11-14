@@ -100,7 +100,7 @@ for conclusions and officers and elected members retain their own
 distinct decisions.
 
 [Observed timeline and matched first-budget comparison](../../../settlement/independent-fiscal-forecast/README.md)
-· [Decision and migration](../../../2026-11-independent-fiscal-forecast-and-budget-release/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-independent-fiscal-forecast-and-budget-release/decision-record.md)
 
 [JC18–JC22](../65/05-matched-protected-window-and-second-call.md)
 provides the common dated account across an election, later payments

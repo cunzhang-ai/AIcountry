@@ -6,7 +6,7 @@ Protect existing patients and funded replenishment before counting spare
 stock. A national balance or issued protocol supplies no treatment.
 
 [Evidence and two-region case](../../settlement/critical-medicines/README.md)
-· [Decision and transition](../../2026-11-critical-medicines-and-safe-continuity/decision-record.md)
+· [Decision and transition](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-critical-medicines-and-safe-continuity/decision-record.md)
 
 Actual medicine-specific requirements, finance, qualified receiving and
 better outcomes remain open.

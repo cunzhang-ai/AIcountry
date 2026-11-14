@@ -8,7 +8,7 @@ paid continuity for cases already due.
   separates the legal restriction, unresolved vacancies and eventual renewal.
 - [Comparison of selection arrangements](02-authored-appointment-comparison.md)
   tests shared and separate selectors under several simultaneous failures.
-- [Reproduction](verify-appointments.py) checks dates, reported scope and
+- [Reproduction](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/settlement/appointment-independence/verify-appointments.py) checks dates, reported scope and
   the authored decision bounds.
 
-[Decision and source record](../../2026-11-appointment-independence-and-concurrent-vacancies/decision-record.md)
+[Decision and source record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-appointment-independence-and-concurrent-vacancies/decision-record.md)

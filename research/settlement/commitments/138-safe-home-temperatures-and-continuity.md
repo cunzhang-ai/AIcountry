@@ -7,7 +7,7 @@ owner and public capital, recurring assistance, safe crew hours,
 usable peak power, duration and matched temporary placements once.
 
 [Evidence and compound failure](../../settlement/safe-home-temperatures/README.md)
-· [Decision and transition](../../2026-11-safe-home-temperatures-and-continuity/decision-record.md)
+· [Decision and transition](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-safe-home-temperatures-and-continuity/decision-record.md)
 
 Actual indoor outcome, public money, capital and accepting providers
 remain distinct and unqualified.

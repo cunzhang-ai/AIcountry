@@ -82,4 +82,4 @@ unexpected duplicate work, excessive transition burden, a changed
 binding date or a stronger complete alternative.
 
 [Worked two-window comparison](../../../settlement/first-programme-transition-capacity/01-two-reforms-one-qualified-team.md)
-· [Decision and migration](../../../2026-11-first-programme-transition-capacity/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-first-programme-transition-capacity/decision-record.md)

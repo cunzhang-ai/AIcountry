@@ -96,7 +96,7 @@ contractual cooperation cannot tax nonmembers or erase downstream claims.
 Changes later require a public review of delivered results and lawful
 prospective amendment, not an administrative redrawing that favors incumbents.
 
-The [decision record](../../2026-10-national-form/decision-record.md) compares
+The [decision record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-national-form/decision-record.md) compares
 these institutional packages. No real founding public, map, budget or
 participation exists here. Reopen the reference if observed geography,
 representation, Assembly capacity or common resource obligations defeat

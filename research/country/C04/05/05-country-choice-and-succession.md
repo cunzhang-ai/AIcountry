@@ -15,7 +15,7 @@ entry into force and independent challenge; this candidate's numbers and ordinar
 court route are our choices. OECD's 2025 primary account of bid rigging shows
 why multiple bids or a failed call cannot alone establish genuine competition.
 Neither source proves this country candidate effective or calibrates its costs.
-Original citations and retrieval limits are in the [source record](../../../2026-11-public-supply-and-procurement/sources.md).
+Original citations and retrieval limits are in the [source record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-public-supply-and-procurement/sources.md).
 
 **SC18 — Expose the cost and capture chain.** Notices, assisted entry, qualified
 evaluators/verifiers, market inquiry, safe records, Treasury work, court/aid/

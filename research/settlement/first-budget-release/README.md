@@ -4,7 +4,7 @@ Design241 · English research · [Canonical JC09–JC12](../../country/C06/65/03
 
 - [First motions, common capacity and binding claims](01-motions-and-binding-claims.md)
 - [Reproduce the same-window checks](verify-release.py) with Python 3
-- [Decision, evidence and migration](../../2026-11-first-budget-release-and-shared-capacity/decision-record.md)
+- [Decision, evidence and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-first-budget-release-and-shared-capacity/decision-record.md)
 
 The comparison puts repairs, independent public control, training
 and optional service changes into the same cash and staffing

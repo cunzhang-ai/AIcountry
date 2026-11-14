@@ -59,4 +59,4 @@ standby crowds out ordinary care or permanently staffed
 provision performs better at a comparable cost.
 
 [Worked fiscal comparison](../../../settlement/voluntary-care/README.md)
-· [Evidence and limits](../../../2026-11-voluntary-care-and-paid-continuity/sources.md)
+· [Evidence and limits](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-voluntary-care-and-paid-continuity/sources.md)

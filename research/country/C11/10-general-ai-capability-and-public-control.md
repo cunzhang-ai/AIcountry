@@ -24,7 +24,7 @@ or an unauthorized agent transaction. C08's VD offence list is not expanded.
 
 The research choice closes a specific missing upstream duty, not all AI risk.
 Thresholds, staffing, performance and regulatory independence remain hypotheses.
-The [country decision](../../2026-11-general-ai-capability-and-democratic-control/decision-record.md)
+The [country decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-general-ai-capability-and-democratic-control/decision-record.md)
 compares sector/ex-post protection, narrow prevention, broad licensing and a
 moratorium; uncertainty and loss-of-control disagreement remain explicit.
 No actual public, legislature, qualified assessor or funded safety service is claimed.

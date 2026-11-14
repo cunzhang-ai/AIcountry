@@ -7,7 +7,7 @@ their actual windows. Existing providers and authorities retain prior
 duties through lawful paid succession.
 
 [Observed evidence and authored case](../communications-access/README.md)
-· [Decision and compatibility](../../2026-11-communications-access-and-network-power/decision-record.md)
+· [Decision and compatibility](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-communications-access-and-network-power/decision-record.md)
 
 The case exposes separate capital, recurring and critical contact gaps.
 It does not supply an actual source, worker, route or received service.

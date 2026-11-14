@@ -20,4 +20,4 @@ sources, transition and the distribution of realized gains.
 | [AT34–AT39. Worker participation in realized surplus](18/08-worker-participation-in-realized-surplus.md) | A prospective sector trial with an enforceable cash floor and a qualified collective alternative. |
 
 [Primary observations and a joined two-quarter test](../../settlement/technology-transition/README.md)
-· [Choice, objections and migration](../../2026-11-technology-transition-and-shared-gains/decision-record.md)
+· [Choice, objections and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-technology-transition-and-shared-gains/decision-record.md)

@@ -50,7 +50,7 @@ local/national and referendum duties remain. Called national cash is E v, not
 All changes require coordinated prospective primary/constitutional law and
 C14/RR protected succession. Earlier-called contests, actual count/term/vacancy
 law, candidate/voter/grant/contract claims and software permissions retain source.
-[Historical count decision](../../2026-10-election-rule/decision-record.md) and
+[Historical count decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-election-rule/decision-record.md) and
 dated101/110 studies remain unchanged; their final judgments do not transfer.
 No actual voter usability, independent affected consent, legal adoption, paid
 capacity, free competition or superior lives is established by exact arithmetic.

@@ -14,4 +14,4 @@ access working when a provider, device or signing authority fails.
 | [CRD09–CRD12. Actual acceptance and public control](13/03-acceptance-and-public-control.md) | Pay for simultaneous alternatives, contest operator power and carry legal claims through change. |
 
 [Comparators and a shared-trust failure](../../settlement/scoped-credentials/README.md)
-· [Decision and migration](../../2026-11-scoped-credentials-and-public-access/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-scoped-credentials-and-public-access/decision-record.md)

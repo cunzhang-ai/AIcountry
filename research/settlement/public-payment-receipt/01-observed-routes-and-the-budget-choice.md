@@ -17,7 +17,7 @@ staff member at a bank. It did not verify an eventual ongoing bank
 route or the full historical amount restored. The note estimated around
 200 possible cash payments per month if the city introduced cash
 payments, based on other municipalities. That was a planning estimate.
-[Municipal note, 20 February 2024, pp. 2–3](../../2026-11-public-payment-and-independent-receipt/original-sources/copenhagen-february-2024.pdf)
+[Municipal note, 20 February 2024, pp. 2–3](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-public-payment-and-independent-receipt/original-sources/copenhagen-february-2024.pdf)
 
 The October 2024 municipal adviser examined notices and the revised
 internal workflow. Guidance still prioritized opening an account or
@@ -28,7 +28,7 @@ measure the number needing, denied or receiving cash. The adviser also
 recounted a separate reported case where payment continued to a former
 partner after the recipient said it should stop. The letter does not
 independently establish all facts of that case or the sum lost.
-[Municipal adviser, 2 October 2024, pp. 7–9](../../2026-11-public-payment-and-independent-receipt/original-sources/copenhagen-october-2024.pdf)
+[Municipal adviser, 2 October 2024, pp. 7–9](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-public-payment-and-independent-receipt/original-sources/copenhagen-october-2024.pdf)
 
 These observations favor an early, protected direct choice and actual
 receipt audit. They also support keeping the ability to revoke a

@@ -11,12 +11,12 @@ The old B/C fixtures are not the new design or renewed funding evidence.
 1. [Accounts and person-level incidence](01-comparisons-and-incidence.md).
 2. [Sources, control, selection and limits](02-sources-control-and-choice.md).
 
-The [dated model](../../2026-10-country-model-choices/model.py),
-[inputs](../../2026-10-country-model-choices/inputs.json),
-[results](../../2026-10-country-model-choices/results.json) and
-[decision record](../../2026-10-country-model-choices/decision-record.md)
+The [dated model](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-country-model-choices/model.py),
+[inputs](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-country-model-choices/inputs.json),
+[results](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-country-model-choices/results.json) and
+[decision record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-country-model-choices/decision-record.md)
 preserve this comparison. The
-[design-68 predecessor](../../2026-10-country-model-choices/predecessor-design-68/SNAPSHOT.md)
+[design-68 predecessor](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-country-model-choices/predecessor-design-68/SNAPSHOT.md)
 preserves 317 hashed artifacts byte-for-byte. The old operating book remains
 a frozen authored baseline, not renewed support for every later design.
 

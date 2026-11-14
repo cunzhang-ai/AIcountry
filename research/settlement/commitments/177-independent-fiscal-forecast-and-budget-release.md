@@ -6,6 +6,6 @@ conditions for each optional tranche. Keep continuing services and
 public control paid through unresolved forecasts and delayed sources.
 
 [Observed and authored checks](../../settlement/independent-fiscal-forecast/README.md)
-· [Decision and migration](../../2026-11-independent-fiscal-forecast-and-budget-release/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-independent-fiscal-forecast-and-budget-release/decision-record.md)
 
 Actual authority, resources and outcomes remain open.

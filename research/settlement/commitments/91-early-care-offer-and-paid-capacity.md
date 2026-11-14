@@ -23,7 +23,7 @@ hash values remain exact;37 is open and all other duties/legacy unpriced.
 Existing NC/TW/Y/I05/EB/WS/DB/AL/AH/NI/LU/source, OP/T paid accepting successors,
 old legal clocks and constitutional/software/contribution holds continue.
 No rate, source power, office, certificate, new care rule or commencement.
-[Record](../../2026-11-early-care-and-whole-offer-capacity/decision-record.md)
+[Record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-early-care-and-whole-offer-capacity/decision-record.md)
 separates original aggregate evidence, authored exposure, research selection,
 actual legitimate choice, safe paid receiving and outcomes. Same-controller
 critique is no independent affected/professional approval or proof of better lives.

@@ -70,7 +70,7 @@ signals, unaccepted capacity, displaced standing service or a stronger
 matched rival.
 
 [Integrated first-programme comparison](../../../settlement/integrated-first-programme/12-first-programme-before-outcomes-are-known.md)
-· [Decision and migration](../../../2026-11-first-programme-and-late-evidence/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-first-programme-and-late-evidence/decision-record.md)
 
 [T43–T48](12-joint-first-budget-continuity-choice.md) joins the exact
 continuity choices on a shared budget, preserving the evidence dates and

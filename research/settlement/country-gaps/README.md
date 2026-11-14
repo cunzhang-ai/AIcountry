@@ -22,7 +22,7 @@ complete controlling chain. Ordinary compulsory health powers also remain bounde
 missing-code choices; RX's rights boundary does not grant them. Source/readiness/
 affected participation and outcomes remain open across the whole country.
 
-The [decision and exact144 baseline](../../2026-11-country-gaps-and-public-acquisition/decision-record.md)
+The [decision and exact144 baseline](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-country-gaps-and-public-acquisition/decision-record.md)
 retain rivals, source limits, unresolved tradeoffs and paid migration. Arithmetic
 checks concern compensation/tax/deposit boundaries, not actual fair values, title,
 public purpose, replacement availability or social progress.

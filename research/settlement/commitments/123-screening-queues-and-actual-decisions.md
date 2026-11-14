@@ -8,7 +8,7 @@ sectors triggers scoped action by each competent owner. Preserve original
 receipt, fair proof, downstream obligations and actual relief.
 
 [Support and rivals](../public-ai-screening/README.md) ·
-[Decision and migration](../../2026-11-public-ai-screening-and-queues/decision-record.md)
+[Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-public-ai-screening-and-queues/decision-record.md)
 
 Observed referral and timing comparisons qualify the choice without establishing
 a causal gain. Affected participation, independent review, enactment, paid

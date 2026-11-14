@@ -16,7 +16,7 @@ not one income-resource group per dwelling. No actual person/title/rights moves.
 | Fiscal/source | Qualifying worker examples, output versus cash, private/public/S/FX title and source dates remain distinct; no national yield or GDP residual |
 
 [The comparison](../../settlement/ordinary-life/README.md) and
-[declared results](../../2026-11-ordinary-life-and-household-production/results.json)
+[declared results](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-ordinary-life-and-household-production/results.json)
 retain changed demand/pay/price and failure branches. National public costs are
 not obtained by adding household rents, reserve allocations, supplier turnover,
 new capital quotes, prior housing program and care-adaptation spending.

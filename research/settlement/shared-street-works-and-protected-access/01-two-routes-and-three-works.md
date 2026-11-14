@@ -1,6 +1,6 @@
 # Two routes and three works with one protected deadline
 
-*Design383 · Constructed comparison with [primary records](../../2026-11-shared-street-works-and-protected-access/sources.md).*
+*Design383 · Constructed comparison with [primary records](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-shared-street-works-and-protected-access/sources.md).*
 
 A neighborhood has two viable street routes, East and West.
 East requires a two-day water renewal and a two-day fiber job.

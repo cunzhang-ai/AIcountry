@@ -111,7 +111,7 @@ treasury, records and civilian command. The exercise must also record who acts
 if a reviewer or executor refuses or lacks capacity. A disputed count supplies
 no automatic winner and a caretaker's ended term supplies no renewed policy
 mandate. A successful authored scenario or a nominal reserve does not pass this
-gate. The [continuity analysis](../../../2026-10-operating-settlement/democratic-institutions.md)
+gate. The [continuity analysis](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-operating-settlement/democratic-institutions.md)
 sets the test, without certifying that any real polity can meet it.
 The exercise also follows [C03 government formation](../../C03/06-government-formation-and-caretaker.md)
 from a fragmented count through blocked nomination, a dismissed minority

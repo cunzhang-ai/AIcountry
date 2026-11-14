@@ -114,7 +114,7 @@ lawful source with net incidence, due-date payments and qualified delivery
 in the same setting.
 
 [Evidence, alternatives and limits](../../settlement/fiscal-durability/README.md)
-· [Decision and migration](../../2026-11-lasting-services-and-fiscal-shocks/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-lasting-services-and-fiscal-shocks/decision-record.md)
 
 [FC early care](../C07/23-funded-local-early-care.md) applies these rules to
 an ordinary local service and national gap finance. The national transfer

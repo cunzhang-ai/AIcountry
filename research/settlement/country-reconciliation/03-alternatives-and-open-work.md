@@ -15,7 +15,7 @@ more forms or a high AI agreement rate. Unknown production, omitted duty costs,
 actual willingness and long-term claims require actual evidence, while values
 and institutional choices require public reasons and competent authority.
 
-The [14-chapter audit](../../status/completion/04-country-audit-findings.md) leaves
+The [14-chapter audit](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/status/completion/04-country-audit-findings.md) leaves
 these genuine design packages to finish after [CJ](../../country/C03/08-constitutional-review-and-public-control.md)
 selects final review, [MB](../../country/C02/06-citizenship-and-secure-belonging.md) belonging and
 [UA](../../country/C08/23-necessary-care-and-unknown-will.md) necessary agency: the rights-restoring amendment

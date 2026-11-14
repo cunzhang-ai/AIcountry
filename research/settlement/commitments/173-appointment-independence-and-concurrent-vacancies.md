@@ -6,6 +6,6 @@ process. Preserve statutory appointing votes, hearing clocks and judicial
 independence even when an appointment remains unresolved.
 
 [Observed and authored checks](../../settlement/appointment-independence/README.md)
-· [Decision and migration](../../2026-11-appointment-independence-and-concurrent-vacancies/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-appointment-independence-and-concurrent-vacancies/decision-record.md)
 
 Actual capacity, lawful appointment, funding and service continuity remain open.

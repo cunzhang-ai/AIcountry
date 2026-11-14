@@ -15,8 +15,8 @@ join actual support, independent review, authority, funding and received care.
 | [Competing choices](02-rivals-and-reopening.md) | Nonintervention, interpretation, bounded necessity and broad substitution |
 | [Sources/review limits](03-sources-and-review-limits.md) | Actual inspected texts, failed access and retained CRPD disagreement |
 
-The [decision](../../2026-10-necessary-care-and-unknown-will/decision-record.md)
-and [504-artifact predecessor](../../2026-10-necessary-care-and-unknown-will/predecessor-design-81/SNAPSHOT.md)
+The [decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-necessary-care-and-unknown-will/decision-record.md)
+and [504-artifact predecessor](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-necessary-care-and-unknown-will/predecessor-design-81/SNAPSHOT.md)
 preserve earlier B/S/E/RP boundaries, reasons and exact scope. No actual clinical
 recommendation for a patient, treaty conformity, affected endorsement, independent
 qualified review, staff/source/receiving or better-life outcome is established.

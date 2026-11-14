@@ -6,6 +6,6 @@ time, duty and cash windows. Protect origin duties, employment freedom,
 actual mentor time and accrued wages and education claims.
 
 [Evidence and worked options](../staffing-formation/README.md)
-· [Decision and transition](../../2026-11-staffing-formation-and-first-service-capacity/decision-record.md)
+· [Decision and transition](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-staffing-formation-and-first-service-capacity/decision-record.md)
 
 Actual sources, learners, qualified care and better lives remain open.

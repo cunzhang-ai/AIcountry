@@ -16,8 +16,8 @@ mandatory platform, universal record merge or automated eligibility follows.
 
 [Country review and competing choices](01-country-review-and-choice.md)
 separates missing written design, value disputes, stale support and unavailable
-actual context. [Decision and sources](../../2026-11-administrative-delay-and-effective-standing/decision-record.md)
-retain objections and exact transition. [Authored cases](../../2026-11-administrative-delay-and-effective-standing/cases.json)
+actual context. [Decision and sources](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-administrative-delay-and-effective-standing/decision-record.md)
+retain objections and exact transition. [Authored cases](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-administrative-delay-and-effective-standing/cases.json)
 test the timing failure and rivals; they are not observed cases or legal advice.
 
 Ordinary 5/30/one-at-most-30 working-day defaults and full ordinary adverse reply

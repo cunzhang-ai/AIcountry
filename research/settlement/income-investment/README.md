@@ -32,12 +32,12 @@ proves physical supply; no illustrative equipment assumptions qualify a project.
 Combined full-base/build and full-base/accepted-output cross-sections also
 remain unfunded. The cross-sections are not a financed multiyear trajectory.
 
-The [dated inputs](../../2026-11-income-and-investment-settlement/inputs.json),
-[model](../../2026-11-income-and-investment-settlement/model.py),
-[explicit macro derivative](../../2026-11-income-and-investment-settlement/macro.py),
-[equation changes](../../2026-11-income-and-investment-settlement/solve-changes.diff),
-[results](../../2026-11-income-and-investment-settlement/results.json) and
-[decision](../../2026-11-income-and-investment-settlement/decision-record.md)
+The [dated inputs](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-income-and-investment-settlement/inputs.json),
+[model](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-income-and-investment-settlement/model.py),
+[explicit macro derivative](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-income-and-investment-settlement/macro.py),
+[equation changes](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-income-and-investment-settlement/solve-changes.diff),
+[results](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-income-and-investment-settlement/results.json) and
+[decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-income-and-investment-settlement/decision-record.md)
 preserve exact definitions, dissent and scope. Checks establish declared
 counterparts, arithmetic, scoped dependencies and migration consistency.
 They do not qualify supply, actual sources, professional/public review,

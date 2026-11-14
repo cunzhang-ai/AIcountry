@@ -82,7 +82,7 @@ lost independence or a stronger complete alternative.
 [Foreign payment authority](../02/03-foreign-payments.md)
 · [Customs and safe clearance](../../C10/05-customs-and-border-clearance.md)
 · [Matched evidence and alternatives](../../../settlement/essential-imports-and-usable-settlement/README.md)
-· [Design258 decision](../../../2026-11-essential-imports-and-usable-settlement/decision-record.md)
+· [Design258 decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-essential-imports-and-usable-settlement/decision-record.md)
 
 [NS26–NS30](07-common-import-permissions-and-continuity.md) tests common upstream permission
 across distinct bids. Keep an existing prepayment and potential recovery

@@ -5,6 +5,6 @@ early cash, staff, resident access and continuing claims separately
 traceable. Carry each lawful source once and preserve original dates.
 
 [Observed and authored checks](../../settlement/service-headroom-and-usable-budget/README.md)
-· [Decision and migration](../../2026-11-service-headroom-and-usable-local-budget/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-service-headroom-and-usable-local-budget/decision-record.md)
 
 Actual sources, legal authority and receiving remain open.

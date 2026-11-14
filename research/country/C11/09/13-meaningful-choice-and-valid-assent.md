@@ -75,4 +75,4 @@ routing, new platform behavior or a simpler equally usable method.
 [Free refusal](../../C04/07/05-essential-services-and-free-refusal.md) ·
 [Proactive redress](../12/04-proactive-redress-and-missing-cases.md) ·
 [Worked comparison](../../../settlement/choice-and-assent-in-public-services/01-optional-monitoring-and-standing-support.md) ·
-[Decision and evidence](../../../2026-11-choice-and-assent-in-public-services/decision-record.md)
+[Decision and evidence](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-choice-and-assent-in-public-services/decision-record.md)

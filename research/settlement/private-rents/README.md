@@ -21,7 +21,7 @@ acquisition/mortgage/appreciation into an automatic tenant bill. Actual I03
 need, safe supply, LU permission, H possession and PT priority remain separate.
 The public housing option is not assumed immediately available or funded.
 
-[Decision](../../2026-11-private-rents-tenure-and-housing-entry/decision-record.md)
+[Decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-private-rents-tenure-and-housing-entry/decision-record.md)
 retains market review with real assistance/supply, dwelling-linked controls and
 funded public rent insurance as genuine alternatives. Stayers gain more than
 entrants; higher initial prices, conversion, withdrawal, maintenance and owner

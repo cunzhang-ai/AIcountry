@@ -20,9 +20,9 @@ why this reaches a cross-system gap while leaving national finance open.
 
 Cases are reasoned hypotheses with incomplete facts. No borrower, creditor,
 worker, victim, dependent, practitioner or legitimate authority participated.
-[Decision](../../2026-10-completion-and-private-insolvency/decision-record.md),
-[source manifest](../../2026-10-completion-and-private-insolvency/source-manifest.json)
-and [checks](../../2026-10-completion-and-private-insolvency/validation.json)
+[Decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-completion-and-private-insolvency/decision-record.md),
+[source manifest](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-completion-and-private-insolvency/source-manifest.json)
+and [checks](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-completion-and-private-insolvency/validation.json)
 preserve scope; they do not prove actual independent capacity, financing,
 delivered discharge/payment or better human lives. National debt/private-
 finance and physical/FX failures remain unresolved.

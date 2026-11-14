@@ -4,7 +4,7 @@
 continuing tenure while qualifying the next matched cohort and
 any paid preparatory work.
 
-[Comparison](../../settlement/affordable-housing-and-refunds/README.md) · [Decision and migration](../../2026-11-affordable-housing-and-refund-exposure/decision-record.md)
+[Comparison](../../settlement/affordable-housing-and-refunds/README.md) · [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-affordable-housing-and-refund-exposure/decision-record.md)
 
 Carry original housing priority, support and existing rights through
 rent, finance and supply changes.

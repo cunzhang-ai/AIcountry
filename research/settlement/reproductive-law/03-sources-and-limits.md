@@ -9,7 +9,7 @@
 | [HCCH Parentage/Surrogacy Project update](https://www.hcch.net/en/projects/legislative-projects/parentage-surrogacy/) | Records that the March 2026 governing meeting did not advance to convention drafting then, with later monitoring. No new global recognition convention or presumed party status is supplied; no complete actual foreign-law/treaty survey. |
 | [WHO Human genome editing recommendations, 12 July 2021](https://www.who.int/publications/i/item/9789240030381) | Overview distinguishes governance of somatic, germline and heritable editing. RP's clinical holds, research boundary and future-person rules are independent national hypotheses, not word-for-word WHO rules or validated technical safety. |
 
-The [dated source record](../../2026-10-reproductive-law-and-parentage/sources.json)
+The [dated source record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-reproductive-law-and-parentage/sources.json)
 identifies actual URLs, editions, inspection and retrieval limits. Linked
 web notes were inspected; no complete immutable publisher-text archive or
 new patient data is claimed. WHO's two publications share one institutional

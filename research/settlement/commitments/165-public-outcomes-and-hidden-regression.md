@@ -6,6 +6,6 @@ Keep material excluded populations, independent source and remedies
 visible. Record actual lawful response and receiving separately.
 
 [Observed and authored comparison](../public-outcomes-and-regression/README.md)
-· [Decision and transition](../../2026-11-public-outcomes-and-hidden-regression/decision-record.md)
+· [Decision and transition](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-public-outcomes-and-hidden-regression/decision-record.md)
 
 Actual coverage, lawful authority, delivery and better lives remain open.

@@ -99,4 +99,4 @@ verify delivery on its own. Reopen on coercion, hidden unpaid work,
 exclusion, unreliable reasons or a less burdensome effective method.
 
 [Two-roster comparison and primary records](../../../settlement/workplace-ai-and-effective-worker-control/01-two-rosters-and-one-payday.md)
-· [Decision and migration](../../../2026-11-workplace-ai-and-effective-worker-control/decision-record.md).
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-workplace-ai-and-effective-worker-control/decision-record.md).

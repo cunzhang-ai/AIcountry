@@ -56,4 +56,4 @@ statutory authority, vendor prices or causal estimate. A real
 comparison needs evidence on other changes in demand, safety,
 work, waiting and household burden.
 
-[Calculation](verify-displaced-outcomes.py) · [Decision](../../2026-11-outcomes-and-displaced-burdens/decision-record.md).
+[Calculation](verify-displaced-outcomes.py) · [Decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-outcomes-and-displaced-burdens/decision-record.md).

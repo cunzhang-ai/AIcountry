@@ -90,4 +90,4 @@ lawful court authority on migration. Preserve original dates, orders
 on separate grounds, protections and accrued remedies.
 
 [Evidence and worked docket](../../../settlement/court-appearance-and-pretrial-liberty/01-two-missed-court-dates.md)
-· [Decision and transition](../../../2026-11-court-appearance-and-pretrial-liberty/decision-record.md).
+· [Decision and transition](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-court-appearance-and-pretrial-liberty/decision-record.md).

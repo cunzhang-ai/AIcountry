@@ -62,4 +62,4 @@ Reopen on repeated bridge use, missing recipients, double-counted
 flows or stronger funding or delivery alternatives.
 
 [Observed accounts and constructed payment case](../../../settlement/retirement-funds-and-opening-budget/01-danish-payers-and-a-delayed-transfer.md)
-· [Decision and migration](../../../2026-11-retirement-funds-and-opening-budget/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-retirement-funds-and-opening-budget/decision-record.md)

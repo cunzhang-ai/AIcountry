@@ -11,8 +11,8 @@ empirical declaration that targeting is superior or either package is funded.
 
 ## Published context: compare the same case within each row
 
-The [original source review](../../2026-11-service-first-income-settlement/sources.md)
-and [case transcription](../../2026-11-service-first-income-settlement/published-cases.json)
+The [original source review](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-service-first-income-settlement/sources.md)
+and [case transcription](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-service-first-income-settlement/published-cases.json)
 fix date, work/time, insurance, children and table locators. Entries below are
 **net-income change per 100 additional gross earnings**, derived from published
 AETR. They are not income levels, observed families or candidate-country rates.
@@ -67,11 +67,11 @@ earned/survivor gross, restricted cash, G backing, new annual pension units,
 private capital/FX, dates and unpriced later duties remain outside the subtotal.
 Neither this CU layer nor the external work ratios supplies a complete country.
 
-[Inputs](../../2026-11-service-first-income-settlement/inputs.json),
-[calculation](../../2026-11-service-first-income-settlement/model.py),
-[results](../../2026-11-service-first-income-settlement/results.json),
-[decision](../../2026-11-service-first-income-settlement/decision-record.md) and
-[validation](../../2026-11-service-first-income-settlement/validation.json)
+[Inputs](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-service-first-income-settlement/inputs.json),
+[calculation](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-service-first-income-settlement/model.py),
+[results](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-service-first-income-settlement/results.json),
+[decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-service-first-income-settlement/decision-record.md) and
+[validation](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-service-first-income-settlement/validation.json)
 preserve scope, adverse meanings, matched rights and continuing unknowns.
 
 ## What changes next

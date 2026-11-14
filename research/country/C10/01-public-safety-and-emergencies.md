@@ -19,7 +19,7 @@ derogation wording. It does not establish actual public authority or readiness.
 | [RX22–RX26. Public review and delivered remedies](01/06-public-review-and-delivered-repair.md) | Independent evidence, recorded elected response and independently verified correction. |
 
 [A8](../../authority/provisions/05-rights-and-emergencies-A08.md) supplies the
-proposed constitutional boundary. The dated [decision and rivals](../../2026-11-rights-limits-and-emergency-continuity/decision-record.md)
+proposed constitutional boundary. The dated [decision and rivals](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-rights-limits-and-emergency-continuity/decision-record.md)
 retain the possible safety cost of rejecting derogation. This is a substantive
 selection, not a claim all constitutional rights are absolute or every emergency
 response is prohibited. A competing narrowly enumerated derogation model would

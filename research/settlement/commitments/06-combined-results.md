@@ -2,9 +2,9 @@
 
 13 October 2026 · Authored annual arithmetic, not a national forecast
 
-The [preserved September inputs](../../2026-09-national-settlement/inputs.json)
+The [preserved September inputs](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-09-national-settlement/inputs.json)
 assume 100,000 residents, six service envelopes, separate income support,
-debt/cash limits and three years. The new [assumptions](../../2026-10-commitment-reconciliation/assumptions.json)
+debt/cash limits and three years. The new [assumptions](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-commitment-reconciliation/assumptions.json)
 combine in year 2 the previously separate 10% revenue loss, 20 million CU
 extra income-support need and 10% loss of available care staff. They also
 assume a 10% loss of available staff in each of the gross justice/safety/defense
@@ -64,12 +64,12 @@ Use genuine new-project phasing as one elected option; existing duties
 retain their force and missed due claims remain visible. This is a research
 selection about the country design, not adoption of a governing method.
 
-The [model](../../2026-10-commitment-reconciliation/model.py),
-[complete results](../../2026-10-commitment-reconciliation/results.json) and
-[validation](../../2026-10-commitment-reconciliation/validation.json)
+The [model](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-commitment-reconciliation/model.py),
+[complete results](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-commitment-reconciliation/results.json) and
+[validation](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-commitment-reconciliation/validation.json)
 pin historical sources, reproduce the original results and check separate
 cash/debt identities, carried arrears, staffing gaps and preserved unknowns.
-The [decision record](../../2026-10-commitment-reconciliation/decision-record.md)
+The [decision record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-commitment-reconciliation/decision-record.md)
 records alternatives, objections and migration. Neither numerical consistency
 nor document coverage establishes lawful authority, adequate benefit levels,
 subannual payment, safe shifts, import access, ecological feasibility,

@@ -17,11 +17,11 @@ specifies that interface rather than claiming foreign harm had no protection.
 | Who enforces? | Existing Work Standards and designated protected environment case officers with express civil functions | New expertise/workload, public-buyer conflicts, ministerial budget capture |
 | What exit? | Stop own contribution promptly; reasoned finite response/withdrawal with actual due payments and feasible mitigation | No invented supplier consent, replacement livelihood or essential stock |
 
-[Adverse cases](../../2026-11-cross-border-buying-and-shared-responsibility/adverse-cases.md)
+[Adverse cases](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-cross-border-buying-and-shared-responsibility/adverse-cases.md)
 challenge the clauses; these are authored scenarios, not actual worker testimony.
-[Decision](../../2026-11-cross-border-buying-and-shared-responsibility/decision-record.md)
+[Decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-cross-border-buying-and-shared-responsibility/decision-record.md)
 compares retain/repair and worker-led structural alternatives, plus stronger
-strict-chain/import-exclusion regimes. [Source inspection](../../2026-11-cross-border-buying-and-shared-responsibility/sources.md)
+strict-chain/import-exclusion regimes. [Source inspection](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-cross-border-buying-and-shared-responsibility/sources.md)
 distinguishes captured UN guidance, a same-family handbook, OECD browser-only
 metadata and empirical evidence not obtained. More guidance is not an efficacy
 result or a new legal mandate.

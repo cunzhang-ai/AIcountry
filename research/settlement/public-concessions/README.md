@@ -10,5 +10,5 @@ Keep actual legal exposure, cash deadlines and performance separate.
   records the scope and limits of public audits and a guarantee report.
 - [Water renewal and a shared shock](02-water-renewal-and-shared-exposure.md)
   tests two delivery modes and a lawful repair bridge on one budget.
-- [Choice, scrutiny and migration](../../2026-11-public-concessions-and-future-budget-control/decision-record.md)
+- [Choice, scrutiny and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-public-concessions-and-future-budget-control/decision-record.md)
   names the prospective rule, competing cases and successor duties.

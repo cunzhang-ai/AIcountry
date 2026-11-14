@@ -83,4 +83,4 @@ funded route.
 [Insurance claims](../../C06/44/04-insurance-promises-and-claims.md) ·
 [Secured realization](../../C08/26/03-buyers-default-and-realization.md) ·
 [Worked comparison](../../../settlement/disaster-insurance-and-housing-repair/01-temporary-housing-and-first-repair.md) ·
-[Decision and evidence](../../../2026-11-disaster-insurance-and-housing-repair/decision-record.md)
+[Decision and evidence](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-disaster-insurance-and-housing-repair/decision-record.md)

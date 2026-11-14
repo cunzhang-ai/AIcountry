@@ -66,7 +66,7 @@ a material revision, mismatched settlement, uncovered duty,
 changed scope or a stronger same-baseline alternative.
 
 [Observed quarter and worked release test](../../../settlement/opening-debt-and-cash-window/01-denmark-opening-quarter-and-release.md)
-· [Decision and migration](../../../2026-11-opening-debt-and-cash-window/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-opening-debt-and-cash-window/decision-record.md)
 
 [T61–T66](15-local-cash-and-national-budget.md) matches the local and national
 sides of the opening transfer and tests actual receipt.

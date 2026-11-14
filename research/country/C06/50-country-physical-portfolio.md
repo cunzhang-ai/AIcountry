@@ -19,7 +19,7 @@ No national crop quota, official diet or technical rationing power is enacted.
 | [What remains and next choice](50/06-democracy-and-country-next.md) | Preserve unknown national scope and resolve the democratic capacity gap next |
 
 [Comparison](../../settlement/physical-portfolio/README.md) ·
-[Dated decision](../../2026-11-country-physical-portfolio/decision-record.md) ·
+[Dated decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-country-physical-portfolio/decision-record.md) ·
 [Commitment dependencies](../../settlement/commitments/40-country-physical-portfolio.md)
 
 The reference remains 100,000 people, 50,000 occupied homes and all 75,000 retained

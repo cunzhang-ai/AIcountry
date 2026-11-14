@@ -85,7 +85,7 @@ urgent harm or integrated source failure, not the newest study's local curiosity
 
 No actual ratifying public, adopted tax law, treaty, qualified roster, source,
 independent professional/affected review, remedy receipt or better lives is proved.
-The [decision](../../../2026-11-civil-tax-and-public-revenue/decision-record.md)
+The [decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-civil-tax-and-public-revenue/decision-record.md)
 records assumptions, objections and support limits. Reopen on coerced filing,
 political selection, inaccessible full merits, noncash cash-floor loss, residence
 arbitrage, exhausted review/source access, late refund or a stronger whole rival.

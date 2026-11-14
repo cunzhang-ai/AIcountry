@@ -4,6 +4,6 @@
 assigns the competent elected fee and benefit sources, dated temporary
 relief, service capacity and independent correction separately.
 
-The [decision](../../2026-11-coordinated-benefit-withdrawal/decision-record.md)
+The [decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-coordinated-benefit-withdrawal/decision-record.md)
 retains phased, universal and less assessment-dependent alternatives.
 Actual costs, statutory scope and receiving remain open.

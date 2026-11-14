@@ -34,4 +34,4 @@ rent/reserve and care-adaptation funding; it is not another entire G bill. Named
 health/care/route 355.231333 m direct or 363.563493 m mixed are not a full current
 national budget/deficit/lower bound. Unpriced all 37/current increments stay open.
 
-[Comparison](../life-needs/README.md) · [Unfinished national sources](../../status/completion/31-life-needs-and-national-sources.md)
+[Comparison](../life-needs/README.md) · [Unfinished national sources](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/status/completion/31-life-needs-and-national-sources.md)

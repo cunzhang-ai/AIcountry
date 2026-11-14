@@ -42,5 +42,5 @@ also fails, 12 care-hours remain uncovered even if other general
 staff time is available. A successful trial cannot override consent,
 qualification or a due care visit.
 
-The [decision record](../../2026-11-technology-gains-and-paid-time/decision-record.md)
+The [decision record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-technology-gains-and-paid-time/decision-record.md)
 retains the alternatives and source limits. All figures are authored.

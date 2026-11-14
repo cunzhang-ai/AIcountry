@@ -108,4 +108,4 @@ under coincident voting, litigation and service demand. A real political
 judgment and subsequent outcomes remain separate from the constructed
 comparison.
 
-[Decision and preserved predecessor](../../2026-11-public-reconsideration/decision-record.md).
+[Decision and preserved predecessor](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-public-reconsideration/decision-record.md).

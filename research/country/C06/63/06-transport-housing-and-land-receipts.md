@@ -69,4 +69,4 @@ effective retained option becomes available. Preserve original
 contracts, dates and remedies through a changed project.
 
 [Finance sources and household comparison](../../../settlement/transport-housing-and-land-receipts/01-affordable-access-and-dated-finance.md)
-· [Decision and migration](../../../2026-11-transport-housing-and-land-receipts/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-transport-housing-and-land-receipts/decision-record.md)

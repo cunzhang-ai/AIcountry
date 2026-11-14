@@ -29,4 +29,4 @@ and planned private tax/rent are not actual available cash after a failed path.
 No rate/levy/office/penalty/guarantee/cap/priority/clock/sovereign-money power is
 added. OP paid exact succession protects pending duties/records/cases/contract/
 worker/creditor/pension/foreign rights. Unfamiliar future needs remain admissible.
-[Comparison](../source-claims/README.md) · [Remaining gaps](../../status/completion/34-country-sources-and-physical-gaps.md)
+[Comparison](../source-claims/README.md) · [Remaining gaps](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/status/completion/34-country-sources-and-physical-gaps.md)

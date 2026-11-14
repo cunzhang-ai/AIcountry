@@ -96,7 +96,7 @@ staff, sources and fair trial through migration.
 [Protected criminal receipt](../12/03-investigation-and-liberty.md)
 · [Outside-command review](06-case-direction-and-independent-abuse-cases.md)
 · [Worked service and evidence cases](../../../settlement/crime-intake-review/README.md)
-· [Design250 decision](../../../2026-11-crime-intake-and-review-before-evidence-loss/decision-record.md)
+· [Design250 decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-crime-intake-and-review-before-evidence-loss/decision-record.md)
 
 [PFR01–PFR05](../../C06/67-payment-scam-recovery-and-protected-funds.md)
 supplies a candidate financial route for an expiring scam transaction.

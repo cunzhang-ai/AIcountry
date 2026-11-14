@@ -40,7 +40,7 @@ payment scope. Old stronger rights/actual dates, prior TW stages, AS obligations
 judgments and nonretaliatory continuity survive. New procedures do not self-adopt;
 missing capacity remains non-delivery and requires elected source decisions.
 
-[The117 crosswalk correction](../../2026-11-work-contracts-and-collective-power/function-crosswalk.json)
+[The117 crosswalk correction](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-work-contracts-and-collective-power/function-crosswalk.json)
 repairs seven current110–116 dependency descriptions and their current metadata.
 Original37/61 objects/bids/actual-null fields and dated editions remain unchanged.
 Past exact-byte/arithmetical checks did not establish correct semantic attribution;

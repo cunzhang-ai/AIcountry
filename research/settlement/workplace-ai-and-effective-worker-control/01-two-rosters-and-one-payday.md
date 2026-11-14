@@ -1,6 +1,6 @@
 # Two care rosters and one pay correction
 
-*Design384 · Constructed comparison with [primary records](../../2026-11-workplace-ai-and-effective-worker-control/sources.md).*
+*Design384 · Constructed comparison with [primary records](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-workplace-ai-and-effective-worker-control/sources.md).*
 
 The ordinary qualified roster uses 84 paid hours of care and
 16 paid hours of scheduling each week. A proposed scheduler claims

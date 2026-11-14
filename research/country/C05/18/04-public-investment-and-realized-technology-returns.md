@@ -67,4 +67,4 @@ audit is controlled by the recipient, or a better ordinary or
 open route protects the same outcomes.
 
 [Matched investment comparison](../../../settlement/public-technology-returns/README.md)
-· [Decision and migration](../../../2026-11-public-investment-and-realized-technology-returns/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-public-investment-and-realized-technology-returns/decision-record.md)

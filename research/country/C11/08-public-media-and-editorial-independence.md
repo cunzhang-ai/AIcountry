@@ -25,7 +25,7 @@ public/cooperative exception to worker rights or alter ordinary enterprises.
 The selected public service is not a grant allocator for all journalism. Existing
 lawful independent/private/community media, KR grants and MP/PD rights remain.
 No-central-public-outlet plus direct support and distributed community/common
-provision remain real [rival architectures](../../2026-11-public-media-and-editorial-independence/decision-record.md).
+provision remain real [rival architectures](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-public-media-and-editorial-independence/decision-record.md).
 This choice accepts concentration, occupational capture, cost and deadlock risks;
 public control means an enforceable purpose and lawful replacement of the method,
 not an incumbent's power to commission flattering stories or censor criticism.

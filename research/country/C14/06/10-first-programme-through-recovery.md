@@ -72,4 +72,4 @@ ordinary service, shared staff failure or a better feasible schedule.
 [Joint continuity budget](../../C06/65-joint-continuity-and-first-budget.md) ·
 [Integrated first programme](05-integrated-first-government-programme.md) ·
 [Two-period comparison](../../../settlement/first-programme-through-recovery/01-restoration-and-new-demand.md) ·
-[Decision and evidence](../../../2026-11-first-programme-through-recovery/decision-record.md)
+[Decision and evidence](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-first-programme-through-recovery/decision-record.md)

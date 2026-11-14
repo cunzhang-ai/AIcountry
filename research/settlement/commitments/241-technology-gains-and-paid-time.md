@@ -5,6 +5,6 @@ allocates observed net time through lawful bargaining, dated public
 finance and qualified receiving. Pay for transition and fallback and
 retain accrued time, pay and service claims through a change of operator.
 
-The [decision](../../2026-11-technology-gains-and-paid-time/decision-record.md)
+The [decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-technology-gains-and-paid-time/decision-record.md)
 retains existing repair and different allocations as alternatives.
 Actual paid free time, service outcomes and qualified costs remain open.

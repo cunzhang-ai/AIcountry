@@ -7,7 +7,7 @@ correction and paid receiving. Keep underpayment, possible recovery and
 missing proof distinct.
 
 [Evidence and fictional replay](../../settlement/public-rules/README.md)
-· [Decision and transition](../../2026-11-public-rules-and-verifiable-implementation/decision-record.md)
+· [Decision and transition](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-public-rules-and-verifiable-implementation/decision-record.md)
 
 The case is reproducible. Actual qualified legal and delivery
 capacity, rights changes and better outcomes remain unestablished.

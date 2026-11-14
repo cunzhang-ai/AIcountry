@@ -48,7 +48,7 @@ defeat a readiness/superiority claim and need paid ordinary elected repair.
 
 Two AI agents provided fresh conceptual critique; their shared task/controller
 and source dependencies mean this is not independent empirical or affected
-review. Corrections are [recorded](../../2026-11-critical-power-and-democratic-loss/review-disposition.md).
+review. Corrections are [recorded](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-critical-power-and-democratic-loss/review-disposition.md).
 The review inspected selected substantive country/rights/source dependencies,
 not every clause or a full-priced country. All twelve whole-goal requirements
 remain in the [completion criteria](../../status/completion/01-objective-and-proof.md).

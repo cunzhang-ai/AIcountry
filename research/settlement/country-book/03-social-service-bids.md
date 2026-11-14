@@ -22,7 +22,7 @@ requirements remain unknown for every row.
 | L11 Ordinary food production, access, nutrition and safety | 13.129 | Food-supply stewardship, personal-access services and separate food-safety actors |
 
 The [resource components](01-resource-components.md) allocate each shared
-payroll/purchase item once; the [full results](../../2026-10-country-operating-book/results.json)
+payroll/purchase item once; the [full results](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-country-operating-book/results.json)
 retain exact shares and amounts. Existing sector law and independent
 correction remain separate. A classifier cannot reassign a person’s claim.
 

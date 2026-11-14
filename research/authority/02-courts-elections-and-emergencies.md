@@ -61,7 +61,7 @@ The cabinet negotiates within that mandate. AI may translate, model and compare
 terms; it has no independent treaty veto or signature on behalf of the people.
 Existing treaty duties cannot be cancelled by publishing a new research edition.
 
-The [defense decision](../2026-10-defense-and-war/decision-record.md) proposes a
+The [defense decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-defense-and-war/decision-record.md) proposes a
 different clock for armed force, separate from constitutional emergency expiry.
 Prior law permits immediately necessary territorial defense; the cabinet records
 the basis and notifies the Assembly's protected channel within a proposed 24 hours.

@@ -52,4 +52,4 @@ model. AI may help reconcile the record. Restored access supplies no
 evidence that its decisions are correct or that residents received care.
 
 [Joint handover and service comparison](../../../settlement/government-handover-and-essential-service/01-one-handover-three-protected-deadlines.md)
-· [Decision and migration](../../../2026-11-government-handover-and-essential-service/decision-record.md).
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-government-handover-and-essential-service/decision-record.md).

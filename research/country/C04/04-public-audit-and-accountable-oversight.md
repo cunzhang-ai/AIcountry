@@ -34,7 +34,7 @@ fine/recovery source or automatic loss liability. Separate external examination
 covers the office itself without AG approval or indefinite provider holdover.
 
 [Comparison/dependencies](../../settlement/public-audit/README.md) and the
-[decision](../../2026-11-public-audit-and-accountable-oversight/decision-record.md)
+[decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-public-audit-and-accountable-oversight/decision-record.md)
 retain career/collegial/audit-court/public alternatives and material objections.
 All new costs, actual authority/affected independence/qualified staff/received
 remedies and superiority remain unverified. A1 positive choice is supplied;

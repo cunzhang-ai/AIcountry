@@ -74,4 +74,4 @@ or certify delivery. Reopen on repeat delay, missing evidence,
 cash exhaustion or a less burdensome qualified ordinary route.
 
 [Historical evidence and matched reserve case](../../../settlement/independent-remedy-execution/README.md)
-· [Decision and migration](../../../2026-11-independent-remedy-execution-and-second-call/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-independent-remedy-execution-and-second-call/decision-record.md)

@@ -6,6 +6,6 @@ compensated flexibility, protected reserves and remaining repairs
 on a common dated account without joining their authority.
 
 [Observed and authored checks](../../settlement/water-power-and-catchment-limits/README.md)
-· [Decision and migration](../../2026-11-water-power-and-catchment-limits/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-water-power-and-catchment-limits/decision-record.md)
 
 Actual authority, source, costs and receiving remain open.

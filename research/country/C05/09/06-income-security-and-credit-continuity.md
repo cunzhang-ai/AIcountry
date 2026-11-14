@@ -50,7 +50,7 @@ neither is an actuarial price. Preserve stronger source-law credits, old earned
 units, indexation, survivor claims, pending cases and actual due dates.
 
 **IC20 — Revise the evidence claim, not people's rights.** The
-[original-evidence review](../../../2026-11-income-security-and-credit-continuity/sources.md)
+[original-evidence review](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-income-security-and-credit-continuity/sources.md)
 qualifies the old preliminary Finnish citation and distinguishes income,
 conditionality, employment, survey experience and recorded health. It does not
 identify a universal national financing, retirement or service-delivery effect.

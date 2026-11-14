@@ -4,4 +4,4 @@
 charges protected correction once before optional release and preserves
 actual legal claims after binding.
 
-[Comparison](../integrated-first-programme/05-protected-corrections-and-options.md) · [Decision and migration](../../2026-11-protected-corrections-and-first-budget/decision-record.md)
+[Comparison](../integrated-first-programme/05-protected-corrections-and-options.md) · [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-protected-corrections-and-first-budget/decision-record.md)

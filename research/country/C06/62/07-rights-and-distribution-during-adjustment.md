@@ -75,4 +75,4 @@ missed restoration or a simpler effective lawful adjustment.
 [Authorized fiscal execution](04-fiscal-adjustment-and-authorized-execution.md) ·
 [Equal standing](../../C02/05-equal-standing-and-differentiated-needs.md) ·
 [Worked comparison](../../../settlement/rights-during-fiscal-adjustment/01-two-adjustments-and-one-service-floor.md) ·
-[Decision and evidence](../../../2026-11-rights-during-fiscal-adjustment/decision-record.md)
+[Decision and evidence](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-rights-during-fiscal-adjustment/decision-record.md)

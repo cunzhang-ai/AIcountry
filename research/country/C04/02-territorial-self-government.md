@@ -6,7 +6,7 @@ The country protects cultural and collective rights and a usable route to seek
 territorial change. Design143 replaces the open-ended design55 initiation promise
 with a selected procedure. It does not select an actual territory or manufacture
 founding authority. The exact design142 predecessor is preserved in the
-[dated baseline](../../2026-11-territorial-status-and-constitutional-coherence/baseline.json).
+[dated baseline](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-territorial-status-and-constitutional-coherence/baseline.json).
 
 | Canonical part | Decision |
 |---|---|

@@ -33,7 +33,7 @@ displayed difference. No observation supplies general Treasury
 headroom or a daily payment minimum. There is no inferred
 mapping of these entities to the OFF3 subsectors. Public employer,
 other pension and local care liabilities remain separate and
-unpriced here. [Primary reports and scope](../../2026-11-retirement-funds-and-opening-budget/sources.md).
+unpriced here. [Primary reports and scope](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-retirement-funds-and-opening-budget/sources.md).
 
 ## Constructed delayed-transfer case
 

@@ -43,6 +43,6 @@ signed expansion contract stays in the schedule; lawful renegotiation,
 exit or additional source needs its own decision. Do not remove the pump
 or reclassify an unavailable school seat to make the totals fit.
 
-The [decision record](../../2026-11-renewal-and-future-budget-capacity/decision-record.md)
+The [decision record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-renewal-and-future-budget-capacity/decision-record.md)
 contains sources, alternatives and reopening. All figures and dates are
 constructed. They do not establish actual capacity or a fiscal optimum.

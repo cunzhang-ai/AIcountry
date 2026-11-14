@@ -15,7 +15,7 @@ policy and funding in public under their own law.
 | [OM07–OM12. Public scrutiny and independent operation](13/02-scrutiny-independence-and-succession.md) | Minority access to scrutiny, appointments, funded continuity, review of the office and lawful transition |
 
 [Worked comparison](../../settlement/public-ombuds-and-systemic-correction/01-hidden-intake-and-a-missed-care-deadline.md)
-· [Decision and evidence](../../2026-11-public-ombuds-and-systemic-correction/decision-record.md).
+· [Decision and evidence](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-public-ombuds-and-systemic-correction/decision-record.md).
 
 Actual appointment, affected-party participation, cost, effective
 independence and improved outcomes remain unverified.

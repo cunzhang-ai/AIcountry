@@ -13,7 +13,7 @@ are distinct. Qualified necessary maintenance cannot be voted away.
 
 [Adversarial routes and real rivals](01-adversarial-routes-and-rivals.md)
 retain concentrated ownership, low turnout, poverty, connected contractors,
-minority intrusion and court/source failure. [Decision and sources](../../2026-11-shared-buildings-and-neighbor-rights/decision-record.md)
+minority intrusion and court/source failure. [Decision and sources](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-shared-buildings-and-neighbor-rights/decision-record.md)
 pin the predecessor and original scope. Authored vote/share/bill examples test
 only numerical consistency; no actual resident consent, structural safety or
 independent adjudication is computed.

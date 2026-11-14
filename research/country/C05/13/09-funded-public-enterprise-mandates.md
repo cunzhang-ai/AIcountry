@@ -83,7 +83,7 @@ direct provision or open contracting performs better.
 [Budget and payments](../../C06/60/02-appropriations-commitments-and-payment.md) ·
 [Concessions and future budgets](../../C06/64-public-concessions-and-future-budget-control.md) ·
 [Worked comparison](../../../settlement/public-enterprise-mandates/01-rural-transit-and-two-budgets.md) ·
-[Decision and evidence](../../../2026-11-funded-public-enterprise-mandates/decision-record.md)
+[Decision and evidence](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-funded-public-enterprise-mandates/decision-record.md)
 
 [PL13–PL20](../../C06/64/04-public-asset-disposal-and-control.md)
 keeps a funded public-service mandate through material ownership

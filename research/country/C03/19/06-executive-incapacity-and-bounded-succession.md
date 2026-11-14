@@ -122,6 +122,6 @@ expired actor's accepted direction, failed independent review or
 a stronger arrangement that preserves ordinary replacement.
 
 [Worked comparison](../../../settlement/executive-incapacity-and-bounded-succession/01-two-signatures-and-a-due-payment.md)
-· [Decision and evidence](../../../2026-11-executive-incapacity-and-bounded-succession/decision-record.md).
+· [Decision and evidence](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-executive-incapacity-and-bounded-succession/decision-record.md).
 
 [Worked case with no caretaker officer available](../../../settlement/democratic-control-through-service-continuity/01-vacancy-and-standing-service.md).

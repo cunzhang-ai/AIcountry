@@ -79,4 +79,4 @@ bodies decide public obligations. Reopen on hidden agenda control,
 unusable evidence, recurring exclusion or a better equivalent route.
 
 [Worked replacement during a live decision](../../settlement/civic-media-and-democratic-replacement/01-two-media-and-one-floor-decision.md)
-· [Decision and migration](../../2026-11-civic-media-and-democratic-replacement/decision-record.md).
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-civic-media-and-democratic-replacement/decision-record.md).

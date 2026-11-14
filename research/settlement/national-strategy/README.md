@@ -9,10 +9,10 @@ conditional U+C2/C1/C0, provider/ownership and actual RF/MC boundaries continue.
 
 | Artifact | Meaning and limit |
 |---|---|
-| [Decision](../../2026-11-national-production-and-source-strategy/decision-record.md) | Whole paths, actual selection, objection, authority and continuity |
-| [Inputs](../../2026-11-national-production-and-source-strategy/inputs.json), [model](../../2026-11-national-production-and-source-strategy/model.py), [results](../../2026-11-national-production-and-source-strategy/results.json) | Seven independent authored sector circuits; no rescaling to national GDP/deficit/output |
-| [Sources](../../2026-11-national-production-and-source-strategy/sources.md) | Original accounting explanations inspected, retrieval/source families and lack of calibration |
-| [Pins](../../2026-11-national-production-and-source-strategy/source-manifest.json), [checks](../../2026-11-national-production-and-source-strategy/validate.py), [report](../../2026-11-national-production-and-source-strategy/validation.json) | Preservation, sector/title/foreign/authority arithmetic and adverse inputs; no social or operational certification |
+| [Decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-national-production-and-source-strategy/decision-record.md) | Whole paths, actual selection, objection, authority and continuity |
+| [Inputs](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-national-production-and-source-strategy/inputs.json), [model](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-national-production-and-source-strategy/model.py), [results](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-national-production-and-source-strategy/results.json) | Seven independent authored sector circuits; no rescaling to national GDP/deficit/output |
+| [Sources](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-national-production-and-source-strategy/sources.md) | Original accounting explanations inspected, retrieval/source families and lack of calibration |
+| [Pins](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-national-production-and-source-strategy/source-manifest.json), [checks](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-national-production-and-source-strategy/validate.py), [report](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-national-production-and-source-strategy/validation.json) | Preservation, sector/title/foreign/authority arithmetic and adverse inputs; no social or operational certification |
 
 The baseline circuit has 150u public net borrowing, 120u domestic private net
 lending and 30u rest-of-world net lending. Selling 30f publicly owned foreign assets
@@ -36,7 +36,7 @@ unchanged100,000-person current reference/all 37 function actual-null interfaces
 remain separate; its source/cash peaks are not inserted as sector net borrowing.
 
 [Commitment continuity](../commitments/46-national-production-and-source-strategy.md)
-and [completion disposition](../../status/completion/41-national-strategy-and-observed-comparison.md)
+and [completion disposition](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/status/completion/41-national-strategy-and-observed-comparison.md)
 retain the unprovided production/source/context, paid transition, independent
 affected judgment and observed-outcome requirements. Next use one published
 whole-economy baseline to discriminate this strategy and genuine whole rivals.

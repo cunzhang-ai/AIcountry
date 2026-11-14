@@ -86,4 +86,4 @@ exceptions or a simpler approach that secures equivalent protection.
 [Neighbor remedies](14/04-neighbor-use-remedies-and-transition.md) ·
 [Safe mobility](11-safe-infrastructure-and-mobility.md) ·
 [Two-neighborhood comparison](../../settlement/sleep-and-cumulative-noise/01-night-exposure-across-two-neighborhoods.md) ·
-[Decision and evidence](../../2026-11-sleep-and-cumulative-noise/decision-record.md)
+[Decision and evidence](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-sleep-and-cumulative-noise/decision-record.md)

@@ -12,7 +12,7 @@ address influence through cash/distribution, not just the head's job title.
 
 [Adversarial situations](01-adversarial-control-and-rivals.md) retain source,
 occupational/political capture, missed appointments, funding/court failure and
-popular-replacement objections. The [decision](../../2026-11-public-media-and-editorial-independence/decision-record.md)
+popular-replacement objections. The [decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-public-media-and-editorial-independence/decision-record.md)
 compares no central public outlet/direct support and distributed community/common
 provision. Both remain meaningful rivals; this candidate has no empirical winner.
 

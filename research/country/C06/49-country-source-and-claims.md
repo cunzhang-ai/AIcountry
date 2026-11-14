@@ -16,7 +16,7 @@ base solved to make the country pass. All numerical inputs remain authored.
 | [Missing sources and next country choice](49/05-unfinished-sources-and-next.md) | No invented production or source yield; next physical portfolio comparison |
 
 [Comparison](../../settlement/source-claims/README.md) ·
-[Dated record](../../2026-11-country-source-and-claims/decision-record.md) ·
+[Dated record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-country-source-and-claims/decision-record.md) ·
 [Commitment dependencies](../../settlement/commitments/39-country-source-and-claims.md)
 
 The reference follows an authored mature2030 cross-section of100,000 people/

@@ -38,7 +38,7 @@ that can lawfully pay on time. If independent review cannot reach both
 cases, retain original dates and expose the unanswered act and usable
 urgent remedy. An available payment rail supplies no review staff.
 
-The [decision record](../../2026-11-public-record-loss-and-rights/decision-record.md)
+The [decision record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-public-record-loss-and-rights/decision-record.md)
 retains the allocation of proof risk, comparators and reopening test.
 These amounts and timings are constructed, with no field or fiscal
 estimate inferred.

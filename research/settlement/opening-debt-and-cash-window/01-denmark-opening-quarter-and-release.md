@@ -36,7 +36,7 @@ of 1.919038. The source tables have different purposes and
 precision. The residual remains unexplained here. The account
 balance gives no intramonth minimum, unrestricted amount, or
 evidence that an individual court or service was paid. See
-[original releases and definitions](../../2026-11-opening-debt-and-cash-window/sources.md).
+[original releases and definitions](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-opening-debt-and-cash-window/sources.md).
 
 ## Constructed decision on the same dates for each alternative
 

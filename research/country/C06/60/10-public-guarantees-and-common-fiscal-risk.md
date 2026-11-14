@@ -88,4 +88,4 @@ on hidden exposure, weak stress, delayed payment or a better
 qualified alternative.
 
 [Worked simultaneous calls and primary evidence](../../../settlement/public-guarantees-and-common-fiscal-risk/01-two-guarantees-and-one-due-date.md)
-· [Decision and migration](../../../2026-11-public-guarantees-and-common-fiscal-risk/decision-record.md).
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-public-guarantees-and-common-fiscal-risk/decision-record.md).

@@ -26,7 +26,7 @@ securities and internal transfers are no repeated national source or free staff.
 
 All37 complete original functions,61 selections,111 inherited reference objects
 and prior source-hash values remain exact. The functional census stays open.
-The [decision](../../2026-11-development-permission-and-serviced-land/decision-record.md)
+The [decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-development-permission-and-serviced-land/decision-record.md)
 selects a rejectable research candidate. Actual land/claims/capacity/cost/source,
 independent affected/legal authority, readiness and better lives remain unknown;
 all five new actual-evidence fields remain null. Existing actual constitution,

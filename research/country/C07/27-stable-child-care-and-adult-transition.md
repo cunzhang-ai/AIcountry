@@ -15,4 +15,4 @@ to govern removal, court review, stable family care and adoption.
 | [YC09–YC12. Adulthood and succession](27/03-voluntary-transition-and-succession.md) | Preserve adult agency, offer an accepted transition and keep actual claims and funded successors through implementation. |
 
 [Observed comparator and a two-cohort case](../../settlement/stable-child-care/README.md)
-· [Decision, alternatives and migration](../../2026-11-stable-child-care-and-adult-transition/decision-record.md)
+· [Decision, alternatives and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-stable-child-care-and-adult-transition/decision-record.md)

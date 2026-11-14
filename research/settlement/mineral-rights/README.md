@@ -20,7 +20,7 @@ are different. New operating/phase/closure safeguards apply regardless of title.
 [Control, alternatives and source limits](01-control-source-and-rivals.md) retains
 private-title+regulation, direct public production and leaving resources in place.
 Capital-default versus ordinary current-budget use is a separate real value
-choice. [Decision/source/critique](../../2026-11-finite-resources-and-mineral-rights/decision-record.md)
+choice. [Decision/source/critique](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-finite-resources-and-mineral-rights/decision-record.md)
 records same-controller AI corrections, not independent affected/field/legal
 approval. No actual deposit, title, bid, closure cost, source or superior lives
 is established. The original37-row census is extended, not proved exhaustive.

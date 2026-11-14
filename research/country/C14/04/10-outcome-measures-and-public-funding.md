@@ -81,4 +81,4 @@ persistent suppression, shared control of sources, recurrent unverified
 reward, damaged care or an equally effective simpler rule.
 
 [Two payment designs on the same population](../../../settlement/outcome-measures-and-public-funding/01-when-measured-success-pays.md)
-· [Decision and migration](../../../2026-11-outcome-measures-and-public-funding/decision-record.md).
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-outcome-measures-and-public-funding/decision-record.md).

@@ -2,11 +2,11 @@
 
 Design100 research · [Current TA/RG/TX](../../country/C06/40-tax-law-and-accountable-revenue.md)
 
-[Cases](../../2026-11-civil-tax-and-public-revenue/cases.md),
-[inputs](../../2026-11-civil-tax-and-public-revenue/inputs.json),
-[model](../../2026-11-civil-tax-and-public-revenue/model.py),
-[results](../../2026-11-civil-tax-and-public-revenue/results.json) and
-[bounded checks](../../2026-11-civil-tax-and-public-revenue/validation.json)
+[Cases](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-civil-tax-and-public-revenue/cases.md),
+[inputs](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-civil-tax-and-public-revenue/inputs.json),
+[model](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-civil-tax-and-public-revenue/model.py),
+[results](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-civil-tax-and-public-revenue/results.json) and
+[bounded checks](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-civil-tax-and-public-revenue/validation.json)
 separate annual progressive tax, protected categories, payer credit versus G cash,
 threshold fallback, capital costs, foreign-credit cap, delivered noncash value,
 first-receipt refund bound, simple interest and original calendar/collection dates.
@@ -23,7 +23,7 @@ not silently discarded or treated as zero. Actual qualifications stay null.
 
 [Dependencies](../commitments/16-civil-tax-and-accountable-revenue.md) retain paid
 source/filing/employer/review/court/payer/interest and collection-loss obligations.
-[Decision](../../2026-11-civil-tax-and-public-revenue/decision-record.md) and
-[fresh scoped review](../../2026-11-civil-tax-and-public-revenue/received-review.json)
+[Decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-civil-tax-and-public-revenue/decision-record.md) and
+[fresh scoped review](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-civil-tax-and-public-revenue/received-review.json)
 retain whole rivals and material objections. National sources, nonpersonal taxes,
 actual participation/authority/operation and improved lives remain unproved.

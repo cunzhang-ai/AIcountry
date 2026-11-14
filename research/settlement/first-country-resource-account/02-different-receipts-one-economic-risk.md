@@ -21,7 +21,7 @@ contribution and other tax channels. The observations establish group overlap.
 They supply no estimate of correlated tax loss, national demand or worker
 availability after a shock. Use the original tables, which exclude corporation-tax receipts associated
 with the CJEU ruling from these breakdowns. [Irish Revenue report](https://www.revenue.ie/en/corporate/documents/research/ct-analysis-2026.pdf)
-· [Evidence and limits](../../2026-11-common-exposure-first-budget/sources.md).
+· [Evidence and limits](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-common-exposure-first-budget/sources.md).
 
 Ireland already distinguishes long-term support from an infrastructure,
 climate and nature fund that can support specified expenditures after

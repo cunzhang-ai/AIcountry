@@ -5,6 +5,6 @@ requires a qualified petition, valid affirmative recall and a distinct
 proportional replacement for the original term remainder. Fund ballot
 access, independent remedies, continuity and actual handover.
 
-The [decision](../../2026-11-local-council-recall/decision-record.md)
+The [decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-local-council-recall/decision-record.md)
 retains ordinary confidence and individual recall as real alternatives.
 Actual adoption, costs and local democratic outcomes remain open.

@@ -17,4 +17,4 @@ Nomination or office supplies no personal immunity.
    tests common capture, shortage and lawful handover.
 
 [Observed institutional evidence and a timed stress case](../../settlement/neutral-enforcement/README.md)
-· [Choice, constitutional basis and migration](../../2026-11-open-contests-and-neutral-enforcement/decision-record.md)
+· [Choice, constitutional basis and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-open-contests-and-neutral-enforcement/decision-record.md)

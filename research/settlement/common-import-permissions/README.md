@@ -49,4 +49,4 @@ window stay on their own clocks. Day 30's return can support a
 later authorized purchase, never backdate a receipt.
 
 [Scenario check](verify-common-permissions.py)
-· [Primary evidence and limits](../../2026-11-common-import-permissions-and-continuity/sources.md)
+· [Primary evidence and limits](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-common-import-permissions-and-continuity/sources.md)

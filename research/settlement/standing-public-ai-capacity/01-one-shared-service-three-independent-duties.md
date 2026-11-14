@@ -95,4 +95,4 @@ withholding a due act. Seek qualified direct evidence and voluntary accounts
 from residents who need language and disability access and from staff doing
 the work. No constructed count establishes performance in an actual country.
 
-[Canonical design](../../country/C11/09/21-standing-independent-public-capacity.md) · [Decision record](../../2026-11-standing-public-ai-capacity/decision-record.md).
+[Canonical design](../../country/C11/09/21-standing-independent-public-capacity.md) · [Decision record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-standing-public-ai-capacity/decision-record.md).

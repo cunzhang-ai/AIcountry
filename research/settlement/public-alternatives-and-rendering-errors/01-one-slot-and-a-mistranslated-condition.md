@@ -41,4 +41,4 @@ second route does not establish usable access. The stated numbers
 are assumptions. No actual public vote, staff, funding or effect
 is established.
 
-[Calculation](verify-rendering-correction.py) · [Decision](../../2026-11-public-alternatives-and-rendering-errors/decision-record.md).
+[Calculation](verify-rendering-correction.py) · [Decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-public-alternatives-and-rendering-errors/decision-record.md).

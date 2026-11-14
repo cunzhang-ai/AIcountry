@@ -61,7 +61,7 @@ AI can compare exact versions and flag collisions. It cannot vote,
 transfer assent or qualify its own implementing authority.
 
 [First sitting and candidate instruments](../../../settlement/first-assembly-legislative-programme/01-first-sitting-and-candidate-instruments.md)
-· [Decision and migration](../../../2026-11-first-assembly-legislative-programme/decision-record.md).
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-first-assembly-legislative-programme/decision-record.md).
 
 [Worked sitting without the shared workbench](../../../settlement/democratic-control-through-service-continuity/03-a-sitting-without-the-shared-workbench.md).
 

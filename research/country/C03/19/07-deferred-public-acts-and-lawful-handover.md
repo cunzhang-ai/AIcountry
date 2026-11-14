@@ -91,7 +91,7 @@ data and paid successors. Reopen on stale authority, blocked lawful
 continuity, unsupported reliance or a simpler qualified route.
 
 [Worked comparison](../../../settlement/deferred-public-acts-and-lawful-handover/01-two-instructions-across-a-handover.md)
-· [Decision and migration](../../../2026-11-deferred-public-acts-and-lawful-handover/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-deferred-public-acts-and-lawful-handover/decision-record.md)
 
 [HT39–HT43](09-public-authority-and-counterparty-reliance.md) gives external receivers a direct check
 and specifies a distinct claim for proved reliance on a public error.

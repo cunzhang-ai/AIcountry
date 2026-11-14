@@ -15,8 +15,8 @@ attributes the whole status/court/payment/care chain once.
 | [Rivals and disagreement](02-rivals-and-reopening.md) | Durable civic membership versus descent, controlled permits and narrow revocation |
 | [Sources and review limits](03-sources-and-review-limits.md) | Treaty texts, selected guidance, failures and normative choices |
 
-The [decision](../../2026-10-citizenship-and-secure-belonging/decision-record.md)
-and [489-artifact predecessor](../../2026-10-citizenship-and-secure-belonging/predecessor-design-80/SNAPSHOT.md)
+The [decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-citizenship-and-secure-belonging/decision-record.md)
+and [489-artifact predecessor](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-citizenship-and-secure-belonging/predecessor-design-80/SNAPSHOT.md)
 preserve why this complete conditional reference replaces the earlier open choice.
 No actual public, jurisdiction, source-law migration, foreign cooperation,
 qualified staff, funded reception, received remedy or superior outcome is supplied.

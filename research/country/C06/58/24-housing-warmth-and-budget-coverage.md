@@ -72,6 +72,6 @@ conditions change, missing groups face harm or a simpler option performs
 better across the same needs and costs.
 
 [Eurostat comparison and coverage bounds](../../../settlement/housing-warmth-and-budget-coverage/01-evidence-and-first-budget-choice.md)
-· [Decision and migration](../../../2026-11-housing-warmth-and-budget-coverage/decision-record.md).
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-housing-warmth-and-budget-coverage/decision-record.md).
 
 **Join the door and keep the remedies distinct.** Preserve supported intake and original receipt for urgent housing and warmth across the income threshold. Use controlled cash where suitable stock is reachable; preserve an authorized direct service when it is absent. Count net household incidence, uncovered groups and actual delivery in the same budget as the paid cover that makes service possible. [First living-standards budget](../../../settlement/first-living-standards-package/01-protect-life-and-release-time.md).

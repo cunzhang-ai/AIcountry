@@ -3,7 +3,7 @@
 [Canonical rules](../../country/C04/10-local-fiscal-recovery-and-debt.md)
 · [Observed budgets and legal comparators](01-observed-funding-and-distress.md)
 · [Worked local and national decision](02-two-localities-and-two-different-gaps.md)
-· [Original sources](../../2026-11-local-fiscal-recovery-and-debt/sources.md)
+· [Original sources](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-local-fiscal-recovery-and-debt/sources.md)
 
 | Arrangement | What it can solve | Where it can fail |
 |---|---|---|

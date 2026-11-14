@@ -16,7 +16,7 @@ It found no additional discretionary-cap sequestration required under
 section 251. Its scope explicitly separates the Joint Committee
 mechanism under section 251A. Keeping the two legal triggers distinct
 reconciles the apparently different accounts.
-[OMB final report, introduction](../../2026-11-fiscal-adjustment-and-paid-rights/original-sources/omb-final-2013.pdf)
+[OMB final report, introduction](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-fiscal-adjustment-and-paid-rights/original-sources/omb-final-2013.pdf)
 
 A subsequent GAO report uses updated HUD data. About 41,000 fewer
 very-low-income households received the covered rental vouchers at

@@ -82,4 +82,4 @@ People and institutions within their respective mandates determine
 consent, siting, eligibility and completion.
 
 [Historical evidence and matched comparison](../../../settlement/community-relocation/README.md)
-· [Decision and transition record](../../../2026-11-community-relocation-and-host-capacity/decision-record.md)
+· [Decision and transition record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-community-relocation-and-host-capacity/decision-record.md)

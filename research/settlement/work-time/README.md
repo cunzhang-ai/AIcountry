@@ -35,10 +35,10 @@ the floor at half-time. No national wage/tax gain is inferred without hours/jobs
 New public sickness cash has a general-revenue source requirement; an unchanged
 annual salary/absence reserve cannot also finance a second received benefit.
 
-[Inputs](../../2026-11-work-time-and-paid-capability/inputs.json),
-[calculation](../../2026-11-work-time-and-paid-capability/model.py),
-[results](../../2026-11-work-time-and-paid-capability/results.json) and
-[decision](../../2026-11-work-time-and-paid-capability/decision-record.md)
+[Inputs](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-work-time-and-paid-capability/inputs.json),
+[calculation](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-work-time-and-paid-capability/model.py),
+[results](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-work-time-and-paid-capability/results.json) and
+[decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-work-time-and-paid-capability/decision-record.md)
 preserve the exact scope. Source-law claims, actual rosters, wage/price responses,
 public sources, affected participation and better lives remain unqualified.
 Next household/space/tenure and physical repair/supply with matched jobs,

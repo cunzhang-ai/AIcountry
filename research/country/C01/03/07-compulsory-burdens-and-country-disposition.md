@@ -38,7 +38,7 @@ savings, or count an assumed freed worker twice. OP/T must name actual paid
 cover, retained capability, records, source and safe succession. A workforce/
 service change needs its competent lawful decision, practical alternative and
 continuing-rights protection; no vendor upgrade retires a human route by itself.
-The [current publisher evidence](../../../2026-11-whole-country-bargain-and-institutional-burden/sources.md)
+The [current publisher evidence](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-whole-country-bargain-and-institutional-burden/sources.md)
 qualifies access and redeployment assumptions; it supplies no national saving,
 causal winner or new data permission. Existing claims and earlier safe times
 continue even when the new route fails or its expected gain never appears.

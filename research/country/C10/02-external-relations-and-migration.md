@@ -8,7 +8,7 @@ disclosure of fiscal and rights effects. Refuge claims receive individual assess
 and effective remedies against prohibited return. Migration combines fair rules,
 integration resources and protection against arbitrary exclusion.
 
-The selected [external-relations approach](../../2026-10-life-systems-integration/external-relations-analysis.md)
+The selected [external-relations approach](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-life-systems-integration/external-relations-analysis.md)
 is accountable interdependence. Cabinet negotiates material trade, borrowing,
 security, resource and infrastructure commitments within a lawful mandate. The
 Assembly authorizes commitments that bind future budgets, rights or critical public

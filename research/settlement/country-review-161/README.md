@@ -7,7 +7,7 @@
 | [Fourteen chapters/twelve requirements](01-whole-country-findings.md) | Distinguish existing design, positive omission, unknown evidence and value conflict |
 | [Adverse paths and real rivals](02-adverse-control-and-whole-rivals.md) |16 written arguments across authority/source/child/staff/receiving/transition |
 | [ED01–ED20](../../country/C07/21-public-learning-and-school-power.md) | Canonical local employer/head/national inspector, learner/teacher power, safe site limits and paid succession |
-| [Dated decision](../../2026-11-learning-power-and-country-review/decision-record.md) | Preserved baseline, direct normative context/current revision limits, objections and compatibility |
+| [Dated decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-learning-power-and-country-review/decision-record.md) | Preserved baseline, direct normative context/current revision limits, objections and compatibility |
 
 160 closed the finite net-source/legacy bridge unresolved for actual national
 source/cost. This review does not start another pension table. Inspect14

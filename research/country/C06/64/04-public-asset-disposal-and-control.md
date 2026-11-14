@@ -117,6 +117,6 @@ capacity, collusion, changed valuation, retained risk or a stronger
 lawful alternative.
 
 [Worked comparison](../../../settlement/public-asset-disposal-and-control/01-three-options-for-one-depot.md)
-· [Decision and evidence](../../../2026-11-public-asset-disposal-and-control/decision-record.md).
+· [Decision and evidence](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-public-asset-disposal-and-control/decision-record.md).
 
 [Asset choice under a binding payment date](../../../settlement/recurring-finance-and-incidence/02-a-depot-and-a-binding-deadline.md).

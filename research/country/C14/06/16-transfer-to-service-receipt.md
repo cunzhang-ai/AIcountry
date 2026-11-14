@@ -61,4 +61,4 @@ proof path. An evidence failure remains visible in programme review
 while substantive duties retain their own law.
 
 [Observed grant schedule and worked test](../../../settlement/transfer-to-service-receipt/01-copenhagen-grant-settlement-and-receipt.md)
-· [Decision and migration](../../../2026-11-transfer-to-service-receipt/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-transfer-to-service-receipt/decision-record.md)

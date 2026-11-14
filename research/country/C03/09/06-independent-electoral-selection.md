@@ -83,4 +83,4 @@ dates. Reopen on common upstream control, impossible recruitment,
 displaced hearing capacity or a stronger democratic alternative.
 
 [Matched comparison](../../../settlement/independent-electoral-selection/README.md)
-· [Decision and migration](../../../2026-11-independent-electoral-selection/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-independent-electoral-selection/decision-record.md)

@@ -102,4 +102,4 @@ An adopter still needs the lawful authority, real usable evidence,
 affected participation, paying and receiving staff, funding and actual
 follow-through. This case exercises the design, with no estimate of
 comparative national performance.
-[Decision and predecessor](../../2026-11-emergency-accountability-and-repair/decision-record.md).
+[Decision and predecessor](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-emergency-accountability-and-repair/decision-record.md).

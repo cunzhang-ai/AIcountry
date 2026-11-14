@@ -15,8 +15,8 @@ counts courts, counsel, paid care, protected records and accepted receiving.
 3. [Sources and limits](03-sources-and-limits.md): inspected primary texts and
    what they do not establish for a country with no actual treaty/territory.
 
-The [decision](../../2026-10-conflict-detention-and-release/decision-record.md)
-preserves a [423-artifact predecessor](../../2026-10-conflict-detention-and-release/predecessor-design-76/SNAPSHOT.md).
+The [decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-conflict-detention-and-release/decision-record.md)
+preserves a [423-artifact predecessor](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-conflict-detention-and-release/predecessor-design-76/SNAPSHOT.md).
 Rules and cases are authored by the same AI controller, not independent legal
 review, detainee participation, actual orders or evidence of safer outcomes.
 No actual staffing, source finance, treaty compatibility or receipt is supplied.

@@ -30,10 +30,10 @@ own owners/rights and cannot count as insurer liquidity simultaneously.
 No probe prices recruitment, continuous on-call workers, valuers, courts, defense,
 foreign source/recognition, payment networks, receiving banks, household access,
 full public debt/interest, due services or observed welfare. They stay unknown,
-not zero. The [decision](../../2026-11-bank-failure-and-protected-payment/decision-record.md)
+not zero. The [decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-bank-failure-and-protected-payment/decision-record.md)
 retains plural-credit/narrow-payment, panel/chief/court-first and funded-U rivals.
 No model flag grants M09 votes, membership/coverage, a finding, source or receipt.
 
-[Inputs](../../2026-11-bank-failure-and-protected-payment/inputs.json) ·
-[Results](../../2026-11-bank-failure-and-protected-payment/results.json) ·
-[Checks](../../2026-11-bank-failure-and-protected-payment/validation.json)
+[Inputs](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-bank-failure-and-protected-payment/inputs.json) ·
+[Results](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-bank-failure-and-protected-payment/results.json) ·
+[Checks](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-bank-failure-and-protected-payment/validation.json)

@@ -18,7 +18,7 @@ something. Reported hours include unpaid/shadow adjustments, and D.1 includes
 actual/imputed employer contributions. Neither is qualified TW task availability,
 personal cash, free recruitment or actual public funding.
 
-[Three declared scalar cases](../../2026-11-whole-economy-work-and-source/results.json)
+[Three declared scalar cases](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-whole-economy-work-and-source/results.json)
 retain, uniformly scale37→36, or37→32 every employee's reported work, holding
 other work and old required quantities fixed with no gain/new labor/additional
 service. At32 the conditional gap is554.861million source-defined hours, and
@@ -26,7 +26,7 @@ same-composition/equal-annual-pay extra D.1 would be224.342bnDKK if real capacit
 were obtained. These are neither actual TW effects nor lower bounds/forecasts.
 The national sum cannot be fixed solely by transferring people between sectors.
 
-[Decision](../../2026-11-whole-economy-work-and-source/decision-record.md) keeps
+[Decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-whole-economy-work-and-source/decision-record.md) keeps
 TW/services and genuine retain/36/gain/production-composition rivals. It selects
 an explicit whole-work comparison, not a weaker promise, fiscal tax, new body
 or forced occupation. Actual qualified cover, altered output/incidence, cash,

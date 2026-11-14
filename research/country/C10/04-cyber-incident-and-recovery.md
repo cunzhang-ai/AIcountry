@@ -47,7 +47,7 @@ service or locality, the competent elected authority decides under prior law;
 incident staff can take bounded immediate safety actions only.
 
 Actual systems, threat actors, contracts, lawful security classifications
-and workforce are unknown. The [decision record](../../2026-10-service-boundaries/decision-record.md)
+and workforce are unknown. The [decision record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-service-boundaries/decision-record.md)
 compares sector ownership plus bounded coordination with a central cyber
 commander and uncoordinated sector response. Reopen if a tested shared
 failure cannot be contained in time, the coordinator accumulates political

@@ -47,7 +47,7 @@ resources, repeated bridging, accumulating arrears, or evidence
 that another lawful package performs better.
 
 [Continued four-payer comparison](../../../settlement/second-year-financing-and-service/01-four-payers-through-year-two.md)
-· [Decision](../../../2026-11-second-year-financing-and-service/decision-record.md)
+· [Decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-second-year-financing-and-service/decision-record.md)
 
 [T95–T99](21-ai-capacity-and-budget-release.md) brings independent evaluation
 and appeals into that same dated financing choice.

@@ -14,8 +14,8 @@ source, payment, ordinary and external shifts without adding a second standby.
 | [Sources and review limits](02-sources-and-review-limits.md) | Original documentary families, source age, failed retrieval and AI limits |
 | [Rivals and reopening](03-alternatives-and-reopening.md) | Compare dedicated review, a supreme-court bench and legislative finality |
 
-The [decision record](../../2026-10-final-constitutional-review/decision-record.md)
-and [474-artifact predecessor](../../2026-10-final-constitutional-review/predecessor-design-79/SNAPSHOT.md)
+The [decision record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-final-constitutional-review/decision-record.md)
+and [474-artifact predecessor](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-final-constitutional-review/predecessor-design-79/SNAPSHOT.md)
 preserve the selection and changed dependencies. Parameter arithmetic checks only
 verify declared denominators/cohorts/expiry examples. They do not adjudicate law,
 test independence, measure public consent or establish that the court can operate.

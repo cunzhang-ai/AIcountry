@@ -30,7 +30,7 @@ qualified roster, equipment inventory, budget or observed safety result is
 established. Existing lawful duties, pending claims and independent official-
 abuse investigations survive any authorized transition.
 
-[Country audit](../../status/completion/08-public-power-and-democratic-execution.md) · [Decision and sources](../../2026-11-public-power-and-democratic-execution/decision-record.md)
+[Country audit](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/status/completion/08-public-power-and-democratic-execution.md) · [Decision and sources](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-public-power-and-democratic-execution/decision-record.md)
 
 [RC11–RC15](../C10/13/03-scene-authority-communication-and-review.md) names
 civil rescue command and HP17 qualified public extraction executors. RC roles,

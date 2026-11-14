@@ -55,7 +55,7 @@ actual population/base joins them. No AI/family/foreign reserve is invented.
 
 ## Finite result and competing public choices
 
-[Fresh metadata and original definitions](../../2026-11-net-source-and-retirement-transition/sources.md)
+[Fresh metadata and original definitions](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-net-source-and-retirement-transition/sources.md)
 show why observed grouped summaries cannot be silently treated as linked
 individual entitlement/tax/source histories. This is a limit of evidence
 actually inspected, not a claim that no safe informative data could exist.
@@ -63,7 +63,7 @@ No actual microdata or affected-party comparison was obtained. Public-law
 continuity, separate agency judgments, protected provenance/assisted access and
 paid OP/T successors are required; no all-person database or central AI consent.
 
-[The ten retained cases](../../2026-11-net-source-and-retirement-transition/results.json)
+[The ten retained cases](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-net-source-and-retirement-transition/results.json)
 close the bounded159 task: mechanism checks completed, actual matched net-source/
 full-cost qualification unresolved. Retain/repair, service-first with express
 sources, U/services and different ownership/provider/time/security packages

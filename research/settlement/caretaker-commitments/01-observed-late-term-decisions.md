@@ -38,4 +38,4 @@ and an actual trigger, without a measured outcome for one urgent
 contract. They qualify different questions. Neither proves that
 this country's proposed scope would prevent strategic binding or
 that a shorter lawful option would always be available.
-[Source scope](../../2026-11-caretaker-commitments-and-public-choice/sources.md)
+[Source scope](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-caretaker-commitments-and-public-choice/sources.md)

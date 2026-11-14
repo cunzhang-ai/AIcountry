@@ -31,4 +31,4 @@ The inspected records supply no joined count of missed treatment,
 actual service continuity or comparative effects of staged release.
 [NHS recovery notice](https://www.england.nhs.uk/2024/07/updated-response-to-global-it-outage-22-july/)
 
-[Source custody and limitations](../../2026-11-shared-ai-dependencies-and-safe-changes/sources.md)
+[Source custody and limitations](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-shared-ai-dependencies-and-safe-changes/sources.md)

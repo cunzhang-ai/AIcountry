@@ -24,5 +24,5 @@ No new VD offence, punitive fine or retrospective GA punishment is selected.
 Before actual commencement, competent law and paid capable assessment/remedy
 must exist. Later capacity failure preserves scoped duties/ordinary relief and
 unrelated lawful inquiry. Accepted paid OP/T staff/pension/asset/contract/creditor/
-record/case/claim successors persist through replacement or repeal. [Decision](../../2026-11-general-ai-capability-and-democratic-control/decision-record.md)
+record/case/claim successors persist through replacement or repeal. [Decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-general-ai-capability-and-democratic-control/decision-record.md)
 separates proposed law from actual authority, readiness and better lives.

@@ -7,7 +7,7 @@ staff and acute receiving separately. Preserve lawful permits,
 source liability and outstanding remedies through transition.
 
 [Evidence and two-neighbourhood case](../../settlement/clean-air/README.md)
-· [Decision and transition](../../2026-11-clean-air-and-cumulative-exposure/decision-record.md)
+· [Decision and transition](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-clean-air-and-cumulative-exposure/decision-record.md)
 
 Actual costs, source attribution, usable measures and verified
 attainment remain open.

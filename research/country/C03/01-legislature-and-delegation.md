@@ -26,7 +26,7 @@ source/seven-day expiry, not a new generic Cabinet power. Old duties/claims,
 direct courts and paid received correction continue. [LR01–LR24](14-local-law-and-public-control.md) now gives local ordinances/
 delegated criteria their own full-n approval/input/agenda/source/remedy route;
 no national agency seizes local lawmaking.
-The [earlier general selection](../../2026-10-delegated-rulemaking/decision-record.md)
+The [earlier general selection](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-delegated-rulemaking/decision-record.md)
 is preserved as history, not a parallel current calendar. Neither ministerial
 guidance nor an AI update acquires sovereign authority by default.
 

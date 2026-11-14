@@ -7,4 +7,4 @@ access while a parliamentary decision can still change.
 
 - [Observed withholding and protected access](01-observed-withholding-and-protected-access.md)
 - [A benefit-debt programme before a budget vote](02-refusal-before-a-budget-vote.md)
-- [Design choice and compatibility](../../2026-11-parliamentary-evidence-and-independent-access/decision-record.md)
+- [Design choice and compatibility](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-parliamentary-evidence-and-independent-access/decision-record.md)

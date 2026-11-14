@@ -7,8 +7,8 @@ and [FA](../../country/C12/03-finite-attention-and-lawful-closure.md).*
 2. [Substantively different choices](02-rivals-and-reopening.md).
 3. [Primary documentary scope](03-source-scope.md).
 
-The [decision](../../2026-10-democratic-repair-and-finite-attention/decision-record.md)
-and [exact predecessor](../../2026-10-democratic-repair-and-finite-attention/predecessor-design-82/SNAPSHOT.md)
+The [decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-democratic-repair-and-finite-attention/decision-record.md)
+and [exact predecessor](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-democratic-repair-and-finite-attention/predecessor-design-82/SNAPSHOT.md)
 preserve the actual blanket-delay/exhaustive-attention tension and new selection.
 These are normative reference cases, not observed elections, affected-party
 participation, independent qualification or simulations proving democracy.

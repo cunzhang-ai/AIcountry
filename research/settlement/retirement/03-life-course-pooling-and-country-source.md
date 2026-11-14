@@ -59,9 +59,9 @@ cohort or source regime; preserve every old2W unit and original dates.
 
 | Continue | Scope |
 |---|---|
-| [Current decision](../../2026-11-life-course-and-pooled-retirement/decision-record.md) | Choice, objections, exact156 predecessor and paid successor/notice |
-| [Original sources](../../2026-11-life-course-and-pooled-retirement/sources.md) | Official period mortality and qualified comparative context |
-| [Reproducible results](../../2026-11-life-course-and-pooled-retirement/results.json) |36 authored stationary cases and6 continuous-flow diagnostics, no operational quote/full budget |
+| [Current decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-life-course-and-pooled-retirement/decision-record.md) | Choice, objections, exact156 predecessor and paid successor/notice |
+| [Original sources](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-life-course-and-pooled-retirement/sources.md) | Official period mortality and qualified comparative context |
+| [Reproducible results](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-life-course-and-pooled-retirement/results.json) |36 authored stationary cases and6 continuous-flow diagnostics, no operational quote/full budget |
 
 The full paid-country result remains unresolved. Next integrated review of
 positive/source/control gaps and the work/service/retirement offer, not a

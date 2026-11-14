@@ -12,12 +12,12 @@ advance dates, accrued-claim transition and joint democratic finance.
 | [Persons, tax and expense cases](01-persons-tax-and-expenses.md) | Individual control, actual sharing, assets, work gains and a delayed care-cost cliff |
 | [Population and partial launch accounts](02-population-and-launch.md) | Same 100,000 people and service account, three arrangements, legacy branches and funding failure |
 | [Living standards, actual receipt and context](03-living-standard-and-context.md) | Component/cash/sharing/replacement/time selection, external evidence and real alternatives |
-| [Decision and remaining design](../../2026-10-income-floor/decision-record.md) | Values, alternatives, sources, objections, compatibility and next bounded national task |
+| [Decision and remaining design](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-income-floor/decision-record.md) | Values, alternatives, sources, objections, compatibility and next bounded national task |
 
-The [inputs](../../2026-10-income-floor/inputs.json),
-[model](../../2026-10-income-floor/model.py),
-[results](../../2026-10-income-floor/results.json) and
-[checks](../../2026-10-income-floor/validation.json) preserve authored prices,
+The [inputs](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-income-floor/inputs.json),
+[model](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-income-floor/model.py),
+[results](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-income-floor/results.json) and
+[checks](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-income-floor/validation.json) preserve authored prices,
 wages, support and tax/contribution assumptions. Amounts, child factors,
 asset buffers and rates are not empirical calibration or real fiscal authority.
 The three arrangements all have a financing gap in this partial launch ledger.

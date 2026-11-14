@@ -20,4 +20,4 @@ The difficult choice is the endpoint for the original sentence after release.
 Capping recall, including recalled custody, prevents a long suspended prison
 term from following the person. It shifts responsibility for later harm to
 ordinary protection and new lawful cases. Actual public safety, equitable
-decisions and paid care remain open questions. [Decision and cases](../../2026-11-sentence-review-and-release/decision-record.md)
+decisions and paid care remain open questions. [Decision and cases](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-sentence-review-and-release/decision-record.md)

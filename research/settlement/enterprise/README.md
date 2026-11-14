@@ -5,7 +5,7 @@
 [OE01–OE40](../../country/C05/13-enterprise-and-association-constitutions.md) is
 the canonical topic. Design544 selects lawful charter choice as the ordinary
 default. The numerical design below preserves the Design118 alternative. [Dependencies](../commitments/31-enterprise-and-association-constitutions.md)
-joins paid work/source/court duties; [completion](../../status/completion/26-enterprise-and-country-integration.md)
+joins paid work/source/court duties; [completion](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/status/completion/26-enterprise-and-country-integration.md)
 separates design from actual authority/capacity/lives.
 
 The problem is organizational dependence, not just access to corporate filing.
@@ -43,7 +43,7 @@ NF legal-unit tax and protected S/Y/client/insurance/pension/FX accounts remain.
 Ordinary new duties start180 calendar days after competent enactment, board
 restructuring12 calendar months; stronger old rights and WL/TW/AS dates continue.
 
-The [decision/source record](../../2026-11-enterprise-and-association-constitutions/decision-record.md)
+The [decision/source record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-enterprise-and-association-constitutions/decision-record.md)
 contains bounded primary-source comparisons and authored counterexamples. No
 actual worker/member/investor/creditor participation, independent professional
 review, legitimate adoption, priced national capacity or improved lives is

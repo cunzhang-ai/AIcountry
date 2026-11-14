@@ -69,4 +69,4 @@ unsafe use of records, a better supported threshold or a different
 legitimate franchise settlement.
 
 [Comparators and electoral migration](../../../settlement/resident-franchise/01-compare-residence-and-voting.md)
-· [Decision and migration](../../../2026-11-resident-franchise-and-secure-status/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-resident-franchise-and-secure-status/decision-record.md)

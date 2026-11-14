@@ -44,6 +44,6 @@ visit. If review does not lawfully confirm continued activation by hour 72,
 the exceptional authority ends; any separate ordinary duty or authorized
 urgent route carries on in its own scope.
 
-The [decision record](../../2026-11-local-service-backstop/decision-record.md)
+The [decision record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-local-service-backstop/decision-record.md)
 retains the alternatives and the first field check. All capacities, deadlines
 and amounts are authored. No municipality or actual operation is described.

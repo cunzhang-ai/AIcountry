@@ -65,7 +65,7 @@ on repeated harm, intrusive proof, funding loss or a better
 lawful response.
 
 [Worked remedy and budget comparison](../../../settlement/remedy-after-lost-service-time/01-late-assistance-and-a-remaining-loss.md)
-· [Decision and sources](../../../2026-11-remedy-after-lost-service-time/decision-record.md)
+· [Decision and sources](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-remedy-after-lost-service-time/decision-record.md)
 
 [AP19–AP23](../../C04/06/09-usable-public-service-guarantees.md) provides
 a separate proposed ordinary route to protect the due service before loss.

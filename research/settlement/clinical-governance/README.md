@@ -20,7 +20,7 @@ S/HN public responsibility concrete without claiming that those rights were abse
 
 [Sixteen adverse paths and alternatives](01-control-source-and-adverse-paths.md)
 retain common-patron, monopoly, clinical gate, source/physical and transition
-failures. WHO policy context is qualified in the [dated decision](../../2026-11-clinical-service-and-independent-review/decision-record.md):
+failures. WHO policy context is qualified in the [dated decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-clinical-service-and-independent-review/decision-record.md):
 coordination need not mean merger; it does not prescribe this employment/form.
 
 All existing S03/earlier E, HN180, ED/NC/TW/Y/RF/CP/election/court/force/source/

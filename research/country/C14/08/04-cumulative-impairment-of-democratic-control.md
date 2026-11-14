@@ -102,4 +102,4 @@ Reopen on obstruction through speculative litigation, unsupported
 delay, strategic disaggregation or a better less burdensome route.
 
 [Evidence and worked comparison](../../../settlement/cumulative-impairment-of-democratic-control/01-three-changes-before-a-contest.md)
-· [Decision and migration](../../../2026-11-cumulative-impairment-of-democratic-control/decision-record.md).
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-cumulative-impairment-of-democratic-control/decision-record.md).

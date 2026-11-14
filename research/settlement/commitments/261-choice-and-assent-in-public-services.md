@@ -4,6 +4,6 @@
 requires paid alternative access, valid choice evidence and independent
 review and execution. Standing benefits and original dates continue.
 
-The [decision](../../2026-11-choice-and-assent-in-public-services/decision-record.md)
+The [decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-choice-and-assent-in-public-services/decision-record.md)
 keeps staffed assistance and simpler forms as alternatives.
 Actual costs, lawful adoption and useful receipt remain open.

@@ -6,6 +6,6 @@ binding a new start, check later cash, safe repair, paid temporary
 service and the resource owner. A separate elected choice for displacement
 requires the actual replacement schedule and keeps legal duties in force.
 
-The [decision](../../2026-11-renewal-and-future-budget-capacity/decision-record.md)
+The [decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-renewal-and-future-budget-capacity/decision-record.md)
 compares annual approval, a fixed funding share and the selected route.
 Actual budgets, authority, crew capacity and service receipt remain open.

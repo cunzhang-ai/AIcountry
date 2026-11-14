@@ -15,7 +15,7 @@ specified below, not adopted or used to declare A/C1 financed.
 revenue forecast. This comparison adds a missing distinction: changing the
 financing instrument is not the same as changing net private financial saving,
 real provision, distribution, policy interest, lawful authority or import ability.
-The [exact ledger](../../2026-11-financial-regimes-and-public-choice/results.json)
+The [exact ledger](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-financial-regimes-and-public-choice/results.json)
 illustrates those distinctions. It does not complete the country producer/VAT/
 credit/source account or simulate demand, inflation and exchange equilibrium.
 
@@ -125,7 +125,7 @@ choice under existing law, not an unelected office's new power to cut claims.
 Retain ordinary RF/MC, A/C1 conditional choices and this unadopted rival. Reject
 free-interest, automatic-FX and accounting-only launch claims. No calibrated
 price/demand/credit/VAT/source book, independent affected assessment, founding,
-qualified operation or superior lives is established. [Decision and limits](../../2026-11-financial-regimes-and-public-choice/decision-record.md).
+qualified operation or superior lives is established. [Decision and limits](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-financial-regimes-and-public-choice/decision-record.md).
 
 The full source book remains required. PC/EL/LR/NB now supply those scoped
 political/local/nonbank rules; the [current114 comparison](07-production-prices-and-financial-claims.md)

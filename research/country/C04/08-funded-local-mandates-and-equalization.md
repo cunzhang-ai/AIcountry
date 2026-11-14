@@ -29,7 +29,7 @@ selected. [FC](../C07/23-funded-local-early-care.md) remains the specific
 early-care duty and fallback, with shared funding reconciled once.
 
 [Matched comparison and stress case](../../settlement/funded-local-mandates/README.md)
-· [Decision and migration](../../2026-11-funded-local-mandates-and-equalization/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-funded-local-mandates-and-equalization/decision-record.md)
 
 [LD01–LD13](10-local-fiscal-recovery-and-debt.md) distinguishes routine and structural distress, ceiling limits and eligible debt, and preserves common duties through a separate paid correction. MF sources, grant limits and actual lawful local choice continue.
 

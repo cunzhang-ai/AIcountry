@@ -8,5 +8,5 @@ Existing legal claims, contracts and lawful assembly protections
 survive the change through paid successors. No public power over
 relationships follows.
 
-The [decision record](../../2026-11-civic-places-and-usable-continuity/decision-record.md)
+The [decision record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-civic-places-and-usable-continuity/decision-record.md)
 keeps repair, community provision and less formal alternatives open.

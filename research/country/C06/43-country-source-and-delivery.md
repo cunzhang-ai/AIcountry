@@ -32,7 +32,7 @@ Private choice needs credible critical-supply forecasts, not central permission
 for every purchase or job. No AI productivity dividend or tax on a public payment
 is counted as independent productive source.
 
-[The current decision](../../2026-11-national-production-and-financial-claims/decision-record.md)
+[The current decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-national-production-and-financial-claims/decision-record.md)
 records material objections, a corrected initial proposal, controller limits,
 continuing obligations and a finite comparison. Existing constitution, software,
 contribution permissions and lawful rights remain unchanged.

@@ -5,6 +5,6 @@ funds ordinary teaching through elected local budgets and verified gaps
 through a need-adjusted national grant. A joint plan pays cover, travel,
 preparation and alternates and preserves appointments and pupil rights.
 
-The [decision](../../2026-11-school-staffing-and-origin-protection/decision-record.md)
+The [decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-school-staffing-and-origin-protection/decision-record.md)
 retains local staffing supplements and broader coordination as alternatives.
 Actual eligible sites, appropriations and recurring paid capacity remain open.

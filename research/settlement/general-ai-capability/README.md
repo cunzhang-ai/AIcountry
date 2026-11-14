@@ -22,7 +22,7 @@ models, and ordinary courts review scope, merits, evidence and delay. Elected
 law controls material scope. No new VD crime, punitive fine, official ideology,
 master shutdown, assumed global recall or presumed paid capacity is selected.
 
-[Decision](../../2026-11-general-ai-capability-and-democratic-control/decision-record.md)
+[Decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-general-ai-capability-and-democratic-control/decision-record.md)
 retains meaningful ex-post/sector, shared voluntary/insurance, broad-licence and
 moratorium alternatives. Capability evidence, effectiveness, capture, open-
 research cost, qualified independence and full source remain unproved. This is

@@ -63,4 +63,4 @@ actual payment; protect the missing notice and any separate hardship remedy.
 An AI tool may trace shared assumptions or flag missing evidence. Budget and
 service staff retain their respective authority and can continue without it.
 
-[Canonical budget design](../../country/C06/60/13-budget-independent-public-enforcement.md) · [Decision record](../../2026-11-budget-independent-public-enforcement/decision-record.md).
+[Canonical budget design](../../country/C06/60/13-budget-independent-public-enforcement.md) · [Decision record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-budget-independent-public-enforcement/decision-record.md).

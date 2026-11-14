@@ -10,7 +10,7 @@ pensions are not this offset. The four quarterly registered65+ stocks average
 eligibility register or a future population. Missing/unregistered people retain
 applicable protection. W/B, career histories, old/new entitlement matching,
 residency, survivors and transition payments remain unqualified. Sources and
-vintages are in the [dated record](../../../2026-11-joined-public-offer-and-source/sources.md).
+vintages are in the [dated record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-joined-public-offer-and-source/sources.md).
 
 **WF38 — Join only compatible amounts.** For a declared fixed-scale illustration:
 `Pnew=Rproxy*(B+aW)`; a is an authored average earned pension per proxy person,
@@ -46,7 +46,7 @@ leaves21.301bn; adding a separate1%GDP cost makes−6.512bn. The central case's
 are assumptions, not tax proposals, qualified yields or minimum required taxes.
 Changing a balance floor to−3%GDP changes a label, not cash, legal borrowing
 capacity or future debt service. Full results and matching sensitivities remain
-[inspectable](../../../2026-11-joined-public-offer-and-source/results.json).
+[inspectable](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-joined-public-offer-and-source/results.json).
 
 **WF40 — Preserve the unpriced country.** Neither partial surplus nor full
 programme credit establishes coverage of all37 functions and later duties.

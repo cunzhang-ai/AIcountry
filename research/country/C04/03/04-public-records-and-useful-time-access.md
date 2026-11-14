@@ -106,7 +106,7 @@ delayed delivery, requester retaliation, unsafe disclosure, shared
 vendor control or a simpler qualified route with equal access.
 
 [Official timeliness data and worked access case](../../../settlement/public-records-and-useful-time-access/01-a-record-before-a-public-hearing.md)
-· [Decision and migration](../../../2026-11-public-records-and-useful-time-access/decision-record.md).
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-public-records-and-useful-time-access/decision-record.md).
 
 [APS01–APS07](../../C08/13/08-public-participation-and-abusive-civil-claims.md)
 protects participation where a public records request attracts an

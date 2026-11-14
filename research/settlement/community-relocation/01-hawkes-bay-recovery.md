@@ -6,7 +6,7 @@ This was a property programme milestone. Hastings District Council's
 published conditions tell landlords to arrange for tenants to leave
 by settlement with the required notice. The settlement count cannot
 establish which tenants obtained safe and affordable housing.
-[June status, paragraph 17](../../2026-11-community-relocation-and-host-capacity/original-sources/dpmc-status-recovery.pdf#page=4)
+[June status, paragraph 17](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-community-relocation-and-host-capacity/original-sources/dpmc-status-recovery.pdf#page=4)
 · [Hastings owner guidance](https://www.hastingsdc.govt.nz/hastings/cyclone-gabrielle/cat3buyout/)
 
 The same June status reports two separate signed agreements for
@@ -21,7 +21,7 @@ agreement was nearing signature at the reporting date. These are
 different populations and stages. The 151 buyouts, the two facilities,
 the 16 direct properties and the eight-property agreement cannot be
 added as counts of people rehoused.
-[June status, paragraphs 27–35](../../2026-11-community-relocation-and-host-capacity/original-sources/dpmc-status-recovery.pdf#page=5)
+[June status, paragraphs 27–35](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-community-relocation-and-host-capacity/original-sources/dpmc-status-recovery.pdf#page=5)
 
 In its submission to the local development strategy, the Trust
 described temporary arrangements outside its traditional area and

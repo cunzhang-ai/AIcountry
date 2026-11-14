@@ -9,7 +9,7 @@ for a future state able to establish it lawfully. It is selected to test whether
 democratic fiscal choice can coexist with reliable local payments, a bounded
 monetary authority and honest external constraints; it is not proof that issuing
 money improves welfare or makes any budget affordable. The earlier
-[external-currency package](../../../2026-10-operating-settlement/economic-control.md)
+[external-currency package](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-operating-settlement/economic-control.md)
 remains a coherent alternative and stress branch, especially where founding
 capacity or public confidence in a new unit is absent. For the first budget,
 prefer continuation of a lawful predecessor package where it can operate.
@@ -64,7 +64,7 @@ Owners and creditors bear losses in the lawful order; covered depositors receive
 only the protection actually authorized and credibly financed. Payment operators
 maintain tested alternate and assisted routes for essential transactions.
 Supervisors, receivers, insurers, monetary officials and vendors cannot create
-a new public guarantee or tax. The [monetary-architecture decision](../../../2026-10-monetary-architecture/decision-record.md)
+a new public guarantee or tax. The [monetary-architecture decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-monetary-architecture/decision-record.md)
 compares the two complete packages and identifies their migration conditions.
 The [debt-distress route](../06-sovereign-debt-and-distress.md) counts any
 sovereign-debt loss transmitted through banks, pensions or central-bank collateral

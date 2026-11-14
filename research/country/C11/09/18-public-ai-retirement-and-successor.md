@@ -59,4 +59,4 @@ or suspend rights. Reopen on disputed support, unsafe continuation,
 missed handoff or a stronger qualified ordinary route.
 
 [Worked retirement comparison](../../../settlement/public-ai-retirement-and-successor/01-one-retirement-two-service-clocks.md)
-· [Decision and sources](../../../2026-11-public-ai-retirement-and-successor/decision-record.md)
+· [Decision and sources](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-public-ai-retirement-and-successor/decision-record.md)

@@ -10,7 +10,7 @@ clocks and an ordinary route while repairing the actual bottleneck.
 |---|---|
 | [Danish operating year and published plan](01-danish-case-flow-and-source.md) | The actual direction of case age and duration, operating and legal-aid accounts and the 2024–2027 plan |
 | [Two different tests of delay](02-closed-cases-and-joint-calendar.md) | Why a closure measure can select the wrong work and why extra hearings also need counsel |
-| [Decision and compatibility](../../2026-11-court-capacity-and-timely-remedy/decision-record.md) | Retained rights, lawful alternatives, limits and when to reopen |
+| [Decision and compatibility](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-court-capacity-and-timely-remedy/decision-record.md) | Retained rights, lawful alternatives, limits and when to reopen |
 
 The comparison does not price a court system for AIcountry or assume
 one staffing increase can supply every role. A prepared repair can

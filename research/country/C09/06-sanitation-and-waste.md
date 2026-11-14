@@ -48,7 +48,7 @@ ordinary route and facility choices, but upstream savings cannot impose an
 unreviewed downstream disease or pollution burden.
 
 Actual sites, geology, settlement patterns, existing licenses, budgets and
-operators remain unknown. The [decision record](../../2026-10-service-boundaries/decision-record.md)
+operators remain unknown. The [decision record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-service-boundaries/decision-record.md)
 compares this split stewardship with status quo and a single national utility.
 Reopen it if local stewardship cannot protect exposed people, equalization is
 unfunded, or shared-control capture defeats inspection and remedy.

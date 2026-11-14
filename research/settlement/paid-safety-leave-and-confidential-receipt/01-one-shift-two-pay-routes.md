@@ -1,6 +1,6 @@
 # One protected shift, two pay routes and a separate service
 
-*Design386 · Constructed comparison with [primary records](../../2026-11-paid-safety-leave-and-confidential-receipt/sources.md).*
+*Design386 · Constructed comparison with [primary records](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-paid-safety-leave-and-confidential-receipt/sources.md).*
 
 A worker needs four scheduled hours on day 2 to arrange safe
 receiving with an advocate. The pay rate is 2 units per hour.

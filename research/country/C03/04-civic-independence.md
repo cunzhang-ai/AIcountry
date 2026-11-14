@@ -18,7 +18,7 @@ administrators investigate unequal treatment under reviewable rules. They cannot
 decide which lawful political opinion may be expressed. A challenger needs a timely
 remedy that restores an actual opportunity to compete, rather than damages awarded
 after an election. Exact finance limits, eligibility and privacy protections require
-lawful adoption in a real jurisdiction; the [democratic candidate](../../2026-09-democratic-control/democratic-constitution.md)
+lawful adoption in a real jurisdiction; the [democratic candidate](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-09-democratic-control/democratic-constitution.md)
 supplies a starting specification, not proof of equal competition.
 The dedicated [political-finance route](07-political-finance-and-campaign-access.md)
 assigns baseline access for new contestants, timely disclosure of organized

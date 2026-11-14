@@ -2,7 +2,7 @@
 
 [Canonical clauses](../../country/C06/63-public-investment-and-asset-renewal.md)
 · [Worked portfolio](01-school-grid-and-court.md)
-· [Original observations](../../2026-11-public-investment-and-asset-renewal/sources.md)
+· [Original observations](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-public-investment-and-asset-renewal/sources.md)
 
 | Arrangement | Public value and failure mode |
 |---|---|

@@ -19,7 +19,7 @@ The dates and purposes below define where the evidence joins.
 The city approved its accounts in April for submission to external
 audit. The published service total and detailed committee account
 use their own precision. No accounting figure here establishes a
-full year of daily cash or verified receipts. See the [source record](../../2026-11-first-year-obligations-and-receiving/sources.md).
+full year of daily cash or verified receipts. See the [source record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-first-year-obligations-and-receiving/sources.md).
 
 ## What to do on the actual transition dates
 
@@ -44,7 +44,7 @@ before equalization. The published 2028 deterioration is
 the service ceiling in 2027. The funding and ceiling effects
 move in opposite directions. Neither establishes settlement,
 an actual shortfall after equalization or new receiving capacity.
-[Budget annex, tables 17–18](../../2026-11-first-year-obligations-and-receiving/original-sources/copenhagen-budget-annex.pdf).
+[Budget annex, tables 17–18](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-first-year-obligations-and-receiving/original-sources/copenhagen-budget-annex.pdf).
 
 | First motion | Decision on the inspected evidence |
 |---|---|
@@ -63,5 +63,5 @@ rosters in the same window, count the shift once and expose the
 remaining duty. If a scope-specific balance cannot pay drinking
 water, keep the lawful uses separate and seek a funded response.
 
-[Opening arithmetic and period checks](verify-first-year.py) ·
+[Opening arithmetic and period checks](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/settlement/first-year-obligations-and-receiving/verify-first-year.py) ·
 [Whole-country operating blueprint](../../OPERATING-BLUEPRINT.md).

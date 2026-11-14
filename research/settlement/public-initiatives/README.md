@@ -18,6 +18,6 @@ ordinary national route without requiring an MP sponsor or a selected panel.
 [Examples and real rivals](01-support-agenda-and-rivals.md) compares the current
 representative/panel gate, a hearing/disposition initiative and a binding popular
 legislative vote. No initiative enacts itself, creates funds, changes the franchise
-or delays an existing urgent remedy/election. [Decision and evidence](../../2026-11-public-national-initiatives/decision-record.md)
+or delays an existing urgent remedy/election. [Decision and evidence](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-public-national-initiatives/decision-record.md)
 distinguishes source guidance, authored cases and same-controller critique from
 actual independence, funding, legitimate adoption or improved democratic lives.

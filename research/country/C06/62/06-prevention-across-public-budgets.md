@@ -74,4 +74,4 @@ Adopt, narrow or stop new commitments by ordinary elected decision with
 a priced continuity route for people already served.
 
 [Observed trial and authored first-budget alternatives](../../../settlement/prevention-across-budgets/README.md)
-· [Decision and migration](../../../2026-11-prevention-across-public-budgets/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-prevention-across-public-budgets/decision-record.md)

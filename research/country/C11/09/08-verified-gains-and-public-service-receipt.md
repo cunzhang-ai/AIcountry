@@ -77,7 +77,7 @@ routes, old claims and paid successors through migration.
 [Screening and queues](05-screening-queues-and-actual-decisions.md)
 · [Technology transition and shared gains](../../C05/18-technology-transition-and-shared-gains.md)
 · [Worked comparison](../../../settlement/public-ai-service-gains/README.md)
-· [Design247 decision](../../../2026-11-public-ai-gains-and-service-receipt/decision-record.md)
+· [Design247 decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-public-ai-gains-and-service-receipt/decision-record.md)
 
 [DP58–DP63](13-meaningful-choice-and-valid-assent.md) tests whether
 reported take-up reflects a real choice and whether the ordinary

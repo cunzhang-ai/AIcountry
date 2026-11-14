@@ -94,6 +94,6 @@ indices, inadequate working cash, shared failure or a better
 qualified direct or competitive route.
 
 [Comparison and primary records](../../../settlement/essential-contract-costs-and-paid-continuity/01-care-and-meals-share-an-input.md)
-· [Decision and migration](../../../2026-11-essential-contract-costs-and-paid-continuity/decision-record.md).
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-essential-contract-costs-and-paid-continuity/decision-record.md).
 
 [Worked joint public and supplier cash schedule](../../../settlement/earlier-public-project-commitments/01-signed-offers-and-one-credit-line.md).

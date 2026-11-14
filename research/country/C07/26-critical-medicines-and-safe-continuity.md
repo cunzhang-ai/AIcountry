@@ -17,7 +17,7 @@ the unmet clinical duty and its next correction.
    follows unmet needs, correction, replenishment and lawful change.
 
 [Observed evidence and a two-region shortage case](../../settlement/critical-medicines/README.md)
-· [Choice, tradeoffs and migration](../../2026-11-critical-medicines-and-safe-continuity/decision-record.md)
+· [Choice, tradeoffs and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-critical-medicines-and-safe-continuity/decision-record.md)
 
 [NS21–NS25](../C06/54/06-essential-imports-and-usable-settlement.md)
 carries the seller, currency, independent cold route and second

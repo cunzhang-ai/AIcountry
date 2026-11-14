@@ -43,4 +43,4 @@ and source. Track actual missed access and remedies under the
 original duties. The times and costs are illustrative. They are
 neither clinical margins nor universal evacuation parameters.
 
-[Scenario check](verify-dispatch.py) · [Primary evidence and limits](../../2026-11-accessible-evacuation-and-protected-transport/sources.md)
+[Scenario check](verify-dispatch.py) · [Primary evidence and limits](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-accessible-evacuation-and-protected-transport/sources.md)

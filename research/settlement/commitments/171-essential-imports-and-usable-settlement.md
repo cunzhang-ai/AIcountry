@@ -6,6 +6,6 @@ qualified domestic and regional receiving and replenishment.
 Preserve legal currencies, owners, reserves and remedy dates.
 
 [Observed and authored checks](../essential-imports-and-usable-settlement/README.md)
-· [Decision and migration](../../2026-11-essential-imports-and-usable-settlement/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-essential-imports-and-usable-settlement/decision-record.md)
 
 Actual lawful ownership, availability and use remain open.

@@ -55,7 +55,7 @@ habitual time, dues, pending removal/stays, source data, contracts and paid
 successors. Exact adopted starts respect C14, CP cohorts and already due rights;
 no agency's readiness certificate postpones an enacted protection indefinitely.
 Ordinary staffing, custody and useful-time protection continue during migration.
-The [decision](../../2026-10-citizenship-and-secure-belonging/decision-record.md)
+The [decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-citizenship-and-secure-belonging/decision-record.md)
 separates reference design, lawful authorization, qualified operation and outcomes.
 
 [NP](33-protection-production-and-national-expansion.md) now includes these

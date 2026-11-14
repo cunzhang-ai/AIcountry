@@ -38,4 +38,4 @@ block. Maintain available instruction and independently review
 any unmet duty. Neither the calculation nor a matching tool
 sets priority between the learners.
 
-[Decision and sources](../../2026-11-portable-apprenticeships-and-paid-continuity/decision-record.md).
+[Decision and sources](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-portable-apprenticeships-and-paid-continuity/decision-record.md).

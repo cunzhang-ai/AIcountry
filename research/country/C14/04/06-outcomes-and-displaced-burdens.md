@@ -63,4 +63,4 @@ own comparative result. Reopen if unobserved exposure, an accepted
 replacement, a new comparator or actual receiving changes the result.
 
 [Matched service and origin example](../../../settlement/outcomes-and-displaced-burdens/01-a-pilot-and-its-origin-service.md)
-· [Decision and sources](../../../2026-11-outcomes-and-displaced-burdens/decision-record.md)
+· [Decision and sources](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-outcomes-and-displaced-burdens/decision-record.md)

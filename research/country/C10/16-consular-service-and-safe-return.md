@@ -62,4 +62,4 @@ It cannot decide nationality, issue documents, infer assent or
 certify return. Reopen on missed departure, unsafe disclosure,
 unavailable partner or stronger lawful receiving.
 
-[Source boundaries and decision](../../2026-11-public-alternatives-and-rendering-errors/decision-record.md).
+[Source boundaries and decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-public-alternatives-and-rendering-errors/decision-record.md).

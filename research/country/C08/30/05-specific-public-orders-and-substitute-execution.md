@@ -70,7 +70,7 @@ a missed second call, captured executor, excessive access, repeated
 dependency on substitution or a qualified simpler route.
 
 [Matched execution comparison](../../../settlement/specific-public-orders/README.md)
-· [Decision and migration](../../../2026-11-specific-public-orders-and-substitute-execution/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-specific-public-orders-and-substitute-execution/decision-record.md)
 
 [SR23–SR27](06-conflicting-public-orders.md) governs genuine conflict among
 enforceable ordinary orders. A second executor cannot reserve the same

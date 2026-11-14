@@ -6,7 +6,7 @@ Opposition receives practical agenda access, public information, questioning rig
 fair campaigning conditions and leadership of public-accounts scrutiny. Residents can
 originate proposals; [compensated resident panels](24-resident-deliberation-and-elected-response.md) can investigate and bring a bounded recommendation to an elected vote. Neither panels nor referendums bypass individual rights or become an incumbent's
 device for eliminating future competition. Public and independent media remain plural.
-The constitutional future is also contestable: the [protected change route](../../2026-10-constitutional-change/decision-record.md)
+The constitutional future is also contestable: the [protected change route](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-constitutional-change/decision-record.md)
 lets both Assembly members and electors initiate exact amendments, requires a
 genuine public final choice, and delays changes that would benefit current rulers.
 It does not give Cabinet a plebiscite power or let a court reject lawful policy
@@ -15,8 +15,8 @@ because it dislikes the proposal.
 The [EA01–EA25 electoral charter](09-electoral-administration-and-public-control.md) now completes the seven-seat electoral commission: three sources, fixed five-present/four-vote rule, finite reserves, career duties, ordinary courts and an expressly authorized founding route. It selects no actual officeholder or poll outcome. Judicial review and audit also require specified appointment sources,
 protected removal rules, independent information access and funding that the challenged
 office cannot withhold. Appointment plurality alone is not independence. The detailed
-[democratic candidate](../../2026-09-democratic-control/democratic-constitution.md) supplies
-starting rules; its [continuity correction](../../2026-09-democratic-continuity/continuity-candidate.md)
+[democratic candidate](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-09-democratic-control/democratic-constitution.md) supplies
+starting rules; its [continuity correction](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-09-democratic-continuity/continuity-candidate.md)
 limits claims about deadlock, reserves and handover. Actual N and the lawful municipal map still require the founding-context
 selection. EL05 now selects one national constituency; the earlier national
 territorial-seat D ceiling belongs to the retained mixed-count rival, not this
@@ -49,7 +49,7 @@ court, legal-aid and audit operations have bounded standing funding and record
 custody independent of a challenged cabinet or its principal digital provider.
 After a lawful result or order, named civil and security officers perform transfer
 duties; neither local officers, courts, vendors nor a missed deadline invent a
-winner. This [democratic-continuity choice](../../2026-10-operating-settlement/democratic-institutions.md)
+winner. This [democratic-continuity choice](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-operating-settlement/democratic-institutions.md)
 distributes evidence, access and execution, not sovereign power to a new guardian.
 Its independence depends on actual staff, usable cash, distinct controllers and
 obedience to lawful orders; labels and duplicate AI reviews do not establish it.

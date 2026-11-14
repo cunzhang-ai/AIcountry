@@ -72,7 +72,7 @@ source timing, material harm or a stronger whole rival.
 [Existing release and binding claims](03-release-and-bound-obligations.md)
 · [Budget lapse and paid continuity](../66-budget-lapse-and-paid-continuity.md)
 · [Matched operating case](../../../settlement/first-budget-common-failure/README.md)
-· [Design253 decision](../../../2026-11-first-budget-common-failure-and-paid-control/decision-record.md)
+· [Design253 decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-first-budget-common-failure-and-paid-control/decision-record.md)
 
 For established public cash, [TU13–TU17](../../C04/12/04-independent-payment-and-receipt.md)
 distinguishes entitlement, exclusive disbursement and useful receipt.

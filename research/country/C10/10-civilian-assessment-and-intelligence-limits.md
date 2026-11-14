@@ -28,10 +28,10 @@ incompatible predecessor covert authorities; merely renaming an old case cannot
 preserve the rejected architecture indefinitely. Present actual law/software and
 constitutional/contribution holds are not amended by this research text.
 
-[Country follow-up](../../status/completion/13-intelligence-and-whole-country-gaps.md),
+[Country follow-up](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/status/completion/13-intelligence-and-whole-country-gaps.md),
 [dependencies](../../settlement/commitments/18-civilian-assessment-and-control.md),
 [authored probes](../../settlement/civilian-assessment/README.md) and
-[decision](../../2026-11-civilian-intelligence-and-democratic-control/decision-record.md)
+[decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-civilian-intelligence-and-democratic-control/decision-record.md)
 retain source/career/committee/court capture, missed warning and real cash/FX/
 skill losses. No actual public mandate, qualified original threat comparison,
 paid independent roster/source, received remedy or better lives is established.

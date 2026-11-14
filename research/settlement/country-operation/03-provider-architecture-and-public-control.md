@@ -55,7 +55,7 @@ professional/learner time; CS16's simpler existing-role route remains relevant.
 
 ## Evidence and a finite result
 
-[Original audit reports and later publisher context](../../2026-11-provider-architecture-and-public-control/sources.md)
+[Original audit reports and later publisher context](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-provider-architecture-and-public-control/sources.md)
 provide bounded mechanism evidence. Selected methods/corrections and later
 changes were inspected; underlying private/government records and interview
 transcripts were not independently obtained. Different reports sharing cases/

@@ -58,6 +58,6 @@ published evidence selects wider entry on actual need and rules out
 assuming one common caseload. It cannot choose a benefit rate, repair
 portfolio, national source or real launch.
 
-[Source snapshots and definitions](../../2026-11-housing-warmth-and-budget-coverage/sources.md)
-· [Computed results](../../2026-11-housing-warmth-and-budget-coverage/results.json)
-· [Reproduction](verify-coverage.py).
+[Source snapshots and definitions](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-housing-warmth-and-budget-coverage/sources.md)
+· [Computed results](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-housing-warmth-and-budget-coverage/results.json)
+· [Reproduction](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/settlement/housing-warmth-and-budget-coverage/verify-coverage.py).

@@ -70,4 +70,4 @@ Reopen on wrong notice, a shared verifier, repeated good-faith
 loss or an equally usable simpler route.
 
 [Worked receiving and remedy case](../../../settlement/public-authority-and-counterparty-reliance/01-two-orders-and-a-stale-notice.md)
-· [Decision and sources](../../../2026-11-public-authority-and-counterparty-reliance/decision-record.md)
+· [Decision and sources](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-public-authority-and-counterparty-reliance/decision-record.md)

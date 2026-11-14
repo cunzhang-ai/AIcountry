@@ -70,7 +70,7 @@ exclusion or a simpler ordering rule that better preserves real choice.
 Changes require prospective authority and a paid handover.
 
 [Integrated first-budget comparison](../../../settlement/integrated-first-programme/09-majority-preference-and-budget-choice.md)
-· [Decision and migration](../../../2026-11-budget-majority-and-final-choice/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-budget-majority-and-final-choice/decision-record.md)
 
 [BCV16–BCV20](09-conditional-budgets-and-protected-fallback.md) covers
 an affirmative vote for an optional schedule awaiting another competent

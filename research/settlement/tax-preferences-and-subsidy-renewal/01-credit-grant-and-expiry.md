@@ -38,6 +38,6 @@ A disputed repayment of 2 is unavailable until resolved and collected.
 If no source qualifies, the old claim is still due and the optional
 grant waits.
 
-The [decision record](../../2026-11-tax-preferences-and-subsidy-renewal/decision-record.md)
+The [decision record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-tax-preferences-and-subsidy-renewal/decision-record.md)
 retains the scope, uncertainties and lawful transition. This is a
 constructed test of the choice, not a national programme result.

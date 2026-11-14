@@ -43,4 +43,4 @@ then falls short by two, so this one-time bridge cannot qualify a
 continuing promise. Affected residents keep standing protections
 and see the earlier unmet need in the public account.
 
-[Evidence and decision](../../2026-11-expiring-protection-and-budget-choices/decision-record.md).
+[Evidence and decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-expiring-protection-and-budget-choices/decision-record.md).

@@ -13,11 +13,11 @@ design-64 comparator is not this country's selected pension baseline.
 | [Formula and boundary cases](01-formula-and-boundary-cases.md) | Work/care, ceilings, short careers, revaluation, dependency and bounded quotes |
 | [Finance and competing models](02-finance-and-comparison.md) | Alternative histories, restricted receipts, due-date cash and material choices |
 
-[Inputs](../../2026-10-retirement-claims-and-finance/inputs.json),
-[model](../../2026-10-retirement-claims-and-finance/model.py),
-[results](../../2026-10-retirement-claims-and-finance/results.json),
-[checks](../../2026-10-retirement-claims-and-finance/validation.json) and
-[decision](../../2026-10-retirement-claims-and-finance/decision-record.md)
+[Inputs](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-retirement-claims-and-finance/inputs.json),
+[model](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-retirement-claims-and-finance/model.py),
+[results](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-retirement-claims-and-finance/results.json),
+[checks](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-retirement-claims-and-finance/validation.json) and
+[decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-retirement-claims-and-finance/decision-record.md)
 distinguish the proposed rules from old source assumptions and actual law.
 
 The older65 examples supply no real histories, care/survivor claims, life tables,

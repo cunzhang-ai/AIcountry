@@ -78,7 +78,7 @@ the retained route loses practical access, or a better whole option
 has qualified support.
 
 [Historical cutover and authored first budget](../../../settlement/first-country-package/README.md)
-· [Decision and migration](../../../2026-11-first-budget-package-and-lawful-start/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-first-budget-package-and-lawful-start/decision-record.md)
 
 [WF90–WF94](../../C06/58/21-national-cash-and-first-budget.md)
 qualifies the dated cash, maturities and continuing sources for

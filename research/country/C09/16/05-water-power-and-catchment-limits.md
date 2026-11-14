@@ -80,7 +80,7 @@ conflicts. It supplies neither dispatch, environmental approval nor a
 verdict about harm.
 
 [Observed French record and authored portfolio comparison](../../../settlement/water-power-and-catchment-limits/README.md)
-· [Decision and migration](../../../2026-11-water-power-and-catchment-limits/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-water-power-and-catchment-limits/decision-record.md)
 
 [WSR01–WSR08](07-multi-season-water-reserves.md) carries the next protected
 window in the same water account. Retain separate environmental and dispatch decisions.

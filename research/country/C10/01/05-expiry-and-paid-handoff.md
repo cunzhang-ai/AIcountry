@@ -73,6 +73,6 @@ and stale instructions. Competent officers and independent courts
 retain actual authority and review.
 
 [Observed cutover and authored exit test](../../../settlement/emergency-expiry/README.md)
-· [Decision and migration](../../../2026-11-emergency-expiry-and-paid-handoff/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-emergency-expiry-and-paid-handoff/decision-record.md)
 
 [RX22–RX26](06-public-review-and-delivered-repair.md) carry verified effects, independent review and a funded elected response beyond expiry.

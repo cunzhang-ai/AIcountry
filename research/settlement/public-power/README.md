@@ -58,7 +58,7 @@ execution and lost pre-vote opportunity remain harm even after later compensatio
 Due clinical, election and civil claims, worker rights and creditor/FX ownership
 survive the collision. These invented fixtures support no real-world verdict.
 
-[Decision and sources](../../2026-11-public-power-and-democratic-execution/decision-record.md)
-· [Inputs](../../2026-11-public-power-and-democratic-execution/inputs.json)
-· [Results](../../2026-11-public-power-and-democratic-execution/results.json)
-· [Checks](../../2026-11-public-power-and-democratic-execution/validation.json)
+[Decision and sources](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-public-power-and-democratic-execution/decision-record.md)
+· [Inputs](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-public-power-and-democratic-execution/inputs.json)
+· [Results](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-public-power-and-democratic-execution/results.json)
+· [Checks](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-public-power-and-democratic-execution/validation.json)

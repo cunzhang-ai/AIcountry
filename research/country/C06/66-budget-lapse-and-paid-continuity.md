@@ -84,7 +84,7 @@ clock, deadlines and actual allocation of power in force.
 · [B19 government execution](../C08/13/05-orders-execution-and-collective-claims.md)
 · [JC first-budget release](65/03-release-and-bound-obligations.md)
 · [Worked case](../../settlement/budget-lapse/README.md)
-· [Design242 decision](../../2026-11-budget-lapse-and-paid-continuity/decision-record.md)
+· [Design242 decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-budget-lapse-and-paid-continuity/decision-record.md)
 
 [BCV competing budgets](60/05-competing-budgets-and-floor-choice.md) sets
 a protected voting sequence for eligible whole alternatives. An indication

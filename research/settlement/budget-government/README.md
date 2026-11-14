@@ -17,7 +17,7 @@ new tax rate, balanced-budget rule or imaginary source is introduced.
 | Source and control | Actual monthly/quarterly/13-week accounts, outside AA/courts, local source autonomy and paid exact succession |
 
 [Cases and real rivals](01-authority-cash-and-rivals.md) keeps Cabinet-envelope,
-more detailed legislative and participatory choices. [Decision and critique](../../2026-11-democratic-budget-and-execution/decision-record.md)
+more detailed legislative and participatory choices. [Decision and critique](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-democratic-budget-and-execution/decision-record.md)
 records actual changes.24 authored calendar/vote/financial identities and16
 written adverse paths establish no actual lawful vote, qualified independent
 execution, complete source, affected choice or better lives.

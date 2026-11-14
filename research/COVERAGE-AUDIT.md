@@ -8,7 +8,7 @@ major state function. **Specified** means such a route is described, not that
 it is enacted, complete, staffed or successful. **Partial** identifies a
 material choice that remains unassigned. The [UN functions-of-government
 classification](https://unstats.un.org/unsd/classifications/cofog/revision)
-supplies an [external expenditure-function cross-check](2026-10-end-of-life/function-crosswalk.md),
+supplies an [external expenditure-function cross-check](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-end-of-life/function-crosswalk.md),
 not proof that every right or life transition works. A broad category can
 hide a failed handoff.
 
@@ -22,7 +22,7 @@ hide a failed handoff.
 Each function has one finding in the linked file. The [integrated country
 design](COUNTRY-DESIGN.md) and [C01–C14 chapters](country/README.md) own the
 proposed institutions; this audit only checks coverage. The [design
-history](DESIGN-HISTORY.md) and [support map](SUPPORT-MAP.md) retain why these
+history](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/DESIGN-HISTORY.md) and [support map](SUPPORT-MAP.md) retain why these
 functions were added and which studies bear on them. No chronology is
 maintained inside this audit.
 

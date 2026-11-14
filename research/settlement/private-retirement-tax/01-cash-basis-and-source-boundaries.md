@@ -29,7 +29,7 @@ net income component at qualified Y02/Y04 or lawful disability/survivor scope.
 Early ordinary cash-outs obtain no new retirement status, tax-free return or
 capital-draw exclusion by label. Earlier/stronger actual rights remain.
 
-[Model inputs](../../2026-11-private-retirement-tax-and-personal-capital/inputs.json)
+[Model inputs](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-private-retirement-tax-and-personal-capital/inputs.json)
 identify exact scope. These examples check cash/basis conservation and unknown
 semantics; they are not legal/actuarial qualification, behavior, staffing,
 affordable finance or observed better lives.

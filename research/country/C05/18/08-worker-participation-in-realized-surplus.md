@@ -112,4 +112,4 @@ loss or a simpler equivalent arrangement. Extending or ending the trial
 preserves accrued claims and paying successors.
 
 [Worked comparison](../../../settlement/worker-participation-floor/01-a-share-that-survives-employer-change.md)
-· [Decision record](../../../2026-11-worker-participation-floor/decision-record.md).
+· [Decision record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-worker-participation-floor/decision-record.md).

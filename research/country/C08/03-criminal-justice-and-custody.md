@@ -4,7 +4,7 @@
 
 ## Criminal justice and custody
 
-The selected [penal model](../../2026-10-core-institutions/crime-justice.md) gives prevention
+The selected [penal model](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-core-institutions/crime-justice.md) gives prevention
 and immediate safety their own lawful grounds; neither depends on conviction.
 The Assembly defines prospective offenses, culpability, defenses and maximum
 sanctions for serious harm or risk where civil, regulatory and service responses

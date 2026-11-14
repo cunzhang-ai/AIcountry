@@ -23,6 +23,6 @@ All37 complete functions/61 selections/116 prior references/old source hashes
 remain exact and37 is an open census. Existing source law/TW/Y/I05/EB/WS/DB/
 AH/NI/AL/LU and OP/T paid accepting successors/old claims/clocks/actual holds
 persist. No new rate, certificate, office or constitutional/software permission.
-[Decision](../../2026-11-public-offer-and-production-bridge/decision-record.md)
+[Decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-public-offer-and-production-bridge/decision-record.md)
 separates scoped source/model evidence, research selection, legitimate authority,
 paid readiness and outcomes. Same-controller critique is no independent approval.

@@ -23,7 +23,7 @@ preserves existing assistance obligations, and sector authorities
 keep earlier deadlines and separate standards.
 
 [Comparative evidence and choices](../../settlement/cross-local-continuity/README.md)
-· [Decision and migration](../../2026-11-cross-local-service-continuity/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-cross-local-service-continuity/decision-record.md)
 
 [YC07](../C07/27/02-places-funds-and-control.md) applies this route to
 a child placement and voluntary adult support. A host's prior protected

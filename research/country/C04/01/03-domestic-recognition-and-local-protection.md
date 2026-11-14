@@ -96,4 +96,4 @@ repairs it.
 [Professional recognition](../../C08/32/02-recognition-and-safe-receiving.md)
 and [product safety](../../C08/05-consumer-and-product-safety.md) retain their
 own subject matter and remedies. [Worked case](../../../settlement/domestic-recognition-and-local-protection/01-one-product-test-two-sites.md).
-[Decision record](../../../2026-11-domestic-recognition-and-local-protection/decision-record.md).
+[Decision record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-domestic-recognition-and-local-protection/decision-record.md).

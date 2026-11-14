@@ -9,4 +9,4 @@ preserve independent court, election and local receiving routes.
 - [Authored due dates and financing choices](02-authored-financing-window.md)
 - [2026 forecast revisions and the first payment](03-forecast-vintages-and-the-first-payment.md)
 - [Canonical WF90–WF94](../../country/C06/58/21-national-cash-and-first-budget.md)
-- [Evidence and decision](../../2026-11-national-cash-and-first-budget/decision-record.md)
+- [Evidence and decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-national-cash-and-first-budget/decision-record.md)

@@ -41,6 +41,6 @@ confirmation of resumed care at handback. It is neither a national
 cash estimate nor a care or temperature standard.
 
 Run the [scenario verifier](verify-household.py) for the matched
-comparisons. See the [observed cases](../../2026-11-household-protection-and-usable-receiving/sources.md)
-and [decision record](../../2026-11-household-protection-and-usable-receiving/decision-record.md)
+comparisons. See the [observed cases](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-household-protection-and-usable-receiving/sources.md)
+and [decision record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-household-protection-and-usable-receiving/decision-record.md)
 for the evidentiary boundary and reopening conditions.

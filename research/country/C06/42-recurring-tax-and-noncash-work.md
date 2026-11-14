@@ -31,9 +31,9 @@ burdens and actual worker/consumer incidence are explicit, not assumed harmless.
 Noncash employee remuneration adds funded tax g and Y c; self-employment keeps
 its own actual net-labor/need/source route, not forced client payroll.
 
-[Decision/reviews](../../2026-11-recurring-tax-and-noncash-work/decision-record.md),
+[Decision/reviews](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-recurring-tax-and-noncash-work/decision-record.md),
 [paid dependencies](../../settlement/commitments/21-recurring-tax-and-noncash-work.md)
-and [country follow-up](../../status/completion/16-recurring-source-and-country-delivery.md)
+and [country follow-up](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/status/completion/16-recurring-source-and-country-delivery.md)
 keep old rights, missing sources and competing choices. Current software/
 constitutional permissions remain. This is no claim of founded, funded or better country.
 

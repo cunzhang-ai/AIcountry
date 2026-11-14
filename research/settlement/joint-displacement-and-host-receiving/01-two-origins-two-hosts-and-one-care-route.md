@@ -38,4 +38,4 @@ missed night, care visit or school journey. Apply existing lawful
 priorities if choices conflict. This comparison assigns no queue
 rank and does not certify actual homes, staff or money.
 
-[Decision and evidence](../../2026-11-joint-displacement-and-host-receiving/decision-record.md).
+[Decision and evidence](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-joint-displacement-and-host-receiving/decision-record.md).

@@ -8,13 +8,13 @@ procedure, actual public consent, territory or qualified independent reviewer.
 
 | Record | Inspectable scope |
 |---|---|
-| [Decision](../../2026-11-country-closure-and-lived-operation/decision-record.md) | Whole-objective diagnosis, real alternatives, repaired contradictions and one next country deliverable |
-| [Baseline](../../2026-11-country-closure-and-lived-operation/baseline.json) |988 exact 128 artifacts: 987 current Markdown and full inventory, copied before changes |
-| [Requirements](../../2026-11-country-closure-and-lived-operation/requirements.json), [chapter findings](../../2026-11-country-closure-and-lived-operation/findings.json) | All explicit goal/instruction requirements and 14 chapter dispositions with limited inspected sources; no exhaustive review claim |
-| [Inputs](../../2026-11-country-closure-and-lived-operation/inputs.json), [time model](../../2026-11-country-closure-and-lived-operation/model.py), [results](../../2026-11-country-closure-and-lived-operation/results.json) | Nominal care/work compatibility counterexample, time-only alternate and explicit child-hour versus worker-hour boundary |
-| [Current interface register](../../2026-11-country-closure-and-lived-operation/country-register.json) | All 37 original complete-function identities and actual-null obligations retained |
-| [Sources](../../2026-11-country-closure-and-lived-operation/sources.json), [scope](../../2026-11-country-closure-and-lived-operation/scope-record.json) | Current text actually inspected, original-source families, changed consumers, missing evidence and continuation |
-| [Pins](../../2026-11-country-closure-and-lived-operation/source-manifest.json), [checker](../../2026-11-country-closure-and-lived-operation/validate.py), [report](../../2026-11-country-closure-and-lived-operation/validation.json) | Preservation, source identities, finite interval arithmetic/consumer alignment and organization; not social validation |
+| [Decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-country-closure-and-lived-operation/decision-record.md) | Whole-objective diagnosis, real alternatives, repaired contradictions and one next country deliverable |
+| [Baseline](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-country-closure-and-lived-operation/baseline.json) |988 exact 128 artifacts: 987 current Markdown and full inventory, copied before changes |
+| [Requirements](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-country-closure-and-lived-operation/requirements.json), [chapter findings](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-country-closure-and-lived-operation/findings.json) | All explicit goal/instruction requirements and 14 chapter dispositions with limited inspected sources; no exhaustive review claim |
+| [Inputs](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-country-closure-and-lived-operation/inputs.json), [time model](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-country-closure-and-lived-operation/model.py), [results](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-country-closure-and-lived-operation/results.json) | Nominal care/work compatibility counterexample, time-only alternate and explicit child-hour versus worker-hour boundary |
+| [Current interface register](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-country-closure-and-lived-operation/country-register.json) | All 37 original complete-function identities and actual-null obligations retained |
+| [Sources](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-country-closure-and-lived-operation/sources.json), [scope](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-country-closure-and-lived-operation/scope-record.json) | Current text actually inspected, original-source families, changed consumers, missing evidence and continuation |
+| [Pins](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-country-closure-and-lived-operation/source-manifest.json), [checker](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-country-closure-and-lived-operation/validate.py), [report](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-country-closure-and-lived-operation/validation.json) | Preservation, source identities, finite interval arithmetic/consumer alignment and organization; not social validation |
 
 The same hypothetical people retain separate agency/rights. With 08:00–16:00 care,
 08:00–16:00 work and 45-minute one-way journey, only 26 of 32 requested weekly paid hours
@@ -36,5 +36,5 @@ claims. Older 37 bids, partial PBbasket and scoped service quotes cannot establi
 This audit selects that bounded integration ahead of another election microstudy;
 actual full sources, paid independent capacity, safe operation and better lives
 remain unverified. [Commitment continuity](../commitments/42-country-closure-and-lived-operation.md)
-and [completion disposition](../../status/completion/37-country-closure-and-current-integration.md)
+and [completion disposition](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/status/completion/37-country-closure-and-current-integration.md)
 carry all existing rights/claims and distinguish further design from actual readiness.

@@ -77,7 +77,7 @@ Missing funds defeat a *new launch claim*; they do not authorize an office to
 leave existing rights unpaid or grant a Treasury veto over enacted deadlines.
 
 The earlier Finnish preliminary citation is qualified by the
-[design135 original-evidence review](../../../2026-11-income-security-and-credit-continuity/sources.md),
+[design135 original-evidence review](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-income-security-and-credit-continuity/sources.md),
 including the later authors' health analysis. It supplies no isolated
 unconditionality effect, full-country source or lifetime-security comparison.
 [IC17–IC20](06-income-security-and-credit-continuity.md) separates ordinary

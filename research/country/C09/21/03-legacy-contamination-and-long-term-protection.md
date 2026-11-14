@@ -74,4 +74,4 @@ or certify conditions. Reopen on persistent unequal protection, failed
 monitoring, new adverse evidence or a safer funded alternative.
 
 [Three-site comparison](../../../settlement/legacy-contamination-and-long-term-protection/01-three-sites-and-a-monitoring-tail.md)
-· [Decision and migration](../../../2026-11-legacy-contamination-and-long-term-protection/decision-record.md).
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-legacy-contamination-and-long-term-protection/decision-record.md).

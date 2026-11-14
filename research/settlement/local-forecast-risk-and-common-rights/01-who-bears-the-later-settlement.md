@@ -81,4 +81,4 @@ a standing duty, use its existing remedy and applicable paid backstop,
 record who bears any remaining loss and keep the original resident claim.
 
 [Canonical choice](../../country/C04/08/11-local-forecast-risk-and-common-rights.md)
-· [Decision record](../../2026-11-local-forecast-risk-and-common-rights/decision-record.md).
+· [Decision record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-local-forecast-risk-and-common-rights/decision-record.md).

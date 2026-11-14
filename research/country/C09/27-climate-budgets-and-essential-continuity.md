@@ -15,4 +15,4 @@ Its emissions still enter the cumulative account.
 | [CBG09–CBG12. Control and transition](27/03-review-and-continuing-duties.md) | Keep independent evidence, affected voice and lawful powers distinct through revisions. |
 
 [Evidence and the delayed-grid comparison](../../settlement/climate-budget-continuity/README.md)
-· [Decision and migration](../../2026-11-climate-budgets-and-essential-continuity/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-climate-budgets-and-essential-continuity/decision-record.md)

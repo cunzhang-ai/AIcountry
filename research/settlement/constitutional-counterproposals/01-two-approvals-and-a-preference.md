@@ -38,5 +38,5 @@ adds explanation, ballot and review work. It lets the public choose
 between two approved texts while keeping the exact original vote
 unconditional on an Assembly alternative.
 
-The [decision record](../../2026-11-constitutional-counterproposals/decision-record.md)
+The [decision record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-constitutional-counterproposals/decision-record.md)
 states legal scope and field checks. Counts and timing inputs are authored.

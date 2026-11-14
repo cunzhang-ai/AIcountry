@@ -83,7 +83,7 @@ contrary testimony, failed receipt or better comparative evidence.
 [Public evidence and corrections](../../C11/11-evidence-corrections-and-public-reliance.md)
 · [Whole-country comparison](../../C01/03/06-current-country-and-strong-alternatives.md)
 · [Observed and authored comparisons](../../../settlement/public-outcomes-and-regression/README.md)
-· [Design252 decision](../../../2026-11-public-outcomes-and-hidden-regression/decision-record.md)
+· [Design252 decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-public-outcomes-and-hidden-regression/decision-record.md)
 
 [CS19–CS23](../../C01/03/08-usable-time-and-public-participation.md) adds
 the compatible usable period and choice of participation route to a

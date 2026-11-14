@@ -1,7 +1,7 @@
 # A single observed envelope for the first national operating comparison
 
 Denmark 2025 is the common historical reference. The
-[original-source government account](../../2026-11-observed-government-baseline/decision-record.md)
+[original-source government account](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-observed-government-baseline/decision-record.md)
 reconciles DKK 1,472,839 million of general-government expenditure.
 Its purpose groups exhaust that total. The
 [matched work account](../matched-national-work/01-observed-2025-and-boundaries.md)

@@ -36,4 +36,4 @@ the relevant lawful owners. The fiscal ranking leaves service,
 competition, democratic control and affected outcomes for their own
 evidence and decision.
 
-[Decision and sources](../../2026-11-public-asset-disposal-and-control/decision-record.md).
+[Decision and sources](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-public-asset-disposal-and-control/decision-record.md).

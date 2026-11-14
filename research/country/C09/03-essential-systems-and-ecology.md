@@ -51,7 +51,7 @@ not represent biodiversity, water security or all harms. The
 [C09 transition rule](08-climate-and-ecological-transition.md) assigns
 an elected emissions path, distinct ecological floors and a financed
 reliable-capacity sequence without giving a grid operator climate lawmaking.
-The [disaster-health comparison](../../2026-10-material-and-resilience/disaster-health.md)
+The [disaster-health comparison](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-material-and-resilience/disaster-health.md)
 keeps ordinary prevention and response distinct from extraordinary coercive
 authority under C10.
 

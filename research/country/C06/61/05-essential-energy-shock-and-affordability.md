@@ -80,4 +80,4 @@ rights under their own law. Seek a fresh prospective vote if the shock
 persists. A bridge's expiry does not extinguish an earned claim.
 
 [Historical evidence and first-budget comparison](../../../settlement/essential-energy-shock/README.md)
-· [Decision and migration](../../../2026-11-essential-energy-shock-and-affordability/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-essential-energy-shock-and-affordability/decision-record.md)

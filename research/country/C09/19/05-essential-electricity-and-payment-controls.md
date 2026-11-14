@@ -93,4 +93,4 @@ successors. Reopen on repeated loss, unpayable provider exposure, unsafe
 disclosure, growing household debt or a simpler protective ordinary tariff.
 
 [Worked comparison](../../../settlement/essential-electricity-and-payment-controls/01-two-billing-windows-and-a-live-line.md)
-· [Decision and migration](../../../2026-11-essential-electricity-and-payment-controls/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-essential-electricity-and-payment-controls/decision-record.md)

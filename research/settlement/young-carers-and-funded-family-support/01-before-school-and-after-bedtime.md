@@ -1,6 +1,6 @@
 # Before school and after bedtime
 
-*Design385 · Constructed household with [separate primary evidence](../../2026-11-young-carers-and-funded-family-support/sources.md).*
+*Design385 · Constructed household with [separate primary evidence](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-young-carers-and-funded-family-support/sources.md).*
 
 A teenager is expected to provide essential morning and evening
 help for an adult relative. The teenager privately asks to stop.

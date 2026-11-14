@@ -100,4 +100,4 @@ host residents, shared resource loss, repeat shortfalls or a
 stronger qualified arrangement.
 
 [Two-window worked case](../../../settlement/joint-displacement-and-host-receiving/01-two-origins-two-hosts-and-one-care-route.md)
-· [Decision and evidence](../../../2026-11-joint-displacement-and-host-receiving/decision-record.md).
+· [Decision and evidence](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-joint-displacement-and-host-receiving/decision-record.md).

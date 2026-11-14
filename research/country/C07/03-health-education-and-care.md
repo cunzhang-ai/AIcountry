@@ -51,7 +51,7 @@ general package. The [joint commitment schedule](../C06/18-joint-commitment-and-
 requires explicit baseline inclusion and allocation across reproductive,
 crisis, palliative and general clinical work, paid care, prevention and
 independent review; these are neither automatically new bills nor unlimited
-capacity inside a health heading. The [life-course service decision](../../2026-10-life-course-services/decision-record.md)
+capacity inside a health heading. The [life-course service decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-life-course-services/decision-record.md)
 compares the whole delivery arrangement and its limits.
 
 [S01–S16](13-public-service-entitlements.md) now gives this guarantee explicit

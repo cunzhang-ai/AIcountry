@@ -107,9 +107,9 @@ worker's voice. The coordinated Act would start new obligations180 days after
 competent enactment with exact source/worker/case succession, paid overlap and
 express B19 payment scope. Old due rights never wait for a readiness certificate.
 
-[Decision](../../2026-11-person-directed-assistance/decision-record.md),
+[Decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-person-directed-assistance/decision-record.md),
 [dependencies](../commitments/29-person-directed-assistance.md) and
-[bounded checks](../../2026-11-person-directed-assistance/validation.json) separate
+[bounded checks](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-person-directed-assistance/validation.json) separate
 authored research from legitimate authority, actual affected/independent review,
 paid safe receiving and better lives. All remain unverified beyond the stated
 research scope. Next complete ordinary employment contracts, fair dismissal and

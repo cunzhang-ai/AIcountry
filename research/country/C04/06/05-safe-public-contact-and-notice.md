@@ -84,7 +84,7 @@ or a simpler route that preserves both parties' practical rights.
 [Ordinary remedies](../../C08/13/04-access-evidence-and-public-decisions.md) ·
 [Correspondence infrastructure](../../C09/05-communications-and-logistics.md) ·
 [Worked case](../../../settlement/safe-public-contact/01-closed-counter-and-hearing.md) ·
-[Decision and evidence](../../../2026-11-safe-public-contact-and-notice/decision-record.md)
+[Decision and evidence](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-safe-public-contact-and-notice/decision-record.md)
 
 For LX11–LX16 redress, a custodian can offer a protected neutral
 invitation through a lawful channel without disclosing the award

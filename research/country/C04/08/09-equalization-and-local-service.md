@@ -63,7 +63,7 @@ local duties, payment timing becomes politically selective, or a
 simpler rights-preserving funding rule performs better.
 
 [National and local worked comparison](../../../settlement/equalization-and-local-service/01-balanced-total-and-local-deadlines.md)
-· [Decision and migration](../../../2026-11-equalization-and-local-service/decision-record.md).
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-equalization-and-local-service/decision-record.md).
 
 [Standing local duties under a national hours change](../../../settlement/matched-national-work/03-who-pays-for-the-shorter-week.md).
 

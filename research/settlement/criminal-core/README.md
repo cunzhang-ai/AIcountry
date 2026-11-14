@@ -4,7 +4,7 @@
 
 [Candidate P01–P20 and K01–K12](../../country/C08/12-criminal-core-and-procedure.md)
 state personal liability, defined harms, independent defense, bounded liberty,
-proportional sentences and delivered correction. Their [decision](../../2026-10-criminal-core/decision-record.md)
+proportional sentences and delivered correction. Their [decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-criminal-core/decision-record.md)
 compares retain/repair, expanded incapacitation and community-first models.
 
 | Supporting part | Question |
@@ -17,8 +17,8 @@ needed and an independent path, not an automated verdict. No case has a real
 adjudicator, source testimony, safe custody, affected-party participation or
 received remedy. Office names and document checks cannot establish independence.
 
-The [source manifest](../../2026-10-criminal-core/source-manifest.json) pins
-current dependencies and preserved manuscripts. [Checks](../../2026-10-criminal-core/validation.json)
+The [source manifest](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-criminal-core/source-manifest.json) pins
+current dependencies and preserved manuscripts. [Checks](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-criminal-core/validation.json)
 verify traceability and boundaries only. Earlier case reviews are not transferred
 to this changed draft. No software, legal adoption or publication occurs here.
 

@@ -12,7 +12,7 @@ income before a producer can pay it; a smaller order book also increases I05
 and weakens retirement-insurance receipts. This is a failure of the earlier
 funding inference, not a decision to abandon democratic or essential rights.
 
-The [reproducible package](../../2026-11-production-title-and-source/README.md)
+The [reproducible package](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-production-title-and-source/README.md)
 connects paid roles, named domestic and export offers, individual receipts,
 housing title/debt, utility replacement and new power demand. It extends the
 [design107 comparison](04-matched-country-comparison.md); it does not turn its
@@ -57,7 +57,7 @@ its invented foreign order book is a capacity stress, not accepted employment.
 Without the residual-sized standby offer, annual received wages fall another
 21.145m and each S margin falls 2.114m. These are conditional receipt scenarios,
 not actual defaults, wage cuts or cancellation of already earned claims. The
-[person/tenure join](../../2026-11-production-title-and-source/results.json)
+[person/tenure join](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-production-title-and-source/results.json)
 recalculates A/C1 without reassigning workers when tenure labels change.
 
 ## Housing is an actual bill and an ownership/credit chain
@@ -108,7 +108,7 @@ the ranking. Passing a finite inequality establishes no grid readiness.
 
 Retain current RF tax/insurance/bounded debt and MC monetary boundaries. Also
 retain distinctly authorized fiscal monetary issue as a serious structural rival.
-The [100-CU paired-stock example](../../2026-11-production-title-and-source/monetary-results.json)
+The [100-CU paired-stock example](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-production-title-and-source/monetary-results.json)
 shows a household deposit, a bank reserve and central-bank liability/negative
 equity; it creates no goods or owned foreign currency by itself. Domestic nominal
 payment capacity is not identical to real scarcity or external-payment capacity.
@@ -131,6 +131,6 @@ producer/input/utility/credit/VAT joins before claiming a country source account
 Reopen A/C1 scale or the production hypothesis if credible demand, actual bills,
 loss finance or hourly supply contradict them; preserve accrued duties meanwhile.
 No qualified independent/affected-public review, adoption, safe financed operation
-or improved lives has been demonstrated. [Decision and review limits](../../2026-11-production-title-and-source/decision-record.md).
+or improved lives has been demonstrated. [Decision and review limits](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-production-title-and-source/decision-record.md).
 
 [Design114](07-production-prices-and-financial-claims.md) now follows this finite source question with matched retail price/work/basket and January-index sensitivities, valid VAT/refunds, tax-inclusive initial inventory credit and actual ownership/FX. The old full-cohort label does not close external supplier labour/title. Original108 outputs remain unchanged and are not current basket/technical/source readiness approval.

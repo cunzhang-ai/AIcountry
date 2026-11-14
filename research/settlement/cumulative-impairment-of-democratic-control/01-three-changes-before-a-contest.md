@@ -1,6 +1,6 @@
 # Three ordinary measures and one expiring opportunity
 
-*Design379 · Constructed mechanism test, separate from the [observed institutional record](../../2026-11-cumulative-impairment-of-democratic-control/sources.md).*
+*Design379 · Constructed mechanism test, separate from the [observed institutional record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-cumulative-impairment-of-democratic-control/sources.md).*
 
 An eligible contestant contests an exclusion on day 0. Day 8 is the
 last lawful day when a correction can reach ballot production.

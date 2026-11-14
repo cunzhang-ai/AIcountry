@@ -20,7 +20,7 @@ keep the simpler I05/WL/N/Y country as a real rival. A history-linked bridge
 favors some established earners over newcomers/unpaid carers and can deliver
 smaller marginal gains to people receiving I05. A cap/reference, protected-care
 exception and progressive-source intention do not prove that distribution fair.
-[Decision and source limits](../../2026-11-portable-earnings-and-work-transition/decision-record.md)
+[Decision and source limits](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-portable-earnings-and-work-transition/decision-record.md)
 retain rejection on those grounds, capture, complete cost or a better paid model.
 Actual authority/source/capacity and improved lives remain unverified. All new
 content is English proposed research; no actual software/law is adopted.

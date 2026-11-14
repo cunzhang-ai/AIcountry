@@ -15,7 +15,7 @@ not by calling changed learned weights a fact. Batching related source hearings
 preserves each distinct burden/motion. Actual backlog can justify funding/time,
 fewer rules, simpler direct floors or a prospective different delegation, not an
 operative update by silence or a late rights/participation cut. A duty to list/
-consider does not prove enough lawful meetings occur. The [authored probes](../../../2026-11-local-law-and-public-control/README.md)
+consider does not prove enough lawful meetings occur. The [authored probes](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-local-law-and-public-control/README.md)
 include full-n/timing/NF, urgency/reset, semantic version and workload failure;
 no actual capacity, safe receiver or net national incremental price is established.
 

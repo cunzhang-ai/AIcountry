@@ -66,7 +66,7 @@ through a successor. Reopen on repeated timing gaps, unsupported
 local reserves or a cheaper qualifying payer arrangement.
 
 [Observed local cash and worked transfer](../../../settlement/local-cash-and-national-budget/01-copenhagen-cash-and-local-payment.md)
-· [Decision and migration](../../../2026-11-local-cash-and-national-budget/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-local-cash-and-national-budget/decision-record.md)
 
 [T67–T72](16-transfer-to-service-receipt.md) traces the net remittance
 through available funds and the actual recipient.

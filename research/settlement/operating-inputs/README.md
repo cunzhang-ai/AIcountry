@@ -9,7 +9,7 @@ supply, just-in-time contracts, domestic investment and regional shared provisio
 No foreign access, several independent factories or self-sufficient industry is
 assumed. Actual services and existing rights continue while new sources fail.
 
-The [full66-row register](../../2026-11-public-inputs-and-operating-resilience/input-register.json)
+The [full66-row register](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-public-inputs-and-operating-resilience/input-register.json)
 preserves the existing firm/plural/A purchase boundary and every owner/quote.
 It has 12 primary inquiry families: clinical products; specialist care/employer
 support; fuel; equipment/materials/repair; sanitation/testing; knowledge/digital/
@@ -68,11 +68,11 @@ clinical use and a full source/lifecycle cost are not simulated. The 120CU call
 is a separate authored financing illustration, not a price for these lots.
 Actual patient receipt, actual source and safe funded operation remain unknown.
 
-[Inputs](../../2026-11-public-inputs-and-operating-resilience/inputs.json),
-[calculation](../../2026-11-public-inputs-and-operating-resilience/model.py),
-[results](../../2026-11-public-inputs-and-operating-resilience/results.json),
-[sources](../../2026-11-public-inputs-and-operating-resilience/sources.md) and
-[validation](../../2026-11-public-inputs-and-operating-resilience/validation.json)
+[Inputs](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-public-inputs-and-operating-resilience/inputs.json),
+[calculation](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-public-inputs-and-operating-resilience/model.py),
+[results](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-public-inputs-and-operating-resilience/results.json),
+[sources](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-public-inputs-and-operating-resilience/sources.md) and
+[validation](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-public-inputs-and-operating-resilience/validation.json)
 preserve that bounded scope. No new company, order, GDP, tax yield or dose.
 
 The [handoff](../commitments/50-public-inputs-and-operating-resilience.md)

@@ -23,7 +23,7 @@ accepted OP/T staff/pay/pension/asset/contract/creditor/record/case/claim succes
 are required. Stronger actual rights and constitutional/software/contribution
 permissions/holds remain. Research enacts no new rent liability or power.
 
-[Decision](../../2026-11-private-rents-tenure-and-housing-entry/decision-record.md)
+[Decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-private-rents-tenure-and-housing-entry/decision-record.md)
 retains the strongest supply/entrant/owner objections and real structural rivals.
 Current status navigation is consolidated without adopting a procedure. Full
 actual stock, independent capacity, country source and better lives remain open.

@@ -66,7 +66,7 @@ bodies decide material choices and qualified operators accept
 performance. Preserve this record and original claims on succession.
 
 [Combined first-budget exercise](../../../settlement/integrated-first-programme/06-concurrent-losses-and-binding-duties.md)
-· [Decision and migration](../../../2026-11-first-programme-concurrent-losses/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-first-programme-concurrent-losses/decision-record.md)
 
 [T23–T26](08-first-programme-with-observed-budgets.md) uses actual Copenhagen accounts
 and approvals to qualify the observed alternative. Keep the constructed

@@ -70,4 +70,4 @@ counted allowances. It cannot vary a cap, approve a payment or determine
 that residents received a service.
 
 [Observed Copenhagen records and authored comparison](../../../settlement/service-headroom-and-usable-budget/README.md)
-· [Decision and migration](../../../2026-11-service-headroom-and-usable-local-budget/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-service-headroom-and-usable-local-budget/decision-record.md)

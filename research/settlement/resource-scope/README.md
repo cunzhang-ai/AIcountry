@@ -14,12 +14,12 @@ unmatched material requirements and narrows transferred power/source claims.
 | Retain garment/hygiene as an explicit optional demand variant |25.2m border-CU converted at hypothetical1CU/FU, disjoint kit contents assumed; actual demand/retail unproved; consumer spending is not an additional border invoice |
 | Additional8MW during the24-hour weather outage, separately assumed | Storage fails that static test; firm passes that subset. Annual energy alone supplies no peak or engineering approval |
 
-[Eight conditional joins](../../2026-11-country-resource-scope-reconciliation/results.json)
+[Eight conditional joins](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-country-resource-scope-reconciliation/results.json)
 retain owner-specific foreign calls and unknown incremental capital/crew/input/
 timing tails. They neither finance the country nor revive the retired130/131
 budget. Existing law, claims, OP/T successors, TW/Y and source restrictions persist.
 
-[Decision and limitations](../../2026-11-country-resource-scope-reconciliation/decision-record.md)
+[Decision and limitations](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-country-resource-scope-reconciliation/decision-record.md)
 preserve whole-country rivals and same-controller review limits. The next useful
 output is one compatible retained/changed operating package, not more rows or an
 inferred tax/AI gain. Missing evidence stays explicit; no central private-life

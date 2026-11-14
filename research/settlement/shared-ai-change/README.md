@@ -7,4 +7,4 @@ lawful acts and missed services differently during recovery.
 - [Observed July 2024 shared update and health-service response](01-observed-update-and-service-recovery.md)
 - [Authored release and downstream exposure comparison](02-authored-release-and-queued-effects.md)
 - [Canonical DP38–DP42](../../country/C11/09/09-shared-dependencies-and-safe-changes.md)
-- [Decision and evidence limits](../../2026-11-shared-ai-dependencies-and-safe-changes/decision-record.md)
+- [Decision and evidence limits](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-shared-ai-dependencies-and-safe-changes/decision-record.md)

@@ -10,10 +10,10 @@ owns prevention/control duties without new force or detention powers.
 2. [Control, proceedings and received remedies](02-control-process-and-remedy.md).
 3. [Primary sources, competing models and deliberate variations](03-sources-choices-and-limits.md).
 
-[Decision](../../2026-10-international-crimes-and-accountability/decision-record.md),
-[source/scope record](../../2026-10-international-crimes-and-accountability/scope-record.json),
-[limited integrity checks](../../2026-10-international-crimes-and-accountability/validation.json)
-and [363-artifact predecessor](../../2026-10-international-crimes-and-accountability/predecessor-design-72/SNAPSHOT.md)
+[Decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-international-crimes-and-accountability/decision-record.md),
+[source/scope record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-international-crimes-and-accountability/scope-record.json),
+[limited integrity checks](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-international-crimes-and-accountability/validation.json)
+and [363-artifact predecessor](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-international-crimes-and-accountability/predecessor-design-72/SNAPSHOT.md)
 preserve baseline, reasoning and unresolved compatibility. Twenty-four cases
 are authored boundary reasoning, not verdict tests or participant evidence.
 Source copies are reference material, not independent proof of better lives

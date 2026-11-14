@@ -97,6 +97,6 @@ headroom check leaves due income and accrued insurance intact. The
 benefits authority independently applies I05 to the lawful new basket.
 
 [Evidence and two-place comparison](../../../settlement/essential-cost-shocks-and-usable-protection/01-two-places-and-one-shock.md)
-· [Decision and migration](../../../2026-11-essential-cost-shocks-and-usable-protection/decision-record.md).
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-essential-cost-shocks-and-usable-protection/decision-record.md).
 
 [Persistent price and recurring provision comparison](../../../settlement/persistent-essential-prices/01-protecting-the-basket-after-payments-recover.md).

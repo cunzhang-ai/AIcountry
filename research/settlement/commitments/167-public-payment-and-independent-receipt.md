@@ -7,6 +7,6 @@ amounts, safe revocation and independent remedies. Count principal,
 operating float and hardship advances separately.
 
 [Observed and authored tests](../public-payment-receipt/README.md)
-· [Decision and transition](../../2026-11-public-payment-and-independent-receipt/decision-record.md)
+· [Decision and transition](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-public-payment-and-independent-receipt/decision-record.md)
 
 Actual enactment, funded backup and person-controlled receiving remain open.

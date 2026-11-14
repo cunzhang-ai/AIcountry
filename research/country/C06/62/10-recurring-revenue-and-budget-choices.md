@@ -92,7 +92,7 @@ repeated bridge use or a better rights-preserving source. Keep
 the predecessor and binding claims through any later change.
 
 [Worked four-year decision](../../../settlement/recurring-revenue-and-budget-choices/01-four-years-and-a-real-revenue-choice.md)
-· [Decision and sources](../../../2026-11-recurring-revenue-and-budget-choices/decision-record.md).
+· [Decision and sources](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-recurring-revenue-and-budget-choices/decision-record.md).
 
 [Policy success and receipts](../../../settlement/recurring-finance-and-incidence/01-success-and-the-next-budget.md) · [Asset and service comparisons](../../../settlement/recurring-finance-and-incidence/02-a-depot-and-a-binding-deadline.md).
 

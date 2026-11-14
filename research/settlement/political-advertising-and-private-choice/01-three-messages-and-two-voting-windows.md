@@ -1,6 +1,6 @@
 # Three paid versions and two actual voting windows
 
-*Design387 · Constructed comparison with [primary records](../../2026-11-political-advertising-and-private-choice/sources.md).*
+*Design387 · Constructed comparison with [primary records](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-political-advertising-and-private-choice/sources.md).*
 
 One list buys distribution of three materially different versions
 of a lawful political argument. Version A runs beside a relevant

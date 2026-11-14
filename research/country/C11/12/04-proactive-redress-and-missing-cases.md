@@ -102,6 +102,6 @@ unsafe linkage, excessive delay or a simpler effective route.
 [Shared public remedies](../../C08/30-repeated-public-failure-and-remedy.md) ·
 [Public record loss](../../C04/06/04-public-record-loss-and-rights.md) ·
 [Constructed comparison](../../../settlement/collective-administrative-redress/01-omitted-households-and-returned-payments.md) ·
-[Decision and evidence](../../../2026-11-collective-administrative-redress/decision-record.md)
+[Decision and evidence](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-collective-administrative-redress/decision-record.md)
 
 [Scoped batch and safe assisted receipt](../../../settlement/proactive-redress-and-safe-receipt/01-repair-without-a-new-application.md).

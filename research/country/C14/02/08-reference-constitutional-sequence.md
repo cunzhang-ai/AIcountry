@@ -36,4 +36,4 @@ service receipt under unchanged legal competence. Keep current ministerial
 appointment and confidence rules until any binding replacement takes
 effect. Put the exact next choice against that stronger ordinary package.
 [Reference and worked sequence](../../../settlement/first-round-mandate/12-the-existing-constitution-governs-the-change.md)
-· [Decision record](../../../2026-11-reference-constitutional-sequence/decision-record.md)
+· [Decision record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-reference-constitutional-sequence/decision-record.md)

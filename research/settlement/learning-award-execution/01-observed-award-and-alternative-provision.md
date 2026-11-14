@@ -39,4 +39,4 @@ estimate a national rate, prove the cause of the earlier financial
 gap in Leicestershire or establish the effect of this country's
 proposed arrangements. The reported learners' experiences are
 mediated by the decision records. They are not participation in
-AIcountry's design. [Source scope and custody](../../2026-11-learning-award-execution-and-recovery/sources.md)
+AIcountry's design. [Source scope and custody](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-learning-award-execution-and-recovery/sources.md)

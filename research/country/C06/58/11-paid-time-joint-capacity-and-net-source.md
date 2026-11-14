@@ -83,7 +83,7 @@ and organizational conditions; they establish no automatic national17.8%task
 gain, free cover or fiscal self-finance. The Schiller time-use/sleep publications
 share an intervention family; Fan's abstract is a different intervention sample,
 not a replication of every public task. Inspection/retrieval limits and original
-reference vintages are explicit in [the source record](../../../2026-11-paid-time-and-joint-source/sources.md).
+reference vintages are explicit in [the source record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-paid-time-and-joint-source/sources.md).
 Pay qualified receiving rather than force an unpaid family or cancel the child's
 service hours; actual gender/care/newcomer/private/foreign losses can displace
 this preference. No single financial or wellbeing score substitutes for rights.

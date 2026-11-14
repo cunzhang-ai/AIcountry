@@ -14,8 +14,8 @@ No research selection enacts a rule or proves a better country.
 | [Alternative institutions and actual resource gaps](02-choices-and-delivery.md) | Permissive, prohibitory and contractual models with disagreement and cost |
 | [Original-source observations and limits](03-sources-and-limits.md) | Dated WHO/HFEA/HCCH references; no wholesale incorporation or conformity claim |
 
-The [dated decision](../../2026-10-reproductive-law-and-parentage/decision-record.md)
-and [410-artifact predecessor](../../2026-10-reproductive-law-and-parentage/predecessor-design-75/SNAPSHOT.md)
+The [dated decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-reproductive-law-and-parentage/decision-record.md)
+and [410-artifact predecessor](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-reproductive-law-and-parentage/predecessor-design-75/SNAPSHOT.md)
 retain changed law, reasons, scope and migration. New limits, compensation
 formula and windows are uncalibrated hypotheses. No actual qualified review,
 affected participation, clinical/court/record capacity, public financing,

@@ -111,5 +111,5 @@ record. Keep targets, forecasts, start dates, actual delivery and spending
 authority distinct. Any separate AI evaluation must demonstrate an advantage
 over that baseline on fresh cases. [ordinary works calibration](settlement/first-public-ai-programme/02-an-ordinary-check-on-public-works.md)
 
-The [frozen Edition 1](2026-11-first-edition/README.md) fixes the research selection. The [next edition docket](2026-11-first-edition/NEXT-EDITION.md) carries subsequent
+The [frozen Edition 1](edition/README.md) fixes the research selection. The [next edition docket](edition/NEXT-EDITION.md) carries subsequent
 comparisons and unresolved evidence.

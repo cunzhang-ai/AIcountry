@@ -33,6 +33,6 @@ changes. Update the integrated design and status together for a changed
 working selection; preserve a predecessor and decision record. Relocation or
 indexing alone grants no legal authority or new research procedure.
 
-The [document-organization history](../history/05-document-organization.md)
+The [document-organization history](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/history/05-document-organization.md)
 explains earlier splits and links their preserved predecessors. Actual
 ratification, funding, staffed delivery and observed results remain separate.

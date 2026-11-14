@@ -45,7 +45,7 @@ require a national vote. An executive, technical forum or resource owner gains
 no project approval or veto through delay. A directly elected regional authority
 remains an alternative only after a lawful founding decision defines a durable
 area, its affected electorate, powers, financing and review. The selected
-[territorial comparison](../../2026-10-operating-settlement/territorial-authority.md)
+[territorial comparison](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-operating-settlement/territorial-authority.md)
 does not presume a permanent regional map or local unanimity as the country's
 allocation rule.
 

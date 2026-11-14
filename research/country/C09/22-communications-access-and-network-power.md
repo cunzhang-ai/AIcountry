@@ -21,4 +21,4 @@ and physical correspondence rules.
    governs usable failover, democratic control and continuing rights.
 
 [Observed evidence and bounded failure case](../../settlement/communications-access/README.md)
-· [Choice, rivals and migration](../../2026-11-communications-access-and-network-power/decision-record.md)
+· [Choice, rivals and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-communications-access-and-network-power/decision-record.md)

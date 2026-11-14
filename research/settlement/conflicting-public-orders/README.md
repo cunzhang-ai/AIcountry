@@ -53,4 +53,4 @@ successful performance. A later ordinary remedy is separately
 assessed and recorded.
 
 [Scenario check](verify-order-conflict.py)
-· [Sources and limits](../../2026-11-conflicting-public-orders/sources.md)
+· [Sources and limits](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-conflicting-public-orders/sources.md)

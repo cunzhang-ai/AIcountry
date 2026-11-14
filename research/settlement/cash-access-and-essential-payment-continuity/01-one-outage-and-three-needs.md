@@ -38,4 +38,4 @@ Restoration of ordinary payment links does not cancel an accepted
 public commitment. This comparison does not price an actual network
 or establish coverage for any district.
 
-[Primary comparators](../../2026-11-cash-access-and-essential-payment-continuity/sources.md).
+[Primary comparators](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-cash-access-and-essential-payment-continuity/sources.md).

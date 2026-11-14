@@ -1,6 +1,6 @@
 # Care and meals share one budget exposure
 
-*Design381 · Constructed comparison with separate [primary procurement records](../../2026-11-essential-contract-costs-and-paid-continuity/sources.md).*
+*Design381 · Constructed comparison with separate [primary procurement records](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-essential-contract-costs-and-paid-continuity/sources.md).*
 
 Care and meal contracts each have 100 units due in the first
 window. These base dues and existing wages have their own sources.

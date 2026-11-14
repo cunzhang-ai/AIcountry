@@ -9,7 +9,7 @@ with narrow actual court-backed grave-risk measures, separate bodily consent and
 express task-limited enforcement. No general emergency declaration supplies them.
 
 [Adversarial situations](01-adversarial-routes-and-costs.md) preserve the real
-liberty/safety/paternalism/capacity costs and failed-fallback results. The [decision](../../2026-11-ordinary-health-and-hazard-protection/decision-record.md)
+liberty/safety/paternalism/capacity costs and failed-fallback results. The [decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-ordinary-health-and-hazard-protection/decision-record.md)
 compares voluntary-only, targeted and broader intervention architectures. This
 choice does not claim an optimal biological duration, independent court/staff
 capacity, affordable national source or actual superior outcomes.

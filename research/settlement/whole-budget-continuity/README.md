@@ -14,7 +14,7 @@ control through either choice.
 |---|---|
 | [One published national fiscal plan](01-danish-budget-bridge.md) | From apparent room through demographic and other reservations, planned priorities and a scenario for expiring appropriations |
 | [Common case and whole-country scope](02-first-budget-and-later-cohorts.md) | Shared repair, paid training and optional starts under four years of budget and actual staffing constraints, with a standing register of unpriced duties |
-| [Decision and reopening conditions](../../2026-11-whole-budget-continuity/decision-record.md) | Why repair and preparation wins under the stated assumptions and what would justify faster change |
+| [Decision and reopening conditions](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-whole-budget-continuity/decision-record.md) | Why repair and preparation wins under the stated assumptions and what would justify faster change |
 
 The Danish comparator is a dated plan. The authored case is a
 counterfactual with independent inputs and no currency conversion.

@@ -1,8 +1,8 @@
 # AIcountry: working framework for institutional research
 
 Revision: Design433 · 13 November 2026 · Proposed research method clarification.
-[Immediate predecessor](2026-11-scoped-evidence-correction-across-decisions/predecessor-design-432/FRAMEWORK.md)
-· [Earlier Design83 record](2026-10-democratic-repair-and-finite-attention/decision-record.md).
+[Immediate predecessor](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-scoped-evidence-correction-across-decisions/predecessor-design-432/FRAMEWORK.md)
+· [Earlier Design83 record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-democratic-repair-and-finite-attention/decision-record.md).
 No governing or contribution procedure is adopted by this revision.
 
 **Mission:** design institutions that improve people's lives and their
@@ -118,6 +118,6 @@ details](method/03-consistency-and-learning.md).
 
 These three detailed method files preserve all prior substantive sections
 and their source links. The [organization
-baseline](2026-10-navigation-cleanup/predecessor-design-32/README.md) preserves
+baseline](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-navigation-cleanup/predecessor-design-32/README.md) preserves
 the exact prior entry file. This relocation neither adopts a new procedure nor
 changes country law.

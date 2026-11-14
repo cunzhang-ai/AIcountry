@@ -19,15 +19,15 @@ indiscriminate force, lacked all remedies or required protest permission.
 | What about publication? | Court/precise substantive wrong, grave-harm test for advance/provisional suppression including takedown; final remedies actual proof/defenses | Privacy/body/child safety and protected criticism remain contested; no truth licence or whole-network switch |
 | Who pays and receives relief? | Actual public sources and useful-time independent claims/execution; no basic policing/medical/cleaning fees | Simultaneous lawful care/court/police/local duties and actual source remain unqualified |
 
-[Adverse cases](../../2026-11-peaceful-assembly-and-public-dissent/adverse-cases.md)
+[Adverse cases](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-peaceful-assembly-and-public-dissent/adverse-cases.md)
 include one-hour events, leaderless hearings, renamed restrictions, hostile
 countercrowds, critical access and provisional takedowns. They are authored,
-not actual testimony or successful enforcement. [Decision](../../2026-11-peaceful-assembly-and-public-dissent/decision-record.md)
+not actual testimony or successful enforcement. [Decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-peaceful-assembly-and-public-dissent/decision-record.md)
 retains prior permission, mandatory notice/real exceptions and administrative
 restrictions/real immediate review as whole alternatives. Prior court scrutiny
 is a selected burden, not proof of superior democracy.
 
-[Source inspection](../../2026-11-peaceful-assembly-and-public-dissent/sources.md)
+[Source inspection](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-peaceful-assembly-and-public-dissent/sources.md)
 keeps UN interpretive guidance distinct from project choices, domestic authority,
 actual staffing and outcomes. No real affected public, independent lawyer,
 qualified source or actual operation has adopted or validated this statute.

@@ -3,7 +3,7 @@
 [Canonical clauses](../../country/C04/11-public-service-transfer-and-continuity.md)
 · [Copenhagen and East Denmark](01-copenhagen-health-transition.md)
 · [Worked operating and cash paths](02-the-first-day-and-first-payroll.md)
-· [Original sources](../../2026-11-public-service-transfer-and-continuity/sources.md)
+· [Original sources](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-public-service-transfer-and-continuity/sources.md)
 
 | Arrangement | Potential benefit | Where it can fail |
 |---|---|---|

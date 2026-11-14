@@ -4,4 +4,4 @@
 protects authentic election information and timely specific correction
 without merging speech, administration or validity decisions.
 
-[Comparison](../electoral-instruction-correction/README.md) · [Decision and migration](../../2026-11-electoral-instructions-and-timely-correction/decision-record.md)
+[Comparison](../electoral-instruction-correction/README.md) · [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-electoral-instructions-and-timely-correction/decision-record.md)

@@ -74,6 +74,6 @@ capacity, an earlier call, missed actual relief or a better matched
 whole programme.
 
 [Matched correction and programme comparison](../../../settlement/integrated-first-programme/05-protected-corrections-and-options.md)
-· [Decision and migration](../../../2026-11-protected-corrections-and-first-budget/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-protected-corrections-and-first-budget/decision-record.md)
 
 [Concurrent fiscal correction and relief](../../../settlement/shared-fiscal-error-and-remedy/01-one-error-three-deadlines.md).

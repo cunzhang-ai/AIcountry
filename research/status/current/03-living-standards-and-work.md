@@ -4,7 +4,7 @@ Design186 · Current research choices, not enacted law or renewed final review
 
 The canonical topics own their clauses. This page states current selections,
 real alternatives and unresolved objections; source observations, adopted law,
-paid receiving and better lives are separate. [Prior full working register](../../history/06-current-research/09-former-living-register.md)
+paid receiving and better lives are separate. [Prior full working register](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/history/06-current-research/09-former-living-register.md)
 retains earlier reasoning and superseded queues without reviving them.
 
 | Decision | Current choice and substantive alternative | Remaining objection / actual owner |

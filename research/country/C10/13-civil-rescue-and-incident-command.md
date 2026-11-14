@@ -22,7 +22,7 @@ is not selected. The national C04 essential-guarantee duty remains.
 | [RC29–RC33: accessible evacuation and protected transport](13/07-accessible-evacuation-and-protected-transport.md) | Accepted trip and onward receiving, distinct civic route, narrow dispatch priority and timely remedy |
 
 [Control, adverse paths and alternatives](../../settlement/civil-rescue/README.md)
-and the [dated decision](../../2026-11-civil-rescue-and-incident-command/decision-record.md)
+and the [dated decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-civil-rescue-and-incident-command/decision-record.md)
 retain local inequality, centralized response, monopoly, volunteer and command-
 ambiguity objections. Public ownership and qualified titles prove no readiness
 or independence. Actual rescue capacity, affected judgment, source and improved

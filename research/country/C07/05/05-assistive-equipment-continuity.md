@@ -76,4 +76,4 @@ simpler service that provides equally usable continuity.
 [Device safety and coverage](../14-medicines-devices-and-safe-methods.md) ·
 [Independent repair law](../../C09/26-product-repair-and-material-responsibility.md) ·
 [Two-user comparison](../../../settlement/assistive-equipment-continuity/01-two-devices-and-a-common-supplier.md) ·
-[Decision and evidence](../../../2026-11-assistive-equipment-continuity/decision-record.md)
+[Decision and evidence](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-assistive-equipment-continuity/decision-record.md)

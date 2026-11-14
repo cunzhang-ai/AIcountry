@@ -11,11 +11,11 @@ paid learning, usable net AI gains, prior sources and accepted delivery.
 | [People, time and qualification](01-people-time-and-qualification.md) | Distinct trainees/instructors, actual lead times, qualified reserves and common failure |
 | [Cost, prior sources and competing choices](02-cost-sources-and-choice.md) | Joined eight/ten-year bills, replacement attribution, displacement and remaining national gaps |
 
-[Inputs](../../2026-10-productive-capability/inputs.json),
-[model](../../2026-10-productive-capability/model.py),
-[results](../../2026-10-productive-capability/results.json),
-[validation](../../2026-10-productive-capability/validation.json) and
-[decision](../../2026-10-productive-capability/decision-record.md)
+[Inputs](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-productive-capability/inputs.json),
+[model](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-productive-capability/model.py),
+[results](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-productive-capability/results.json),
+[validation](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-productive-capability/validation.json) and
+[decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-productive-capability/decision-record.md)
 preserve hypotheses, original numerical families and limitations.
 
 The comparison extends the old eight-year enabling reference with the

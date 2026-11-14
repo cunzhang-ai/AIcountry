@@ -11,7 +11,7 @@
 | C5 Source scope | Old37 bids, later22-package quotes,108 replacements and114 invoice/price cases have bounded dependencies. Current I/AS/WL/OE increments, full provider/working-cash/legacy/actuarial/FX and simultaneous remedy/control remain unpriced. | A null is unknown, not zero or an automatic extra bill; included/overlap needs actual workload proof, new double cost is also wrong. Costed-scope language is narrowed accordingly. |
 | C6 Choice under shortage | Existing SD/NP/S/E require lawful professional/sector triage, elected material burdens and continued claims. No common list alone can choose between care, opposition and independent adjudication. | Retain these rules; reject adding a sovereign AI/fiscal/coordination office to make the account appear closed. Physical failure, unlawful refusal and disagreement require different lawful responses. |
 
-[Reproducible examples](../../2026-11-current-country-integration/results.json)
+[Reproducible examples](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-current-country-integration/results.json)
 use declared qualified fictional units. They do not identify actual eligible people,
 clinical urgency, lawful loss, solvency, forecasts or willing sources. Source
 identity/control and monthly fit matter alongside arithmetic. The old FD07

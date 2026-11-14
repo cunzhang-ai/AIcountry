@@ -53,5 +53,5 @@ capacity qualify. Routine process reform and earlier assistance
 remain alternatives. No modeled outcome estimates actual law,
 court capacity, political participation or liability.
 
-[Primary records](../../2026-11-public-participation-and-abusive-civil-claims/sources.md)
+[Primary records](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-public-participation-and-abusive-civil-claims/sources.md)
 · [Executable comparison](verify-participation.py).

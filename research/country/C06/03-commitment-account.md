@@ -49,7 +49,7 @@ cannot be counted as independent capacity for several conflicting duties.
 The Assembly compares repair of an existing body, shared support with distinct
 decisions, a new body and no change. Estimates inform an elected decision; they
 cannot cancel an existing claim or become a technical veto over legal protection.
-The [institutional-usability decision](../../2026-10-institutional-load/decision-record.md)
+The [institutional-usability decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-institutional-load/decision-record.md)
 records the competing packages, common-controller objections and real-world test.
 
 Future civic mediation also consumes hearing time, mandate checks, safe

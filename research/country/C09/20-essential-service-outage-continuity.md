@@ -120,7 +120,7 @@ deadline, unpayable upkeep, a better physically feasible arrangement
 or loss of independent review.
 
 [Local evidence and adverse cases](../../settlement/outage-continuity/README.md)
-· [Decision and migration](../../2026-11-essential-service-outage-continuity/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-essential-service-outage-continuity/decision-record.md)
 
 [MO17–MO22](../C07/17/05-joined-journeys-and-service-access.md) assigns the journey and destination-service owners when a protected route fails, with separate payment and receipt. It creates no additional power to divert an OC reserve.
 

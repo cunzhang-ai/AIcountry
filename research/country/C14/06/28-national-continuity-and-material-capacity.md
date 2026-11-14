@@ -60,7 +60,7 @@ Reopen on a qualified source, changed physical dependencies, new harm
 or a better supported whole alternative.
 
 [Integrated operating comparison](../../../settlement/national-continuity-and-material-capacity/01-one-calendar-and-two-stress-windows.md)
-· [Decision and migration](../../../2026-11-national-continuity-and-material-capacity/decision-record.md).
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-national-continuity-and-material-capacity/decision-record.md).
 
 [Physical recovery and gross payment comparison](../../../settlement/electricity-flexibility-and-service-recovery/01-a-cheaper-hour-and-a-busier-connection.md).
 

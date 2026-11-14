@@ -18,13 +18,13 @@ Paired R&D-neutralization leaves net lending unchanged, not a new deficit/source
 | Simple gross output versus GVA |6.689bn versus3.915bnDKK; neither is a second public bill or a collected tax |
 | Import-content lens |0.819bn at source boundaries, not owned FX or the whole country's foreign payments |
 
-[Original sources and limits](../../2026-11-public-offer-and-production-bridge/sources.md)
+[Original sources and limits](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-public-offer-and-production-bridge/sources.md)
 distinguish observed accounts from official model-derived coefficients and the
 authored increment. Rounded coefficients, capacity/price responses, qualified
 shifts, input suppliers, actual source/currency/timing and transition are unproved.
 No induced household spending, assumed AI gain or residual tax closes the account.
 
-[Decision/results](../../2026-11-public-offer-and-production-bridge/README.md)
+[Decision/results](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-public-offer-and-production-bridge/README.md)
 retain actual law, TW/Y, source restrictions, independent remedies and paid OP/T
 successors. The finite result changes how the joined country is evaluated; it
 does not revive130/131 adequacy or demonstrate national affordability/superiority.

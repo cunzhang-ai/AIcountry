@@ -17,7 +17,7 @@ resource-rich country, new resource tax or ready source of national welfare.
 | [NR13–NR16: receipts, finite wealth and transition](15/04-public-receipts-finite-wealth-and-transition.md) | Public consideration/tax/security separate, default replacement-capital use with explicit current-essential exception, paid source succession and real rivals |
 
 [Ownership/source tradeoffs](../../settlement/mineral-rights/README.md) and the
-[dated decision](../../2026-11-finite-resources-and-mineral-rights/decision-record.md)
+[dated decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-finite-resources-and-mineral-rights/decision-record.md)
 keep inherited private rights plus regulation/tax, direct public production,
 repair/reuse/trade and leaving deposits in place as substantive alternatives.
 Public title cannot prove impartial management or buy ecological/collective

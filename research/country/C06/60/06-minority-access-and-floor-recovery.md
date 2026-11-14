@@ -93,7 +93,7 @@ persuade enough members while the decision is open.
 [Ordinary BCV sequence](05-competing-budgets-and-floor-choice.md)
 · [PE protected access](../../C03/21-parliamentary-evidence-and-independent-access.md)
 · [Worked case](../../../settlement/budget-floor-recovery/README.md)
-· [Design244 decision](../../../2026-11-minority-budget-access-and-protected-priority/decision-record.md)
+· [Design244 decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-minority-budget-access-and-protected-priority/decision-record.md)
 
 [BCV11–BCV15](08-majority-comparison-and-final-budget.md) qualifies the
 first-vote rule. The recovered text enters the comparison and has first

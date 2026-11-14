@@ -31,7 +31,7 @@ requiring actual source-law/qualified/affected review before any lawful adoption
 separate authority, clinical competence, actual staff/cash and received protection.
 [Cases, rivals and sources](../../settlement/necessary-care/README.md) preserve
 major surgical/end-of-life cases rather than solve only easy reversible tasks.
-The [decision/predecessor](../../2026-10-necessary-care-and-unknown-will/decision-record.md)
+The [decision/predecessor](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-necessary-care-and-unknown-will/decision-record.md)
 records consequential RP/B/S interfaces. No clinical safety standard, staffed
 court, treaty compatibility, actual consent or better-life outcome is certified.
 RR/FA now selects restoration/finite attention; next joined material/transition and objective-wide comparison.

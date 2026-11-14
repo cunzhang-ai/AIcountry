@@ -4,7 +4,7 @@
 
 ## 7. Legacy text that must change together
 
-The pinned [September 16 local manuscript](../2026-09-readiness/source-documents.json)
+The pinned [September 16 local manuscript](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-09-readiness/source-documents.json)
 is the exact reference for this dependency map. Clause titles below identify material
 changes; they are not enacted amendments. Existing constitutional hierarchy, rights
 and fair-process protections still require a complete clause review on the then-current

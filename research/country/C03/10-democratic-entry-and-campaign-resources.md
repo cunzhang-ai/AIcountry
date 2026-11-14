@@ -31,10 +31,10 @@ no universal200 bound, invented diaspora district or territorial second credit.
 Finance, endorsement and secret ballot remain distinct acts. Earlier-called
 contests/due support preserve actual law, not retrospective EL count changes.
 
-[Country follow-up](../../status/completion/12-democratic-entry-and-remaining-country.md),
+[Country follow-up](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/status/completion/12-democratic-entry-and-remaining-country.md),
 [dependencies](../../settlement/commitments/17-democratic-entry-and-campaign-resources.md),
 [authored probes](../../settlement/campaign-access/README.md) and
-[decision](../../2026-11-democratic-entry-and-campaign-resources/decision-record.md)
+[decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-democratic-entry-and-campaign-resources/decision-record.md)
 retain harder1% entry, hoarding, scarce attention, late correction, private-wealth,
 source/court and common-capture objections. [PC01–PC24](12-continuous-political-finance.md)
 now provides continuous/local/referendum finance and tiny-track cap amendments;

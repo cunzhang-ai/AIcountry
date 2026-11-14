@@ -32,7 +32,7 @@ not unlimited new entry, automatic service receipt or an external state's consen
 The [C10 consumer](../C10/09-membership-admission-and-reception.md),
 [C06 capacity chain](../C06/30-membership-and-reception-capacity.md) and
 [adversarial comparison](../../settlement/belonging/README.md) preserve costs,
-foreign dependencies and actual unknowns. The [decision/predecessor](../../2026-10-citizenship-and-secure-belonging/decision-record.md)
+foreign dependencies and actual unknowns. The [decision/predecessor](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-citizenship-and-secure-belonging/decision-record.md)
 records changed consumers. Design82 UA now selects necessary-care authority; next democratic revision/finite consultation and the joined material country choice.
 
 [AR01–AR05](../C03/16/05-hearing-people-without-a-national-vote.md)

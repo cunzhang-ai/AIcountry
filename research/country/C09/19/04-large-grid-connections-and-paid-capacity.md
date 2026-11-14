@@ -90,6 +90,6 @@ repetition, common-source security failure, displaced essentials,
 underused public assets or a cheaper qualified expansion.
 
 [Demand queue evidence and staged example](../../../settlement/large-grid-connections-and-paid-capacity/01-two-load-windows-and-an-exit.md)
-· [Decision and migration](../../../2026-11-large-grid-connections-and-paid-capacity/decision-record.md).
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-large-grid-connections-and-paid-capacity/decision-record.md).
 
 [Worked heat recovery and flexible-load comparison](../../../settlement/electricity-flexibility-and-service-recovery/01-a-cheaper-hour-and-a-busier-connection.md).

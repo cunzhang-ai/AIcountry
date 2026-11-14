@@ -66,4 +66,4 @@ exclusion, loss of free access, unserved users, operator failure
 or a better lawful arrangement with less public burden.
 
 [Closure and evening-use comparison](../../../settlement/civic-place-continuity/01-public-space-through-closure.md)
-· [Decision and migration](../../../2026-11-civic-places-and-usable-continuity/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-civic-places-and-usable-continuity/decision-record.md)

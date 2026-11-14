@@ -42,4 +42,4 @@ alternate cannot receive or when the finite window runs out.
 The case compares dates and funding. It does not estimate actual
 hazards, design a flood structure or establish local readiness.
 
-[Decision and evidence](../../2026-11-climate-adaptation-and-funded-options/decision-record.md).
+[Decision and evidence](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-climate-adaptation-and-funded-options/decision-record.md).

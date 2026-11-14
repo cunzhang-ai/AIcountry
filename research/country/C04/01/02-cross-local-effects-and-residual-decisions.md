@@ -102,7 +102,7 @@ form. Keep the prior accepted and protected allocation until a
 competent successor receives it.
 
 [Matched catchment case](../../../settlement/cross-local-effects/01-three-councils-and-one-catchment.md)
-· [Decision and migration](../../../2026-11-cross-local-effects-and-residual-decisions/decision-record.md).
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-cross-local-effects-and-residual-decisions/decision-record.md).
 
 [Same docket on three governance arrangements](../../../settlement/replaceable-public-institutions/01-one-docket-three-forms.md).
 

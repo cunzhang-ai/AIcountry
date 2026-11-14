@@ -20,12 +20,12 @@ These packages are not averaged into a metric winner. Direct-public can displace
 plural organization without abandoning consent/democracy; full U may be chosen
 without pretending source evidence exists. Actual affected choices are absent.
 
-[37 function recipes](../../2026-11-country-operation-and-handover/operating-register.json)
-name task, delivery/control/source and transition gaps. [All 34 predecessor commitment modules](../../2026-11-country-operation-and-handover/later-duty-register.json)
+[37 function recipes](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-country-operation-and-handover/operating-register.json)
+name task, delivery/control/source and transition gaps. [All 34 predecessor commitment modules](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-country-operation-and-handover/later-duty-register.json)
 remain separate additive-or-overlapping scope questions. Counts do not prove full
 law or complete quantities/costs. Every actual cost/readiness/outcome stays null.
 
-[Reproducible examples](../../2026-11-country-operation-and-handover/results.json)
+[Reproducible examples](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-country-operation-and-handover/results.json)
 expose simultaneous work and two-year bridge timing. A24 bridge is necessary
 in the declared case even though its net source exceeds uses by 26; with 2% annual
 simple interest over two years the final balance after repayment is 25.04 m fictional
@@ -40,7 +40,7 @@ reports public-sector headcount 6.21 million including NHS2.07 million; its head
 is not task-hours. These are external scale/boundary checks, not project inputs.
 No UK adoption, GBP/CU conversion, matching local source or observed advantage.
 
-[Decision and scope](../../2026-11-country-operation-and-handover/decision-record.md)
+[Decision and scope](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-country-operation-and-handover/decision-record.md)
 retain root-only inspection, open costs, source families, disagreement and paid
 succession obligations. The next national costing work remains unfinished;
 no prior final review transfers to changed duties or to a new whole package.

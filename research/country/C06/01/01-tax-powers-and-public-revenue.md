@@ -87,7 +87,7 @@ settlements, arrears, refunds, collection costs and material beneficial-owner
 risks enter audited public accounts without exposing protected individual
 records. The authority's appointment, budget, data access and audit are
 designed so cabinet, a dominant firm or one vendor cannot both select targets
-and finally adjudicate its own assessments. The [tax and local-finance decision](../../../2026-10-tax-and-fiscal-federalism/decision-record.md)
+and finally adjudicate its own assessments. The [tax and local-finance decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-tax-and-fiscal-federalism/decision-record.md)
 records the rival packages, rights limits and unresolved incidence.
 
 [TN26–TN30](../59/07-tax-preferences-and-subsidy-renewal.md)

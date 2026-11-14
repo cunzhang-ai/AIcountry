@@ -26,7 +26,7 @@ appointments/case careers; no new sovereign board or bank-resolution power by
 analogy. New VD13 is expressly narrow, court-only and prospective.
 
 [Current country comparison](../../settlement/nonbank-finance/README.md),
-[decision and probes](../../2026-11-nonbank-finance-and-client-protection/README.md)
+[decision and probes](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-nonbank-finance-and-client-protection/README.md)
 and [resource dependencies](../../settlement/commitments/26-nonbank-finance-and-client-protection.md)
 retain entry/access costs, loss/shortfall and court/custody-capacity failures.
 Local actuarial calibration/technical tables, actual institutions/title/source,

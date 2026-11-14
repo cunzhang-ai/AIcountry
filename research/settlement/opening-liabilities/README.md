@@ -46,4 +46,4 @@ of two units is also callable, count it and reconsider even if
 the first guarantee appears twice in the records. Valid due
 payments and actual useful service remain separate evidence.
 
-[Scenario check](verify-opening-liabilities.py) · [Observed evidence and limits](../../2026-11-opening-liabilities-and-protected-budget/sources.md)
+[Scenario check](verify-opening-liabilities.py) · [Observed evidence and limits](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-opening-liabilities-and-protected-budget/sources.md)

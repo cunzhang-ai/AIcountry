@@ -68,7 +68,7 @@ revision law. Missing source/cover is failed delivery with existing remedies and
 competent elected correction, not forced family work or silent clock extension.
 
 **CL24 — Finish this positive choice; return to the whole country.** The
-[decision](../../../2026-11-care-time-and-whole-country-alternatives/decision-record.md)
+[decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-care-time-and-whole-country-alternatives/decision-record.md)
 closes the previously deferred written care-leave choice, with strong retain/
 repair and more-service/less-leave rivals. It does not finish the full country
 source/capacity comparison. Use scope-compatible actual work/needs/source records

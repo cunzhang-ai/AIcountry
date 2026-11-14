@@ -40,4 +40,4 @@ original service and the next ordinary call protected either way.
 This is a constructed case without actual authority, appointments,
 suppliers, review, funding or receipt.
 
-[Calculation](verify-receiving-and-reliance.py) · [Decision](../../2026-11-public-authority-and-counterparty-reliance/decision-record.md).
+[Calculation](verify-receiving-and-reliance.py) · [Decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-public-authority-and-counterparty-reliance/decision-record.md).

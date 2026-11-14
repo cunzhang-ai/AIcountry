@@ -6,7 +6,7 @@ Design255 · [Canonical ECF01–ECF05](../../country/C06/11/01-readiness-trigger
 |---|---|
 | [Copenhagen's dated evidence](01-copenhagen-election-and-ordinary-duties.md) | Separate the call, poll, financing resolution, payment schedule and observed service costs. Identify missing same-window evidence. |
 | [First-budget options](02-standing-finance-and-shared-load.md) | Compare the same early contest and ordinary duties on three lawful financing designs and a proposed migration. |
-| [Decision and source boundaries](../../2026-11-election-cycle-and-first-budget/decision-record.md) | Show what changes in the national design, continuing obligations, objections and next qualification. |
+| [Decision and source boundaries](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-election-cycle-and-first-budget/decision-record.md) | Show what changes in the national design, continuing obligations, objections and next qualification. |
 
 Run `python3 research/settlement/election-cycle-first-budget/verify-election.py`
 from the project root. The verifier reconciles dates and the published

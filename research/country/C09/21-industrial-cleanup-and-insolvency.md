@@ -18,7 +18,7 @@ This extends the practical closure and insolvency interface of
 and [U](../C08/14-private-insolvency-and-debt-recovery.md). Water, rescue,
 waste, compensation and technical standards keep their own powers.
 [Observed comparison and constructed case](../../settlement/industrial-cleanup/README.md)
-· [Decision and migration](../../2026-11-industrial-cleanup-and-insolvency/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-industrial-cleanup-and-insolvency/decision-record.md)
 
 [LCY product lifecycle](26-product-repair-and-material-responsibility.md)
 funds defined product-cohort duties separately from site assurance.

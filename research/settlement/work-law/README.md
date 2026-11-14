@@ -96,8 +96,8 @@ constitutional appointment/removal stay separate from ordinary work claims.
 Coordinated law would start new WL duties180 days after competent enactment,
 without restarting TW/AS, canceling accrued claims or a readiness election delay.
 
-The [decision and primary source record](../../2026-11-work-contracts-and-collective-power/decision-record.md)
-retain real rivals, dissent and access limits. [Responsibility corrections](../../2026-11-work-contracts-and-collective-power/function-crosswalk.json)
+The [decision and primary source record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-work-contracts-and-collective-power/decision-record.md)
+retain real rivals, dissent and access limits. [Responsibility corrections](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-work-contracts-and-collective-power/function-crosswalk.json)
 repair old code-label mistakes without moving original bids or pretending past
 checks proved their meaning. [Current status](../../DESIGN-STATUS.md) now links
 subject modules rather than stacking all detailed choices in its entrance.

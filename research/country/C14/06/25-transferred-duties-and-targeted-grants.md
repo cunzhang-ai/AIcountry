@@ -45,4 +45,4 @@ receipt. Carry records and accrued obligations through renewal and
 reopen on a missing case, a source change or a stronger funded route.
 
 [Budget and receiving comparison](../../../settlement/transferred-duties-and-targeted-grants/01-restricted-grants-and-missing-care.md)
-· [Decision and sources](../../../2026-11-transferred-duties-and-targeted-grants/decision-record.md).
+· [Decision and sources](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-transferred-duties-and-targeted-grants/decision-record.md).

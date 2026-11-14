@@ -96,12 +96,12 @@ prior-law transition remain necessary, not a completed payment administration.
 
 ## What the five tables prove and do not prove
 
-[Inputs](../../2026-11-work-pay-and-country-account/inputs.json),
-[work/tax](../../2026-11-work-pay-and-country-account/personal.py),
-[producer recipes](../../2026-11-work-pay-and-country-account/producers.py),
-[joined compiler](../../2026-11-work-pay-and-country-account/model.py),
-[results](../../2026-11-work-pay-and-country-account/results.json) and
-[decision](../../2026-11-work-pay-and-country-account/decision-record.md)
+[Inputs](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-work-pay-and-country-account/inputs.json),
+[work/tax](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-work-pay-and-country-account/personal.py),
+[producer recipes](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-work-pay-and-country-account/producers.py),
+[joined compiler](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-work-pay-and-country-account/model.py),
+[results](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-work-pay-and-country-account/results.json) and
+[decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-work-pay-and-country-account/decision-record.md)
 connect final goods, producers, jobs, assets and cash/claims for two PS paths.
 The compiler leaves national prices/GDP/budget/source closure unknown because
 job matches, suppliers, asset overlaps, additional private needs and cash/FX

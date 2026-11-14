@@ -92,7 +92,7 @@ hazardous waste at source; the [C09 steward](../C09/06-sanitation-and-waste.md)
 remains accountable for safe transport, treatment and final disposal.
 No plan may book the same
 clinician or vehicle for every failing service. The [decision
-record](../../2026-10-life-course-services/decision-record.md) compares this
+record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-life-course-services/decision-record.md) compares this
 public-backbone choice with coherent public-only and insurance-led rivals.
 
 [S01–S04](13/01-health-and-coverage.md) now specifies the candidate necessary-care boundary and complete-path timing; material exclusions still require elected law, clinical safety and independent challenge.

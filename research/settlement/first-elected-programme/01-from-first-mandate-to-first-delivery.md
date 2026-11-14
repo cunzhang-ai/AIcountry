@@ -47,4 +47,4 @@ For a separate stress branch, suppose a newly verified no-account household payo
 
 The public sees both the first received acts and those omitted, the costs and risks transferred elsewhere, and what is still needed at the next hearing. The competent authorities return new or missed dependent work to a recorded decision. Reopen on changed mandate, actual territory, regional or sector capacity, an evidenced prior claim, independently executable funding, a better rival or evidence of material household harm. Readiness and comparative lives still need evidence from an adopting setting.
 
-[Design decision and migration](../../2026-11-first-elected-programme/decision-record.md) · [Evidence boundaries](../../2026-11-first-elected-programme/sources.md)
+[Design decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-first-elected-programme/decision-record.md) · [Evidence boundaries](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-first-elected-programme/sources.md)

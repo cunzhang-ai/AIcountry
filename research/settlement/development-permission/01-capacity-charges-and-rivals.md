@@ -40,7 +40,7 @@ and capture value but requires actual title/capital and limits on central power.
 A founded elected region may match shared pressures but adds paid transition.
 These are alternatives for affected choice, not failed designs by definition.
 
-[Authored cases](../../2026-11-development-permission-and-serviced-land/results.json)
+[Authored cases](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-development-permission-and-serviced-land/results.json)
 check bounded arithmetic/source distinctions; written adverse paths address
 rights, cutovers and failed remedies. Neither is an automated permitting system,
 engineering certification, independent affected review or causal housing study.

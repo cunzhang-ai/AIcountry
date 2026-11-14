@@ -96,4 +96,4 @@ chilled genuine claims, missed opportunities or a better qualified
 less burdensome route.
 
 [Judicial comparators and worked hearing](../../../settlement/public-participation-and-abusive-civil-claims/01-two-claims-before-a-public-hearing.md)
-· [Decision and migration](../../../2026-11-public-participation-and-abusive-civil-claims/decision-record.md).
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-public-participation-and-abusive-civil-claims/decision-record.md).

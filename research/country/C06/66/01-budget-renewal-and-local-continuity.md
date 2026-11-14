@@ -54,4 +54,4 @@ Reopen on repeated late handbacks, coercive supplier dependence,
 loss of independent execution or a simpler funded successor.
 
 [Worked first rollover](../../../settlement/budget-renewal-and-local-continuity/01-one-budget-two-receiving-dates.md)
-· [Decision and migration](../../../2026-11-budget-renewal-and-local-continuity/decision-record.md).
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-budget-renewal-and-local-continuity/decision-record.md).

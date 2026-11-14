@@ -2,7 +2,7 @@
 
 *Part of [C10 safety and international responsibility](../C10-safety-and-international-relations.md); integrated design 102 research, not enacted law.*
 
-The [defense and war-power decision](../../2026-10-defense-and-war/decision-record.md)
+The [defense and war-power decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-defense-and-war/decision-record.md)
 selects a **provisional** division between standing defense and an expanded
 campaign. Prior law may authorize immediately necessary defense against an actual
 armed attack and protection of forces; the cabinet records the legal ground,

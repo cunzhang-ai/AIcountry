@@ -77,4 +77,4 @@ persistent exclusion, material service loss, or a simpler or more
 directly accountable arrangement with better usable results.
 
 [Operating comparison](../../../settlement/joint-service-authority/01-bus-network-and-democratic-control.md)
-· [Decision and migration](../../../2026-11-democratic-joint-service-authority/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-democratic-joint-service-authority/decision-record.md)

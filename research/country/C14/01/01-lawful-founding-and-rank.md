@@ -11,7 +11,7 @@ inhabitants, creditors, workers and neighboring communities do not disappear bec
 new design is published. A gradual lawful adoption by existing communities is also a
 possible use; a wholly new sovereign state is not the only path to learning from this work.
 
-The selected [legal hierarchy](../../../2026-10-legal-hierarchy/decision-record.md)
+The selected [legal hierarchy](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-legal-hierarchy/decision-record.md)
 protects the country's democratic and rights functions without freezing every
 untested policy. A legitimately founded constitution fixes the electorate's
 protected boundary, equal vote and viable opposition, lawful replacement,

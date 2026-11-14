@@ -29,5 +29,5 @@ withdrawal or pressure to leave. H02/LU/H06–10 reduce some mechanisms but do n
 prove supply or outsider access. Keep dwelling-linked controls, market review
 with actual assistance/supply, and funded public rent insurance as strong rivals.
 No new landlord licence, universal rent register, public guarantee of profit,
-blanket price freeze or assumed new dwelling/source is selected. [Decision](../../2026-11-private-rents-tenure-and-housing-entry/decision-record.md)
+blanket price freeze or assumed new dwelling/source is selected. [Decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-private-rents-tenure-and-housing-entry/decision-record.md)
 retains the distributional disagreement; no actual law or superiority follows.

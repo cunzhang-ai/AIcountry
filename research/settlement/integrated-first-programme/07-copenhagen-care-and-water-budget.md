@@ -80,4 +80,4 @@ price conversion. A matched operating comparison still needs one
 actual receiving location and two dates, staffing by task, usable
 payer cash, a priced independent reserve, and observed outcomes.
 [Constructed comparison](06-concurrent-losses-and-binding-duties.md)
-· [Observed inputs](../../2026-11-copenhagen-care-and-water-budget/observations.json)
+· [Observed inputs](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-copenhagen-care-and-water-budget/observations.json)

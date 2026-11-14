@@ -6,7 +6,7 @@ independent correction without merging policy, adjudication, counsel
 or execution.
 
 [Observed and constructed comparisons](../court-capacity-and-timely-remedy/README.md)
-· [Decision record](../../2026-11-court-capacity-and-timely-remedy/decision-record.md)
+· [Decision record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-court-capacity-and-timely-remedy/decision-record.md)
 
 Reported national outturn and case age support a bounded comparison.
 Actual participation, lawful adoption, paid execution and better

@@ -125,7 +125,7 @@ actual costs and grants, exclusion, structural capacity loss or evidence
 that a different model protects children and local control better.
 
 [Funding path and adverse cases](../../settlement/funded-local-care/README.md)
-· [Decision and evidence limits](../../2026-11-funded-local-early-care/decision-record.md)
+· [Decision and evidence limits](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-funded-local-early-care/decision-record.md)
 
 [FB09–FB12](../C06/62/01-underspending-and-released-capacity.md)
 distinguishes a funded place, actual qualified presence, a budget

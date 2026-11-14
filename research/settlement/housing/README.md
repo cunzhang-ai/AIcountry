@@ -81,10 +81,10 @@ explicit profit/finance margin to delete. That modeling omission is no evidence
 that actual landlords earn zero profit.500 title conversions add **zero homes**.
 No fiscal saving, household rent reset or source for IC/Y is inferred.
 
-[Inputs](../../2026-11-secure-housing-and-repair/inputs.json),
-[calculation](../../2026-11-secure-housing-and-repair/model.py),
-[results](../../2026-11-secure-housing-and-repair/results.json) and
-[decision](../../2026-11-secure-housing-and-repair/decision-record.md)
+[Inputs](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-secure-housing-and-repair/inputs.json),
+[calculation](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-secure-housing-and-repair/model.py),
+[results](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-secure-housing-and-repair/results.json) and
+[decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-secure-housing-and-repair/decision-record.md)
 pin the comparison and its limits. Next the physical water/energy/food/trade
 operating alternative and source/skill integration, preserving real housing
 and continuing pension duties; no national capacity from an unallocated worker.

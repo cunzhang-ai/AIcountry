@@ -7,7 +7,7 @@ budgets, recurring sources, usable work and received remedies. First
 starts and later options have distinct elected decisions.
 
 [Comparisons](../whole-budget-continuity/README.md) ·
-[Decision record](../../2026-11-whole-budget-continuity/decision-record.md)
+[Decision record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-whole-budget-continuity/decision-record.md)
 
 This does not price an operating country. No enacted start, qualified
 actual capacity or observed improvement follows from the reference.

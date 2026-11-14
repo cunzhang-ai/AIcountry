@@ -88,4 +88,4 @@ failure, missed dates, hidden displacement, harm to people waiting,
 or a simpler supported ordinary route.
 
 [Observed activity and two-window coverage comparison](../../../settlement/conditional-treatment-coverage-and-continuity/01-two-patients-and-a-funded-exit.md)
-· [Decision and migration](../../../2026-11-conditional-treatment-coverage-and-continuity/decision-record.md).
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-conditional-treatment-coverage-and-continuity/decision-record.md).

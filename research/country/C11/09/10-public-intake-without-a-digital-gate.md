@@ -72,4 +72,4 @@ custody. A receipt model or vendor cannot choose policy, priority,
 eligibility or the outcome of a dispute.
 
 [Observed Copenhagen records and authored comparison](../../../settlement/public-intake-without-a-digital-gate/README.md)
-· [Decision and migration](../../../2026-11-public-intake-without-a-digital-gate/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-public-intake-without-a-digital-gate/decision-record.md)

@@ -15,8 +15,8 @@ operations, clinical and fiscal consumers retain their distinct duties.
 4. [Instrument register](04-instrument-register.md): specified owners and material
    missing annexes; unknown thresholds are not hidden legal defaults.
 
-The [dated decision](../../2026-10-technical-safety-and-access/decision-record.md)
-preserves [439 predecessor artifacts](../../2026-10-technical-safety-and-access/predecessor-design-77/SNAPSHOT.md).
+The [dated decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-technical-safety-and-access/decision-record.md)
+preserves [439 predecessor artifacts](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-technical-safety-and-access/predecessor-design-77/SNAPSHOT.md).
 Same AI author/controller, no actual affected participation, qualified independent
 review or observed safety. All incremental actual quantity/cost/source/receipt
 remains unknown. The new legal reach is prospective and uses V's independent

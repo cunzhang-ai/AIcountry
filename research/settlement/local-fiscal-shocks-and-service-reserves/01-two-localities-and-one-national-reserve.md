@@ -55,5 +55,5 @@ A longer-run alternative is a more stable assigned source or funded
 shared provision. Price its control, capacity and loss of flexibility
 alongside its protection before replacing an arrangement.
 
-[Source records](../../2026-11-local-fiscal-shocks-and-service-reserves/sources.md)
-· [Executable comparison](verify-service-reserves.py).
+[Source records](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-local-fiscal-shocks-and-service-reserves/sources.md)
+· [Executable comparison](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/settlement/local-fiscal-shocks-and-service-reserves/verify-service-reserves.py).

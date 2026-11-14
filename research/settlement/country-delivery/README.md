@@ -21,18 +21,18 @@ the preferred conditional goal/rival, now paired with SD06 C1 tapered allowance 
 | [Physical choices and delivery](02-physical-and-delivery.md) | Same-food physical comparison, actual failures and 37+later dependencies |
 | [Dated sources and complete rivals](03-source-and-comparison.md) | Different owners, early cash, complete policy alternatives and finite next selection |
 
-The [37-function register](../../2026-11-country-source-and-delivery/delivery-register.json)
+The [37-function register](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-country-source-and-delivery/delivery-register.json)
 retains original IDs/operators/payers/executors and 22 later families 84–105.
 Historical QE86 subset roles/costs are explicitly labelled; all current actual
 costs/qualified supply/receipt remain null. SD106 is an additional consequential
 package, not secretly included in that 84–105 count. Design 107 now supplies priced hypothetical current function rows, not actual
 costs, a complete national budget, accepted workforce, GDP, yield or owned FX.
 
-[Current financing comparison](../../2026-11-financial-regimes-and-public-choice/README.md)
-supersede only declared choices; the predecessor [inputs](../../2026-11-country-source-and-delivery/inputs.json),
-[model](../../2026-11-country-source-and-delivery/model.py),
-[results](../../2026-11-country-source-and-delivery/results.json) and
-[decision](../../2026-11-country-source-and-delivery/decision-record.md)
+[Current financing comparison](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-financial-regimes-and-public-choice/README.md)
+supersede only declared choices; the predecessor [inputs](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-country-source-and-delivery/inputs.json),
+[model](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-country-source-and-delivery/model.py),
+[results](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-country-source-and-delivery/results.json) and
+[decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-country-source-and-delivery/decision-record.md)
 preserve compatible subset reuse and rejected inference. Checks cover arithmetic,
 source identity and continuity of original objects; none certifies social success.
 No new sovereign institution, procedural adoption or actual tax enactment follows.

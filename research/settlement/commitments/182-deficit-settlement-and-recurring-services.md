@@ -6,6 +6,6 @@ Preserve each due date and separately verify a qualified service
 slot, its cost and what the elected source choice displaces.
 
 [Observed and authored checks](../../settlement/deficit-settlement-and-recurring-services/README.md)
-· [Decision and migration](../../2026-11-deficit-settlement-and-recurring-services/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-deficit-settlement-and-recurring-services/decision-record.md)
 
 Actual authority, recurring sources and learning support remain open.

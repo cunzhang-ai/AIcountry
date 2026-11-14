@@ -8,7 +8,7 @@ entry, contract, consumer rights and collective bargaining while constraining mo
 fraud and the conversion of concentrated wealth into political control. Bankruptcy
 provides a lawful route out of unpayable debt; poverty is not a crime.
 
-The selected [production arrangement](../../2026-10-material-and-resilience/production-work.md)
+The selected [production arrangement](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-material-and-resilience/production-work.md)
 gives firms and cooperatives ordinary investment decisions and commercial risk within
 labor, consumer, competition and ecological law. The Assembly separately funds a
 bounded public-capability portfolio for essential networks, service capacity,
@@ -27,7 +27,7 @@ provision remain genuine alternatives, conditional on actual capability and powe
 
 Ordinary credit is a private or cooperative risk decision under general law,
 not a substitute for a social entitlement or a ministerial allocation list.
-The [credit-and-finance decision](../../2026-10-credit-and-finance/decision-record.md)
+The [credit-and-finance decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-credit-and-finance/decision-record.md)
 selects regulated plural intermediation for the working design, with public
 investment confined to separately appropriated mandates. It compares that
 choice with lighter regulation, directed public credit and narrow public

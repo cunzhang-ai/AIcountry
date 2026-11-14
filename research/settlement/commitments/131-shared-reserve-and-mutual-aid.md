@@ -5,7 +5,7 @@ requires a funded and tested shared path with protected donor duties,
 an exclusive dispatch, accepted receiving and actual readiness to reuse.
 
 [Observed and constructed comparisons](../shared-reserve/README.md)
-· [Decision and compatibility](../../2026-11-shared-reserve-and-mutual-aid/decision-record.md)
+· [Decision and compatibility](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-shared-reserve-and-mutual-aid/decision-record.md)
 
 Existing CP, PS, RX, OC, FT and ordinary rights and review retain
 authority and clocks. Actual joint reserve costs and outcomes remain open.

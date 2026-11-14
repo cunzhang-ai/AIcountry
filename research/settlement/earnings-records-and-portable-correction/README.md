@@ -49,4 +49,4 @@ employer-file-only administration, separate repeated applications,
 and a scoped first receipt with shared proof and separate decisions.
 
 [Scenario check](verify-earnings-correction.py)
-· [Original evidence and limits](../../2026-11-earnings-records-and-portable-correction/sources.md)
+· [Original evidence and limits](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-earnings-records-and-portable-correction/sources.md)

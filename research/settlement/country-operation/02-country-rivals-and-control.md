@@ -24,7 +24,7 @@ adds proportionality/exclusions and [s26](https://www.legislation.gov.uk/ukpga/2
 a30-day lapse while allowing new regulations. This is a bounded direct-text
 rival, not foreign law adopted here, a full current-law account, proof of use/
 effectiveness or justification for CP13. Exact XML/selected text and limits
-are in the [source record](../../2026-11-paid-country-and-shared-logistics/sources.md).
+are in the [source record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-paid-country-and-shared-logistics/sources.md).
 
 Keep the same people, all37 functions and later duties, owned assets/source,
 old claims and actual education/clinical/care/democratic/control receiving

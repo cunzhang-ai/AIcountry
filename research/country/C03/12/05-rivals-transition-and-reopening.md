@@ -29,7 +29,7 @@ alternate vendors. Ballot-qualified guides/forums still depend on actual entrant
 not credits; national/local/ref and repeat duties can coincide. An annual private
 cost cap is no public service price or permission to dilute equal access.
 
-The [authored probes](../../../2026-11-continuous-political-finance/README.md)
+The [authored probes](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-continuous-political-finance/README.md)
 show cash formulas, normalized windows, tiny tracks, shell/AI attribution and
 simultaneous forum time. They do not establish media prices, source cash, paid
 independent staff, safe custody, a functioning donation cross-check or whole

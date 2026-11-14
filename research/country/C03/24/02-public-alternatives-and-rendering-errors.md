@@ -61,4 +61,4 @@ Reopen on recurring distortion, failure of the alternate route,
 unfair exclusion or a simpler process with equivalent influence.
 
 [Worked floor decision](../../../settlement/public-alternatives-and-rendering-errors/01-one-slot-and-a-mistranslated-condition.md)
-· [Decision and sources](../../../2026-11-public-alternatives-and-rendering-errors/decision-record.md)
+· [Decision and sources](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-public-alternatives-and-rendering-errors/decision-record.md)

@@ -111,4 +111,4 @@ and deadlines preserved. Reopen on repeated missed service, unsafe
 host exposure, unverified destinations or a stronger funded alternative.
 
 [Two-window comparison](../../../settlement/municipal-waste-and-safe-receiving/01-two-streams-and-one-closed-plant.md)
-· [Decision and evidence](../../../2026-11-municipal-waste-and-safe-receiving/decision-record.md).
+· [Decision and evidence](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-municipal-waste-and-safe-receiving/decision-record.md).

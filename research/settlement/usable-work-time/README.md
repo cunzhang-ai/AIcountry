@@ -8,4 +8,4 @@ coverage, actual time and cash pay.
 
 - [Observed working-time rules and evidence limits](01-observed-schedule-transitions.md)
 - [A four-worker roster and one usable care window](02-roster-pay-and-usable-time.md)
-- [Selection, alternatives and transition](../../2026-11-usable-work-time-transition/decision-record.md)
+- [Selection, alternatives and transition](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-usable-work-time-transition/decision-record.md)

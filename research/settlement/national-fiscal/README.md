@@ -57,7 +57,7 @@ funded. No bridge, issuer credit, private saving or tax base is invented to fill
 
 ## Sixteen source interfaces, actual full amounts unknown
 
-[Source coverage](../../2026-11-whole-country-fiscal-disposition/source-coverage.json)
+[Source coverage](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-whole-country-fiscal-disposition/source-coverage.json)
 maps personal payroll/pension, capital/other/noncash, company, VAT, site,
 received-transfer, public rents/returns, insurance contributions/returns,
 internal transfers, borrowing, assets/loans, opening reserves, separate issue
@@ -69,11 +69,11 @@ Existing stronger U/I05/Y/service/worker/source-law claims keep paid OP/T
 successors. Actual authority, tax/source facts, quantities/prices, qualified
 simultaneous supply, remedy and observed better lives remain unverified.
 
-[Inputs](../../2026-11-whole-country-fiscal-disposition/inputs.json),
-[calculation](../../2026-11-whole-country-fiscal-disposition/model.py),
-[results](../../2026-11-whole-country-fiscal-disposition/results.json),
-[source limits](../../2026-11-whole-country-fiscal-disposition/sources.md) and
-[validation](../../2026-11-whole-country-fiscal-disposition/validation.json)
+[Inputs](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-whole-country-fiscal-disposition/inputs.json),
+[calculation](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-whole-country-fiscal-disposition/model.py),
+[results](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-whole-country-fiscal-disposition/results.json),
+[source limits](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-whole-country-fiscal-disposition/sources.md) and
+[validation](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-whole-country-fiscal-disposition/validation.json)
 provide scoped reproducibility. Actual financial amounts are not upgraded by
 passing checks, new text or a research index.
 

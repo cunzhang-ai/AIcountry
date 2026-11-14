@@ -78,4 +78,4 @@ claimants or certify payment. Reopen on unfair scope, inaccessible notice,
 returned distributions, failed custody or a simpler route with timely relief.
 
 [Matched cross-local case](../../../settlement/representative-claims-and-delivered-redress/01-one-common-issue-separate-receipts.md)
-· [Decision and migration](../../../2026-11-representative-claims-and-delivered-redress/decision-record.md).
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-representative-claims-and-delivered-redress/decision-record.md).

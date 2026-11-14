@@ -19,7 +19,7 @@ delivery for people who are absent from official records.
    keeps established cash accessible without an account or proxy and assigns a funded backup.
 
 [Observed evidence and a joined capacity case](../../settlement/effective-take-up/README.md)
-· [Choice, tradeoffs and migration](../../2026-11-effective-take-up-and-early-benefit-delivery/decision-record.md)
+· [Choice, tradeoffs and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-effective-take-up-and-early-benefit-delivery/decision-record.md)
 
 [LX public rules](../C11/12-public-rules-and-verifiable-implementation.md)
 tests the exact applicable law, period evidence and actual receipt in

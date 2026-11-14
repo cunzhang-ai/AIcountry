@@ -50,7 +50,7 @@ treaty and jurisdiction powers rather than asserting control over a foreign
 seller. C06 accounts for laboratories, inspectors, legal aid, replacement
 stock and safe disposal, not only fine revenue.
 
-The [decision record](../../2026-10-market-power/decision-record.md) compares
+The [decision record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-market-power/decision-record.md) compares
 this common floor with contract-only, unified-super-regulator and sector-only
 routes. Actual product classes, tests, claims, inspector capacity and lawful
 adoption remain unknown. Reopen if the common floor overwhelms small sellers,

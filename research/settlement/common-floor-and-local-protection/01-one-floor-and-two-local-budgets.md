@@ -82,4 +82,4 @@ usable delivery fits an expressly chosen recurring source. The comparison
 selects separate authority and continuity at the existing terms. It leaves
 elected officials free to choose the later lawful disposition.
 
-[Canonical national and local rule](../../country/C04/08/10-common-floor-and-local-protection.md) · [Decision record](../../2026-11-common-floor-and-local-protection/decision-record.md).
+[Canonical national and local rule](../../country/C04/08/10-common-floor-and-local-protection.md) · [Decision record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-common-floor-and-local-protection/decision-record.md).

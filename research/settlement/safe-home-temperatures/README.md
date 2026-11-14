@@ -8,5 +8,5 @@
 - [One neighbourhood through a hot evening and an outage](02-peak-load-and-actual-receiving.md)
   compares ordinary repair, grid reinforcement and lower exposure on
   the same resources and safe receiving window.
-- [Decision and transition](../../2026-11-safe-home-temperatures-and-continuity/decision-record.md)
+- [Decision and transition](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-safe-home-temperatures-and-continuity/decision-record.md)
   sets out the choice, continuing claims and a bounded field comparison.

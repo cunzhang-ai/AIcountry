@@ -6,6 +6,6 @@ Preserve accrued claims and the next paid call under each applicable
 authority.
 
 [Observed and authored checks](../../settlement/first-budget-matched-window/README.md)
-· [Decision and migration](../../2026-11-first-budget-matched-protected-window/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-first-budget-matched-protected-window/decision-record.md)
 
 Actual authority, cash, staffing and receipt remain open.

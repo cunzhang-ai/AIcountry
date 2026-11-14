@@ -85,4 +85,4 @@ Reopen on captured certification, lost meaning, inaccessible licensing,
 unfunded operation or a simpler equally protective arrangement.
 
 [Worked transfer and primary sources](../../../settlement/public-standards-and-replaceable-implementation/01-one-interface-two-real-routes.md)
-· [Decision and migration](../../../2026-11-public-standards-and-replaceable-implementation/decision-record.md).
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-public-standards-and-replaceable-implementation/decision-record.md).

@@ -7,6 +7,6 @@ Reconcile any authorized gross overlap without rewriting the entitlement
 or charging the person automatically.
 
 [Worked case](../linked-rights-transfer/README.md)
-· [Decision and transition](../../2026-11-benefit-transfer-and-linked-rights/decision-record.md)
+· [Decision and transition](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-benefit-transfer-and-linked-rights/decision-record.md)
 
 Legitimate authority, actual transfers and useful-time service remain open.

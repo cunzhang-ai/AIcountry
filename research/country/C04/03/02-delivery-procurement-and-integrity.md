@@ -55,7 +55,7 @@ challenge a breached standard, unlawful exclusion, corruption or non-delivery;
 the remedy must name who can suspend, repair, recompete or provide the service.
 AI may flag anomalies and compare options, but an automated score cannot award,
 blacklist, certify delivery or dismiss a complaint without accountable human
-reasons and review. The [state-capability decision](../../../2026-10-state-capability/decision-record.md)
+reasons and review. The [state-capability decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-state-capability/decision-record.md)
 compares this operating chain with patronage, central gatekeeping and outsourcing.
 
 Contracts for essential delivery specify records custody, safe access, staff and

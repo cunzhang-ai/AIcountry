@@ -26,7 +26,7 @@ National G, local revenue/grants, restricted social funds, private title and
 foreign ownership remain distinct. Source-law borrowing/tax/appropriation and
 paid external acceptance are necessary; arithmetic does not authorize them.
 
-The [context register](../../2026-11-living-standard-and-context/context-register.json)
+The [context register](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-living-standard-and-context/context-register.json)
 separates external estimates and retail offers from wholesale acceptance,
 qualified stock/shifts/working cash and actual project receipt. Same source
 family and incompatible editions do not establish current local costs or public

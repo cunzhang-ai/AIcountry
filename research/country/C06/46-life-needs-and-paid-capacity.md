@@ -15,7 +15,7 @@ national year, revive the old 55,000-worker income forecast or establish a launc
 | [LC13–LC16: source and national total](46/04-owned-sources-and-open-total.md) | Gross funding, capital/renewal, actual claim owners and all 37-function gaps |
 | [LC17–LC20: comparison and continuation](46/05-comparison-transition-and-next.md) | Whole rivals, exact new HN duty dates, retained old support limits and unfinished sources |
 
-[Named resource results](../../2026-11-life-needs-and-paid-capacity/results.json)
+[Named resource results](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-life-needs-and-paid-capacity/results.json)
 are calculated from explicit fictional demand/pay/input/stock assumptions and
 TW calendars. Inputs retain the earlier scoped rows; actual quantities/costs,
 clinical safety, accepted workforce/partners, full source/FX and lives stay unknown.

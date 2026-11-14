@@ -68,4 +68,4 @@ Reopen on common staffing loss, selective access, repeated delays or a
 simpler qualified route.
 
 [Matched alternate corridor](../../../settlement/border-corridor-continuity/01-two-terminals-and-one-inspection-team.md)
-· [Decision and migration](../../../2026-11-border-corridor-continuity-and-physical-receipt/decision-record.md).
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-border-corridor-continuity-and-physical-receipt/decision-record.md).

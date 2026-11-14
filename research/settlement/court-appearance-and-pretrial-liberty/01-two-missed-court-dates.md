@@ -1,6 +1,6 @@
 # Two missed court dates on the same docket
 
-*Design378 · Constructed comparison with separate [primary evidence](../../2026-11-court-appearance-and-pretrial-liberty/sources.md).*
+*Design378 · Constructed comparison with separate [primary evidence](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-court-appearance-and-pretrial-liberty/sources.md).*
 
 Two people miss required appearances on day 2. The first received
 notice but an accessible route failed. Defense verifies the barrier

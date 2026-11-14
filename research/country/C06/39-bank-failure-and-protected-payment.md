@@ -34,8 +34,8 @@ standby S is a different owner from the bank-deposit insurer. M11 compensation,
 bridge capital, public-payment reserves and foreign settlement remain separate.
 No ratio, line, receiver name or model flag proves actual cash or received care.
 
-All numbers, offices and periods are normative hypotheses. The [country audit](../../status/completion/10-bank-failure-and-remaining-country-choices.md),
+All numbers, offices and periods are normative hypotheses. The [country audit](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/status/completion/10-bank-failure-and-remaining-country-choices.md),
 [dependency map](../../settlement/commitments/15-bank-failure-and-protected-payment.md)
-and [decision](../../2026-11-bank-failure-and-protected-payment/decision-record.md)
+and [decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-bank-failure-and-protected-payment/decision-record.md)
 retain authority/source/qualified/public-review/outcome unknowns and the remaining
 country work. Current software/constitutional/contribution boundaries persist.

@@ -29,7 +29,7 @@ and [OP/T transition](../C14/02-transition-and-commencement.md).
 No central master key, substitute government, new police command or
 technical power to recognize a winner is selected.
 [Comparison and cases](../../settlement/lawful-handover/README.md)
-· [Decision record](../../2026-11-lawful-handover-and-actual-control/decision-record.md)
+· [Decision record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-lawful-handover-and-actual-control/decision-record.md)
 
 [DPA01–DPA08](19/07-deferred-public-acts-and-lawful-handover.md) follows
 unfinished acts, original obligations and actual execution across the boundary.

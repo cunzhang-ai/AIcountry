@@ -9,7 +9,7 @@ source and staffing of an actual public service.
 2. [Authored continuing support comparison](02-authored-continuing-support-comparison.md)
    compares the effect of a historical grant, a finite bridge and a
    genuinely funded ordinary route.
-3. [Reproduction](verify-recurring-service.py) checks the evidence
+3. [Reproduction](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/settlement/deficit-settlement-and-recurring-services/verify-recurring-service.py) checks the evidence
    scope and the separate authored accounts.
 
-[Decision and source scope](../../2026-11-deficit-settlement-and-recurring-services/decision-record.md)
+[Decision and source scope](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-deficit-settlement-and-recurring-services/decision-record.md)

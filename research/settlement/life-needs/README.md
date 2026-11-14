@@ -13,8 +13,8 @@ need/receipt interfaces. All other current functions stay in the open account.
 |---|---|
 | [Health, care and paid capacity](01-health-care-and-resources.md) | Fictional workload/pay/input/renewal and ownership cases; dedicated versus pooled teams, learning and specialist access |
 | [Housing and personal incidence](02-housing-and-personal-needs.md) | Integer temporary-stock correction, private/public/household counterparts and no duplicated basket/bill |
-| [Decision](../../2026-11-life-needs-and-paid-capacity/decision-record.md) | Alternatives, source/participation limits, corrected first proposals, continuing duties and unfinished country costing |
-| [37-function costing gaps](../../2026-11-life-needs-and-paid-capacity/country-cost-register.json) | Identifiable named component owners, unpriced current increments and actual-null totals retained |
+| [Decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-life-needs-and-paid-capacity/decision-record.md) | Alternatives, source/participation limits, corrected first proposals, continuing duties and unfinished country costing |
+| [37-function costing gaps](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-life-needs-and-paid-capacity/country-cost-register.json) | Identifiable named component owners, unpriced current increments and actual-null totals retained |
 
 The reference keeps the authored 100,000-person case and source scopes. It does
 not revive the old 55,000-job/wage distribution, convert GBP/CU or assume a local

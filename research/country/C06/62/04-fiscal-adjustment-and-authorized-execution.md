@@ -85,7 +85,7 @@ lost independence, changed cash, new obligations or a better rival.
 [Budget execution and year end](../60/03-execution-year-end-and-continuity.md)
 · [Standing continuity and closeout](../66-budget-lapse-and-paid-continuity.md)
 · [Evidence and matched choices](../../../settlement/fiscal-adjustment-and-paid-rights/README.md)
-· [Decision and migration](../../../2026-11-fiscal-adjustment-and-paid-rights/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-fiscal-adjustment-and-paid-rights/decision-record.md)
 
 [FB36–FB41](07-rights-and-distribution-during-adjustment.md) adds the
 prospective reduction, equal access and time-limited adjustment test.

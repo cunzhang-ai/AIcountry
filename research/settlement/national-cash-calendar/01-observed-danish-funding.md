@@ -55,4 +55,4 @@ proof a particular payer held unrestricted cash.
 · [March release](https://www.nationalbanken.dk/da/viden-og-nyheder/presse/arkiv/2025/valuta-og-likviditet-samt-maanedsbalance-marts-2025-02-04-2025)
 · [Corrected December release](https://www.nationalbanken.dk/da/viden-og-nyheder/presse/arkiv/2026/valuta-og-likviditet-samt-maanedsbalance-december-2025-05-01-2026)
 
-[Source custody and reproduction scope](../../2026-11-national-cash-and-first-budget/sources.md)
+[Source custody and reproduction scope](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-national-cash-and-first-budget/sources.md)

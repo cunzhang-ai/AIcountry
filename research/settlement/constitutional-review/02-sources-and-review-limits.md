@@ -28,7 +28,7 @@ its constitutional-only jurisdiction account and old court names signal stale
 material. Exclude it as support for current South African jurisdiction. No
 freshness claim or wholesale transplant follows an official domain alone.
 
-The exact [source register](../../2026-10-final-constitutional-review/sources.json)
+The exact [source register](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-final-constitutional-review/sources.json)
 records access/failures and exclusions. No publisher-byte archive, full national
 case-law review, empirical appointment/capture study or cost/workload sample was
 made. These documents show institutional possibilities and differences, not

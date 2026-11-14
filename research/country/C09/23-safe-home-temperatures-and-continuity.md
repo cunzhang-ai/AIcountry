@@ -21,7 +21,7 @@ that repairs cannot cover.
    joins same-place services, authorized funds and safe return.
 
 [Observed evidence and compound failure case](../../settlement/safe-home-temperatures/README.md)
-· [Decision, alternatives and migration](../../2026-11-safe-home-temperatures-and-continuity/decision-record.md)
+· [Decision, alternatives and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-safe-home-temperatures-and-continuity/decision-record.md)
 
 [MS22–MS26](../C06/61/06-energy-claims-and-useful-time.md) joins the thermal
 receiving clock to the household award and the local payer's gross

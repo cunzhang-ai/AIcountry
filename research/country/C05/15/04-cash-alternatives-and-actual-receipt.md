@@ -50,4 +50,4 @@ material change in burdens or evidence that a rival provides stronger
 usable protection and agency.
 
 [Matched receipt and budget comparison](../../../settlement/cash-alternatives-and-actual-receipt/01-proof-payment-and-the-same-deadline.md)
-· [Decision and sources](../../../2026-11-cash-alternatives-and-actual-receipt/decision-record.md)
+· [Decision and sources](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-cash-alternatives-and-actual-receipt/decision-record.md)

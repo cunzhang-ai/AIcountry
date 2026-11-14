@@ -11,7 +11,7 @@ lawfully handle the next shift.
 |---|---|
 | [The Danish 2025 accounts and later programme](01-danish-appropriations-and-capacity.md) | Reconciles a named operating budget, staffing and occupancy, a published multiyear programme and existing audit findings |
 | [A shift with two more placements than the site can safely receive](02-first-shift-and-lawful-options.md) | Separates physically empty places, original orders, safe receiving, earlier usable cash and judicial correction |
-| [Decision and reopening conditions](../../2026-11-lawful-custody-capacity/decision-record.md) | Selection, evidence and live alternatives |
+| [Decision and reopening conditions](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-lawful-custody-capacity/decision-record.md) | Selection, evidence and live alternatives |
 
 Keep the country’s existing criminal-law and release choices. Fund and
 qualify relief before adding reliance, and carry every outstanding right

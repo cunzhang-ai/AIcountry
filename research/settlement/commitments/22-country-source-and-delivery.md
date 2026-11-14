@@ -4,7 +4,7 @@
 
 [SD01–SD24](../../country/C06/43-country-source-and-delivery.md) applies across
 all 37 current functions and later commitments; SD106 itself is additional to the
-22 later packages 84–105 mapped in the [register](../../2026-11-country-source-and-delivery/delivery-register.json).
+22 later packages 84–105 mapped in the [register](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-country-source-and-delivery/delivery-register.json).
 Original IDs, bids and actual-null fields remain unchanged. A dependency is not
 an incremental bill or evidence that the prior bid covers the new duty.
 

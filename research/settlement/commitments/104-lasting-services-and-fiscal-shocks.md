@@ -14,4 +14,4 @@ must reach the same obligations.
 
 Actual tax incidence, appropriations, debt acceptance, payment capacity,
 staffed delivery and benefits remain individually unresolved.
-[Comparison](../fiscal-durability/README.md) · [Edition record](../../2026-11-lasting-services-and-fiscal-shocks/decision-record.md)
+[Comparison](../fiscal-durability/README.md) · [Edition record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-lasting-services-and-fiscal-shocks/decision-record.md)

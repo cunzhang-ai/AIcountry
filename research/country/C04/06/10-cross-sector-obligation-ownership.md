@@ -67,6 +67,6 @@ or certify safe receipt. Reopen on a recurring orphaned act,
 unlawful delay, hidden scope change or a simpler qualified route.
 
 [Worked handoff and uncovered dependency](../../../settlement/cross-sector-obligation-ownership/01-conditional-handoff-and-an-unowned-act.md)
-· [Decision and migration](../../../2026-11-cross-sector-obligation-ownership/decision-record.md).
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-cross-sector-obligation-ownership/decision-record.md).
 
 [Employment, housing and care example](../../../settlement/independent-exit-and-continuing-protection/01-a-usable-option-before-leaving.md).

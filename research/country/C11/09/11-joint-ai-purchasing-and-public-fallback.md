@@ -72,7 +72,7 @@ restricts practical exit, creates an unaccountable gateway, displaces
 ordinary work or lacks a demonstrated public benefit.
 
 [Joint purchase comparison](../../../settlement/joint-ai-purchasing/README.md)
-· [Decision and migration](../../../2026-11-joint-ai-purchasing-and-public-fallback/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-joint-ai-purchasing-and-public-fallback/decision-record.md)
 
 [DP53–DP57](12-discover-and-correct-public-reliance.md) checks whether
 the list of purchases misses an actual service dependency. Price newly

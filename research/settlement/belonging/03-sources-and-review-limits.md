@@ -30,7 +30,7 @@ No broader comparative case-law, contemporary nationality survey or legal
 qualification is claimed. UN treaties and UNHCR guidance share the UN system;
 five documentary texts are not five independent observations of better lives.
 
-The [source register](../../2026-10-citizenship-and-secure-belonging/sources.json)
+The [source register](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-citizenship-and-secure-belonging/sources.json)
 records scope, failures and duplicate locations. Direct OHCHR/UNHCR retrievals
 failed403/429 and a definition page returned a robot/script shell; the listed
 Refworld PDFs were readable. No publisher-byte archive or actual treaty-party,

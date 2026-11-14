@@ -52,7 +52,7 @@ terms remain. This is research selection, not legal adoption, qualified worker
 participation, safe rosters, actual financing or proof of better lives.
 
 [Country design](../../COUNTRY-DESIGN.md) · [Status](../../DESIGN-STATUS.md) ·
-[Decision, sources and dissent](../../2026-11-work-time-and-paid-capability/decision-record.md)
+[Decision, sources and dissent](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-work-time-and-paid-capability/decision-record.md)
 
 [WF49–WF52 joined offer](../C06/58/11-paid-time-joint-capacity-and-net-source.md)
 retains these stages/parameters/rights; TW18 now makes both dated stages

@@ -1,6 +1,6 @@
 # Two established duties, a disputed payer and a separate call
 
-*Design382 · Constructed comparison with separate [primary records](../../2026-11-essential-service-duty-while-responsibility-is-disputed/sources.md).*
+*Design382 · Constructed comparison with separate [primary records](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-essential-service-duty-while-responsibility-is-disputed/sources.md).*
 
 A resident's established home support depends on a qualified clinical
 visit and separate assistance by day 3. Existing providers will no

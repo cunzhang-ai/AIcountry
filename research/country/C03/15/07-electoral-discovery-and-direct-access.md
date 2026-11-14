@@ -72,4 +72,4 @@ and stale references. It cannot select a lawful field, decide an
 electoral dispute or certify its own accessibility.
 
 [Worked voter-access comparison](../../../settlement/electoral-discovery-and-direct-access/01-common-index-and-early-voting.md)
-· [Decision and sources](../../../2026-11-electoral-discovery-and-direct-access/decision-record.md)
+· [Decision and sources](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-electoral-discovery-and-direct-access/decision-record.md)

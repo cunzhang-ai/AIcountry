@@ -49,6 +49,6 @@ payment between accounts, while a reserve draw is use of a past source.
 Neither should be counted as new recurring tax. Verify actual money
 and receipt, care workforce and resident eligibility separately.
 
-The [decision and sources](../../2026-11-income-shift-and-public-finance/decision-record.md)
+The [decision and sources](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-income-shift-and-public-finance/decision-record.md)
 bound the comparison. The amounts show accounting and timing effects,
 not empirical tax yield or a proof of distributive superiority.

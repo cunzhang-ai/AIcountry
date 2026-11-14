@@ -44,4 +44,4 @@ change or proof that all people understood the notice. A
 publisher's failure or a correction order does not settle the
 validity of the contest. Protect any remaining lawful path.
 
-[Scenario check](verify-timely-correction.py) · [Primary evidence](../../2026-11-electoral-instructions-and-timely-correction/sources.md)
+[Scenario check](verify-timely-correction.py) · [Primary evidence](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-electoral-instructions-and-timely-correction/sources.md)

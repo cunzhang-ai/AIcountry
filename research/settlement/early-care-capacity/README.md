@@ -15,10 +15,10 @@ separating potential demand, observed activity and actually qualified capacity.
 | Municipal52514 current account |29.861942bnDKK gross−9.064656 income=20.797286net;24.289653 wages already inside gross |
 | Group092 recorded sales |7.593474bnDKK mixes parent payments/possible public sibling or free-place subsidies; no clean household fee/abolition price |
 
-[Sources and limits](../../2026-11-early-care-and-whole-offer-capacity/sources.md)
+[Sources and limits](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-early-care-and-whole-offer-capacity/sources.md)
 retain nine original tables and three method/release pages, with mixed explicit
 vintages and source rounding. No national programme cost, observed contact-
 qualified staff, actual incremental deficit, owned source or better lives follows.
 The earlier1bn NC IO entry remains an illustrative amount, not replaced by a
-qualified price. [Decision/model](../../2026-11-early-care-and-whole-offer-capacity/README.md)
+qualified price. [Decision/model](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-early-care-and-whole-offer-capacity/README.md)
 preserves all prior rights/dates/source/OP-T and substantive whole rivals.

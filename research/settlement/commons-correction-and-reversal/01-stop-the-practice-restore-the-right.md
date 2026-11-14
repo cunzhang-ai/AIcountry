@@ -30,4 +30,4 @@ Test a collector still applying a dated instruction after the originating office
 
 In a separate branch, the original practice is legally supportable and no useful-time legal hold is available, but comparative evidence shows that it displaces substantial costs to families. Keep individual remedies and any valid short-term protections. Put the exact repeat-cost, better alternative and financed transition to the legislative decision under PCO04. A later repeal does not itself invalidate earlier lawful acts. A personal claim follows its own law.
 
-[Canonical exit and correction](../../country/C14/04/08-reverse-a-harmful-public-measure.md) · [Sources and limits](../../2026-11-commons-correction-and-reversal/sources.md) · [First-round settlement](../../FIRST-ROUND-SETTLEMENT.md).
+[Canonical exit and correction](../../country/C14/04/08-reverse-a-harmful-public-measure.md) · [Sources and limits](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-commons-correction-and-reversal/sources.md) · [First-round settlement](../../FIRST-ROUND-SETTLEMENT.md).

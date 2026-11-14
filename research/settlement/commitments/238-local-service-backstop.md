@@ -6,6 +6,6 @@ otherwise be received on time. Fund actual providers, independent
 review, original claims and the next-cycle handback. Preserve local
 elected authority and reconcile national transfers once.
 
-The [decision](../../2026-11-local-service-backstop/decision-record.md)
+The [decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-local-service-backstop/decision-record.md)
 retains ordinary support and broader fiscal intervention as rivals.
 Actual adoption, funding, receiving and expiry operation remain open.

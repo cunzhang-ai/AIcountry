@@ -21,4 +21,4 @@ worked cases and comparisons with automatic and discretionary release.
 
 [Country account](../../settlement/sentence-release/README.md) ·
 [Original P16–P20 framework](12/05-sentence-delivery-and-open-boundaries.md) ·
-[Decision record](../../2026-11-sentence-review-and-release/decision-record.md)
+[Decision record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-sentence-review-and-release/decision-record.md)

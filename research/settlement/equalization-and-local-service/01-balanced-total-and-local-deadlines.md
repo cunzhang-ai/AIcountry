@@ -4,7 +4,7 @@
 
 ## What the Danish table establishes
 
-The [introduced bill](../../2026-11-equalization-and-local-service/original-sources/folketing-l53-as-introduced.pdf)
+The [introduced bill](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-equalization-and-local-service/original-sources/folketing-l53-as-introduced.pdf)
 says the 2027 block grant adjustment moved DKK 4.208 billion at 2025
 prices from municipalities to regions for transferred health duties.
 It attributes the budget adjustment to the separate June 2026 finance
@@ -71,5 +71,5 @@ qualify. If it already binds, keep the duties enforceable and report
 each missed deadline and the route to correction.
 
 [Selected rule](../../country/C04/08/09-equalization-and-local-service.md)
-· [Arithmetic and payment checks](verify-equalization.py)
-· [Primary source scope](../../2026-11-equalization-and-local-service/sources.md).
+· [Arithmetic and payment checks](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/settlement/equalization-and-local-service/verify-equalization.py)
+· [Primary source scope](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-equalization-and-local-service/sources.md).

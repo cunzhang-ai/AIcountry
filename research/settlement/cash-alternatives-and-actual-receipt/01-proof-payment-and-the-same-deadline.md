@@ -59,4 +59,4 @@ Record the wider resource and tax distribution even where the
 immediate cash outcome is equal. These are comparison requirements,
 without a finding about countrywide take-up or living standards.
 
-[Calculation](verify-cash-alternatives.py) · [Decision](../../2026-11-cash-alternatives-and-actual-receipt/decision-record.md).
+[Calculation](verify-cash-alternatives.py) · [Decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-cash-alternatives-and-actual-receipt/decision-record.md).

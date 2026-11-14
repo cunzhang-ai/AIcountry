@@ -52,7 +52,7 @@ access and evidence. A markets case cannot suspend a vote, ration food, set
 tax or decide asylum. The common C06 account includes investigators, lawyers,
 judges, source inspection, transition capital and any displaced service.
 Actual market maps, firms, controllers, costs, legal powers and effects are
-unknown. The [decision record](../../2026-10-market-power/decision-record.md)
+unknown. The [decision record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-market-power/decision-record.md)
 compares this layered route with private litigation, a central economic
 controller and broad public ownership. Reopen if enforcement cannot prevent
 cross-system dependence, its own panel is captured, or a rival architecture

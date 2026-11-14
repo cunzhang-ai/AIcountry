@@ -63,8 +63,8 @@ choices with losses as well as benefits. Capital, price/work response, I05
 assessment breadth, private resources, ecology and foreign reliance may change
 the preference. Published arithmetic cannot choose their values for a public.
 
-The [complete results](../../2026-11-joined-public-offer-and-source/results.json)
-retain17 named cases and unknown actual fields. [Evidence and limits](../../2026-11-joined-public-offer-and-source/sources.md)
+The [complete results](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-joined-public-offer-and-source/results.json)
+retain17 named cases and unknown actual fields. [Evidence and limits](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-joined-public-offer-and-source/sources.md)
 distinguish original source cells, authored inputs and unqualified matching.
 Next one bounded same-person old/new net-source/legacy bridge plus the largest
 identified paid incremental service/control cost, compared with retain/repair.

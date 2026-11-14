@@ -8,10 +8,10 @@ A voluntary cross-service convenor can resolve conflicting schedules or referral
 and escalate missing capacity, but cannot cancel a sector entitlement or override
 clinical, educational or judicial judgment. The national authority funds its floor
 and equalization and remains responsible for a lawful fallback when joint access
-fails. The [social-provision comparison](../../../2026-10-social-provision-review/analysis.md)
+fails. The [social-provision comparison](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-social-provision-review/analysis.md)
 rejects both navigation without authority and one compulsory welfare agency.
 
-Under the selected [housing-and-mobility arrangement](../../../2026-10-housing-and-mobility/analysis.md),
+Under the selected [housing-and-mobility arrangement](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-housing-and-mobility/analysis.md),
 each elected local authority names a housing-capacity authority responsible for
 safe stock, lawful commissioning and repair, accessible homes and an interim
 route when a dwelling becomes unusable. It names a mobility authority responsible
@@ -41,7 +41,7 @@ individual rights reviewer. The same office must not be the final judge of its
 own service failure. Public health, school and care capacity must remain usable
 when a contractor exits; the public authority needs lawful staff, sites, records,
 funding and a transfer plan, not merely a contractual right to demand continuity.
-The [sector-institution comparison](../../../2026-10-core-institutions/health-education-care.md)
+The [sector-institution comparison](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-core-institutions/health-education-care.md)
 selects a public delivery backbone with regulated additional providers as a
 working hypothesis, subject to its workforce, capture and cost objections.
 
@@ -51,7 +51,7 @@ official-abuse competence, plus a narrow, reviewable duty to protect people when
 local authority refuses or cannot do so. It must bring staff, evidence access and
 safe services, not just issue a directive. Intervention does not automatically
 dissolve elected local government; affected people can challenge both abandonment
-and overreach. The [security review](../../../2026-10-security-review/analysis.md) compares
+and overreach. The [security review](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-security-review/analysis.md) compares
 this divided arrangement with central command and local autonomy.
 
 [RF10–RF12](../../C06/36/03-local-access-and-shared-capability.md) specifies

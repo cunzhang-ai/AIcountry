@@ -40,7 +40,7 @@ from shared patrons. Existing CJ12 seven-person constitutional-own-court route,
 P/K/V proof/sanctions, B execution and stronger source rights/clocks stay exact.
 
 [Comparison/dependencies](../../settlement/ordinary-justice/README.md) and the
-[decision](../../2026-11-ordinary-justice-and-public-prosecution/decision-record.md)
+[decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-ordinary-justice-and-public-prosecution/decision-record.md)
 retain executive, peer, electoral/lay and shared-service alternatives, costs,
 objections and failure. No actual judges/cases/participant consent, national
 funding or superior lives are supplied by these research rules.

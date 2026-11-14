@@ -52,7 +52,7 @@ equalization must cover high-need and sparse-area costs, while C06 counts
 qualified workers, rest time, vehicles, safe places, inspection, backup and
 future obligations once. An unmet shift remains visible as non-delivery,
 even when a budget ledger balances. The [decision
-record](../../2026-10-life-course-services/decision-record.md) compares this
+record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-life-course-services/decision-record.md) compares this
 public residual with more centralized or market-led arrangements.
 
 Child and family support includes reachable respite, housing and income help

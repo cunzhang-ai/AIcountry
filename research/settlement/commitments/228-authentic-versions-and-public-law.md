@@ -8,6 +8,6 @@ A clerical correction cannot supply a changed vote or interpretation.
 
 Keep original clocks, pending cases, protected language rights,
 paid interpretation, archives and actual service remedies through
-lawful succession. The [decision record](../../2026-11-authentic-language-and-public-law/decision-record.md)
+lawful succession. The [decision record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-authentic-language-and-public-law/decision-record.md)
 preserves the rivals and names the review and operational evidence
 needed for a real choice.

@@ -61,7 +61,7 @@ remain civil correction. Expanding a statutory offence cannot happen by analogy.
 
 ## Finite arithmetic is not democratic readiness
 
-The [authored probes](../../2026-11-continuous-political-finance/README.md) use
+The [authored probes](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-continuous-political-finance/README.md) use
 B=1,200CU, national72,000/local80,000 rights and a six-CU credit. Annual credits
 could cost912,000CU. A simultaneous national two-track contest, four local one-
 track bodies and two80,000-person referendum questions add864,000+480,000+960,000:
@@ -88,7 +88,7 @@ source law. A paid invoice or corrected database is not actual free competition.
 Next complete franchise/map/ballot usability and lawful local nomination/
 continuity joins. Source/VAT/credit/production/price/FX and nonbank/local delegation
 also remain. No affected public, independent professional approval, lawful founding,
-financed safe operation or superior lived result is established. [Decision](../../2026-11-continuous-political-finance/decision-record.md).
+financed safe operation or superior lived result is established. [Decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-continuous-political-finance/decision-record.md).
 
 
 **Current EL scope notice.** [Design111](02-franchise-ballot-and-local-elections.md)

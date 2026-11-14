@@ -33,4 +33,4 @@ last receipt; an accepted 24 bridge costs.96 at 2% simple annual interest and le
 actual legal lending/FX or receipt. Exact current sources/capacity/costs remain
 unknown, including all new implementation/overlap/record/cover/advice costs.
 
-[Comparison](../country-operation/README.md) · [Remaining costing](../../status/completion/30-country-operation-and-unfinished-costing.md)
+[Comparison](../country-operation/README.md) · [Remaining costing](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/status/completion/30-country-operation-and-unfinished-costing.md)

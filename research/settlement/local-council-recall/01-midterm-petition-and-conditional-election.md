@@ -38,6 +38,6 @@ of effective opposition as well as a failed majority. One window,
 an affirmative floor, paid equal entry and a full proportional
 replacement are candidate safeguards with costs and tradeoffs.
 
-The [decision record](../../2026-11-local-council-recall/decision-record.md)
+The [decision record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-local-council-recall/decision-record.md)
 retains the implementation and evidence requirements. The turnout,
 cost feasibility and results are authored.

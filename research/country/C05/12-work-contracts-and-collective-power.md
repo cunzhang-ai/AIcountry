@@ -35,7 +35,7 @@ and a limited general-revenue wage advance. No primary source establishes them
 as optimal or this package as superior.
 
 The [current comparison](../../settlement/work-law/README.md) and
-[decision](../../2026-11-work-contracts-and-collective-power/decision-record.md)
+[decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-work-contracts-and-collective-power/decision-record.md)
 expose employer cost/closure, collective capture, restriction/legacy, source and
 execution risks. New public wage advances, inspection/ballots/courts, paid
 representation and old/new service overlap need fresh source/workload estimates.

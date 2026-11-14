@@ -7,4 +7,4 @@ claims and the recurring source for residual risks.
 
 - [Observed evidence from Alberta and Redwater](01-observed-closure-and-insolvency.md)
 - [One contaminated site through failure and sale](02-contaminated-site-cash-and-priority.md)
-- [Selection, alternatives and transition](../../2026-11-industrial-cleanup-and-insolvency/decision-record.md)
+- [Selection, alternatives and transition](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-industrial-cleanup-and-insolvency/decision-record.md)

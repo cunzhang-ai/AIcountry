@@ -73,7 +73,7 @@ on repeated common failures, loss of meaningful inspection, slow
 security response or a simpler qualified ordinary service.
 
 [Observed shared update and authored deployment choice](../../../settlement/shared-ai-change/README.md)
-· [Decision and migration](../../../2026-11-shared-ai-dependencies-and-safe-changes/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-shared-ai-dependencies-and-safe-changes/decision-record.md)
 
 [DP84–DP88](18-public-ai-retirement-and-successor.md) applies these safeguards
 when the upstream product retires during a live contract.

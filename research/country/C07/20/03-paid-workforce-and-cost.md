@@ -37,7 +37,7 @@ food/additional care, inspection and paid transition still need matching.
 No ratio of gross budget/payroll/places to NC task posts supplies those facts.
 
 Retain the previous GBP statutory-minimum calculation only as a
-[historical sensitivity](../../../2026-11-care-provider-cost-and-source/predecessor-design-181/country/C07/20/03-paid-workforce-and-cost.md),
+[historical sensitivity](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-care-provider-cost-and-source/predecessor-design-181/country/C07/20/03-paid-workforce-and-cost.md),
 not the primary current pay illustration. No exchange conversion, wage-floor
 selection, post-count change or claimed full cost follows. Retained annual pay,
 competent simultaneous cover and actual source remain due. Published planned

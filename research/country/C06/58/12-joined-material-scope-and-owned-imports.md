@@ -73,7 +73,7 @@ outputs cannot reset an old clock or supply transitional receiving. Evidence
 here is repository-model inspection and authored arithmetic under one controller,
 not field, affected-party, engineering or independent legal/source approval.
 
-[Results and exact scope](../../../2026-11-country-resource-scope-reconciliation/README.md)
+[Results and exact scope](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-country-resource-scope-reconciliation/README.md)
 close this finite correction. Next build one same-context retained-versus-changed
 operating package with public and private production, household incidence,
 qualified simultaneous cover, owner/currency/due-date sources and paid old/new

@@ -41,9 +41,9 @@ A missed merger clock has MP's finite lapse/court consequences and preserved
 merits claims; a court filing alone does not extend standstill. Already due
 election, force/liberty and service claims retain their own clocks and remedies.
 No task ratio creates a valid merger, guilt, appointment, paid public option,
-extra Treasury guarantee or a source/receiver. [The decision](../../2026-11-competition-and-economic-freedom/decision-record.md)
+extra Treasury guarantee or a source/receiver. [The decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-competition-and-economic-freedom/decision-record.md)
 retains under-inclusion, capture, cooperation/scale and costly-unwind objections.
 
-[Inputs](../../2026-11-competition-and-economic-freedom/inputs.json) ·
-[Results](../../2026-11-competition-and-economic-freedom/results.json) ·
-[Bounded checks](../../2026-11-competition-and-economic-freedom/validation.json)
+[Inputs](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-competition-and-economic-freedom/inputs.json) ·
+[Results](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-competition-and-economic-freedom/results.json) ·
+[Bounded checks](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-competition-and-economic-freedom/validation.json)

@@ -37,4 +37,4 @@ which recovery powers were used, actual receipt of aid or the
 effects on residents. This is a historical comparison of a
 separately authorized recovery regime. It is not a description of
 current New Zealand law or an authority proposed for AIcountry.
-[Evidence and custody](../../2026-11-emergency-expiry-and-paid-handoff/sources.md)
+[Evidence and custody](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-emergency-expiry-and-paid-handoff/sources.md)

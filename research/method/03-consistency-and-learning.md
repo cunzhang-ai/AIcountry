@@ -27,7 +27,7 @@ A consequential qualification needs fresh review sufficient for its stated claim
 unexamined potentially defeating objections require narrower qualification,
 additional bounded work, deferral or an expressly reasoned provisional selection,
 never a claim of resolved objection. Preserve dissent, explanations and reopening.
-This is a proposed scoped research-method clarification with an exact [predecessor](../2026-10-democratic-repair-and-finite-attention/predecessor-design-82/method/03-consistency-and-learning.md).
+This is a proposed scoped research-method clarification with an exact [predecessor](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-democratic-repair-and-finite-attention/predecessor-design-82/method/03-consistency-and-learning.md).
 It does not adopt national FA as a project gate, waive independently required
 review, change publication permissions or let a procedure approve itself.
 Actual legal claims and mandatory hearings retain their own due consideration
@@ -78,22 +78,22 @@ research steward develops the deeper assessment before requesting a consequentia
 qualification. Minor editorial changes can use a short record when unchanged meaning
 and the applicable procedure justify it.
 
-The [consolidation record](../2026-09-framework-consolidation/iteration-record.md) maps
+The [consolidation record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-09-framework-consolidation/iteration-record.md) maps
 this guide to the earlier work. Detailed sources remain available:
 
 - [First principles and institutional alternatives](../../public/research/first-principles-v1.md).
-- [Community consistency and independent review](../2026-09-community-consistency/README.md).
-- [Module compatibility, migration and supporting-check reuse](../2026-09-framework-evolvability/README.md).
-- [Participation, privacy, events and delivered remedies](../2026-09-project-review/README.md).
-- [Future communication and interaction contracts](../2026-09-collaboration-foundations/README.md).
-- [Institutional formation and renewal](../2026-09-institutional-renewal/README.md).
-- [Competing social architectures](../2026-09-competing-architectures/alternatives.md).
-- [Democratic public control and resistance to capture](../2026-09-democratic-control/README.md).
-- [Power during delay, failed appointments and disputed handover](../2026-09-democratic-continuity/README.md).
-- [Everyday justice: protection, fair process and recovery](../2026-09-everyday-justice/README.md)
-  and its [overnight direct-access comparison](../2026-09-safe-access/README.md)
-  and [housing, livelihood and payment-continuity study](../2026-09-housing-continuity/README.md)
-  and [emergency resource-access comparison](../2026-09-resource-access/README.md)
+- [Community consistency and independent review](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-09-community-consistency/README.md).
+- [Module compatibility, migration and supporting-check reuse](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-09-framework-evolvability/README.md).
+- [Participation, privacy, events and delivered remedies](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-09-project-review/README.md).
+- [Future communication and interaction contracts](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-09-collaboration-foundations/README.md).
+- [Institutional formation and renewal](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-09-institutional-renewal/README.md).
+- [Competing social architectures](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-09-competing-architectures/alternatives.md).
+- [Democratic public control and resistance to capture](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-09-democratic-control/README.md).
+- [Power during delay, failed appointments and disputed handover](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-09-democratic-continuity/README.md).
+- [Everyday justice: protection, fair process and recovery](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-09-everyday-justice/README.md)
+  and its [overnight direct-access comparison](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-09-safe-access/README.md)
+  and [housing, livelihood and payment-continuity study](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-09-housing-continuity/README.md)
+  and [emergency resource-access comparison](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-09-resource-access/README.md)
   (contextual studies added and checked 23–28 September 2026; not a change to the common method).
 
 These are proposed research artifacts, not all implemented capabilities. Historical

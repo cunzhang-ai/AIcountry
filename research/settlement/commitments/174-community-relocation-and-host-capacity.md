@@ -6,6 +6,6 @@ services, ecological and cultural stewardship, and a separate safe
 route if a group or site cannot proceed.
 
 [Observed and authored checks](../../settlement/community-relocation/README.md)
-· [Decision and transition](../../2026-11-community-relocation-and-host-capacity/decision-record.md)
+· [Decision and transition](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-community-relocation-and-host-capacity/decision-record.md)
 
 Actual lawful authority, finance, consent and receiving remain open.

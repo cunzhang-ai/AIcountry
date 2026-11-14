@@ -78,7 +78,7 @@ failure, an unstaffable open roll, unacceptable loss of hearing capacity
 or a simpler rival that protects the same timely access and safeguards.
 
 [Historical evidence and comparison](../../../settlement/appointment-independence/README.md)
-· [Decision and migration record](../../../2026-11-appointment-independence-and-concurrent-vacancies/decision-record.md)
+· [Decision and migration record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-appointment-independence-and-concurrent-vacancies/decision-record.md)
 
 [EA21–EA25](../../C03/09/06-independent-electoral-selection.md) now selects
 a distinct electoral source prospectively. Retain OJ55–OJ59 for ordinary

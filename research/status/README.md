@@ -11,7 +11,7 @@ remaining objection. Canonical chapters own the clauses.
 
 [Original61-selection map](01-current-selections.md) retains inherited identities;
 [legacy conflicts](02-legacy-conflicts.md) retain actual authority and migration
-limits. [Preserved working narratives](../history/06-current-research/README.md)
+limits. [Preserved working narratives](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/history/06-current-research/README.md)
 contain the complete older chronology and superseded queues. Actual law, funded
 receiving and observed outcomes remain different from research selections;
 none of these indexes adopts a procedure or renews a changed proposal's review.

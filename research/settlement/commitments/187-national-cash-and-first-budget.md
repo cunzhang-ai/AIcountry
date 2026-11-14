@@ -5,6 +5,6 @@ gross financing, restrictions and cash by date. Preserve actual
 maturities, protected services and independent review during delay.
 
 [Observed and authored checks](../../settlement/national-cash-calendar/README.md)
-· [Decision and migration](../../2026-11-national-cash-and-first-budget/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-national-cash-and-first-budget/decision-record.md)
 
 Actual financing, payable scopes and resident outcomes remain open.

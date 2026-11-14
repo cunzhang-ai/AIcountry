@@ -7,6 +7,6 @@ receiving and continuing claims. Existing appropriations, sector
 priority and remedies keep their scope.
 
 [Evidence and authored comparison](../../settlement/joint-continuity/README.md)
-· [Decision and transition](../../2026-11-joint-continuity-and-first-budget/decision-record.md)
+· [Decision and transition](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-joint-continuity-and-first-budget/decision-record.md)
 
 Actual prices, powers, paid shifts, acceptance and protection remain open.

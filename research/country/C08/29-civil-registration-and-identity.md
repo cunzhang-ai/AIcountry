@@ -19,4 +19,4 @@ human and paper routes, and case-specific verification. It selects neither
 a universal public identifier nor routine biometric enrollment. Existing
 MB, B, RP, AP and PD rights, earlier clocks and actual eligibility remain.
 [Comparison](../../settlement/civil-registration/README.md)
-· [Decision record](../../2026-11-civil-registration-and-identity/decision-record.md)
+· [Decision record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-civil-registration-and-identity/decision-record.md)

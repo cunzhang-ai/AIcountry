@@ -63,7 +63,7 @@ or a stronger complete rival. Pay for FT/OP/T successors.
 Publish unresolved roles, sites, scopes and evidence separately.
 
 [Observed account and paired first motions](../../../settlement/matched-national-work/README.md)
-· [Decision and reopening](../../../2026-11-matched-national-work-and-first-budget/decision-record.md)
+· [Decision and reopening](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-matched-national-work-and-first-budget/decision-record.md)
 
 [The first-budget release case](../../../settlement/first-budget-release/README.md)
 puts the selected first motion into the same dated cash and staffing

@@ -71,4 +71,4 @@ related support remains uncovered even with timely cash. A later
 advance or acceptance cannot restore timely service retrospectively.
 
 [Executable check](verify-concurrent-losses.py)
-· [Evidence and scope](../../2026-11-first-programme-concurrent-losses/sources.md)
+· [Evidence and scope](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-first-programme-concurrent-losses/sources.md)

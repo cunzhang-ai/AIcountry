@@ -53,6 +53,6 @@ failed commissioning, exhausted reserve or an equally effective
 qualified route with lower costs or burdens.
 
 [Worked import and later call](../../../settlement/essential-inputs-and-operating-release/01-paid-at-port-and-needed-at-the-site.md)
-· [Decision and migration](../../../2026-11-essential-inputs-and-operating-release/decision-record.md).
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-essential-inputs-and-operating-release/decision-record.md).
 
 [Worked live commissioning case](../../../settlement/essential-inputs-and-operating-release/02-commissioning-during-ordinary-service.md).

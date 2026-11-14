@@ -73,7 +73,7 @@ A first cabinet cannot supply these powers by publishing a manual or enrolling
 an AI vendor. Later statutes can change the framework prospectively through
 the valid legislative route, preserving pending cases and existing duties.
 
-Phase F requires a first [whole-country commitment account](../2026-10-whole-country-resources/decision-record.md)
+Phase F requires a first [whole-country commitment account](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-whole-country-resources/decision-record.md)
 reconciled to the opening inventory, not a new state budget that starts at
 zero. It separately shows inherited due claims, standing democratic and
 essential operations, future-start standards, provider and workforce overlap,

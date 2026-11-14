@@ -9,7 +9,7 @@ reference while keeping distinct types of evidence.
 |---|---|
 | [Public money and measured employment](01-accounts-transfers-and-work.md) | Voted central budget and net cash bridge, ten national fiscal purposes, four disjoint subsectors, internal transfers, public employment and seven final uses |
 | [Which existing capacity can actually be relied on](02-audited-capacity-and-correction.md) | Audited prison staffing and court system recovery findings, subsequent reported responses and the selected boundary for public money and new reliance |
-| [Source records and reproduction](../../2026-11-observed-government-baseline/sources.md) | Exact statistical vintages, source archive and calculation |
+| [Source records and reproduction](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-observed-government-baseline/sources.md) | Exact statistical vintages, source archive and calculation |
 
 This adds a historical 2025 outturn and actual staffing indicators to the
 [first-budget design](../whole-budget-continuity/README.md). It does not

@@ -98,7 +98,7 @@ public choice stays with the competent actors. Reopen when losses,
 new evidence or a more effective whole rival change the selection.
 
 [Worked country choice](../../../settlement/better-lives-and-country-choices/01-common-budget-different-lives.md)
-· [Decision and evidence](../../../2026-11-better-lives-and-country-choices/decision-record.md).
+· [Decision and evidence](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-better-lives-and-country-choices/decision-record.md).
 
 [Worked comparison of joint usable access and renewal](../../../settlement/better-lives-and-country-choices/02-two-services-one-usable-route.md).
 

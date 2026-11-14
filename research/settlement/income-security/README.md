@@ -6,7 +6,7 @@ Design 135 · [Canonical IC17–IC20](../../country/C05/09/06-income-security-an
 
 The country's ordinary-security choice cannot be resolved by calling every
 favorable trial finding an unconditionality effect. The
-[original-evidence review](../../2026-11-income-security-and-credit-continuity/sources.md)
+[original-evidence review](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-income-security-and-credit-continuity/sources.md)
 qualifies the previous Finnish preliminary support. Retain conditional U+C2's
 independence preference, A/I05's access-first operating reference and an adequate,
 reliable targeted rival with the same services and continuing pension rights.
@@ -45,10 +45,10 @@ case**. All eventual liability/source/country-cost estimates remain unknown.
 The model assumes one lawful new-service-year ceiling, not a revision of old
 source law, a best48 replacement or a full actuarial lifetime calculation.
 
-[Inputs](../../2026-11-income-security-and-credit-continuity/inputs.json),
-[calculation](../../2026-11-income-security-and-credit-continuity/model.py),
-[results](../../2026-11-income-security-and-credit-continuity/results.json) and
-[checks](../../2026-11-income-security-and-credit-continuity/validation.json)
+[Inputs](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-income-security-and-credit-continuity/inputs.json),
+[calculation](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-income-security-and-credit-continuity/model.py),
+[results](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-income-security-and-credit-continuity/results.json) and
+[checks](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-income-security-and-credit-continuity/validation.json)
 separate these arithmetic interfaces from actual readiness. Foreign euros,
 DKK, national accounts and earlier fictional CU populations are not pooled.
 

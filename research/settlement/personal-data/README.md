@@ -6,15 +6,15 @@
 canonical ordinary regime. [Dependency attribution](../commitments/12-personal-data-and-private-life.md)
 keeps new paid work separate from old bids, sources and continuing obligations.
 
-- [Decision](../../2026-11-personal-data-and-private-life/decision-record.md),
-  [sources](../../2026-11-personal-data-and-private-life/sources.json) and
-  [received review](../../2026-11-personal-data-and-private-life/received-review.json)
+- [Decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-personal-data-and-private-life/decision-record.md),
+  [sources](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-personal-data-and-private-life/sources.json) and
+  [received review](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-personal-data-and-private-life/received-review.json)
   distinguish normative selection, actual inspection and missing participation.
-- [Authored cases](../../2026-11-personal-data-and-private-life/cases.md),
-  [inputs](../../2026-11-personal-data-and-private-life/inputs.json),
-  [model](../../2026-11-personal-data-and-private-life/model.py),
-  [results](../../2026-11-personal-data-and-private-life/results.json) and
-  [checks](../../2026-11-personal-data-and-private-life/validation.json)
+- [Authored cases](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-personal-data-and-private-life/cases.md),
+  [inputs](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-personal-data-and-private-life/inputs.json),
+  [model](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-personal-data-and-private-life/model.py),
+  [results](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-personal-data-and-private-life/results.json) and
+  [checks](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-personal-data-and-private-life/validation.json)
   expose skill/time, correction, unknown fallback, shared-vendor and timing limits.
 
 Numbers/flags are invented case assumptions, not national prices, lawful bases,

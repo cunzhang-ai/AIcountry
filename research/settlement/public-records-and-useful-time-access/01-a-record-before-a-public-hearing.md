@@ -51,5 +51,5 @@ redaction capacity can make the difference before the hearing. A
 refusal or missed hearing may justify relief on the existing law.
 It does not automatically decide or stop the underlying public proposal.
 
-[Official source and scope](../../2026-11-public-records-and-useful-time-access/sources.md)
-· [Executable comparison](verify-public-access.py).
+[Official source and scope](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-public-records-and-useful-time-access/sources.md)
+· [Executable comparison](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/settlement/public-records-and-useful-time-access/verify-public-access.py).

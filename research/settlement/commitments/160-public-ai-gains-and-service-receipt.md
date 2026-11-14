@@ -7,6 +7,6 @@ employment claims and cash distinct. Verify useful receipt and identify
 where the released paid time goes.
 
 [Worked comparison](../public-ai-service-gains/README.md)
-· [Decision and transition](../../2026-11-public-ai-gains-and-service-receipt/decision-record.md)
+· [Decision and transition](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-public-ai-gains-and-service-receipt/decision-record.md)
 
 Actual authorized funding, service gains and their distribution remain open.

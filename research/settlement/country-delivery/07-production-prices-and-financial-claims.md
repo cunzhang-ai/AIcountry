@@ -9,7 +9,7 @@ voluntary production and RF ordinary finance. Reject choosing local manufacture
 or cheaper imports from only one side of the account.** Keep old rights and
 current M/MC/NB limits; neither branch is selected as a sourced launch.
 [SD25–SD32](../../country/C06/43-country-source-and-delivery.md) adds the canonical
-choices within the existing country source chapter. [Decision and reproducible scope](../../2026-11-national-production-and-financial-claims/README.md).
+choices within the existing country source chapter. [Decision and reproducible scope](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-national-production-and-financial-claims/README.md).
 
 ## One retail quantity, different work and exposure
 
@@ -135,7 +135,7 @@ follows; current RF/MC and the finite unadopted issue rival remain distinct.
 [Bank of England's primary explanation](https://www.bankofengland.co.uk/quarterly-bulletin/2014/q1/money-creation-in-the-modern-economy)
 informs the loan/deposit distinction; [ECB's external-account methods](https://www.ecb.europa.eu/press/pubbydate/2025/html/ecb.bopiipbook202507.en.html)
 separate resident/nonresident transactions and claims. Neither endorses our
-country numbers, tax law, inflation response or wellbeing ranking. [Sources](../../2026-11-national-production-and-financial-claims/sources.json)
+country numbers, tax law, inflation response or wellbeing ranking. [Sources](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-national-production-and-financial-claims/sources.json)
 discloses limited inspection, including the unavailable UN interactive page.
 
 Old37/22-package prices are not current PC/EL/LR/NB increments; actual ordinary

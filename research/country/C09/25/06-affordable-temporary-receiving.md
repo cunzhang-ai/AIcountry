@@ -83,4 +83,4 @@ Reopen on a repeated unfunded extension, displacement or a simpler,
 equally reliable ordinary payment or direct service route.
 
 [Two placements and an unresolved award](../../../settlement/affordable-temporary-receiving/01-a-room-without-avoidable-debt.md)
-· [Decision and migration](../../../2026-11-affordable-temporary-receiving/decision-record.md).
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-affordable-temporary-receiving/decision-record.md).

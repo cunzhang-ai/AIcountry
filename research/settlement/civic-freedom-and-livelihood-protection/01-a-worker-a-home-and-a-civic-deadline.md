@@ -40,5 +40,5 @@ These amounts prove neither availability in a real district nor a duty
 to spend at the same level. Joint qualification leaves a separate
 merits decision and any statutory election remedy open.
 
-[Design and migration](../../2026-11-civic-freedom-and-livelihood-protection/decision-record.md)
+[Design and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-civic-freedom-and-livelihood-protection/decision-record.md)
 · [Executable comparison](verify-civic-freedom.py).

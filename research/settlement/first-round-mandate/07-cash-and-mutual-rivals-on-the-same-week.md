@@ -135,4 +135,4 @@ cost and protection all carry with it.
 · [National financing scope of the cash rival](../../country/C06/56/02-country-alternatives-and-disposition.md)
 · [Usable provider switching](../../country/C05/11/10-usable-switching-and-continuity.md)
 · [Person-directed assistance and mutual routes](../../country/C07/18/06-transition-rivals-and-reopening.md)
-· [Decision record](../../2026-11-cash-and-mutual-country-rivals/decision-record.md).
+· [Decision record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-cash-and-mutual-country-rivals/decision-record.md).

@@ -4,4 +4,4 @@
 links cash, kitchen, water, electricity, delivery and actual suitable
 receipt while preserving existing rights and paid second-call capacity.
 
-[Comparison](../usable-food/README.md) · [Decision and migration](../../2026-11-usable-food-and-local-meal-continuity/decision-record.md)
+[Comparison](../usable-food/README.md) · [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-usable-food-and-local-meal-continuity/decision-record.md)

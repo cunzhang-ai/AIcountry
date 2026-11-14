@@ -78,7 +78,7 @@ equal substitute for protected time, bodily agency or clinical need. No genuine
 whole rival must copy every unadopted parameter; actual common fundamental
 protections and due/accrued claims continue under CS14 and valid law.
 
-[Decision and source boundaries](../../../2026-11-public-financing-and-real-service-offer/decision-record.md)
+[Decision and source boundaries](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-public-financing-and-real-service-offer/decision-record.md)
 close this finite financing/production comparison with actual national price,
 fee split, tax/I05 incidence, new use, qualified capacity and due-date cash
 unresolved. No new service/benefit amount, tax default, office, legal authority,

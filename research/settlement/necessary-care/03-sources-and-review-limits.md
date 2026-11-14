@@ -26,7 +26,7 @@ and read on15October2026 through the publisher's data.xml endpoints. This select
 inspection does not certify the entire amended Act, case law or clinical practice.
 Its capacity-based structure is not silently imported into UA.
 
-The [source register](../../2026-10-necessary-care-and-unknown-will/sources.json)
+The [source register](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-necessary-care-and-unknown-will/sources.json)
 records access, failed rendered/XML tool routes and actual alternative retrieval.
 Five documentary entries/two institutional families are not independent empirical
 studies. No publisher-byte archive, full medical evidence review, actual clinical

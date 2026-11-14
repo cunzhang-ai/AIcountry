@@ -78,7 +78,7 @@ dispatch. Responders verify safe operation, and the independent
 reviewer determines the review outcome through existing authority.
 
 [Observed resource mobilization and authored comparison](../../../settlement/domestic-mutual-aid/README.md)
-· [Decision and migration](../../../2026-11-domestic-mutual-aid-and-concurrent-need/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-domestic-mutual-aid-and-concurrent-need/decision-record.md)
 
 [SSR01–SSR08](../../C05/10/08-shared-staffing-and-protected-rest.md) qualifies paid
 shared staff through actual acceptance, handover and protected rest. JC retains dispatch authority.

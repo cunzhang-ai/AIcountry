@@ -78,7 +78,7 @@ Reopen on an omitted original, changed advice path, missed deadline,
 dependence of the purported reviewer or a simpler equally effective route.
 
 [Matched housing decision case](../../../settlement/independent-judgment-in-ai-assisted-decisions/01-one-summary-two-signatures.md)
-· [Decision and migration](../../../2026-11-independent-judgment-in-ai-assisted-decisions/decision-record.md).
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-independent-judgment-in-ai-assisted-decisions/decision-record.md).
 
 [ASI01–ASI08](16-public-scoring-and-purpose-limits.md) requires lawful purpose independently
 of accuracy or human review. Keep original evidence and useful deadlines.

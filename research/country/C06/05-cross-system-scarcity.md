@@ -71,7 +71,7 @@ After the shortage, original stock, order, delivery and denial records support
 individual correction, compensation where law requires it, public audit and
 prospective statutory revision. Capacity is rebuilt in the same C06 account;
 calling a person served in a database is not delivery. The [scarcity decision
-record](../../2026-10-cross-system-scarcity/decision-record.md) states rivals,
+record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-cross-system-scarcity/decision-record.md) states rivals,
 dependencies and what would reopen this working selection.
 
 [CP05–CP08](28/03-residual-scope-and-priority.md) retains actually available

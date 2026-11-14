@@ -109,4 +109,4 @@ route. No cap amount or network-wide appropriation follows from the
 worked comparison.
 
 [Worked comparison](../../../settlement/integrated-fares-and-operator-settlement/01-one-fare-and-two-paydays.md)
-· [Decision and migration](../../../2026-11-integrated-fares-and-operator-settlement/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-integrated-fares-and-operator-settlement/decision-record.md)

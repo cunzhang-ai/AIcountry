@@ -9,13 +9,13 @@ remedies. A democratic label, public feedback or good service performance cannot
 substitute for those powers. This commitment follows the user's clarified direction;
 it is not a claim that any real country or ratifying population already exists.
 
-The [democratic constitutional candidate](../2026-09-democratic-control/democratic-constitution.md)
+The [democratic constitutional candidate](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-09-democratic-control/democratic-constitution.md)
 specifies a parliamentary reference design, competitive elections, opposition rights,
 appointment and funding safeguards, actual handover, emergency limits and accountable
 AI assistance. Its institutional form and numeric parameters remain hypotheses to
-compare with other democratic designs. Its [capture exercises](../2026-09-democratic-control/capture-exercises.md)
+compare with other democratic designs. Its [capture exercises](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-09-democratic-control/capture-exercises.md)
 require evidence that protections work against a noncooperating incumbent.
-The [continuity correction](../2026-09-democratic-continuity/README.md) qualifies that
+The [continuity correction](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-09-democratic-continuity/README.md) qualifies that
 candidate's appointment, opposition, funding and handover claims. Conditional
 deadlines do not bound a process whose trigger can be withheld; named reserves and
 formal opposition votes do not establish independent, available capacity.

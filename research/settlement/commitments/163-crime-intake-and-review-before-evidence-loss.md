@@ -6,6 +6,6 @@ safety support and independent review of inaction. Keep qualified
 source, original dates, warrants and defense through migration.
 
 [Worked comparison](../crime-intake-review/README.md)
-· [Decision and transition](../../2026-11-crime-intake-and-review-before-evidence-loss/decision-record.md)
+· [Decision and transition](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-crime-intake-and-review-before-evidence-loss/decision-record.md)
 
 Actual evidence, operating capacity, remedy and welfare remain open.

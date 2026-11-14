@@ -11,12 +11,12 @@ keeps public/private/restricted source and national gaps distinct.
 |---|---|
 | [People, ordinary components and homes](01-people-components-and-homes.md) | Same 100,000 people, explicit 50,000 occupied homes, age weights and unpriced B versus actual bills |
 | [Providers, replacements and sources](02-providers-replacements-and-sources.md) | Retained/repriced/prospective/failed service, retail/import seed, dated actual N and qualifying tax |
-| [Decision](../../2026-11-ordinary-life-and-household-production/decision-record.md) | Root diagnosis rejected/corrected, real rivals, scope/authority and unfinished country work |
+| [Decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-ordinary-life-and-household-production/decision-record.md) | Root diagnosis rejected/corrected, real rivals, scope/authority and unfinished country work |
 
 All quantities, prices, take-up, pay, household types/tenure and asset vintages
 are authored. No adequate diet/living standard, actual source/independence/safe
 roster, foreign acceptance, source law or legitimate choice is established. The
-[37-function sidecar](../../2026-11-ordinary-life-and-household-production/country-register.json)
+[37-function sidecar](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-ordinary-life-and-household-production/country-register.json)
 retains original objects and actual unknowns, not a zero for each unpriced duty.
 
 [UNSD COICOP](https://unstats.un.org/unsd/classifications/coicop) offers purpose

@@ -43,5 +43,5 @@ liability and transition need real source/capacity. Financial licensing/capital,
 actual NF tax units, WL/AS rights, B/U priorities, PD and public IC mandates remain.
 No automatic state guarantee, corporate tax consolidation, free acquisition or
 new rights from AI copies. [The comparison](../../settlement/enterprise/README.md)
-and [decision](../../2026-11-enterprise-and-association-constitutions/decision-record.md)
+and [decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-enterprise-and-association-constitutions/decision-record.md)
 retain investor-only, worker-owned, shared-control and public alternatives.

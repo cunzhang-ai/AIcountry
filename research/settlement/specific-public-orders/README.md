@@ -44,4 +44,4 @@ but a broad court-appointed manager could acquire control over
 resources and cases unrelated to the order. The case neither
 selects that structure nor claims it has been implemented.
 
-[Scenario check](verify-specific-orders.py) · [Primary evidence](../../2026-11-specific-public-orders-and-substitute-execution/sources.md)
+[Scenario check](verify-specific-orders.py) · [Primary evidence](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-specific-public-orders-and-substitute-execution/sources.md)

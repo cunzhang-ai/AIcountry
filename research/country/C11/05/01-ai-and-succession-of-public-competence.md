@@ -81,4 +81,4 @@ shared assessors, lost placements, deteriorating judgment or a
 demonstrably better way to sustain the duty.
 
 [Three-period comparison](../../../settlement/ai-and-succession-of-public-competence/01-two-cohorts-and-a-duty-roster.md)
-· [Decision and migration](../../../2026-11-ai-and-succession-of-public-competence/decision-record.md).
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-ai-and-succession-of-public-competence/decision-record.md).

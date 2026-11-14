@@ -8,7 +8,7 @@ before new dependence. Keep lawful work, independent courts and
 continuing remedies.
 
 [Observed accounts and audited cases](../observed-government-baseline/README.md) ·
-[Decision record](../../2026-11-observed-government-baseline/decision-record.md)
+[Decision record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-observed-government-baseline/decision-record.md)
 
 No founding authority, whole-country price, paid readiness or observed
 better lives follows.

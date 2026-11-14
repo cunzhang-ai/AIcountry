@@ -54,7 +54,7 @@ electors and their representatives a recurring, contestable view across
 whole lives and past commitments. It does not replace immediate individual
 claims, ordinary audit or the fresh authorization required to scale a trial.
 Constitutional amendment uses the valid protected route. Stable services and a
-reasoned no-change decision are acceptable outcomes. The [learning comparison](../../2026-10-integrated-review/learning-analysis.md)
+reasoned no-change decision are acceptable outcomes. The [learning comparison](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-integrated-review/learning-analysis.md)
 contrasts this distributed route with ordinary unstructured change and a central
 expert renewal commission; none has been tested for AIcountry.
 If the Assembly's combined docket repeatedly delays protected decisions,

@@ -8,7 +8,7 @@ the payer dispute and the actual remedy on separate dates.
    traces intake, decisions, reimbursement and actual service as separate stages.
 2. [Authored first-budget reserve comparison](02-matched-remedy-and-second-call.md)
    carries the earlier common budget through two additional calls.
-3. [Reproduction](verify-remedy-execution.py) checks observed markers and the
+3. [Reproduction](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/settlement/independent-remedy-execution/verify-remedy-execution.py) checks observed markers and the
    authored authority and cash comparisons.
 
-[Decision and source scope](../../2026-11-independent-remedy-execution-and-second-call/decision-record.md)
+[Decision and source scope](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-independent-remedy-execution-and-second-call/decision-record.md)

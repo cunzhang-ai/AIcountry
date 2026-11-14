@@ -6,6 +6,6 @@ Trace restrictions, cash and direct correction separately. Keep
 original dates, claims and protected review through budget transition.
 
 [Observed and authored checks](../fiscal-adjustment-and-paid-rights/README.md)
-· [Decision and migration](../../2026-11-fiscal-adjustment-and-paid-rights/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-fiscal-adjustment-and-paid-rights/decision-record.md)
 
 Actual timely cash, independence and accepted receiving remain open.

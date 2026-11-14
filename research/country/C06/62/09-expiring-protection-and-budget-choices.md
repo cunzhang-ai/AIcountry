@@ -84,4 +84,4 @@ review. Reopen on earlier or jointly material expiry, omitted groups,
 late collection, unavailable receiving or a better qualified alternative.
 
 [Two-window comparison](../../../settlement/expiring-protection-and-budget-choices/01-two-supports-and-a-late-receipt.md)
-· [Decision and evidence](../../../2026-11-expiring-protection-and-budget-choices/decision-record.md).
+· [Decision and evidence](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-expiring-protection-and-budget-choices/decision-record.md).

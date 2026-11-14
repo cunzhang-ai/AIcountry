@@ -9,4 +9,4 @@ same duties.
 
 - [Observed cloud procurement and switching barriers](01-observed-licenses-and-switching.md)
 - [A benefits service when its supplier stops responding](02-live-claims-after-a-supplier-exit.md)
-- [Selection, alternatives and compatibility](../../2026-11-public-ai-exit-and-service-continuity/decision-record.md)
+- [Selection, alternatives and compatibility](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-public-ai-exit-and-service-continuity/decision-record.md)

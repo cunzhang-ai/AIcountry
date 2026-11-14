@@ -34,7 +34,7 @@ levy/penalty, private-profit/GDP residual, protected client/S sweep, readiness
 veto, compulsory household form or changed law/software/procedure is selected.
 Actual source clocks and OP exact paid successors/continuing claims remain.
 
-[Comparison](../ordinary-life/README.md) · [Whole-country next](../../status/completion/32-ordinary-life-and-joined-country.md)
+[Comparison](../ordinary-life/README.md) · [Whole-country next](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/status/completion/32-ordinary-life-and-joined-country.md)
 
 [Design125 joined scope](38-joined-country-operating-book.md) now adds matched
 private instruction and the all37named service/current-module comparison;

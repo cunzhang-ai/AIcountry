@@ -68,4 +68,4 @@ entitlement, priority and whether the remedy was carried out. Accessible
 human contact and ordinary offline records remain usable.
 
 [Observed cases and authored term comparison](../../../settlement/learning-award-execution/README.md)
-· [Decision and migration](../../../2026-11-learning-award-execution-and-recovery/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-learning-award-execution-and-recovery/decision-record.md)

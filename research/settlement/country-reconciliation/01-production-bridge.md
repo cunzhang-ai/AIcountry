@@ -16,7 +16,7 @@ own GVA. Public purchases are not a second subtraction from national value added
 | Model69 C | 3171.482941 | +44.568335% |
 | Selected SF hybrid | 3294.733892 | +50.186585% |
 
-The [new model/results](../../2026-10-whole-country-reconciliation/README.md)
+The [new model/results](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-whole-country-reconciliation/README.md)
 reconcile against separate frozen wage, production-tax, CFC and operating-surplus
 components. GDP and original payment flows stay unchanged. Eleven available rows
 are computed; a twelfth has no funded source arithmetic and stays uncomputed.

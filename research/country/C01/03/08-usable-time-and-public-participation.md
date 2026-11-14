@@ -71,4 +71,4 @@ handover. Reopen on hidden unpaid work, lost reply or due service,
 an unusable alternative or a better whole design.
 
 [Lived comparison](../../C13/22/04-usable-time-and-public-participation.md)
-· [Decision and migration](../../../2026-11-usable-time-and-public-participation/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-usable-time-and-public-participation/decision-record.md)

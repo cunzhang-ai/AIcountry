@@ -75,4 +75,4 @@ selective access, prolonged deadlock, unsustainable alternate cost
 or a better equally democratic route.
 
 [Quorum, assent and budget comparison](../../../settlement/legislative-continuity-and-quorum/01-two-sittings-and-the-original-clock.md)
-· [Decision and migration](../../../2026-11-legislative-continuity-and-quorum/decision-record.md).
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-legislative-continuity-and-quorum/decision-record.md).

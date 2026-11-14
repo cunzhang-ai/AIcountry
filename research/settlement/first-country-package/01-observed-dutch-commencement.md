@@ -31,4 +31,4 @@ finding about current law or the practical usability of any municipality.
 The observed instruments show distinct decisions about when new law
 starts, which prior cases continue, and how a limited substitute can
 remain authorized. They do not establish actual access, readiness, cost
-or environmental outcome. [Evidence scope](../../2026-11-first-budget-package-and-lawful-start/sources.md)
+or environmental outcome. [Evidence scope](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-first-budget-package-and-lawful-start/sources.md)

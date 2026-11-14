@@ -18,7 +18,7 @@ account remains a required lawful-adoption and readiness test.
 The same model assumes debt refinancing, bank payments and access to imported inputs
 without demonstrating them. Losing a refinancing rollover can leave its service
 package below the model's cash buffer even if the annual appropriation is unchanged.
-The [political-economy review](../../2026-10-political-economy-review/analysis.md) therefore
+The [political-economy review](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-political-economy-review/analysis.md) therefore
 adds bank, external-payment, production and physical-resource paths to the reference
 design; it does not certify that any real country can operate them.
 

@@ -106,4 +106,4 @@ rosters and eligible population. The conditional preference for a narrow
 prior supplement is a design selection under these assumptions, with actual
 performance and comparative lives still open.
 
-[First mandate](01-decisions-and-conditions.md) · [Decision record](../../2026-11-protected-supply-through-impasse/decision-record.md).
+[First mandate](01-decisions-and-conditions.md) · [Decision record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-protected-supply-through-impasse/decision-record.md).

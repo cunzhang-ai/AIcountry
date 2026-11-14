@@ -15,7 +15,7 @@ making producers the gatekeepers of independent repair.
 | [LCY09–LCY12. Public procurement, remedies and transition](26/03-public-choices-and-transition.md) | Compare whole service lives, protect actual enforcement and allow lawful later revision. |
 
 [Evidence and the 100-device comparison](../../settlement/product-lifecycle/README.md)
-· [Decision and migration](../../2026-11-product-repair-and-material-responsibility/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-product-repair-and-material-responsibility/decision-record.md)
 
 [AEC01–AEC05](../C07/05/05-assistive-equipment-continuity.md) joins repair
 resources to essential user function. The clinical network pays for fitted

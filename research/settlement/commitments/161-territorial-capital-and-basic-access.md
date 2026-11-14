@@ -6,6 +6,6 @@ operating funds and qualified receiving. Preserve each place's lawful
 authority and due service through investment timing or failure.
 
 [Worked portfolio](../territorial-capital-access/README.md)
-· [Decision and transition](../../2026-11-territorial-capital-and-basic-access/decision-record.md)
+· [Decision and transition](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-territorial-capital-and-basic-access/decision-record.md)
 
 Actual lawful sources, receiving, affected participation and outcomes remain open.

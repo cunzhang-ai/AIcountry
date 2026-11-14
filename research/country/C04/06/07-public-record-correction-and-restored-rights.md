@@ -99,4 +99,4 @@ cannot be reversed in practice. Keep existing protective duties, receipts,
 accrued claims and independent remedies under their governing law.
 
 [Two-office worked case](../../../settlement/public-record-correction-and-restored-rights/01-one-fact-two-public-decisions.md)
-· [Decision and migration](../../../2026-11-public-record-correction-and-restored-rights/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-public-record-correction-and-restored-rights/decision-record.md)

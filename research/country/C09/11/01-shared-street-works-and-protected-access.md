@@ -79,4 +79,4 @@ missed access, deferred maintenance, unsafe co-location, distorted
 incentives or a simpler qualified sequence.
 
 [Worked street comparison](../../../settlement/shared-street-works-and-protected-access/01-two-routes-and-three-works.md)
-· [Decision and migration](../../../2026-11-shared-street-works-and-protected-access/decision-record.md).
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-shared-street-works-and-protected-access/decision-record.md).

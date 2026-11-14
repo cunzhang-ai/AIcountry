@@ -78,7 +78,7 @@ funding, a changed legal scope or a better independently qualified
 delivery route.
 
 [Observed transition and authored comparison](../../../settlement/home-nursing-and-protected-demand/README.md)
-· [Decision and migration](../../../2026-11-home-nursing-and-protected-demand/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-home-nursing-and-protected-demand/decision-record.md)
 
 [HDC01–HDC06](../05/06-hospital-to-community-and-safe-receiving.md) applies
 when inpatient care is ending. A referral is distinct from accepted

@@ -16,4 +16,4 @@ neighbourhood from creating an unlawful burden elsewhere.
    follows delivered protection and lawful change.
 
 [Observed institutions and a two-neighbourhood comparison](../../settlement/clean-air/README.md)
-· [Choice, evidence and migration](../../2026-11-clean-air-and-cumulative-exposure/decision-record.md)
+· [Choice, evidence and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-clean-air-and-cumulative-exposure/decision-record.md)

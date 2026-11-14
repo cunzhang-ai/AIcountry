@@ -64,4 +64,4 @@ Reopen on hidden common control, an earlier deadline, failed
 replenishment or a more reliable qualified alternative.
 
 [Matched recovery order](../../../settlement/joint-restoration-and-independent-start/01-two-services-and-a-first-independent-act.md)
-· [Decision and migration](../../../2026-11-joint-restoration-and-independent-start/decision-record.md).
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-joint-restoration-and-independent-start/decision-record.md).

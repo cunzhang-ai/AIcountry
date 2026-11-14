@@ -87,6 +87,6 @@ or routine reading. Reopen on systematic omissions, arbitrary
 holds, unacceptable burden or a simpler effective route.
 
 [Worked comparison](../../../settlement/scoped-evidence-correction-across-decisions/01-one-source-and-four-decisions.md)
-· [Decision and migration](../../../2026-11-scoped-evidence-correction-across-decisions/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-scoped-evidence-correction-across-decisions/decision-record.md)
 
 [Shared fiscal evidence and separate remedies](../../../settlement/shared-fiscal-error-and-remedy/01-one-error-three-deadlines.md).

@@ -17,7 +17,7 @@ better or funded. Earlier actual rights/dates and more protective terms remain.
 
 [Examples and real alternatives](01-capacity-source-and-rivals.md) preserves
 36-only/repair-first, separately chosen32 and other whole offers, with their
-lost time/rights/source burdens. [Evidence and decision](../../2026-11-paid-time-and-joint-source/decision-record.md)
+lost time/rights/source burdens. [Evidence and decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-paid-time-and-joint-source/decision-record.md)
 includes fresh original intervention methods, a freshly retrieved OFF3
 reference cell and27 source/control/conditional cases. These establish no
 complete national funding, independent public choice or better lives.

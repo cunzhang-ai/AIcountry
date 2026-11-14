@@ -71,5 +71,5 @@ keeps the Assembly free to select a viable source or narrower prospective
 offer without withholding existing rights. An unfunded receiving duty is
 a failure even when all its forecast columns balance.
 
-[Source archive and reproducible model](../../2026-11-lasting-services-and-fiscal-shocks/sources.md)
-· [Decision record](../../2026-11-lasting-services-and-fiscal-shocks/decision-record.md)
+[Source archive and reproducible model](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-lasting-services-and-fiscal-shocks/sources.md)
+· [Decision record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-lasting-services-and-fiscal-shocks/decision-record.md)

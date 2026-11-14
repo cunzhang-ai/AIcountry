@@ -41,4 +41,4 @@ depends on the disputed system, none of the staffing totals establishes
 independent review.
 
 [Executable comparison](verify-succession.py) ·
-[Decision and migration](../../2026-11-ai-and-succession-of-public-competence/decision-record.md).
+[Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-ai-and-succession-of-public-competence/decision-record.md).

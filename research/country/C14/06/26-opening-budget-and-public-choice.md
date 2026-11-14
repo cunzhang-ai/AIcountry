@@ -61,6 +61,6 @@ duties. AI can reconcile and compare scoped evidence. Its forecast
 supplies no appropriation, approval, finding of consent or actual receipt.
 
 [Worked budget, vote and service branches](../../../settlement/opening-budget-and-public-choice/01-two-year-budget-and-decision.md)
-· [Decision and migration](../../../2026-11-opening-budget-and-public-choice/decision-record.md).
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-opening-budget-and-public-choice/decision-record.md).
 
 [Worked case with continuing services at the funding source](../../../settlement/opening-budget-and-public-choice/02-source-service-before-release.md).

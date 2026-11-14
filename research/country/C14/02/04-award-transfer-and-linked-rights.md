@@ -88,7 +88,7 @@ make an award, authorize data sharing, certify receipt or decide recovery.
 [Transfer and succession](../../C04/11/02-accept-live-duties-and-remedies.md)
 · [Protected stages](../06-staged-capacity-and-protection.md)
 · [Worked linked-rights transfer](../../../settlement/linked-rights-transfer/README.md)
-· [Design246 decision](../../../2026-11-benefit-transfer-and-linked-rights/decision-record.md)
+· [Design246 decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-benefit-transfer-and-linked-rights/decision-record.md)
 
 [RLW01–RLW05](../../C04/06/04-public-record-loss-and-rights.md)
 covers irrecoverable evidence for an original filing and a scheduled

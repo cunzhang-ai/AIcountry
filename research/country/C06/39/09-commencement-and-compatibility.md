@@ -46,10 +46,10 @@ approve the rejected oldE100/sovereign250 transaction or establish the SF hybrid
 source/market readiness. No new crime/fine, bank subsidy, deposit holiday,
 loan cancellation, foreign redenomination or unrestricted technical budget.
 
-[Country follow-up](../../../status/completion/10-bank-failure-and-remaining-country-choices.md)
+[Country follow-up](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/status/completion/10-bank-failure-and-remaining-country-choices.md)
 separates selected national rules from context calibration and unknown actual
 funding/participation/qualification/results. [Dependencies](../../../settlement/commitments/15-bank-failure-and-protected-payment.md)
-attribute costs and continuing duties; [decision and sources](../../../2026-11-bank-failure-and-protected-payment/decision-record.md)
+attribute costs and continuing duties; [decision and sources](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-bank-failure-and-protected-payment/decision-record.md)
 preserve rival choices and fresh objections. Reopen on unpaid insured claims,
 backstop crowding out core life, captured loss/valuation, impossible receivers,
 failed useful-time review or a stronger complete narrow-payment/court-led model.

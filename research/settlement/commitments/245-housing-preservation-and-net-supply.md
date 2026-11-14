@@ -5,6 +5,6 @@ requires independent counts of retention, physical additions, restored
 service and actual entrant receiving. Protect lawful returning occupants,
 temporary housing, operating money, safety and the accepting successor.
 
-The [decision](../../2026-11-housing-preservation-and-net-supply/decision-record.md)
+The [decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-housing-preservation-and-net-supply/decision-record.md)
 retains acquisition, repair and new supply as genuine alternatives.
 Actual costs, adoption, affordability and occupancy remain unverified.

@@ -6,7 +6,7 @@ separate from the Copenhagen and programme cash accounts.*
 The [Danish reference](01-denmark-opening-quarter-and-release.md)
 includes swap payments in some reported domestic borrowing and
 redemption aggregates. The inspected monthly statements supply no
-daily minimum or individually usable balance. The [2025 debt report](../../2026-11-national-cash-and-first-budget/original-sources/dnb-government-debt-2025.pdf)
+daily minimum or individually usable balance. The [2025 debt report](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-national-cash-and-first-budget/original-sources/dnb-government-debt-2025.pdf)
 describes daily collateral exchange for hedges and names eligible
 currencies. Its signed year-end net collateral does not price a
 gross call. The scenario below

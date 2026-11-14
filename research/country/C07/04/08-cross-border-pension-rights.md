@@ -88,6 +88,6 @@ unusable proof, unpriced liabilities or a simpler effective route.
 [Treaty authority](../../C10/15-democratic-treaty-commitments.md) ·
 [Domestic earnings correction](07-earnings-records-and-portable-correction.md) ·
 [Two-country comparison](../../../settlement/cross-border-pension-rights/01-two-careers-and-one-delayed-payment.md) ·
-[Decision and evidence](../../../2026-11-cross-border-pension-rights/decision-record.md)
+[Decision and evidence](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-cross-border-pension-rights/decision-record.md)
 
 **Keep the domestic payer active during an external transition.** Pay the independently established amount by its original date and preserve evidence and dates for a separate partner filing. An unresolved agreement or non-use of a foreign channel cannot cancel a standing domestic right. Fund authorized access assistance while formal effect and foreign receipt remain separately verified. [External continuity choice](../../../settlement/external-continuity-and-rights/01-carry-rights-and-supply-across-a-change.md).

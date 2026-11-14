@@ -38,4 +38,4 @@ the board cannot decide, only EA12's existing career and judicial
 routes remain available. If lawful facts, jurisdiction, timely hearing
 or execution are missing, record the unresolved result or lost remedy.
 
-[Reproduction](verify-election-selection.py) · [Primary evidence and limits](../../2026-11-independent-electoral-selection/sources.md)
+[Reproduction](verify-election-selection.py) · [Primary evidence and limits](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-independent-electoral-selection/sources.md)

@@ -95,4 +95,4 @@ identity, decide entitlement, certify delivery from a ledger or
 choose whose need can wait.
 
 [Worked comparison](../../../settlement/cash-access-and-essential-payment-continuity/01-one-outage-and-three-needs.md)
-· [Decision record](../../../2026-11-cash-access-and-essential-payment-continuity/decision-record.md).
+· [Decision record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-cash-access-and-essential-payment-continuity/decision-record.md).

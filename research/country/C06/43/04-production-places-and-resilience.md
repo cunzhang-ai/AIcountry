@@ -3,7 +3,7 @@
 *Part of [C06/43](../43-country-source-and-delivery.md); design 106 candidate.*
 
 **SD13 — Use the current denominator without a second workforce.** The
-[delivery register](../../../2026-11-country-source-and-delivery/delivery-register.json)
+[delivery register](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-country-source-and-delivery/delivery-register.json)
 retains 37 original IDs plus 22 packages from 84–105. QE86 named subsets are not
 current costs. Allocate every material changed duty as included, incremental,
 overlapping, replaced or unknown at item/skill/place/time level before summing.

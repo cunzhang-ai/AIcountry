@@ -85,4 +85,4 @@ weaker locality, construction supply changes materially or a simpler
 service route protects the same needs at lower full cost.
 
 [Two-window comparison](../../../settlement/construction-capacity-and-sequencing/01-two-windows-and-one-inspection-market.md)
-· [Decision and migration](../../../2026-11-construction-capacity-and-sequencing/decision-record.md).
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-construction-capacity-and-sequencing/decision-record.md).

@@ -1,6 +1,6 @@
 # Three different financing architectures and failed conditions
 
-*Authored comparison; exact figures/results are in the [dated calculation](../../2026-10-source-finance-and-payment-architecture/results.json).*
+*Authored comparison; exact figures/results are in the [dated calculation](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-source-finance-and-payment-architecture/results.json).*
 
 | Choice | Claim/risk and cash result | Disposition |
 |---|---|---|

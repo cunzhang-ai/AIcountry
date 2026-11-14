@@ -9,7 +9,7 @@ tenure through the known funding boundary and timely gross local finance.
   later procurement records.
 - [Authored housing start](02-authored-lease-and-funding-boundary.md) tests
   a temporary rent subsidy, a displaced offer and a missing advance.
-- [Decision and migration](../../2026-11-affordable-housing-and-refund-exposure/decision-record.md)
+- [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-affordable-housing-and-refund-exposure/decision-record.md)
   selects a qualified start and leaves unresolved local facts visible.
 
 Run `python3 research/settlement/affordable-housing-and-refunds/verify-receiving.py`

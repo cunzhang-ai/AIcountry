@@ -75,7 +75,7 @@ twice when a reference budget already reports a net care cost.
 reports household weekly costs at April2026 prices. It is an external urban-UK
 benchmark, not this project's public, law or personal B. Its single-adult total
 is GBP483.32; the displayed rounded categories sum483.34. Preserve the .02
-residual. Four source profiles are retained in [observations](../../2026-11-living-standard-and-context/observations.json).
+residual. Four source profiles are retained in [observations](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-living-standard-and-context/observations.json).
 No GBP/CU, gross-salary/M or household/person conversion is established.
 
 The [public item-list page](https://www.lboro.ac.uk/research/crsp/minimum-income-standard/household-budgets/)
@@ -103,7 +103,7 @@ tables are unfinished. No office can turn missing preparation into zero need,
 postpone existing rights or delay an election. Larger old net/source claims,
 privacy, indexation, worker/creditor and foreign duties survive. None is enacted.
 
-[The decision](../../2026-11-living-standard-and-context/decision-record.md)
+[The decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-living-standard-and-context/decision-record.md)
 preserves alternatives, source limits, objections and root-only checks. There
 has been no project affected-party session, independent professional review,
 legitimate adoption, paid safe operation or observed improvement in lives.

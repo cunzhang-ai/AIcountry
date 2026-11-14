@@ -37,7 +37,7 @@ The old 500m export assumption supplies no verified finance to this choice.
 diets, accepted plants or funded purchases. Manufacturing, private goods,
 mobility, full grid/capital chains and household preparation remain additional
 requirements where unmeasured; the named subset is not national feasibility.
-The [decision](../../2026-11-physical-supply-and-trade/decision-record.md)
+The [decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-physical-supply-and-trade/decision-record.md)
 preserves the predecessor, live rivals, received objections and scope.
 
 I/S/Y, H housing, TW paid time, animal welfare, ecological floors, C03–C04

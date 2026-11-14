@@ -2,7 +2,7 @@
 
 15 October 2026 · Part of [technical safety](README.md)
 
-The dated [source record](../../2026-10-technical-safety-and-access/sources.json)
+The dated [source record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-technical-safety-and-access/sources.json)
 separates eight documentary entries into six institutional families. Three WHO
 works are not three independent institutions; linked summaries/AI interpretations
 are not observations of this country's outcomes or actual affected participation.

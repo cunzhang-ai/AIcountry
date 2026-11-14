@@ -7,6 +7,6 @@ once. Preserve failed payments and unresolved urgent needs with their
 original owners, dates and remedies.
 
 [Evidence and joined case](../../settlement/effective-take-up/README.md)
-· [Decision and transition](../../2026-11-effective-take-up-and-early-benefit-delivery/decision-record.md)
+· [Decision and transition](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-effective-take-up-and-early-benefit-delivery/decision-record.md)
 
 Illustrative time release creates no spending permission or received benefit.

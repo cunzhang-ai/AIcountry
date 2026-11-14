@@ -7,6 +7,6 @@ remedies. Identical entries share a tally without multiplying members.
 Operative differences and continuing duties retain their own records.
 
 [Worked case](../budget-floor-recovery/README.md)
-· [Decision and transition](../../2026-11-minority-budget-access-and-protected-priority/decision-record.md)
+· [Decision and transition](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-minority-budget-access-and-protected-priority/decision-record.md)
 
 Actual adoption, paid scrutiny and empirical inclusion remain open.

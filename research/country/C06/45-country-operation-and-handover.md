@@ -18,9 +18,9 @@ new readiness veto or authority to delay an election.
 | [OP21–OP24: whole-country choice](45/06-alternatives-and-unfinished-costing.md) | Compare control, access and complete burdens, not an agency-count or GDP residual |
 
 [The operating comparison](../../settlement/country-operation/README.md) and
-[37-function recipes](../../2026-11-country-operation-and-handover/operating-register.json)
+[37-function recipes](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-country-operation-and-handover/operating-register.json)
 join the original functions to current delivery/source/transition questions.
-[Commitment scope](../../2026-11-country-operation-and-handover/later-duty-register.json)
+[Commitment scope](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-country-operation-and-handover/later-duty-register.json)
 retains all 34 predecessor commitment modules separately. These are a national planning
 reference, not a full clause census, current national price or automatically
 additional bill. Old 37 bids and earlier 22-package quotes retain historical scope.

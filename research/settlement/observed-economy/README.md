@@ -8,11 +8,11 @@ The core June 2026 tables and fiscal/financial companion vintages remain explici
 
 | Artifact | What it proves / does not prove |
 |---|---|
-| [Decision](../../2026-11-observed-economy-and-country-comparison/decision-record.md) | Retain service-first direction and strong retain/repair/U/provider rivals; reject invalid source comparisons, no new parameter selection |
-| [Results](../../2026-11-observed-economy-and-country-comparison/results.json) | Demand/production/income/fiscal/household/financial baseline, rounding and preserved missing example |
-| [Inputs](../../2026-11-observed-economy-and-country-comparison/inputs.json) / [model](../../2026-11-observed-economy-and-country-comparison/model.py) | Explicit year/units/sector/price/vintage selections and reproducible original JSON-stat decoding |
-| [Original sources](../../2026-11-observed-economy-and-country-comparison/original-sources/) / [source record](../../2026-11-observed-economy-and-country-comparison/sources.md) | Data, metadata, requests, failed archived-version query and original explanatory pages; one shared statistical family is not six independent reviews |
-| [Pins](../../2026-11-observed-economy-and-country-comparison/source-manifest.json), [checks](../../2026-11-observed-economy-and-country-comparison/validate.py), [report](../../2026-11-observed-economy-and-country-comparison/validation.json) | Preservation and unit/sector/stock-flow/rounding checks, not new-country affordability or service/outcome certification |
+| [Decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-observed-economy-and-country-comparison/decision-record.md) | Retain service-first direction and strong retain/repair/U/provider rivals; reject invalid source comparisons, no new parameter selection |
+| [Results](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-observed-economy-and-country-comparison/results.json) | Demand/production/income/fiscal/household/financial baseline, rounding and preserved missing example |
+| [Inputs](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-observed-economy-and-country-comparison/inputs.json) / [model](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-observed-economy-and-country-comparison/model.py) | Explicit year/units/sector/price/vintage selections and reproducible original JSON-stat decoding |
+| [Original sources](https://github.com/cunzhang-ai/AIcountry/tree/edition-1/research/2026-11-observed-economy-and-country-comparison/original-sources) / [source record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-observed-economy-and-country-comparison/sources.md) | Data, metadata, requests, failed archived-version query and original explanatory pages; one shared statistical family is not six independent reviews |
+| [Pins](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-observed-economy-and-country-comparison/source-manifest.json), [checks](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-observed-economy-and-country-comparison/validate.py), [report](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-observed-economy-and-country-comparison/validation.json) | Preservation and unit/sector/stock-flow/rounding checks, not new-country affordability or service/outcome certification |
 
 | Published 2023 reference, billion DKK | Value |
 |---|---:|
@@ -37,7 +37,7 @@ statistical assumptions, not direct observation of every underlying transaction.
 Missing source values remain missing; a future unfamiliar dimension needs review.
 
 [Commitments](../commitments/47-observed-economy-and-country-comparison.md) and
-[completion](../../status/completion/42-observed-baseline-and-incremental-choice.md)
+[completion](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/status/completion/42-observed-baseline-and-incremental-choice.md)
 keep all 37 original function interfaces/later duties and unpriced reform/legacy
 source. Next compare one consequential incremental household/service/retirement
 arrangement at a genuinely matched distributional scope, not another macro ratio.

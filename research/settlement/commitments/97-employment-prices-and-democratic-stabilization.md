@@ -22,7 +22,7 @@ inherited reference dictionaries and all old source-hash values/support_scope.
 competent law, qualified operating capacity/source or better lives is claimed.
 Current actual constitutional/software/contribution permissions/holds remain.
 
-[Decision](../../2026-11-employment-prices-and-democratic-stabilization/decision-record.md)
+[Decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-employment-prices-and-democratic-stabilization/decision-record.md)
 closes this value/hierarchy selection with strong flexible-inflation/retention/
 public-work and fiscal-money rivals retained. Full joined ordinary/adverse/
 transition country source and comparative outcomes remain unresolved.

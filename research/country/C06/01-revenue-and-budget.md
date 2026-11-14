@@ -15,6 +15,6 @@ scoped old comparisons and new AA account/opinion/source obligations.
 
 The original two section anchors remain useful entry points. Their complete
 current bodies are in the linked parts, with source/rights limits intact.
-[Relocation record](../../2026-11-public-audit-and-accountable-oversight/budget-relocation.json)
+[Relocation record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-public-audit-and-accountable-oversight/budget-relocation.json)
 preserves the exact pre-organization working text; navigation adopts no law or
 method, qualifies no source and moves no money.

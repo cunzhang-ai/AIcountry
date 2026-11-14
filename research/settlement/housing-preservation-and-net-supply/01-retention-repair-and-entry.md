@@ -37,6 +37,6 @@ and safe receiving remain live. A spare capital balance or a revised count
 cannot perform an unfinished repair. Compare independently accepted
 extra provision or a revised elected schedule with actual near-term access.
 
-The [decision record](../../2026-11-housing-preservation-and-net-supply/decision-record.md)
+The [decision record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-housing-preservation-and-net-supply/decision-record.md)
 retains the alternatives and limits. The assumptions and outcomes are
 constructed, without implying actual project cost, stock or effectiveness.

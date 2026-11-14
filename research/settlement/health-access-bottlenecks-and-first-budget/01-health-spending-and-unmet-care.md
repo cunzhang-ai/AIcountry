@@ -51,5 +51,5 @@ If cost, transport or communication is what prevents care, bring the
 corresponding independently funded alternative to the same decision.
 Existing point-of-service protection remains in force in all variants.
 
-[Primary sources and reproduction](../../2026-11-health-access-bottlenecks-and-first-budget/sources.md)
+[Primary sources and reproduction](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-health-access-bottlenecks-and-first-budget/sources.md)
 · [Clinical budgeting rules](../../country/C07/05/07-health-access-bottlenecks-and-first-budget.md).

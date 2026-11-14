@@ -7,4 +7,4 @@ and who carries the risk of denied reimbursement.
 - [Manchester and Copenhagen evidence](01-observed-funder-locality-and-receipt.md)
 - [Authored advance and disputed settlement](02-authored-public-payment-bridge.md)
 - [Canonical MF09–MF13](../../country/C04/08/03-reimbursement-and-resident-receipt.md)
-- [Decision and evidence limits](../../2026-11-intergovernmental-reimbursement-and-receipt/decision-record.md)
+- [Decision and evidence limits](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-intergovernmental-reimbursement-and-receipt/decision-record.md)

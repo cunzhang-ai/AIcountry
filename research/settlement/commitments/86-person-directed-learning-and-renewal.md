@@ -24,6 +24,6 @@ hash values remain exact. New teaching/support/qualification/capital/maintenance
 review/FX/transition duties are not priced by old school/N labels; census is open.
 Actual full cost, capable simultaneous staff, independent affected/academic/legal
 choice and better lives remain unknown. Five new actual-evidence fields stay
-null. [Decision and limits](../../2026-11-person-directed-learning-and-renewal/decision-record.md)
+null. [Decision and limits](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-person-directed-learning-and-renewal/decision-record.md)
 retain smaller, account-based and broader alternatives. Actual software, law,
 constitution, contribution permissions, holds and old due claims continue.

@@ -41,7 +41,7 @@ effects as a separate comparison. The guarantee choice did not
 prevent the August midyear budget changes. These records show
 budget and liquidity measures with distinct timing and scope.
 They do not show the day the state or individual payee received
-or sent each amount. [Sources](../../2026-11-local-cash-and-national-budget/sources.md).
+or sent each amount. [Sources](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-local-cash-and-national-budget/sources.md).
 
 ## Constructed payment dates
 

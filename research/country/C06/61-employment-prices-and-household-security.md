@@ -30,7 +30,7 @@ it already permits shock-sensitive adjustment and rejects automatic austerity.
 A joint mandate can enlarge discretion or weaken price/FX credibility without
 creating capacity. Voluntary public employment, employer retention and stronger
 fiscal/monetary regimes are different whole choices with real costs and control.
-[The decision](../../2026-11-employment-prices-and-democratic-stabilization/decision-record.md)
+[The decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-employment-prices-and-democratic-stabilization/decision-record.md)
 selects an explicit value balance under uncertainty, not a claim of originality,
 empirical superiority, funded operation or better lives already observed.
 

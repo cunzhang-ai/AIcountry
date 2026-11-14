@@ -5,7 +5,7 @@ adds usable roster choices, protected regular weekly pay across pay
 methods and a funded, time-specific service check at both stages.
 
 [Observed and authored comparisons](../usable-work-time/README.md)
-· [Decision and migration](../../2026-11-usable-work-time-transition/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-usable-work-time-transition/decision-record.md)
 
 Earlier rights and candidate stages retain their scope. Actual sources,
 staffed receiving, participation and outcomes remain unverified.

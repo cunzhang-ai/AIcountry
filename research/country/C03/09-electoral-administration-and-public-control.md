@@ -27,8 +27,8 @@ D4/C2's unfinished selection/quorum description, not import historical D1 citize
 voting or D2's retired3% threshold. Current software/constitutional/contribution holds remain
 until lawful revision; no research text appoints its reviewers or validates a poll.
 
-[Country audit](../../status/completion/08-public-power-and-democratic-execution.md) · [Decision
-and sources](../../2026-11-public-power-and-democratic-execution/decision-record.md)
+[Country audit](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/status/completion/08-public-power-and-democratic-execution.md) · [Decision
+and sources](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-public-power-and-democratic-execution/decision-record.md)
 
 [EN/CF/ER](10-democratic-entry-and-campaign-resources.md) now specifies national Assembly entry/access/cash/private limits, own career case/payer/executor powers and exact prospective E16/result/VD12 scope. It does not change EA selection/4votes/5present, grant a new certification vote, adopt current law or certify a ready poll.
 

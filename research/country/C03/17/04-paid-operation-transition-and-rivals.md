@@ -60,7 +60,7 @@ power. More public/common ownership or redistribution can reduce private
 concentration with different title/investment/capture/transition costs. Public
 records alone cannot prove equal political influence or displace these rivals.
 
-[Decision, objections and source limits](../../../2026-11-public-decision-integrity-and-current-country/decision-record.md)
+[Decision, objections and source limits](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-public-decision-integrity-and-current-country/decision-record.md)
 records selected-scope same-controller reasoning, not affected assent, independent
 constitutional/legal/fiscal approval, full cost or successful corruption control.
 The current country/status organization separates active choices from historical

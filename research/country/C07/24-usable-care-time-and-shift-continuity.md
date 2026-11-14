@@ -21,4 +21,4 @@ addition specifies organized early care. School-age coverage retains
 its own applicable standards and needs a distinct costing.
 
 [Comparative evidence and worked household](../../settlement/usable-care-time/README.md)
-· [Decision and continuing obligations](../../2026-11-usable-care-time-and-shift-continuity/decision-record.md)
+· [Decision and continuing obligations](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-usable-care-time-and-shift-continuity/decision-record.md)

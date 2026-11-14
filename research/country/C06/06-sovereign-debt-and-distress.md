@@ -92,7 +92,7 @@ ecological or service decisions. If no lawful agreement is reached, the
 state reports the continuing creditor, import, credit and service harms;
 there is no promised costless default or judicially invented money.
 
-The [decision record](../../2026-10-sovereign-debt/decision-record.md) compares
+The [decision record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-sovereign-debt/decision-record.md) compares
 retention, narrow liquidity support, austerity, negotiated workout and
 monetary escape claims. Its thresholds and distribution choices require a
 real founding/public decision, original contracts and capacities. No debt

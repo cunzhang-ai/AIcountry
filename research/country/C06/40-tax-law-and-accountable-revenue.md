@@ -34,10 +34,10 @@ pensions/public care retain their separate exclusions, no analogy levy. No
 generic carbon/wealth/transaction tax or full national yield is inferred. G cash, legal withholding credit,
 refund arrear, S contributions, insurer/standby/client assets and FX remain distinct.
 
-The [country audit](../../status/completion/11-tax-and-democratic-design-gaps.md),
+The [country audit](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/status/completion/11-tax-and-democratic-design-gaps.md),
 [dependencies](../../settlement/commitments/16-civil-tax-and-accountable-revenue.md),
 [authored probes](../../settlement/civil-tax/README.md) and
-[decision](../../2026-11-civil-tax-and-public-revenue/decision-record.md)
+[decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-civil-tax-and-public-revenue/decision-record.md)
 retain source/capture/rights/incidence failures. Offices, periods and rates are
 normative hypotheses, not adopted law, qualified public review or proof of benefit.
 Current software/constitutional/contribution boundaries remain unchanged.

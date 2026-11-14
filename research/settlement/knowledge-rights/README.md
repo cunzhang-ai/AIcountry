@@ -6,17 +6,17 @@
 canonical ordinary-rights/innovation regime. [The dependency map](../commitments/11-knowledge-rights-and-innovation.md)
 records paid duties and affected consumers; C05/C07/C08 retain their own powers.
 
-- [Decision](../../2026-11-knowledge-rights-and-innovation/decision-record.md)
+- [Decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-knowledge-rights-and-innovation/decision-record.md)
   compares limited rights/public access with stronger exclusivity and public-open
   rivals, retaining creator, user, seed, capture and external-law objections.
-- [Authored cases](../../2026-11-knowledge-rights-and-innovation/cases.md),
-  [inputs](../../2026-11-knowledge-rights-and-innovation/inputs.json),
-  [model](../../2026-11-knowledge-rights-and-innovation/model.py) and
-  [results](../../2026-11-knowledge-rights-and-innovation/results.json)
+- [Authored cases](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-knowledge-rights-and-innovation/cases.md),
+  [inputs](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-knowledge-rights-and-innovation/inputs.json),
+  [model](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-knowledge-rights-and-innovation/model.py) and
+  [results](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-knowledge-rights-and-innovation/results.json)
   expose duplicate-fee scope, foreign inputs, code/receiver and first-year delay.
-- [Sources](../../2026-11-knowledge-rights-and-innovation/sources.json),
-  [received review](../../2026-11-knowledge-rights-and-innovation/received-review.json)
-  and [checks](../../2026-11-knowledge-rights-and-innovation/validation.json)
+- [Sources](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-knowledge-rights-and-innovation/sources.json),
+  [received review](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-knowledge-rights-and-innovation/received-review.json)
+  and [checks](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-knowledge-rights-and-innovation/validation.json)
   state exact reading/inspection limits. No prior validator is rerun or changed.
 
 All case costs, resource/use assumptions and institutional defaults are authored,

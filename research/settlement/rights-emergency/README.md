@@ -9,9 +9,9 @@ useful-time protection. [A8](../../authority/provisions/05-rights-and-emergencie
 is the candidate charter text. Ordinary policy/new hazard legislation remains
 possible; a declaration grants no new generic coercion or fiscal power.
 
-The exact143 predecessor is preserved in the dated [baseline](../../2026-11-rights-limits-and-emergency-continuity/baseline.json).
+The exact143 predecessor is preserved in the dated [baseline](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-rights-limits-and-emergency-continuity/baseline.json).
 [Adversarial cases](01-adversarial-cases-and-retained-costs.md) expose lawful
-response, expiry, capture and catastrophic failure. The [decision/rivals](../../2026-11-rights-limits-and-emergency-continuity/decision-record.md)
+response, expiry, capture and catastrophic failure. The [decision/rivals](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-rights-limits-and-emergency-continuity/decision-record.md)
 retain the safety/flexibility and legislative-load objections. Narrow clock
 arithmetic is not an automated legal classification, actual review or consent.
 

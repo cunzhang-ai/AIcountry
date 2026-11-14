@@ -47,4 +47,4 @@ Nobody gains permission to continue drawing water merely to avoid
 a payment. The first approved case, its later cash and any
 continuing duty remain separate. An unassessed residual is unknown.
 
-[Scenario check](verify-parallel-trials.py) · [Primary evidence and limits](../../2026-11-parallel-local-trials-and-shared-obligations/sources.md)
+[Scenario check](verify-parallel-trials.py) · [Primary evidence and limits](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-parallel-local-trials-and-shared-obligations/sources.md)

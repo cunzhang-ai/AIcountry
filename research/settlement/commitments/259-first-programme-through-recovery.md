@@ -4,6 +4,6 @@
 assigns dated ordinary resources, qualified recovery work, paid review
 and a lawful successor. Preserve independent clocks and original loss.
 
-The [decision](../../2026-11-first-programme-through-recovery/decision-record.md)
+The [decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-first-programme-through-recovery/decision-record.md)
 compares reopening alone, clearing old work first and additional
 qualified capacity. Actual costs, acceptance and sustained delivery remain open.

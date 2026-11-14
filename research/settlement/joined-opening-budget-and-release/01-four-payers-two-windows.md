@@ -70,6 +70,6 @@ is assumed.
 These are window tests. They supply neither actual operating
 capacity nor complete national accounts. The related official
 Danish observations, independent rights and missing chapter
-lines are listed in the [scope and source record](../../2026-11-joined-opening-budget-and-release/sources.md).
+lines are listed in the [scope and source record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-joined-opening-budget-and-release/sources.md).
 
 [Arithmetic reproduction](verify-joined-opening.py).

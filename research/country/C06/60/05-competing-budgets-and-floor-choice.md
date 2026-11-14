@@ -93,7 +93,7 @@ exclude small groups, favor tactical cloning or exceed paid scrutiny capacity.
 [DB proposal and votes](01-proposal-members-and-budget-choice.md)
 · [BLC lapse and continuity](../66-budget-lapse-and-paid-continuity.md)
 · [Worked case](../../../settlement/budget-alternatives/README.md)
-· [Design243 decision](../../../2026-11-budget-alternatives-and-agenda-control/decision-record.md)
+· [Design243 decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-budget-alternatives-and-agenda-control/decision-record.md)
 
 [BCV06–BCV10](06-minority-access-and-floor-recovery.md) adds one prior final
 vote when a full-Assembly majority assigns priority to an exact timely text

@@ -94,4 +94,4 @@ review is warranted if wages rise but essential visits fall or if
 the comparison shows scheduling repair would achieve more.
 
 See [the matched exercise](../../../settlement/home-care-wage-and-service-compact/01-payroll-and-visits.md)
-and [the decision record](../../../2026-11-home-care-wage-and-service-compact/decision-record.md).
+and [the decision record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-home-care-wage-and-service-compact/decision-record.md).

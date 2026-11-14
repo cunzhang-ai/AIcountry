@@ -36,10 +36,10 @@ practical opposition; it does not prove these sufficient or displace structural
 rivals. Hypotheses include14day ordinary records,12month matter-specific exit
 and the prospective schedule, not empirical optima. Source costs remain unknown.
 
-[Decision and adverse cases](../../2026-11-public-decision-integrity-and-current-country/decision-record.md)
+[Decision and adverse cases](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-public-decision-integrity-and-current-country/decision-record.md)
 separates normative sources, same-controller critique, proposed research choice,
 actual lawful authority, paid readiness and outcomes. New constitutional/ordinary
 rules require actual prior procedures/holds and cannot approve themselves.
 [Current status](../../DESIGN-STATUS.md) now separates active choices from the
-[complete prior summaries](../../history/06-current-research/README.md).
+[complete prior summaries](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/history/06-current-research/README.md).
 Next compare a whole offer against strong retain/repair, not a new PI parameter.

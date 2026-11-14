@@ -51,7 +51,7 @@ nomination or foreign decision. Record received correction, refusal, source loss
 and any actual harmful use separately. Scheduled programme/data/notice review
 and new material objections are not waived by an unchanged dataset/model hash.
 
-The [decision](../../../2026-11-civilian-intelligence-and-democratic-control/decision-record.md)
+The [decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-civilian-intelligence-and-democratic-control/decision-record.md)
 retains concealed-threat losses and the no-unit/external/noncriminal-warrant rivals.
 Reopening needs actual original threat/failure/misuse evidence or a prospectively
 authorized, safe discriminating exercise, not a tragedy requirement or a desire

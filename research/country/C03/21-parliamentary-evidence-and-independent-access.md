@@ -16,7 +16,7 @@ Apply this route to material national scrutiny of public action. Keep
 individual claims, audit and specialist oversight under their own authority.
 The [comparison and hostile-executive case](../../settlement/parliamentary-evidence/README.md)
 distinguish a request, an order, access and what members can actually use.
-[Decision and migration](../../2026-11-parliamentary-evidence-and-independent-access/decision-record.md)
+[Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-parliamentary-evidence-and-independent-access/decision-record.md)
 
 [OA01–OA07](../C04/03/04-public-records-and-useful-time-access.md)
 provides the distinct public request route. Parliamentary duties,

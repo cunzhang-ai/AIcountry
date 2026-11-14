@@ -77,4 +77,4 @@ does not hold the opening package unless an explicit legal, funding or
 delivery dependency remains unresolved.
 
 [First-mandate comparison](../../../settlement/first-round-mandate/08-what-the-first-mandate-inherits.md)
-· [Decision and migration](../../../2026-11-first-mandate-scope-and-inherited-power/decision-record.md).
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-first-mandate-scope-and-inherited-power/decision-record.md).

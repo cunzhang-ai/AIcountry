@@ -19,7 +19,7 @@ Future accounting standards need explicit measured concept migration, not a sile
 rewrite of old results. Preserve unfamiliar needs and unsupported semantics.
 
 **CP12 — The audit found real choices beyond missing actual context.** The
-[whole-country findings](../../../status/completion/04-country-audit-findings.md)
+[whole-country findings](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/status/completion/04-country-audit-findings.md)
 located missing court/belonging/necessary-agency references, now selected through
 [CJ](../../C03/08-constitutional-review-and-public-control.md), [MB](../../C02/06-citizenship-and-secure-belonging.md) and
 [UA](../../C08/23-necessary-care-and-unknown-will.md). A possible rights-restoring amendment exception and bounded

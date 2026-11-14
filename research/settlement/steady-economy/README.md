@@ -11,11 +11,11 @@ and due-time finance to the existing joined national account.
 | [Normal comparisons and income distribution](01-normal-comparisons-and-distribution.md) | Required output, no invented household buyer, sector finance and actual winners/losers in the fixture |
 | [Opening, timing and failed resilience](02-opening-timing-and-failure.md) | Known/unknown stocks, currency/rollover, missing skills, bank liquidity and unpriced duties |
 
-[Inputs](../../2026-10-demand-and-steady-stocks/inputs.json),
-[model](../../2026-10-demand-and-steady-stocks/model.py),
-[results](../../2026-10-demand-and-steady-stocks/results.json) and
-[checks](../../2026-10-demand-and-steady-stocks/validation.json)
-preserve ten declared cases and the old source families. [Decision](../../2026-10-demand-and-steady-stocks/decision-record.md)
+[Inputs](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-demand-and-steady-stocks/inputs.json),
+[model](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-demand-and-steady-stocks/model.py),
+[results](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-demand-and-steady-stocks/results.json) and
+[checks](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-demand-and-steady-stocks/validation.json)
+preserve ten declared cases and the old source families. [Decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-demand-and-steady-stocks/decision-record.md)
 retains material objections and distinctions from actual law/adoption.
 
 Some normal comparators have zero planned current sector balances and fit

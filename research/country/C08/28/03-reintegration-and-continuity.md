@@ -63,7 +63,7 @@ tradeoff at the recall endpoint. Victim safety then depends on ordinary
 protection and lawful new cases. Its burden, fairness, safety and paid
 readiness require qualified comparison and affected participation.
 
-[Decision record](../../../2026-11-sentence-review-and-release/decision-record.md)
+[Decision record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-sentence-review-and-release/decision-record.md)
 
 [PO25–PO32](../27-civilian-enforcement-and-public-control.md) plans
 safe staffing and funded relief through lawful admissions and releases.

@@ -3,7 +3,7 @@
 [Canonical rules](../../country/C03/20-government-programme-and-public-choices.md)
 · [Observed political and budget path](01-canada-and-netherlands.md)
 · [Worked first budget](02-minority-government-and-first-budget.md)
-· [Original sources](../../2026-11-government-programme-and-public-choices/sources.md)
+· [Original sources](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-government-programme-and-public-choices/sources.md)
 
 | Arrangement | Public value | Risk |
 |---|---|---|

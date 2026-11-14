@@ -45,5 +45,5 @@ creates an available worker. A missed case retains its original
 date and may reach an independent remedy. This case establishes
 no national costs, actual receipt or valid appropriation.
 
-[Reproduction](verify-guarantees.py) ·
+[Reproduction](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/settlement/usable-public-service-guarantees/verify-guarantees.py) ·
 [National operating baseline](02-reference-envelope-and-open-budget-lines.md).

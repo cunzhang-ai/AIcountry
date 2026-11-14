@@ -25,7 +25,7 @@ The [first-budget comparison](../../settlement/joint-continuity/README.md)
 tests four protected duties, two failures, one concurrent staff conflict
 and a weaker recurring source. It selects two independent receiving
 routes in the declared case. It supplies no country-wide cost or proof
-of actual capacity. [Decision and migration](../../2026-11-joint-continuity-and-first-budget/decision-record.md).
+of actual capacity. [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-joint-continuity-and-first-budget/decision-record.md).
 
 [AT technology transition](../C05/18-technology-transition-and-shared-gains.md)
 uses JC to check paid, qualified service under a joint wage, tax

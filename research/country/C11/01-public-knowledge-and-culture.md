@@ -21,7 +21,7 @@ ballot, treaty, land account or person's identity. Affected speakers and
 independent reviewers need a correction route before a mistranslation becomes
 binding or an excluded community loses its chance to object.
 
-The selected [public-evidence arrangement](../../2026-10-public-evidence/analysis.md)
+The selected [public-evidence arrangement](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-public-evidence/analysis.md)
 separates four acts: recording an event, constructing an official statistic,
 interpreting causes, and making a binding legal decision. Election, revenue,
 service, court, utility and ecological authorities keep the original records

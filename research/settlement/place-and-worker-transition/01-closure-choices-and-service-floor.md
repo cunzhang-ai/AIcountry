@@ -47,6 +47,6 @@ all 5 later become lawful and durable, there is still a residual 1
 under the stipulated common cost. An operator's cleanup bond is
 restricted and remains outside both budget calculations.
 
-The [decision record](../../2026-11-place-and-worker-transition/decision-record.md)
+The [decision record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-place-and-worker-transition/decision-record.md)
 retains alternative recovery strategies and evidence requirements.
 The case is not an actual regional diagnosis or an estimate of jobs created.

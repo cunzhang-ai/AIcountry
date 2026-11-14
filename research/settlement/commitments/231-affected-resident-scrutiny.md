@@ -7,5 +7,5 @@ affected reasons. Maintain original case dates, lawful membership,
 the elector initiative and the Assembly vote. Safe evidence, earned
 pay and independent correction need funded successors.
 
-See the [decision record](../../2026-11-affected-residents-and-national-decisions/decision-record.md)
+See the [decision record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-affected-residents-and-national-decisions/decision-record.md)
 for rivals, limits and the open lawful operating test.

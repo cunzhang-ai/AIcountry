@@ -53,6 +53,6 @@ Next audit integrated C01–C14 for substantive missing decisions and conflicts.
 No complete candidate source, actual authority, qualified affected review,
 funded readiness or better-lives result has been established.
 
-[Original sources](../../2026-11-published-fiscal-context-and-revenue-design/sources.md)
-· [Reproducible results](../../2026-11-published-fiscal-context-and-revenue-design/results.json)
-· [Decision](../../2026-11-published-fiscal-context-and-revenue-design/decision-record.md)
+[Original sources](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-published-fiscal-context-and-revenue-design/sources.md)
+· [Reproducible results](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-published-fiscal-context-and-revenue-design/results.json)
+· [Decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-published-fiscal-context-and-revenue-design/decision-record.md)

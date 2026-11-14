@@ -108,6 +108,6 @@ until competent revision. Reopen on duplicate payments, stranded cash,
 repeated late funding or a simpler equally protective route.
 
 [Worked comparison](../../../settlement/public-cash-and-independent-execution/01-one-balance-two-payment-windows.md)
-· [Decision and migration](../../../2026-11-public-cash-and-independent-execution/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-public-cash-and-independent-execution/decision-record.md)
 
 [Independently verified match and residual](../../../settlement/reciprocal-public-settlement/01-two-payers-and-one-unconfirmed-cutoff.md).

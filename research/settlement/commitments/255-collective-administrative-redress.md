@@ -5,6 +5,6 @@ assigns the ordinary programme, executing payer and independent review.
 Fund search, lawful payments, protected exception review and alternate
 receiving as distinct uses.
 
-The [decision](../../2026-11-collective-administrative-redress/decision-record.md)
+The [decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-collective-administrative-redress/decision-record.md)
 retains complaint-led and screened correction as comparison options.
 Actual source, lawful data access and qualified receiving remain open.

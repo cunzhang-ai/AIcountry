@@ -23,6 +23,6 @@ compulsory occupation or automatic financial source is selected.
 Preserve1432 exact184 artifacts,37 full functions,61 selections,124 complete
 inherited reference dictionaries/every old hash/support_scope.37 remains open.
 Actual constitutional/software/contribution permissions/holds and valid prior
-law remain unchanged. [Decision](../../2026-11-whole-economy-work-and-source/decision-record.md)
+law remain unchanged. [Decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-whole-economy-work-and-source/decision-record.md)
 closes this finite reference/invariant correction; full current qualified
 resources/source, real independent participation and better lives remain open.

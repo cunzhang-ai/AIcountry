@@ -60,7 +60,7 @@ asset requirements. Household durables, operator assets and working inventory
 remain separate; complete prices, accepted role/asset scope and owned sources
 are unknown. Illustrative tax recovery is no independent production/FX source.
 
-[Design99 BF/RA/BR](../../country/C06/39-bank-failure-and-protected-payment.md) now separates M07 payout from exceptional M09 and fixes a three-seat/two-vote panel, career insurer/courts, drawn-debt headroom, distinct owned sources and actual receiving. [The follow-up](../completion/10-bank-failure-and-remaining-country-choices.md) retains remaining national rules and unresolved whole-country funding/supply. No bank or source package is certified.
+[Design99 BF/RA/BR](../../country/C06/39-bank-failure-and-protected-payment.md) now separates M07 payout from exceptional M09 and fixes a three-seat/two-vote panel, career insurer/courts, drawn-debt headroom, distinct owned sources and actual receiving. [The follow-up](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/status/completion/10-bank-failure-and-remaining-country-choices.md) retains remaining national rules and unresolved whole-country funding/supply. No bank or source package is certified.
 
 [IA/IL/IE](../../country/C10/10-civilian-assessment-and-intelligence-limits.md) now specifies external/cross-border civilian assessment, independent source scrutiny/cash/FX/skill and original correction chains, with fixed prospective exit from incompatible standalone covert mandates. Foreign contracts/privately held FX, borrowed staff or classification create no source, permission or funded security guarantee.
 

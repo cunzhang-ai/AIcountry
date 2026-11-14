@@ -13,7 +13,7 @@ Public procurement must preserve lawful switching, usable data portability, expl
 of consequential decisions and continuity during outages. Critical non-AI routes must
 be maintained, with their real costs included.
 
-The selected [public AI capability portfolio](../../2026-10-ai-public-capability/decision-record.md)
+The selected [public AI capability portfolio](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-ai-public-capability/decision-record.md)
 gives AI useful but task-limited work across the country. Residents may use
 revocable personal agents for explanation, translation and applications without
 making an AI account the entrance to rights. Public authorities may compare

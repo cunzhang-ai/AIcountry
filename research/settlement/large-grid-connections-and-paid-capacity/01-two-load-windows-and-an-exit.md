@@ -48,5 +48,5 @@ actual acceptance and the corresponding risk source qualify together.
 The test assumes prior household duties continue. It supplies no
 actual engineering rating, tariff, funded project or approval.
 
-[Published evidence and local observations](../../2026-11-large-grid-connections-and-paid-capacity/sources.md)
-· [Executable comparison](verify-large-connections.py).
+[Published evidence and local observations](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-large-grid-connections-and-paid-capacity/sources.md)
+· [Executable comparison](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/settlement/large-grid-connections-and-paid-capacity/verify-large-connections.py).

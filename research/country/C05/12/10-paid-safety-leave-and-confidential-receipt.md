@@ -96,4 +96,4 @@ unsafe disclosure, lost pay, inaccessible administration, displaced
 essential work or a less intrusive route that delivers as well.
 
 [Worked leave and payroll comparison](../../../settlement/paid-safety-leave-and-confidential-receipt/01-one-shift-two-pay-routes.md)
-· [Decision and migration](../../../2026-11-paid-safety-leave-and-confidential-receipt/decision-record.md).
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-paid-safety-leave-and-confidential-receipt/decision-record.md).

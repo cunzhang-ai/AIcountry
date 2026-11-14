@@ -8,7 +8,7 @@ individual decisions and voluntary cooperation running under their own law.
 [LR01–LR24](../../country/C03/14-local-law-and-public-control.md) now specifies
 this boundary and its public input, authority, vote, expiry and remedy chain.
 National DR remains its own rule; no national agency acquires a policy veto over
-a lawful council choice. [Decision and exact probes](../../2026-11-local-law-and-public-control/README.md).
+a lawful council choice. [Decision and exact probes](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-local-law-and-public-control/README.md).
 
 | Local act | Source and control |
 |---|---|

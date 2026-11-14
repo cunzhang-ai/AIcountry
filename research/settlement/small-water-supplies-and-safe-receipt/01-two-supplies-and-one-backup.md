@@ -1,6 +1,6 @@
 # Two affected supplies and one backup
 
-*Design390 · Constructed comparison with [primary records](../../2026-11-small-water-supplies-and-safe-receipt/sources.md).*
+*Design390 · Constructed comparison with [primary records](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-small-water-supplies-and-safe-receipt/sources.md).*
 
 A small school supply and a separate group supply serving tenants
 have a credible safety problem after the same storm. The health

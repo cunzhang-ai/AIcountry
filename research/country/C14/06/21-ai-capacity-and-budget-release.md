@@ -56,4 +56,4 @@ Reopen on a review conflict, exhausted fallback, missed due
 date or better funded ordinary service.
 
 [Worked first-budget comparison](../../../settlement/ai-capacity-and-budget-release/01-two-offices-one-independent-roster.md)
-· [Decision and sources](../../../2026-11-ai-capacity-and-budget-release/decision-record.md)
+· [Decision and sources](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-ai-capacity-and-budget-release/decision-record.md)

@@ -71,7 +71,7 @@ to unpaid households, excludes a dietary group, exhausts a
 protected source or fails a second useful delivery.
 
 [Meal and budget comparison](../../../settlement/usable-food/README.md)
-· [Decision and migration](../../../2026-11-usable-food-and-local-meal-continuity/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-usable-food-and-local-meal-continuity/decision-record.md)
 
 [FM06–FM11](02-food-reserve-release-and-replenishment.md)
 applies the actual receiving test to shared reserve releases and the next call.

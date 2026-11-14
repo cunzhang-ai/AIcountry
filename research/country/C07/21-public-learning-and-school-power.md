@@ -29,7 +29,7 @@ were not absent. The gap is their concrete school/head/employer/own-case chain
 and the limit of a site's exclusion power. No claim of exhaustive clause review,
 actual school operation, source adequacy or improved learning follows.
 
-CRC and ILO/UNESCO normative context is qualified in the [decision/source record](../../2026-11-learning-power-and-country-review/decision-record.md).
+CRC and ILO/UNESCO normative context is qualified in the [decision/source record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-learning-power-and-country-review/decision-record.md).
 Our institutional form and2/10-day/180-day/12-month limits are hypotheses, not
 international prescriptions or proven optimums. Existing S05–S08/NC, child/
 clinical/bodily choice, source law, E/AP/C04/OP/T and earlier stronger rights/

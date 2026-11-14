@@ -72,4 +72,4 @@ a lost source, inaccessible annex or a simpler equally protective
 publication arrangement.
 
 [Worked comparison](../../settlement/authentic-language-and-public-law/01-notice-and-equal-versions.md)
-· [Decision and migration](../../2026-11-authentic-language-and-public-law/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-authentic-language-and-public-law/decision-record.md)

@@ -24,8 +24,8 @@ index and proportionate recovery, not the annuity rule by a product label.
 Prudential DB/annuity pricing still needs qualified actuarial evidence.
 
 [Worked cash, basis and source boundaries](01-cash-basis-and-source-boundaries.md)
-· [Authored arithmetic](../../2026-11-private-retirement-tax-and-personal-capital/results.json)
-· [Decision and original comparator sources](../../2026-11-private-retirement-tax-and-personal-capital/decision-record.md)
+· [Authored arithmetic](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-private-retirement-tax-and-personal-capital/results.json)
+· [Decision and original comparator sources](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-private-retirement-tax-and-personal-capital/decision-record.md)
 
 The written interface is now supplied, not actual qualified contracts/foreign
 histories, law, full national incidence/source or operating capacity. All old

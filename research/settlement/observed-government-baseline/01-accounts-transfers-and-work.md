@@ -110,7 +110,7 @@ are different views. Imports and exports do not identify owned public
 settlement or the firms, people, paid skills and sites available to a
 new programme. [Statistics Denmark national accounts](https://www.statbank.dk/NAN1)
 
-The [reproducible data](../../2026-11-observed-government-baseline/results.json)
+The [reproducible data](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-observed-government-baseline/results.json)
 preserves the source rows and differences. An enacted, fully funded
 continuation baseline still needs actual duty, authorization and cash
 for each owner, plus qualified capacity. See the [audited examples](02-audited-capacity-and-correction.md).

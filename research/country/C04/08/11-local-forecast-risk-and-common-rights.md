@@ -51,4 +51,4 @@ of attribution, withheld funds and delivered remedy. AI can reproduce
 the defined comparison and flag duplicate settlements. It cannot elect a
 budget basis, assign a disputed loss or certify receipt.
 
-[Copenhagen decision and worked comparison](../../../settlement/local-forecast-risk-and-common-rights/01-who-bears-the-later-settlement.md) · [Decision record](../../../2026-11-local-forecast-risk-and-common-rights/decision-record.md).
+[Copenhagen decision and worked comparison](../../../settlement/local-forecast-risk-and-common-rights/01-who-bears-the-later-settlement.md) · [Decision record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-local-forecast-risk-and-common-rights/decision-record.md).

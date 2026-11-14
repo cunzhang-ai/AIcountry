@@ -5,7 +5,7 @@
 [OJ01–OJ40](../../country/C08/25-ordinary-justice-and-public-prosecution.md) now
 supplies the J1 positive choice identified in119. Eight canonical parts own the
 rules; this page compares arrangements. [Dependencies](../commitments/33-ordinary-justice-and-public-prosecution.md)
-shows paid source/worker/case burdens, [completion](../../status/completion/28-ordinary-justice-and-audit-choice.md)
+shows paid source/worker/case burdens, [completion](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/status/completion/28-ordinary-justice-and-audit-choice.md)
 separates candidate design from actual qualified independent operation.
 
 The problem is more than choosing a respected judge: the appointment, promotion,
@@ -49,7 +49,7 @@ days after competent enactment, preserving actual cases, stronger tenure/rights,
 source dates and paid succession. Appointment notice21days cannot cut B16's
 ordinary20-working-day adverse reply; material new grounds need fresh review.
 
-[Decision/source scope](../../2026-11-ordinary-justice-and-public-prosecution/decision-record.md)
+[Decision/source scope](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-ordinary-justice-and-public-prosecution/decision-record.md)
 contains primary normative comparison and bounded fictional counterexamples,
 not actual judges, classification, guilt, participant consent or national source.
 No old FD07/D11/D12 bid prices current selector/status/case-officer/court/aid/

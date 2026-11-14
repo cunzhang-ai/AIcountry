@@ -10,7 +10,7 @@ lawfully available operating adjustment.
 2. [Authored combined loss](02-matched-heat-and-supply-comparison.md)
    tests both an hourly limit and a period budget against the same
    delivered load, with and without an independent supply.
-3. [Reproduction](verify-water-power.py) checks the scoped observations
+3. [Reproduction](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/settlement/water-power-and-catchment-limits/verify-water-power.py) checks the scoped observations
    and the authored calculations.
 
-[Decision and source scope](../../2026-11-water-power-and-catchment-limits/decision-record.md)
+[Decision and source scope](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-water-power-and-catchment-limits/decision-record.md)

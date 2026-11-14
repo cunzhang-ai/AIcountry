@@ -8,10 +8,10 @@ an entry path and tests how its institutions would respond when several systems
 fail together. There is no territory, founding population or legal authorization
 attached to this research project. “Ready” below means a condition a real adopting
 community must demonstrate, not a condition this document has already passed.
-The [legal-hierarchy decision](2026-10-legal-hierarchy/decision-record.md)
+The [legal-hierarchy decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-legal-hierarchy/decision-record.md)
 clarifies that a charter vote, later Assembly statutes, annual appropriations,
 local enactments and operational commencement are different acts. The
-[pre-hierarchy version](2026-10-legal-hierarchy/FOUNDING-AND-STRESS-pre-hierarchy.md)
+[pre-hierarchy version](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-legal-hierarchy/FOUNDING-AND-STRESS-pre-hierarchy.md)
 is preserved for comparison.
 
 ## Contents

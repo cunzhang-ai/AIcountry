@@ -6,6 +6,6 @@ provider change. Price actual independent receiving, useful-time review
 and any bound outgoing claim. Trace control of evidence, staffing,
 authorization and payment before counting an alternate.
 
-The [decision](../../2026-11-essential-services-and-free-refusal/decision-record.md)
+The [decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-essential-services-and-free-refusal/decision-record.md)
 retains integrated repair and fully separate routes as rivals.
 Actual costs, authorization and outcomes remain unverified.

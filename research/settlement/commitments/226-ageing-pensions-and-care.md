@@ -9,5 +9,5 @@ care access and separate sources retain their own authority.
 A financed near-term bridge addresses timing. A permanent gap
 requires a lasting and democratically authorized choice. An
 existing duty or original date persists through a shortfall.
-See the [decision record](../../2026-11-ageing-pensions-care-and-sources/decision-record.md)
+See the [decision record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-ageing-pensions-care-and-sources/decision-record.md)
 for scope, objections and the real-world test.

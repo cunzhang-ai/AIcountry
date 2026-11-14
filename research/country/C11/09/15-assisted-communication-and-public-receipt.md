@@ -106,4 +106,4 @@ a version change affecting the task or an independently verified
 simpler route.
 
 [Worked comparison](../../../settlement/assisted-communication-and-public-receipt/01-two-requests-and-one-interpreting-slot.md)
-· [Decision and evidence](../../../2026-11-assisted-communication-and-public-receipt/decision-record.md).
+· [Decision and evidence](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-assisted-communication-and-public-receipt/decision-record.md).

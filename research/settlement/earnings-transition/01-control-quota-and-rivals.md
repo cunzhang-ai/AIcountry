@@ -37,7 +37,7 @@ future undecided quota, not a new expired spell. Any actual legal reliance/error
 remedy exceeding ordinary cap belongs to its own proved/funded source; passing
 normal-case arithmetic is no claim every error/remedy payout meets an absolute cap.
 
-[25 authored checks](../../2026-11-portable-earnings-and-work-transition/reference-results.json)
+[25 authored checks](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-portable-earnings-and-work-transition/reference-results.json)
 cover cap order, one-day history, gross/net, partial intervals, new work, zero/
 negative components, rolling boundaries and a separate same-month I05 example.
 Gross work gain is not proven after tax/needs/care costs. In the authored matched

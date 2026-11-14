@@ -8,4 +8,4 @@ as separate facts.
 
 - [Observed scrutiny rules and external legal distinctions](01-observed-scrutiny-and-external-effect.md)
 - [A medical supply agreement with two different clocks](02-medical-supply-renewal-and-exit.md)
-- [Selection, alternatives and transition](../../2026-11-democratic-treaty-commitments/decision-record.md)
+- [Selection, alternatives and transition](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-democratic-treaty-commitments/decision-record.md)

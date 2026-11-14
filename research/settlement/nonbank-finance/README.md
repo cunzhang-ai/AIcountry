@@ -98,10 +98,10 @@ addresses mismatch/design; [IAIS version/mandate](https://www.iais.org/activitie
 [OECD funded pensions](https://legalinstruments.oecd.org/public/doc/344/fa84ef90-e2bd-4171-802a-b5c15aa3106d.html)
 and [CPMI–IOSCO infrastructure](https://www.bis.org/committees/cpmi/pfmi/overview)
 raise distinct promise/funding and settlement questions. None endorses our
-parameters, public adoption, treaty compliance or superior outcomes. [Source scope](../../2026-11-nonbank-finance-and-client-protection/sources.json)
+parameters, public adoption, treaty compliance or superior outcomes. [Source scope](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-nonbank-finance-and-client-protection/sources.json)
 discloses inaccessible issuer PDFs and partial inspection, not exhaustive review.
 
-The [decision/probes](../../2026-11-nonbank-finance-and-client-protection/README.md)
+The [decision/probes](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-nonbank-finance-and-client-protection/README.md)
 preserve816 exact112 artifacts and old rights. Coordinated NB/MC/U/VD/B source
 law must adopt prospectively at180days, with lawful old-contract/security and
 professional/custody succession; actual constitution/software/permissions stay.

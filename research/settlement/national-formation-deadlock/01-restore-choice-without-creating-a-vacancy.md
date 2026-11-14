@@ -90,4 +90,4 @@ These establish actual automatic-return mechanisms. They do not show that a new
 poll yields agreement, or that the authored thresholds and costs work here.
 [Sweden, Instrument of Government, Ch. 6 Arts. 4–5](https://www.riksdagen.se/globalassets/05.-sa-fungerar-riksdagen/demokrati/the-instrument-of-government-2023-eng.pdf) · [Spain, Constitution, Art. 99](https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a99)
 
-[Canonical option](../../country/C03/06/01-national-recovery-after-a-failed-repeat.md) · [Decision record](../../2026-11-national-formation-deadlock/decision-record.md).
+[Canonical option](../../country/C03/06/01-national-recovery-after-a-failed-repeat.md) · [Decision record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-national-formation-deadlock/decision-record.md).

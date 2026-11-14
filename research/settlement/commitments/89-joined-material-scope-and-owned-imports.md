@@ -23,6 +23,6 @@ Existing OP/T actual source/worker/pension/contract/creditor/title/record/claim
 successors remain necessary before a lawful prospective change. A model does
 not migrate a live case or authorize discharge of a due right. Exact physical
 scope/load/source evidence and a complete rights-compatible rival can reopen.
-[Decision](../../2026-11-country-resource-scope-reconciliation/decision-record.md)
+[Decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-country-resource-scope-reconciliation/decision-record.md)
 records authored arithmetic and same-controller critique, not independent legal,
 engineering, affected-party, source, actual operation or better-life validation.

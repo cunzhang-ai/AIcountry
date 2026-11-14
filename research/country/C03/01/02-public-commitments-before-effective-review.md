@@ -96,4 +96,4 @@ Reopen if review routinely arrives too late, lawful service is displaced,
 or equivalent sector procedures give effective protection with less burden.
 
 [Worked comparison](../../../settlement/public-commitments-before-effective-review/01-the-depot-lease-and-the-review-window.md)
-· [Decision and migration](../../../2026-11-public-commitments-before-effective-review/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-public-commitments-before-effective-review/decision-record.md)

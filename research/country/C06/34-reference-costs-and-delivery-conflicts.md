@@ -15,7 +15,7 @@ supplier chains remain unpriced. Arithmetic cannot supply a country.
 | [QE07–QE09: simultaneous delivery and preparation](34/03-peaks-and-preparation.md) | Preserve failed court/place/operator cases and paid qualification/overlap; no readiness veto on due rights. |
 | [QE10–QE12: rivals and next country choice](34/04-rivals-and-next-choice.md) | Compare ownership on common scope; choose an actual financing/production/calendar package next. |
 
-The [dated input/model/result package](../../2026-10-full-offer-resource-estimate/README.md)
+The [dated input/model/result package](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-full-offer-resource-estimate/README.md)
 pins the pre-change design85 and existing I05 calculation. All counts, prices,
 time rates, full take-up, ownership fractions and transition coefficients are
 authored tests, not observations, professional standards or enacted parameters.

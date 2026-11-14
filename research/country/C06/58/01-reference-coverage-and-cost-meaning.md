@@ -52,7 +52,7 @@ unpriced duty remains a duty. A closed reference total cannot certify this
 candidate's services, full costs, actual workers or authority. Unknowns stay
 unknown; a worked zero-increment sensitivity is not a finding of no new cost.
 Exact sources, units/vintages, shared evidence and limitations are in the
-[dated source record](../../../2026-11-country-source-and-capacity-frontier/sources.md).
+[dated source record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-country-source-and-capacity-frontier/sources.md).
 
 [Design177 production/source bridge](13-public-offer-production-and-source.md) joins public production,
 consumption, fiscal spending and one declared service/capital change. Direct

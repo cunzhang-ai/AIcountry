@@ -21,7 +21,7 @@ settlement, new indexing formula, worker or material. Source failure remains
 unmet duties and accountable elected correction. EB remains finite; its end
 does not prove re-employment or end separate I05/S rights.
 
-[Decision](../../2026-11-employment-prices-and-democratic-stabilization/decision-record.md)
+[Decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-employment-prices-and-democratic-stabilization/decision-record.md)
 retains flexible-inflation, retention, voluntary public-job/learning and wider
 fiscal-money alternatives. The main objection is real: joint objectives may
 blur responsibility and weaken price trust without improving work. This is a

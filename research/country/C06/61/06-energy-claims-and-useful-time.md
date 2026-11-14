@@ -76,4 +76,4 @@ case for a simpler route changes. Carry valid prior payments, remedies
 and repair duties through expiry or transfer.
 
 [Observed municipal settlement and authored comparison](../../../settlement/energy-claims-and-useful-time/README.md)
-· [Decision and migration](../../../2026-11-energy-claims-and-useful-time/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-energy-claims-and-useful-time/decision-record.md)

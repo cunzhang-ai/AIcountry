@@ -31,6 +31,6 @@ needs actual matching receipt. Conditional draw cases do not cap rights or
 become ordinary expenditure. Full I05/U/Y, physical replacement, source,
 legacy/transition and actual independent receiving remain unresolved.
 
-[Comparison](../joined-country/README.md) · [Unfinished country account](../../status/completion/33-joined-country-and-source-gaps.md)
+[Comparison](../joined-country/README.md) · [Unfinished country account](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/status/completion/33-joined-country-and-source-gaps.md)
 
 [Design126source join](39-country-source-and-claims.md) now supplies the bounded personal/retirement/monthly-source continuation. Whole national cost/source and independent capacity remain unqualified.

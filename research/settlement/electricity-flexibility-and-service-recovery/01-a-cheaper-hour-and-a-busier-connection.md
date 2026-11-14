@@ -30,7 +30,7 @@ The arithmetic assumes identical pass-through and no fees,
 losses, hedge, obligations on the earlier order, or change in
 the price caused by moving the load. No actual purchase or saving
 is measured.
-[Original snapshots, definitions and sources](../../2026-11-electricity-flexibility-and-service-recovery/sources.md).
+[Original snapshots, definitions and sources](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-electricity-flexibility-and-service-recovery/sources.md).
 
 ## Compare actual public choices in a qualified local window
 
@@ -87,6 +87,6 @@ Do not claim that heating was lost or capacity constrained in
 the observed Danish hours. This result selects a prospective
 release rule for separately established local risks.
 
-[Reproduction](verify-flexible-recovery.py)
+[Reproduction](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/settlement/electricity-flexibility-and-service-recovery/verify-flexible-recovery.py)
 · [Connection rules](../../country/C09/19/04-large-grid-connections-and-paid-capacity.md)
 · [Public AI portfolio](../../country/C11/09/19-public-ai-portfolio-and-common-inputs.md).

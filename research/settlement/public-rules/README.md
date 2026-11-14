@@ -8,5 +8,5 @@
   tests different rules, missing evidence, retroactive use and actual correction.
 - [Replay check](replay-check.py) reproduces the fictional calculations using
   Python 3.10 or later and no third-party libraries. It accepts no personal data and serves no production decisions.
-- [Decision, alternatives and migration](../../2026-11-public-rules-and-verifiable-implementation/decision-record.md)
+- [Decision, alternatives and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-public-rules-and-verifiable-implementation/decision-record.md)
   records the selection and continuing obligations.

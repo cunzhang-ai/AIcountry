@@ -10,7 +10,7 @@
 - [Authority by chapter](research/country/AUTHORITY.md)
 - [First governing programme](research/settlement/first-round-mandate/01-decisions-and-conditions.md)
 - [Document index](index.json)
-- [Edition 2 docket](research/2026-11-first-edition/NEXT-EDITION.md)
+- [Edition 2 docket](research/edition/NEXT-EDITION.md)
 
 ## Contribute
 

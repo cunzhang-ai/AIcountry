@@ -9,7 +9,7 @@ qualified receiving for the first care cohort.
   rates and first municipal jobs.
 - [Authored placement and service comparison](02-authored-placement-window.md)
   tests simultaneous and staged intake, mentor loss and protected care.
-- [Decision and migration](../../2026-11-care-training-and-mentor-cover/decision-record.md)
+- [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-care-training-and-mentor-cover/decision-record.md)
   records the first-budget choice and the facts still required.
 
 Run `python3 research/settlement/care-training-and-mentor-cover/verify-cover.py`

@@ -9,7 +9,7 @@ individual choices, public approvals, host capacity and earlier rights.
    relocation pathway and preserves the limits of each source.
 2. [Authored group and dispersed alternatives](02-group-and-dispersed-alternatives.md)
    tests effective choices, host capacity and the consequence of withdrawal.
-3. [Reproduction](verify-relocation.py) checks recorded endpoints and
+3. [Reproduction](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/settlement/community-relocation/verify-relocation.py) checks recorded endpoints and
    the separate authored comparison.
 
-[Decision and source scope](../../2026-11-community-relocation-and-host-capacity/decision-record.md)
+[Decision and source scope](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-community-relocation-and-host-capacity/decision-record.md)

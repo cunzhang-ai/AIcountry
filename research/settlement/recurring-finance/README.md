@@ -34,9 +34,9 @@ finance. The75-year method must continue active histories, births/deaths,
 entry/retirement, actual care-credit bases, finite survivor pots and an accrued
 tail. A closed runoff valuation is not a law shutting the country to new people.
 
-[Operative cohort parameters](../../2026-11-recurring-finance-and-pension-commitments/cohort-inputs.json),
-[cohort computation](../../2026-11-recurring-finance-and-pension-commitments/cohort_model.py)
-and [four 75-year results](../../2026-11-recurring-finance-and-pension-commitments/cohort-results.json)
+[Operative cohort parameters](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-recurring-finance-and-pension-commitments/cohort-inputs.json),
+[cohort computation](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-recurring-finance-and-pension-commitments/cohort_model.py)
+and [four 75-year results](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-recurring-finance-and-pension-commitments/cohort-results.json)
 make this explicit. Required G backing before reserve in year 25 is308.640m
 for two-W versus273.683m for prospective one-W; neither amount is a received
 source. Both preserve the old cap for notice years 0–1. Population, credit
@@ -45,11 +45,11 @@ Expected half-cycle deaths do not authorize stopping an actual payment, and
 their first-year timing difference from FD is no reform saving. Closed tails
 bound only this fictional Y ledger, not unknown foreign/inherited liabilities.
 
-[Inputs](../../2026-11-recurring-finance-and-pension-commitments/inputs.json),
-[model](../../2026-11-recurring-finance-and-pension-commitments/model.py),
-[results](../../2026-11-recurring-finance-and-pension-commitments/results.json),
-[decision](../../2026-11-recurring-finance-and-pension-commitments/decision-record.md)
-and [source limits](../../2026-11-recurring-finance-and-pension-commitments/sources.json)
+[Inputs](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-recurring-finance-and-pension-commitments/inputs.json),
+[model](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-recurring-finance-and-pension-commitments/model.py),
+[results](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-recurring-finance-and-pension-commitments/results.json),
+[decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-recurring-finance-and-pension-commitments/decision-record.md)
+and [source limits](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-recurring-finance-and-pension-commitments/sources.json)
 separate authored identities from actual observation. No numerical service
 sharing saving, complete source bundle, public choice, qualified commissioning
 or superior outcome is established. Next a quantity/task/price-consistent

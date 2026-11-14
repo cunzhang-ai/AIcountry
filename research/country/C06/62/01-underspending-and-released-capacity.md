@@ -99,7 +99,7 @@ there is material changed demand, a missed service deadline, a shared
 failure, transferred workload or a comparable better path.
 
 [Evidence and comparison](../../../settlement/released-capacity/README.md)
-· [Decision record](../../../2026-11-released-capacity-and-budget-remainders/decision-record.md)
+· [Decision record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-released-capacity-and-budget-remainders/decision-record.md)
 
 [IV09–IV12](../63/03-timing-options-and-usable-service.md) distinguishes rescheduled capital and changed service dates. No booked capital shift or unused option by itself supplies recurring service funding.
 

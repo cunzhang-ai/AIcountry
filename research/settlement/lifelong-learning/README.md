@@ -19,7 +19,7 @@ Add a continuing offer and a separately assessed qualifying renewal route.
 [Examples and genuine alternatives](01-offers-capacity-and-rivals.md) compares
 person-directed public services with smaller continuing offers plus N-funded
 projects, portable money accounts and unrestricted repeated-degree provision.
-The [decision](../../2026-11-person-directed-learning-and-renewal/decision-record.md)
+The [decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-person-directed-learning-and-renewal/decision-record.md)
 qualifies original sources and fresh actual corrections. None demonstrates
 complete national funding, legitimate adoption or improved lives. Public learning
 funds no political loyalty, coerced AI use or unproved professional licence.

@@ -110,4 +110,4 @@ Preserve open cases, lawful review, payments and protected records
 through a later change in procedure or technology.
 
 [Worked case](../../../settlement/accessible-small-civil-claims/01-a-small-award-and-actual-payment.md)
-· [Decision and unresolved tests](../../../2026-11-accessible-small-civil-claims/decision-record.md)
+· [Decision and unresolved tests](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-accessible-small-civil-claims/decision-record.md)

@@ -27,7 +27,7 @@ bridge across newly overdue work, prior defects found, changes in
 valuation or scope and work independently completed. A common survey
 band does not guarantee a common building scope or constant prices.
 No causal effect or current safety assessment follows.
-[Exact extracts and original identities](../../2026-11-maintenance-and-service-continuity/observed-site-returns.json)
+[Exact extracts and original identities](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-maintenance-and-service-continuity/observed-site-returns.json)
 · [NHS comparability guidance](https://digital.nhs.uk/data-and-information/publications/statistical/estates-returns-information-collection/summary-page-and-dataset-for-eric-2024-25/dq-report-coherence-and-comparability)
 
 The January 2025 National Audit Office report estimates at least

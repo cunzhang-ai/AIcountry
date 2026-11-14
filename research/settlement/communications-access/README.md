@@ -13,5 +13,5 @@ receiver actually be reached during loss of the ordinary network?
 - [One locality and one failed network](02-locality-and-shared-failure.md)
   tests three actual policy choices against one authored baseline and
   identifies the uncovered budget and incident windows.
-- [Decision and successor duties](../../2026-11-communications-access-and-network-power/decision-record.md)
+- [Decision and successor duties](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-communications-access-and-network-power/decision-record.md)
   records the selected rule, rival, migration and evidence that can change it.

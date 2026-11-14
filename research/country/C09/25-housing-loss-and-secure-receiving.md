@@ -19,7 +19,7 @@ distinct duties.
 | [HL23–HL27. Affordable temporary receiving](25/06-affordable-temporary-receiving.md) | An exact public payment covers the unfunded share of an urgent placement while ordinary income is unsettled. |
 
 [Evidence and three-household budget](../../settlement/secure-housing-receiving/README.md)
-· [Decision and migration](../../2026-11-housing-loss-and-secure-receiving/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-housing-loss-and-secure-receiving/decision-record.md)
 
 [FB31–FB35](../C06/62/06-prevention-across-public-budgets.md) supplies the joint funding route for
 a phased secure tenancy offer with voluntary support. Protect existing

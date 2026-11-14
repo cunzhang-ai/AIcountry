@@ -4,7 +4,7 @@ Design182 · Scoped current register, not a launch or full legal certificate
 
 The proposal has substantive choices across fourteen chapters. [Current status](../../DESIGN-STATUS.md)
 separates those choices, meaningful whole alternatives, open decisions and evidence
-limits. [The complete prior129–178 closure account](../../history/06-current-research/11-former-country-closure.md)
+limits. [The complete prior129–178 closure account](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/history/06-current-research/11-former-country-closure.md)
 retains its exact findings and superseded queues, not a current operating plan.
 
 | Whole objective | Current design / remaining qualification |

@@ -3,7 +3,7 @@
 [Canonical mobility rules](../../country/C07/17/05-joined-journeys-and-service-access.md)
 · [Copenhagen budgets and disruption rules](01-copenhagen-2026.md)
 · [Worked disruption](02-a-journey-before-a-service-deadline.md)
-· [Original sources](../../2026-11-joined-journeys-and-service-access/sources.md)
+· [Original sources](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-joined-journeys-and-service-access/sources.md)
 
 A combined fare simplifies ordinary travel. A later refund may repair an
 expense. Neither proves that a person reaches a service before it becomes

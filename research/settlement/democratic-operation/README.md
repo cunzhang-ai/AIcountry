@@ -9,15 +9,15 @@ are genuine rivals with retained benefits/losses. No actual authority is granted
 
 | Record | What can be inspected |
 |---|---|
-| [Decision](../../2026-11-democratic-operation-and-public-understanding/decision-record.md) | Diagnosis, alternatives, objections, choice and next country action |
-| [Pinned predecessor](../../2026-11-democratic-operation-and-public-understanding/baseline.json) |977exact127artifacts,976current Markdown and full inventory |
-| [Inputs](../../2026-11-democratic-operation-and-public-understanding/inputs.json), [shape](../../2026-11-democratic-operation-and-public-understanding/input-shape.json) | Authored explicit task, scope, timing, source and request hypotheses; unknown semantics not silently dropped |
-| [Capacity](../../2026-11-democratic-operation-and-public-understanding/capacity.py), [counterexamples](../../2026-11-democratic-operation-and-public-understanding/proofs.py), [model](../../2026-11-democratic-operation-and-public-understanding/model.py) | All-scope tasks/pay, complete finite nomination worlds, source invalidation and meaningful form rivals |
-| [Results](../../2026-11-democratic-operation-and-public-understanding/results.json) | Reproducible hypotheses, sensitivities and actual-null boundaries |
-| [Control chain](../../2026-11-democratic-operation-and-public-understanding/control-chain.json) | Actual candidate-design actors/powers, capture and execution/failure limits |
-| [Sources](../../2026-11-democratic-operation-and-public-understanding/sources.json) | Original conceptual sources versus local authored dependencies and missing participation |
-| [Country register](../../2026-11-democratic-operation-and-public-understanding/country-register.json) | All37complete original function identities, continuing duties and actual unknowns |
-| [Scope](../../2026-11-democratic-operation-and-public-understanding/scope-record.json), [pins](../../2026-11-democratic-operation-and-public-understanding/source-manifest.json), [checks](../../2026-11-democratic-operation-and-public-understanding/validate.py), [report](../../2026-11-democratic-operation-and-public-understanding/validation.json) | Bounded preservation/arithmetic/semantic counterexamples, not independent or social validation |
+| [Decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-democratic-operation-and-public-understanding/decision-record.md) | Diagnosis, alternatives, objections, choice and next country action |
+| [Pinned predecessor](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-democratic-operation-and-public-understanding/baseline.json) |977exact127artifacts,976current Markdown and full inventory |
+| [Inputs](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-democratic-operation-and-public-understanding/inputs.json), [shape](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-democratic-operation-and-public-understanding/input-shape.json) | Authored explicit task, scope, timing, source and request hypotheses; unknown semantics not silently dropped |
+| [Capacity](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-democratic-operation-and-public-understanding/capacity.py), [counterexamples](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-democratic-operation-and-public-understanding/proofs.py), [model](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-democratic-operation-and-public-understanding/model.py) | All-scope tasks/pay, complete finite nomination worlds, source invalidation and meaningful form rivals |
+| [Results](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-democratic-operation-and-public-understanding/results.json) | Reproducible hypotheses, sensitivities and actual-null boundaries |
+| [Control chain](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-democratic-operation-and-public-understanding/control-chain.json) | Actual candidate-design actors/powers, capture and execution/failure limits |
+| [Sources](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-democratic-operation-and-public-understanding/sources.json) | Original conceptual sources versus local authored dependencies and missing participation |
+| [Country register](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-democratic-operation-and-public-understanding/country-register.json) | All37complete original function identities, continuing duties and actual unknowns |
+| [Scope](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-democratic-operation-and-public-understanding/scope-record.json), [pins](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-democratic-operation-and-public-understanding/source-manifest.json), [checks](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-democratic-operation-and-public-understanding/validate.py), [report](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-democratic-operation-and-public-understanding/validation.json) | Bounded preservation/arithmetic/semantic counterexamples, not independent or social validation |
 
 The old local nine-seat fixture lacked charter history; it may describe a valid
 older charter. Explicit E_ref20,000 gives fifteen seats in the new case and does
@@ -36,7 +36,7 @@ paper row once; all unrelated125components and later/current duties continue.
 Actual national source, full costs, independence and better lives remain unknown.
 
 [Commitment interface](../commitments/41-democratic-operation-and-public-understanding.md)
-and [completion disposition](../../status/completion/36-democratic-operation-and-country-closure.md)
+and [completion disposition](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/status/completion/36-democratic-operation-and-country-closure.md)
 carry compatibility/legacy/next action. A finite whole-country closure audit now
 outranks another automatic electoral subquestion. Nothing here supplies a lawful
 postponement, narrowed entry gate, public supporter graph or sovereign AI ranking.

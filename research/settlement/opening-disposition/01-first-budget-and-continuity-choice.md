@@ -32,7 +32,7 @@ invoice and spending steps and return of unused funds. Trace any later
 competent decision and actual scope at the payment date. None of these
 numbers establishes a source for the proposed backfill. The same rule
 applies to citywide contingencies, prior underspends and restricted
-water-company balances. See the [source record](../../2026-11-opening-disposition/sources.md).
+water-company balances. See the [source record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-opening-disposition/sources.md).
 
 ## One decision with three exact scopes
 

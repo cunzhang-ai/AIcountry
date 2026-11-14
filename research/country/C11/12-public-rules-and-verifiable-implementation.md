@@ -21,7 +21,7 @@ affected by a common error, including those who never complained.
    requires independent implementation, preserved meaning and a paid version transition.
 
 [Evidence and reproducible counterexample](../../settlement/public-rules/README.md)
-· [Decision and migration](../../2026-11-public-rules-and-verifiable-implementation/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-public-rules-and-verifiable-implementation/decision-record.md)
 
 [DP64–DP69](09/14-independent-judgment-before-adverse-action.md) applies
 before covered adverse acts when a case recommendation is materially used.

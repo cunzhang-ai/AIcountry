@@ -93,4 +93,4 @@ qualified simpler route.
 [DP procurement and tested digital exit](../../C11/09/06-procure-a-usable-exit.md)
 · [SR public remedy](../../C08/30-repeated-public-failure-and-remedy.md)
 · [Evidence and paired budget choices](../../../settlement/essential-service-exit/README.md)
-· [Design256 decision](../../../2026-11-essential-service-exit-and-recovery/decision-record.md)
+· [Design256 decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-essential-service-exit-and-recovery/decision-record.md)

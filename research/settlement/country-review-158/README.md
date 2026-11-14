@@ -13,8 +13,8 @@ and paid lawful succession. Existing force/war grounds remain unchanged.
 | [Whole-country findings](01-whole-country-findings.md) |14 current entrances,12 whole-goal requirements, positive gap versus source/authority/value limits |
 | [Adverse paths and whole alternatives](02-adverse-control-and-whole-rivals.md) |18 authored arguments, no field tests or actual coup-resistance finding |
 | [Canonical DF](../../country/C10/12-civilian-defense-and-service.md) | Concrete candidate offices/rights/source boundaries; no new coercion or governing procedure |
-| [Decision](../../2026-11-country-review-and-civilian-defense/decision-record.md) | Exact157 predecessor, material objections, compatibility and finite handoff |
-| [Primary sources](../../2026-11-country-review-and-civilian-defense/sources.md) | OSCE original normative code/limited DCAF context, not empirical proof of this proposal |
+| [Decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-country-review-and-civilian-defense/decision-record.md) | Exact157 predecessor, material objections, compatibility and finite handoff |
+| [Primary sources](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-country-review-and-civilian-defense/sources.md) | OSCE original normative code/limited DCAF context, not empirical proof of this proposal |
 
 The largest quantitative gap remains a complete matched paid-country source/
 operation account including latest service, personal, independent-control and

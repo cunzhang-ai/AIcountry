@@ -84,7 +84,7 @@ certify receiving. Reopen on repeated bridging, uncorrected arrears,
 denial of actual service or a more workable direct payment route.
 
 [Observed local accounts and authored timing comparison](../../../settlement/intergovernmental-reimbursement/README.md)
-· [Decision and migration](../../../2026-11-intergovernmental-reimbursement-and-receipt/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-intergovernmental-reimbursement-and-receipt/decision-record.md)
 
 [T61–T66](../../C14/06/15-local-cash-and-national-budget.md) joins both
 payer accounts to the whole opening programme.

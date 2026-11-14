@@ -6,6 +6,6 @@ Check paid qualified support, actual usable receipt and any recovery
 separately. Keep other learners' due work protected.
 
 [Observed and authored checks](../../settlement/learning-award-execution/README.md)
-· [Decision and migration](../../2026-11-learning-award-execution-and-recovery/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-learning-award-execution-and-recovery/decision-record.md)
 
 Actual authorized capacity and learner outcomes remain open.

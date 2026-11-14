@@ -69,7 +69,7 @@ recurring gap, expired support, missed paid work or a better qualified
 whole option.
 
 [Observed grant and authored recurring-service comparison](../../../settlement/deficit-settlement-and-recurring-services/README.md)
-· [Decision and migration](../../../2026-11-deficit-settlement-and-recurring-services/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-deficit-settlement-and-recurring-services/decision-record.md)
 
 [TN21–TN25](../59/06-income-shift-and-public-finance.md)
 reconciles continuing services and restricted earned rights under a

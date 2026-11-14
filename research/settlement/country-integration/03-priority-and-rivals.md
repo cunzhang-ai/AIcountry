@@ -30,7 +30,7 @@ or commenced entitlement while these research tasks are unfinished.
 aid/capacity and accountable judicial AI. It does not select our institutional
 form, quotas or appointments, prove actual independence or endorse this country.
 Earlier2017 text was also inspected; direct OHCHR/UNODC original-document fetches
-failed and are disclosed in [sources](../../2026-11-current-country-integration/sources.json).
+failed and are disclosed in [sources](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-current-country-integration/sources.json).
 No new project affected-party or independent professional review was obtained.
 
 Reopen on concealed shared control, failed paid remedy, a genuine rule/claim/date

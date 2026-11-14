@@ -17,7 +17,7 @@ These rules implement the major-commitment boundary in
 [A8](../../authority/provisions/05-rights-and-emergencies-A08.md)
 and the existing [external relations choice](02-external-relations-and-migration.md).
 [Observed comparators and a time-sensitive case](../../settlement/democratic-treaties/README.md)
-· [Decision and migration](../../2026-11-democratic-treaty-commitments/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-democratic-treaty-commitments/decision-record.md)
 
 [Y30–Y35](../C07/04/08-cross-border-pension-rights.md) uses TR for pension
 coordination. Preserve domestic earned dues, exact partner scope and claims

@@ -9,4 +9,4 @@ respect for chosen learning routes and private life.
 
 - [England's attendance and provision evidence](01-england-absence-and-actual-provision.md)
 - [A two-week teaching and support case](02-two-learners-and-one-support-slot.md)
-- [Selection, alternatives and transition](../../2026-11-learning-continuity-and-hidden-exclusion/decision-record.md)
+- [Selection, alternatives and transition](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-learning-continuity-and-hidden-exclusion/decision-record.md)

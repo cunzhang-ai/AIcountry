@@ -21,4 +21,4 @@ remedies. Existing stronger protection and separate offenses, privileges,
 safety and privacy duties remain.
 
 [Comparison and pressure cases](../../settlement/protected-disclosure/README.md)
-· [Decision record](../../2026-11-protected-disclosure-and-evidence/decision-record.md)
+· [Decision record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-protected-disclosure-and-evidence/decision-record.md)

@@ -5,7 +5,7 @@ Design233 · English research · [Canonical clauses](../../country/C03/23-contes
 - [Association and nomination comparators](01-association-and-nomination-comparators.md)
 - [Withholding in the final week](02-withholding-in-the-final-week.md)
 - [Reproduce the authored count](verify-nomination.py) with Python 3
-- [Decision, objections and migration](../../2026-11-contestable-list-nominations/decision-record.md)
+- [Decision, objections and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-contestable-list-nominations/decision-record.md)
 
 The module tests control of the candidate set before the public vote.
 It keeps the public vote, statutory qualification and private selector

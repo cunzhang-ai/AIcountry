@@ -38,6 +38,6 @@ affordable current plan. Seek actual eligible support, an agreed
 affordable restructuring or other lawful housing provision. Preserve
 an existing urgent safe-receiving duty if staying becomes impossible.
 
-The [decision record](../../2026-11-household-arrears-and-essential-continuity/decision-record.md)
+The [decision record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-household-arrears-and-essential-continuity/decision-record.md)
 retains alternatives and the field check. No current bill, actual housing
 outcome or universal hardship amount is inferred from these figures.

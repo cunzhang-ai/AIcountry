@@ -23,7 +23,7 @@ communication, failed source and common-patron control objections. Useful scoped
 AI/maps/agent relays/other future methods require actual interpretation, authority,
 privacy and paid non-AI fallback; shared understanding is not consent.
 
-[Decision and qualified sources](../../2026-11-civil-rescue-and-incident-command/decision-record.md)
+[Decision and qualified sources](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-civil-rescue-and-incident-command/decision-record.md)
 separate written coherence from actual affected participation, operational rescue,
 full country source and observed better lives. Original claims/clocks and paid
 OP/T successors persist. Actual cost, independent receiving and authority unknown.

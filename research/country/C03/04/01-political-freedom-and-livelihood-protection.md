@@ -98,4 +98,4 @@ control, deadlines repeatedly fail, disclosure exposes participants or
 a simpler structural alternative demonstrably protects more freedom.
 
 [Matched comparison](../../../settlement/civic-freedom-and-livelihood-protection/01-a-worker-a-home-and-a-civic-deadline.md)
-· [Decision record](../../../2026-11-civic-freedom-and-livelihood-protection/decision-record.md).
+· [Decision record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-civic-freedom-and-livelihood-protection/decision-record.md).

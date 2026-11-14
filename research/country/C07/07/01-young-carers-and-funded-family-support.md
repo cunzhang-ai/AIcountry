@@ -86,4 +86,4 @@ qualified local authority and funds. Reopen on stigma, coercion,
 missed care, education loss or a better independently usable route.
 
 [Worked household and original sources](../../../settlement/young-carers-and-funded-family-support/01-before-school-and-after-bedtime.md)
-· [Decision and migration](../../../2026-11-young-carers-and-funded-family-support/decision-record.md).
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-young-carers-and-funded-family-support/decision-record.md).

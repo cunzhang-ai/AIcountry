@@ -13,7 +13,7 @@ Actual accounting classifications, including financial services and later standa
 need their own source review; this simplified bridge is not full SNA conformity.
 
 The preserved models' GDP minus total public output was mislabeled market GVA,
-and the original 2202 comparison had the same defect. The [new bridge](../../../2026-10-whole-country-reconciliation/results.json)
+and the original 2202 comparison had the same defect. The [new bridge](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-whole-country-reconciliation/results.json)
 uses original basic-price market GVA 2311. In the unchanged selected hybrid,
 corrected GVA is about 3294.734, requiring about 50.19% more GVA per remaining
 market FTE at the declared prices/mix. Neither the old 52.33% nor the corrected

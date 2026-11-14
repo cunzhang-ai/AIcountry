@@ -27,7 +27,7 @@ Late input-disposition reports retain delay liability but need not permanently
 bar a later complete prospective process; source deadlines and valid input remain.
 
 [Current country comparison](../../settlement/local-law/README.md) and
-[decision/probes](../../2026-11-local-law-and-public-control/README.md) distinguish
+[decision/probes](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-local-law-and-public-control/README.md) distinguish
 exact procedure, semantic hypotheses and workload from legitimate authority,
 actual affected participation, paid capacity and lived outcomes. The [dependency
 account](../../settlement/commitments/25-local-law-and-public-control.md) adds paid

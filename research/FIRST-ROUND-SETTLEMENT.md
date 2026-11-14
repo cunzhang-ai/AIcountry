@@ -2,7 +2,7 @@
 
 *Design520 · First-round stable research edition for public review*
 
-[Edition guide, archive and checksums](2026-11-first-round-stable/README.md).
+[Edition guide, archive and checksums](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-first-round-stable/README.md).
 
 Choose a **constitutional parliamentary democracy with a service-first plural economy**. Its purpose is practical independence. People should be able to live securely, leave a harmful dependence, obtain a timely remedy and replace those who govern them. The first-round design chooses the distribution of power, the material bargain and the first governing programme. The legislature, local councils and courts exercise distinct authority. AI can assist their work under public law.
 

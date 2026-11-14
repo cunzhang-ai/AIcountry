@@ -21,7 +21,7 @@ compulsory AI, political test, unlimited subscription or life dossier.
 All37 complete functions/61 selections/114 inherited references and old source
 hash values remain exact. Old bids do not pay all new adviser/source/independent
 receiver/compute/participant/transition duties; census stays open. Five new
-actual-evidence fields remain null. [Decision](../../2026-11-person-directed-public-assistance/decision-record.md)
+actual-evidence fields remain null. [Decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-person-directed-public-assistance/decision-record.md)
 retains smaller and broader alternatives. Actual funding/qualified simultaneous
 capacity, independent public/affected/legal choice and better lives remain unknown;
 current constitution/software/permissions/holds and old due claims continue.

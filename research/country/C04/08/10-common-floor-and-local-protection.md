@@ -68,4 +68,4 @@ lawful alternative use of local funds. Local experimentation remains subject
 to equal standing and enforceable common rights. Neither the initial reform
 nor its forecast authorizes new order of priority or appropriation.
 
-[Observed and constructed comparison](../../../settlement/common-floor-and-local-protection/01-one-floor-and-two-local-budgets.md) · [Decision record](../../../2026-11-common-floor-and-local-protection/decision-record.md).
+[Observed and constructed comparison](../../../settlement/common-floor-and-local-protection/01-one-floor-and-two-local-budgets.md) · [Decision record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-common-floor-and-local-protection/decision-record.md).

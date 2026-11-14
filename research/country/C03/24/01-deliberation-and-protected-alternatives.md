@@ -94,7 +94,7 @@ fragmentation, inaccessible thresholds, tactical delay, displaced ordinary
 hearings or a simpler route giving equivalent influence and timely decisions.
 
 [Worked comparison](../../../settlement/deliberation-and-protected-alternatives/01-two-bus-plans-and-one-floor-slot.md)
-· [Decision and migration](../../../2026-11-deliberation-and-protected-alternatives/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-deliberation-and-protected-alternatives/decision-record.md)
 
 [RDA09–RDA13](02-public-alternatives-and-rendering-errors.md) adds the preassigned correction
 window for original texts and valid designations.

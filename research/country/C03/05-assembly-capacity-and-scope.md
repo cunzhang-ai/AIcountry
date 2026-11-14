@@ -84,7 +84,7 @@ rules for their own current contest through a workload claim.
 Opposition agenda space, ordinary local discretion and direct individual
 remedies continue through backlog. A committee shortcut cannot bundle
 unrelated burdens beyond meaningful scrutiny; a missed time target neither
-approves a plan nor ends a claim. The [capacity decision record](../../2026-10-legislative-capacity/decision-record.md)
+approves a plan nor ends a claim. The [capacity decision record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-legislative-capacity/decision-record.md)
 explains why the Assembly-reserved territorial choice is retained only
 conditionally, and what evidence would displace it.
 

@@ -57,7 +57,7 @@ and delivers, and independent authorities verify actual remedies.
 Reopen on a changed lawful baseline, absent receipt or capacity, or
 new evidence that the foregone policy would better protect people.
 
-[Decision and qualification](../../../2026-11-integrated-first-government-programme/decision-record.md)
+[Decision and qualification](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-integrated-first-government-programme/decision-record.md)
 
 **Reprice the protected baseline before committing a new start.** The
 [protected correction comparison](../../../settlement/integrated-first-programme/05-protected-corrections-and-options.md)

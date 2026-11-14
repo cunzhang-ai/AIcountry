@@ -109,7 +109,7 @@ funding before any future qualifying contest. Regular election and office clocks
 caretaker and existing lawful claims continue while the public can use the
 protected amendment and opposition routes; no rule can guarantee agreement
 without removing people's power to disagree. The [decision
-record](../../2026-10-government-formation/decision-record.md) compares
+record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-government-formation/decision-record.md) compares
 other formation models and names what would reopen this hypothesis.
 
 [ER16–ER17](10/07-result-validity-and-repeat-poll.md) now prospectively defines new-national-contest annulment after formation: affected mandates cease, a cabinet formed on the fully annulled investiture becomes limited caretaker, fixed N/severable lawful seats and particular old-act remedies persist, and a lawful repeat closes90days after final judgment with at least60days before first voting. No old Assembly, guessed winner or judicial government is revived.

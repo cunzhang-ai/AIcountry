@@ -14,10 +14,10 @@ it does not replace the remainder of C01–C14 or enact a law.
 | [Due times, shifts and independent paths](02-due-times-rosters-and-paths.md) | Tests that distinguish a fast administrative response from useful protection |
 | [Whole-package alternatives and selection](03-alternatives-and-selection.md) | Baseline, targeted continuity and wider immediate expansion; costs, power and failure |
 
-The [inputs](../../2026-10-continuity-law/inputs.json),
-[model](../../2026-10-continuity-law/model.py),
-[results](../../2026-10-continuity-law/results.json) and
-[validation](../../2026-10-continuity-law/validation.json) pin original
+The [inputs](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-continuity-law/inputs.json),
+[model](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-continuity-law/model.py),
+[results](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-continuity-law/results.json) and
+[validation](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-continuity-law/validation.json) pin original
 envelope dependencies and newly authored assumptions. Their scope is
 inclusion arithmetic, displaced workload and logical failure tests.
 Benefit adequacy, qualified shifts, source-independent institutions,
@@ -25,7 +25,7 @@ subannual cash, import/site safety and actual execution remain unverified.
 Actual current costs in the [national inventory](../commitments/README.md)
 remain unknown; reference allocations are disclosed separately.
 
-The [decision record](../../2026-10-continuity-law/decision-record.md)
+The [decision record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-continuity-law/decision-record.md)
 preserves the predecessor, sources, objections, compatibility and next
 bounded question. These clauses should be challenged through concrete
 service journeys and competing country models, not accepted because the

@@ -88,6 +88,6 @@ that protects the same practical choices.
 [Communications exit](../../C09/22/02-bottlenecks-open-carriage-and-exit.md) ·
 [Agreement and usable exit](../../C08/13/01-persons-agreement-and-agents.md) ·
 [Worked comparison](../../../settlement/usable-provider-switching/01-failed-switch-and-two-households.md) ·
-[Decision and evidence](../../../2026-11-usable-provider-switching/decision-record.md)
+[Decision and evidence](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-usable-provider-switching/decision-record.md)
 
 **Join switching with a funded replacement decision.** Where a shared controller defeats otherwise lawful alternatives, compare independently executable access, procurement or mutual provision and a scoped ordinary public service. Keep operator selection, enforcement, adjudication and actual receiving separately authorized. Before relying on a replacement, budget paid overlap and the next call and protect independent complaints even against the public provider. [Essential-market comparison](../../../settlement/essential-markets-and-public-options/01-two-real-routes-to-an-essential-service.md).

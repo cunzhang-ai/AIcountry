@@ -49,5 +49,5 @@ finance, worker availability and lawful service receiving of a
 broader proposal to a separate elected choice. This leaves genuine
 retain-and-repair and other funded alternatives open.
 
-[Original sources and reproduction](../../2026-11-matched-fiscal-baselines-and-budget-choice/sources.md)
+[Original sources and reproduction](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-matched-fiscal-baselines-and-budget-choice/sources.md)
 · [Candidate evidence rules](../../country/C06/55/05-matched-fiscal-baselines-and-budget-choice.md).

@@ -17,7 +17,7 @@ national political standing; previously vested residence need not requalify afte
 registration and duplicate-vote controls. All eligibility and exclusion decisions
 need timely independent remedies and safe alternatives to a single document or
 biometric system. No one can lose a vote through arbitrary denaturalization or
-politically motivated removal. The [membership comparison](../../2026-10-membership-review/analysis.md)
+politically motivated removal. The [membership comparison](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-membership-review/analysis.md)
 records the rival citizenship-only model and the unresolved value tradeoffs.
 Core franchise and candidacy rights belong in the protected constitutional settlement;
 registration law may administer them but cannot narrow the electorate for the

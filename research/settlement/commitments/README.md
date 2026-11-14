@@ -78,16 +78,16 @@ controller, due period, available amount, maintenance, standby and displacement.
 Separate payment, notice and record paths even though all appear under channels.
 One label appearing in two rows is a question to inspect, not proof of overuse.
 
-The [dated decision](../../2026-10-commitment-reconciliation/decision-record.md)
+The [dated decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-commitment-reconciliation/decision-record.md)
 preserves the design-55 predecessor, assumptions, frozen inventory, exact
 model/result dependencies and checks. Current source changes reopen affected
 mappings; successful link checks do not transfer prior support. A missing
 function can be reported normally; authors must update this denominator and
 coverage rather than reject an unfamiliar claim because it has no row.
 
-The [continuity](../../2026-10-continuity-law/decision-record.md),
-[income](../../2026-10-income-floor/decision-record.md) and
-[joined economy](../../2026-10-national-economic-package/decision-record.md)
+The [continuity](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-continuity-law/decision-record.md),
+[income](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-income-floor/decision-record.md) and
+[joined economy](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-national-economic-package/decision-record.md)
 records have different pinned support scopes. Earlier review does not
 transfer to changed rules. The national reference now exposes private
 finance and physical/FX failure as well as fiscal gaps. The

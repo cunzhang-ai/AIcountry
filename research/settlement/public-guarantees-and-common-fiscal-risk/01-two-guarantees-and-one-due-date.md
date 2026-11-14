@@ -1,6 +1,6 @@
 # Two guarantees and one due date
 
-*Design389 · Constructed comparison with [primary records](../../2026-11-public-guarantees-and-common-fiscal-risk/sources.md).*
+*Design389 · Constructed comparison with [primary records](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-public-guarantees-and-common-fiscal-risk/sources.md).*
 
 An existing nine-unit guarantee supports a transport operator's
 eligible obligation. A proposed seven-unit guarantee supports

@@ -10,7 +10,7 @@ Compare them on actual occupancy, livelihood and continuing cost.
 |---|---|
 | [Auckland's funding, tenure and handover](01-auckland-costs-and-handover.md) | Public financing and reported progress across different sources and dates |
 | [A place that needs safe repair and voluntary movement](02-household-and-place-case.md) | Usable cash, compatible destinations, risk reduction and open obligations |
-| [Decision and migration](../../2026-11-disaster-housing-and-recovery/decision-record.md) | Why the choice retains less disruptive alternatives and what would reopen it |
+| [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-disaster-housing-and-recovery/decision-record.md) | Why the choice retains less disruptive alternatives and what would reopen it |
 
 The current design keeps property, insurer and public help claims
 distinct. No disaster, territory or local budget for the proposed

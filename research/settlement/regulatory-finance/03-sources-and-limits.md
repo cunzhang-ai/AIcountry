@@ -8,7 +8,7 @@
 | [FSB Key Attributes, 25 April 2024](https://www.fsb.org/uploads/P250424-3.pdf) | Inspected KA3.5, KA4/5 and KA6 material on loss allocation, collateral/stays, liquidation comparison and resolution funding. These inform distinct claim/authority questions; M's exact order, clocks, compensation payer and public-risk choice are authored national proposals, not wholesale reproduction or binding foreign recognition. |
 | [IADI Core Principles, approved 9 September 2025](https://www.iadi.org/uploads/Core-Principles-September-2025.pdf) | Inspected principles 9 and 15: prior funding/backstop arrangements and prompt reimbursement, generally within seven working days. M's twelve-basket limit, 24-hour advance, 0.4% premium, 2% target and full covered-liability line are national hypotheses, not figures prescribed by IADI. |
 
-The [dated source record](../../2026-10-regulatory-and-financial-law/sources.json)
+The [dated source record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-regulatory-and-financial-law/sources.json)
 records actual URLs, editions, inspected sections and retrieval method. These
 are reference/publication observations, not original country outcomes. Live
 pages/PDFs were read through the web tool; no byte-for-byte archive of those

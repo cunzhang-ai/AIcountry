@@ -76,4 +76,4 @@ service and receipt beside the reconciled path. Reopen on a repeated margin
 call, omitted tail, shifted burden or a cheaper qualified whole package.
 
 [Four-year comparison](../../../settlement/forward-budget-and-shared-commitments/01-two-reforms-one-forward-budget.md)
-· [Decision and migration](../../../2026-11-forward-budget-and-shared-commitments/decision-record.md).
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-forward-budget-and-shared-commitments/decision-record.md).

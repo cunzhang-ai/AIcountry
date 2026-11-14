@@ -4,7 +4,7 @@
 
 [C08 B01–B20](../../country/C08/13-civil-obligations-and-executed-remedies.md)
 connects real agreement, bounded agents, property/wrongs, independent proof
-and actual execution. [Decision](../../2026-10-civil-core/decision-record.md)
+and actual execution. [Decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-civil-core/decision-record.md)
 records competing models, explicit source changes and remaining limitations.
 
 | Part | Question |
@@ -14,9 +14,9 @@ records competing models, explicit source changes and remaining limitations.
 
 The cases are reasoned hypotheses, not hearings, consent or delivered relief.
 Actual judges, parties, counsel, independent records, Treasury/asset paths,
-receivers, funding and observed outcomes remain unverified. [Checks](../../2026-10-civil-core/validation.json)
+receivers, funding and observed outcomes remain unverified. [Checks](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-civil-core/validation.json)
 verify preservation/dependencies/organization only; they cannot approve law.
-[Source manifest](../../2026-10-civil-core/source-manifest.json) does not transfer
+[Source manifest](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-civil-core/source-manifest.json) does not transfer
 earlier reviews to changed liability or broader remedy provisions.
 
 [Country design](../../COUNTRY-DESIGN.md) · [Design status](../../DESIGN-STATUS.md)

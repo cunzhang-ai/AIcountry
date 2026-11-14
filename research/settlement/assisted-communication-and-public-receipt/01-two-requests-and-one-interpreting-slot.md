@@ -41,4 +41,4 @@ can be reassigned lawfully. They are neither interpreter capacity
 nor a cash saving. The case does not estimate actual language
 coverage, clinical effectiveness or costs.
 
-[Primary evidence and its scope](../../2026-11-assisted-communication-and-public-receipt/sources.md).
+[Primary evidence and its scope](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-assisted-communication-and-public-receipt/sources.md).

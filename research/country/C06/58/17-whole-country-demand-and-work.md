@@ -100,7 +100,7 @@ price/income/tax/I05/Y effects once. Actual rights/dates/stronger terms and
 constitutional/software/contribution holds remain; shortages after a lawful
 start require protection and elected correction, not a new readiness veto.
 
-[Decision and source-bounded results](../../../2026-11-whole-country-demand-and-work/decision-record.md)
+[Decision and source-bounded results](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-whole-country-demand-and-work/decision-record.md)
 close this finite whole-reference comparison. Its tested demand-neutral and
 aggregate-closing variants fail their stated fixed-industry capacity conditions;
 actual whole-country feasibility, qualified source and better lives remain

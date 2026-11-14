@@ -90,4 +90,4 @@ Reopen on serious contrary evidence, observed exclusion, a missed
 transition or a materially changed obligation.
 
 [Worked example](../../../settlement/reviewing-major-laws/01-a-review-that-survives-implementation-delay.md)
-· [Decision and migration](../../../2026-11-reviewing-major-laws-in-operation/decision-record.md).
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-reviewing-major-laws-in-operation/decision-record.md).

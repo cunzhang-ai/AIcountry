@@ -102,4 +102,4 @@ Reopen on recurrent conflicts, early missed deadlines, unpayable duties,
 poor client control or a simpler equally protective route.
 
 [Worked comparison](../../../settlement/urgent-civil-legal-assistance/01-two-urgent-claims-and-one-lawyer.md)
-· [Decision and migration](../../../2026-11-urgent-civil-legal-assistance/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-urgent-civil-legal-assistance/decision-record.md)

@@ -67,7 +67,7 @@ data use, repeated missed hearings or a better route, including
 a separately justified prospective franchise change under higher law.
 
 [Membership and scrutiny comparison](../../../settlement/affected-residents-and-national-decisions/01-voice-before-national-voting.md)
-· [Decision and migration](../../../2026-11-affected-residents-and-national-decisions/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-affected-residents-and-national-decisions/decision-record.md)
 
 [RDA01–RDA08](../24/01-deliberation-and-protected-alternatives.md) adds a distinct panel
 disposition route. A panel threshold does not narrow AR evidence or access.

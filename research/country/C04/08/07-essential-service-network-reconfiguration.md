@@ -104,7 +104,7 @@ consumed, costs shift onto households, or a simpler option protects access
 more reliably.
 
 [Worked comparison](../../../settlement/essential-service-network-reconfiguration/01-a-hub-and-an-accessible-local-route.md)
-· [Decision and migration](../../../2026-11-essential-service-network-reconfiguration/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-essential-service-network-reconfiguration/decision-record.md)
 
 [Repeated provider exits and an ordinary choice](../../../settlement/repeated-provider-exit/01-two-exits-and-an-ordinary-service-choice.md).
 

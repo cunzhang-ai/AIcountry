@@ -99,6 +99,6 @@ changing the procedure does so expressly through competent law.
 [Delegated rules](../11-delegated-rules-and-effective-public-control.md) ·
 [Parliamentary evidence](../21-parliamentary-evidence-and-independent-access.md) ·
 [Worked case](../../../settlement/public-power-renewal/01-recertification-and-expiry.md) ·
-[Decision and evidence](../../../2026-11-public-power-renewal/decision-record.md)
+[Decision and evidence](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-public-power-renewal/decision-record.md)
 
 [Worked downstream expiry and receipt](../../../settlement/replaceable-public-institutions/02-two-inherited-decision-paths.md).

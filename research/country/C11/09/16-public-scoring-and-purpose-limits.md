@@ -90,4 +90,4 @@ functionally equivalent relabeling, coerced disclosure, missed services or a
 simpler equally protective evidence route.
 
 [Worked comparison](../../../settlement/public-scoring-and-purpose-limits/01-one-tax-fact-and-two-services.md)
-· [Decision and migration](../../../2026-11-public-scoring-and-purpose-limits/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-public-scoring-and-purpose-limits/decision-record.md)

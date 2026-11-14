@@ -71,4 +71,4 @@ tests the financing arithmetic and its branches. A funded route
 still needs lawful staffing and actual resident receipt.
 
 [Scenario check](verify-local-funding.py)
-· [Original sources and scope](../../2026-11-local-funding-and-population-change/sources.md)
+· [Original sources and scope](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-local-funding-and-population-change/sources.md)

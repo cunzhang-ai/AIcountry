@@ -48,4 +48,4 @@ appropriation or relieves a due service by itself. Fund the actual
 continuation separately and record what optional uses wait.
 
 [Scenario check](verify-coverage.py)
-· [Original sources and limits](../../2026-11-independent-public-statistics/sources.md)
+· [Original sources and limits](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-independent-public-statistics/sources.md)

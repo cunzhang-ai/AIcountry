@@ -35,4 +35,4 @@ a stayed claim and return of a duplicate. It assumes accepted lawful
 instructions except where expressly varied. It supplies no actual
 household costs, tax rank, funded assistance or borrowing forecast.
 
-[Decision and evidence](../../2026-11-combined-debt-recovery-and-essential-income/decision-record.md)
+[Decision and evidence](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-combined-debt-recovery-and-essential-income/decision-record.md)

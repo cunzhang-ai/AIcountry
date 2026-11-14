@@ -11,14 +11,14 @@ It does not call the old fixed-GDP bid fixture an affordable national plan.
 3. [Adversarial journeys and finite numerical scope](03-boundary-cases.md).
 4. [Primary source scope](04-sources-and-limits.md).
 
-The [dated decision](../../2026-10-material-country-and-public-backbone/decision-record.md),
-[requirements data](../../2026-10-material-country-and-public-backbone/requirements.json)
-and [limited results](../../2026-10-material-country-and-public-backbone/results.json)
+The [dated decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-material-country-and-public-backbone/decision-record.md),
+[requirements data](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-material-country-and-public-backbone/requirements.json)
+and [limited results](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-material-country-and-public-backbone/results.json)
 retain unknown actual quantities/prices and predecessor bounds. The examples
 cover specific fungible public-payment and accepted-capacity situations only;
 they do not cost every function or establish independent qualification.
 
-[The534-artifact predecessor](../../2026-10-material-country-and-public-backbone/predecessor-design-83/SNAPSHOT.md)
+[The534-artifact predecessor](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-material-country-and-public-backbone/predecessor-design-83/SNAPSHOT.md)
 preserves old roles/bids/claims. Current integrated overview/status own the
 research selection. Actual public participation, professional independent review,
 source-law reconciliation, safe simultaneous operation and better lives remain

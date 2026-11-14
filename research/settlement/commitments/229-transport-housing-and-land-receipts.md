@@ -7,6 +7,6 @@ receipts, lawful liabilities and recurring services stay separate.
 Existing tenure, lawful compensation and other claims continue
 through funded successors.
 
-The [decision record](../../2026-11-transport-housing-and-land-receipts/decision-record.md)
+The [decision record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-transport-housing-and-land-receipts/decision-record.md)
 preserves finance and project rivals and the unresolved operating
 conditions. Actual elected authority is required for any commitment.

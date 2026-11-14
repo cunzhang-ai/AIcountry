@@ -1,6 +1,6 @@
 # Function requirements: a current scope, not a finished cost estimate
 
-*Design 84 · The [machine-readable matrix](../../2026-10-material-country-and-public-backbone/requirements.json)
+*Design 84 · The [machine-readable matrix](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-material-country-and-public-backbone/requirements.json)
 uses all 37 existing function owners and their canonical sources.*
 
 For each owner, map demand/events, task, useful time, duration/grouping/travel,

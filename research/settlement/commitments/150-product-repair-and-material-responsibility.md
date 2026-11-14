@@ -6,6 +6,6 @@ Keep existing claims, site cleanup, worker conditions, earlier
 essential deadlines and actual material destinations distinct.
 
 [Evidence and comparison](../../settlement/product-lifecycle/README.md)
-· [Decision and transition](../../2026-11-product-repair-and-material-responsibility/decision-record.md)
+· [Decision and transition](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-product-repair-and-material-responsibility/decision-record.md)
 
 Actual pricing, collection, staffing and recovery remain open.

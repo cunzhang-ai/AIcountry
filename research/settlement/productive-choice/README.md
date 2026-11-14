@@ -11,14 +11,14 @@ dividend. Extra needs, old rights and source/receipt gates remain distinct.
 
 | Artifact | Use and limit |
 |---|---|
-| [Decision](../../2026-11-productive-choice-and-work-incidence/decision-record.md) | Selection, competing values, actual authority/participation gaps and continuity |
-| [Inputs](../../2026-11-productive-choice-and-work-incidence/inputs.json) and [model](../../2026-11-productive-choice-and-work-incidence/model.py) | Explicit authored recipes, direct-FX/demand sensitivities, same-person cash slopes and scoped C2 adapter |
-| [Results](../../2026-11-productive-choice-and-work-incidence/results.json) | Small production/incidence account and four separate current C2 case links |
-| [Sources](../../2026-11-productive-choice-and-work-incidence/sources.md) | Original methodological source and observed retrieval limits; no calibrated national forecast |
-| [Preservation and support pins](../../2026-11-productive-choice-and-work-incidence/source-manifest.json) | Exact predecessor and actual computational dependencies, not inherited approval |
-| [Checks](../../2026-11-productive-choice-and-work-incidence/validate.py) and [report](../../2026-11-productive-choice-and-work-incidence/validation.json) | Reproduction, continuity, incidence, counterparty/capital/FX/loss and bounded adverse checks |
+| [Decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-productive-choice-and-work-incidence/decision-record.md) | Selection, competing values, actual authority/participation gaps and continuity |
+| [Inputs](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-productive-choice-and-work-incidence/inputs.json) and [model](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-productive-choice-and-work-incidence/model.py) | Explicit authored recipes, direct-FX/demand sensitivities, same-person cash slopes and scoped C2 adapter |
+| [Results](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-productive-choice-and-work-incidence/results.json) | Small production/incidence account and four separate current C2 case links |
+| [Sources](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-productive-choice-and-work-incidence/sources.md) | Original methodological source and observed retrieval limits; no calibrated national forecast |
+| [Preservation and support pins](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-productive-choice-and-work-incidence/source-manifest.json) | Exact predecessor and actual computational dependencies, not inherited approval |
+| [Checks](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-productive-choice-and-work-incidence/validate.py) and [report](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-productive-choice-and-work-incidence/validation.json) | Reproduction, continuity, incidence, counterparty/capital/FX/loss and bounded adverse checks |
 
-The four [C2 case artifacts](../../2026-11-productive-choice-and-work-incidence/cases/)
+The four [C2 case artifacts](https://github.com/cunzhang-ai/AIcountry/tree/edition-1/research/2026-11-productive-choice-and-work-incidence/cases)
 reuse 130's unchanged public/physical scope with a fresh personal-tax computation.
 All four A cases remain equal to the pinned predecessor. C1 cases remain original
 comparators. The garment module is separate: neither its workers, profits,
@@ -40,7 +40,7 @@ loaded historical function after use; no dated file changes. Changed future
 parameters/media/ownership concepts require interpretation, not silent omission.
 
 [Commitments](../commitments/44-productive-choice-and-work-incidence.md) and
-[unfinished-country disposition](../../status/completion/39-productive-choice-and-national-sources.md)
+[unfinished-country disposition](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/status/completion/39-productive-choice-and-national-sources.md)
 carry ongoing sources and rights. The next country decision concerns remaining
 major public inputs/nonfood services and credible common sources, not more
 successive refinements of one modeled garment recipe.

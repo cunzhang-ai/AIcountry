@@ -39,7 +39,7 @@ bounded source task UNRESOLVED for a qualified candidate increment/source.
 It improves the retained reference and removes an unsuitable primary price
 illustration, without pretending a programme is priced or inventing a levy.
 
-[Evidence and decision](../../2026-11-care-provider-cost-and-source/decision-record.md)
+[Evidence and decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-care-provider-cost-and-source/decision-record.md)
 preserve raw originals, visual source checks, rejected readings and full baseline.
 No statutory ratio/hours/benefit/rate/date/office changes. TW/CL/Y/S/NC/AS and
 paid OP/T successors remain; the country needs an integrated actual offer/source

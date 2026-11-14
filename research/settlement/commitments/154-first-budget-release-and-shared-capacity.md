@@ -6,6 +6,6 @@ loss. Keep each binding payment, qualified route and protected
 decision through execution or lawful transition.
 
 [Worked comparison](../../settlement/first-budget-release/README.md)
-· [Decision and transition](../../2026-11-first-budget-release-and-shared-capacity/decision-record.md)
+· [Decision and transition](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-first-budget-release-and-shared-capacity/decision-record.md)
 
 Actual sources, rosters, legal execution and receipt remain open.

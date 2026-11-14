@@ -74,7 +74,7 @@ underfunding, or a more reliable paid ordinary route protects the
 same duties with less loss.
 
 [Worked opening cash comparison](../../../settlement/opening-liabilities/README.md)
-· [Decision and migration](../../../2026-11-opening-liabilities-and-protected-budget/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-opening-liabilities-and-protected-budget/decision-record.md)
 
 [HT18–HT23](../../C03/19/05-election-fiscal-baseline-and-first-week.md)
 reconciles this opening exposure with the pre-vote baseline on a

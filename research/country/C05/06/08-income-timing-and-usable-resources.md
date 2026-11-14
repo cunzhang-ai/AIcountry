@@ -78,4 +78,4 @@ unsafe recovery or a simpler funded rule that protects the same
 people and needs.
 
 [Historical evidence and authored budget comparison](../../../settlement/income-timing-and-usable-resources/README.md)
-· [Decision and migration](../../../2026-11-income-timing-and-usable-resources/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-income-timing-and-usable-resources/decision-record.md)

@@ -19,7 +19,7 @@ This adds smoothing above/alongside the needs floor, not its first shock rule.
 
 [Arithmetic, rejected quota and real alternatives](01-control-quota-and-rivals.md)
 keeps established-earner/newcomer, asset and poorer-I05 incidence objections
-open. [Decision/source/critique](../../2026-11-portable-earnings-and-work-transition/decision-record.md)
+open. [Decision/source/critique](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-portable-earnings-and-work-transition/decision-record.md)
 separates same-controller AI reasoning and25 authored numerical/period checks
 from actual affected choice, benefit delivery, employment effects or funding.
 Actual full source/independence/authority and better lives remain unproved.

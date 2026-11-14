@@ -72,7 +72,7 @@ programme. Apply [T13–T17](../../C14/06/04-linked-choices-and-lawful-start.md)
 to the resulting dates and effective parts.
 
 [Observed Danish funding and authored first-budget choices](../../../settlement/national-cash-calendar/README.md)
-· [Decision and migration](../../../2026-11-national-cash-and-first-budget/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-national-cash-and-first-budget/decision-record.md)
 
 [MF09–MF13](../../C04/08/03-reimbursement-and-resident-receipt.md)
 follows one local payment through its ultimate funder, the local

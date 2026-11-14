@@ -59,9 +59,9 @@ The next main task is to reconcile legislative, treasury, local-delivery and jud
 authority into one proposed legal package. Further fiscal calibration remains a named
 prerequisite to real operation, not an excuse to avoid that design work.
 
-The [inputs](../2026-09-national-settlement/inputs.json), [model](../2026-09-national-settlement/model.py),
-[results](../2026-09-national-settlement/results.json), [decision record](../2026-09-national-settlement/decision-record.md)
-and [validation](../2026-09-national-settlement/validation.json) preserve the exact scope.
+The [inputs](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-09-national-settlement/inputs.json), [model](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-09-national-settlement/model.py),
+[results](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-09-national-settlement/results.json), [decision record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-09-national-settlement/decision-record.md)
+and [validation](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-09-national-settlement/validation.json) preserve the exact scope.
 
 ## Sources and limits
 

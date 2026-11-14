@@ -41,4 +41,4 @@ a meal. The units, service windows and cohorts are invented to
 expose dependencies. The exercise does not set a diet, price,
 benefit amount or operational standard.
 
-[Scenario check](verify-meal-continuity.py) · [Primary evidence and limits](../../2026-11-usable-food-and-local-meal-continuity/sources.md)
+[Scenario check](verify-meal-continuity.py) · [Primary evidence and limits](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-usable-food-and-local-meal-continuity/sources.md)

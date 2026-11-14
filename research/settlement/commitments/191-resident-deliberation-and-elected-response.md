@@ -4,7 +4,7 @@
 elected disposition to continuing deadlines, appropriations and delivery.
 
 [Observed and authored checks](../../settlement/resident-deliberation/README.md)
-· [Decision and migration](../../2026-11-resident-deliberation-and-elected-response/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-resident-deliberation-and-elected-response/decision-record.md)
 
 Carry earned pay, protected testimony and earlier legal duties.
 Actual authority, timely review, operation and effects remain open.

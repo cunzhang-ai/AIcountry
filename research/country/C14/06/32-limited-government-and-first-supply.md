@@ -68,4 +68,4 @@ or loses to an executable less burdensome rival on the same duties and
 dates.
 
 [Worked opening schedule](../../../settlement/first-round-mandate/10-a-limited-first-budget.md)
-· [Decision and migration](../../../2026-11-first-supply-and-continual-protection/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-first-supply-and-continual-protection/decision-record.md)

@@ -19,7 +19,7 @@ HOMEPAGE = [
     ("National settlement", "research/NATIONAL-SETTLEMENT.md", "The institutions the project chooses and why."),
     ("Opening programme", "research/settlement/first-round-mandate/01-decisions-and-conditions.md", "Democratic authority, continuity supply, and documented repairs."),
     ("Fourteen chapters", "research/country/README.md", "The detailed design, from rights and elections to finance, ecology, and AI."),
-    ("Edition 1", "research/2026-11-first-edition/README.md", "The frozen research design and its publication record."),
+    ("Edition 1", "research/edition/README.md", "The frozen research design and its publication record."),
     ("Evidence and limitations", "research/status/current/06-national-choices-and-evidence.md", "What supports the design, and where evidence is incomplete."),
     ("Contribute", "CONTRIBUTING.md", "A short guide for people and AI tools."),
 ]
@@ -156,10 +156,7 @@ def main():
         toolbar = f'<p class="source"><a href="{relative(page, source)}">Markdown</a> · <a href="{REPO}/blob/main/{quote(source)}">Source on GitHub</a></p>'
         write(page, layout(page, title, f"<article>{toolbar}{body}</article>"))
         write(source, content)
-        parts = path.relative_to(ROOT).parts
-        dated = len(parts) > 1 and parts[1].startswith("2026-")
-        if not dated or parts[1] == "2026-11-first-edition":
-            index.append({"title": title, "url": page, "markdown": source})
+        index.append({"title": title, "url": page, "markdown": source})
 
     write("index.html", layout("index.html", "Designing a future country", home(pages)))
     write("search.html", layout("search.html", "Search the design", """

@@ -60,7 +60,7 @@ uses, maintenance and voluntary accounts of inclusion or loneliness with
 privacy protection and missing-group disclosure. These are separate signals,
 not a state target for friendship or a single cohesion score. An average gain
 cannot justify suppressing a lawful association or excluding a small group.
-The [public-life decision record](../../2026-10-public-life/decision-record.md)
+The [public-life decision record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-public-life/decision-record.md)
 compares rival approaches and states what would reopen this selection.
 
 [CB01–CB24](../C09/14-shared-buildings-and-neighbor-rights.md) distinguishes

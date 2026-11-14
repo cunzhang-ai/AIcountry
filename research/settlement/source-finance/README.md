@@ -13,8 +13,8 @@ are made explicit; this is a changed dependency, not an old bank approval.
 | [Full choice and failure comparison](02-choices-and-failures.md) | Eight authored cases, joint cash and liquidity constraints, a real full-reserve rival |
 | [Resources, rights and evidence](03-resources-and-evidence.md) | Unknown costs/delivery, primary monetary reference and remaining work |
 
-[Dated inputs/model/results](../../2026-10-source-finance-and-payment-architecture/README.md)
-trace the full dependency scope and [400 exact predecessor artifacts](../../2026-10-source-finance-and-payment-architecture/predecessor-design-74/SNAPSHOT.md).
+[Dated inputs/model/results](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-source-finance-and-payment-architecture/README.md)
+trace the full dependency scope and [400 exact predecessor artifacts](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-source-finance-and-payment-architecture/predecessor-design-74/SNAPSHOT.md).
 The calculation revisits current income/dividend/coupon flows and separate
 opening/legacy claims; it does not introduce extra output by financial exchange.
 Known domestic net claims remain 2485; domestic real assets 2515 and foreign

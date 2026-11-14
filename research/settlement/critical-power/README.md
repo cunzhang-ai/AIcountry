@@ -31,7 +31,7 @@ explicit PC14/PC20/EL20 handoffs keep distinct local/question proof/repeat route
 unavailable/newly inapplicable court path is still failed recovery, not invented
 jurisdiction. New law cannot certify its own protected-scope exception.
 
-[Decision, sources and authored adverse arguments](../../2026-11-critical-power-and-democratic-loss/decision-record.md)
+[Decision, sources and authored adverse arguments](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-critical-power-and-democratic-loss/decision-record.md)
 retain protected exclusion plus actual paid redundancy, broader allocation and
 distributed/common alternatives. Actual rights compatibility, full source,
 independent safe operation, affected judgment and better lives remain unproved.

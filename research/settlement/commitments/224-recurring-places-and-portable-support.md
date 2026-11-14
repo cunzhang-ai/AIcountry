@@ -8,6 +8,6 @@ Use prior sector powers, independent challenge and a paid lawful
 successor when a location or operator changes. Privacy and consent
 stay scoped to the task. Publication creates no new public power.
 
-The [decision record](../../2026-11-portable-services-across-recurring-places/decision-record.md)
+The [decision record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-portable-services-across-recurring-places/decision-record.md)
 retains the simpler per-visit and direct national rivals and sets
 out the paid test still needed.

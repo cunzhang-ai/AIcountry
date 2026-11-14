@@ -7,6 +7,6 @@ must carry the actual common workload. Continue claims, lawful
 records, ordinary access and separate review. Government, supplier
 or AI model changes retain funded successors and earlier dates.
 
-The [decision record](../../2026-11-discovering-public-ai-reliance/decision-record.md)
+The [decision record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-discovering-public-ai-reliance/decision-record.md)
 identifies limits, actual competing approaches and the operating
 evidence still needed.

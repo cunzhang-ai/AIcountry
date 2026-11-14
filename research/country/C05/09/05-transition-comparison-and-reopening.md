@@ -61,7 +61,7 @@ new original evidence. If monitoring is unavailable, superiority and safe
 launch remain unproved rather than presumed.
 
 Evidence qualification, research preference, lawful adoption, funded capacity,
-actual delivery and lived outcomes remain separate. The [decision record](../../../2026-11-income-and-investment-settlement/decision-record.md)
+actual delivery and lived outcomes remain separate. The [decision record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-income-and-investment-settlement/decision-record.md)
 states the inspected dependency scope and received objections; its existence
 does not establish consent or transfer earlier reviews to these choices.
 

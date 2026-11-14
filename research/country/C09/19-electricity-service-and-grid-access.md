@@ -24,7 +24,7 @@ on actual feasible terms. The country selects no technology quota, national
 retail tariff, forced transfer of assets or unsupported reliability guarantee.
 
 [Evidence and comparisons](../../settlement/electricity-service/README.md)
-· [Decision and transition](../../2026-11-electricity-service-and-grid-access/decision-record.md)
+· [Decision and transition](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-electricity-service-and-grid-access/decision-record.md)
 
 [OC outage continuity](20-essential-service-outage-continuity.md) covers
 the receiving service, actual backup and deadlines. It keeps the physical

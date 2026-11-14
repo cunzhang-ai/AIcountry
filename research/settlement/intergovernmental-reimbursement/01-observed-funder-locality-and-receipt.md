@@ -67,4 +67,4 @@ The two examples concern different currencies, duties and fiscal
 periods. Each supplies a separate check on the proposed model.
 Neither estimates the effect of an advance rule, qualifies a
 payment calendar for AIcountry or establishes effects on lives.
-[Source custody and limits](../../2026-11-intergovernmental-reimbursement-and-receipt/sources.md)
+[Source custody and limits](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-intergovernmental-reimbursement-and-receipt/sources.md)

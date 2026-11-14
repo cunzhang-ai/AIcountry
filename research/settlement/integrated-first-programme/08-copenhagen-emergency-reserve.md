@@ -85,5 +85,5 @@ Compare facility-owned provision with shared capacity only when
 both price the same interval, home receiving and later replenishment.
 Equipment procurement, staffing and delivered service under the
 Copenhagen programme remain unverified in this review.
-[Executable comparison](verify-copenhagen-emergency-reserve.py)
-· [Observed inputs](../../2026-11-copenhagen-emergency-reserve/observations.json)
+[Executable comparison](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/settlement/integrated-first-programme/verify-copenhagen-emergency-reserve.py)
+· [Observed inputs](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-copenhagen-emergency-reserve/observations.json)

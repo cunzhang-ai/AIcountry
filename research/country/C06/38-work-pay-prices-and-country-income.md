@@ -33,7 +33,7 @@ missing prices/job matches rather than turning them into national GDP/tax receip
 TW, I03/I05/IC, Y basic/earned rights, H housing, PS supply, ecological/foreign
 duties and democratic control continue within their scopes. New taxes/payment
 terms need an express prospective Act; actual current law/software is unchanged.
-[Decision and dissent](../../2026-11-work-pay-and-country-account/decision-record.md)
+[Decision and dissent](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-work-pay-and-country-account/decision-record.md)
 preserve the predecessor and source/review limits. Next finish the matched
 country supplier/price/job/asset/source case and compare the strongest complete
 rivals, keeping real old claims and unpriced private choices visible. No artifact

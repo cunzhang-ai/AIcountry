@@ -4,7 +4,7 @@
 
 All37 original rows are represented once below. This is a current overlay, not
 a rewrite of their historical unresolved specifications or bids. Specific
-current routes and retained limits are in the [structured review](../../2026-11-current-country-integration/function-review.json).
+current routes and retained limits are in the [structured review](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-current-country-integration/function-review.json).
 Selected chain/calendar/source routes received deeper inspection; this screen
 does not claim every word of876 current files or every real-world function was
 validated. New/unfamiliar needs remain admissible beyond this denominator.

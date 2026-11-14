@@ -30,7 +30,7 @@ objection is retained, rather than calling nondecision neutral.
 [Reasoned adversarial journeys and rivals](../../settlement/constitutional-review/README.md)
 expose capture and resource conflicts. [C06 capacity](../C06/29-constitutional-review-capacity.md)
 assigns the whole chain without double spending old bids or SF standby.
-The [decision and exact predecessor](../../2026-10-final-constitutional-review/decision-record.md)
+The [decision and exact predecessor](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-final-constitutional-review/decision-record.md)
 preserve why this package was selected and what was not established.
 
 [Design81 MB](../C02/06-citizenship-and-secure-belonging.md) now selects belonging.

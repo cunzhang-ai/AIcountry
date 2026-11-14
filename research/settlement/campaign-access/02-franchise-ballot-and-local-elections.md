@@ -6,7 +6,7 @@
 and a separate actual-local council vote.** Independents can enter as one-person
 civic lists. Replace the mixed national territorial-first/independent-seat rule
 rather than keep adding repairs to it. [EL01–EL24](../../country/C03/13-equal-franchise-and-usable-elections.md)
-is canonical; [the exact package](../../2026-11-equal-franchise-and-usable-elections/README.md)
+is canonical; [the exact package](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-equal-franchise-and-usable-elections/README.md)
 contains arithmetic, limits, preserved predecessors and a prepared user protocol.
 
 ## Why change the structural choice?
@@ -75,7 +75,7 @@ candidate supply caps an otherwise fictitious2.56m names at the assumed78,000.
 These page arithmetic results establish no legibility or acceptable workload.
 The large-field readiness claim is explicitly rejected pending a real whole-
 package comparison, not repaired by tiny fonts or secretly excluding candidates.
-[The protocol](../../2026-11-equal-franchise-and-usable-elections/usability-protocol.md)
+[The protocol](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-equal-franchise-and-usable-elections/usability-protocol.md)
 prepares actual affected-user tasks; no participants or comprehension results exist.
 
 Local councils use one whole-municipality PR track. The initial charter schedule
@@ -118,6 +118,6 @@ usability. Our numbers and institution choices are hypotheses, not compliance fi
 Coordinated prospective constitutional/primary law,180day preparation,12months
 to a new called scope and RR protected succession are required. Old-called votes,
 counts/terms, grants, contracts, workers, privacy/foreign and useful-time claims
-keep their actual law. No procedure adopts itself. [Decision](../../2026-11-equal-franchise-and-usable-elections/decision-record.md).
+keep their actual law. No procedure adopts itself. [Decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-equal-franchise-and-usable-elections/decision-record.md).
 Next complete exact local ordinance/delegated-rule scrutiny and public control;
 nonbank and the whole production/source/credit/VAT/price/FX/legacy book also remain.

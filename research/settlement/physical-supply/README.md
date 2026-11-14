@@ -104,9 +104,9 @@ The latter needs its own upstream supply/import calculation; its full net FX
 contribution is not credited here. Payment is delayed and actual buyer/receipt/
 working capital unknown. Gross private proceeds do not become Treasury money.
 
-[Inputs](../../2026-11-physical-supply-and-trade/inputs.json),
-[calculation](../../2026-11-physical-supply-and-trade/model.py),
-[results](../../2026-11-physical-supply-and-trade/results.json) and
-[decision](../../2026-11-physical-supply-and-trade/decision-record.md)
+[Inputs](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-physical-supply-and-trade/inputs.json),
+[calculation](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-physical-supply-and-trade/model.py),
+[results](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-physical-supply-and-trade/results.json) and
+[decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-physical-supply-and-trade/decision-record.md)
 preserve the limits. Next join physical paths to prices, jobs/wages, income/tax,
 initial assets and owned recurring/foreign sources, keeping all continuing claims.

@@ -25,7 +25,7 @@ actual replacement/source requirements; this retained cost is not hidden.
 
 The [finite country-gap review](../../settlement/country-gaps/README.md) selects
 this omission over revisiting already specified educational ages or another
-emergency study. [Sources and rival institutions](../../2026-11-country-gaps-and-public-acquisition/decision-record.md)
+emergency study. [Sources and rival institutions](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-country-gaps-and-public-acquisition/decision-record.md)
 are scoped comparisons, not public consent or proof of superior outcomes.
 No actual parcel, holder, project, title, legal competence, valuation, budget,
 accepting replacement or independent affected-party review is established.

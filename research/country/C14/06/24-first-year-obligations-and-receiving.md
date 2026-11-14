@@ -44,4 +44,4 @@ certify delivery. Reopen on matched actual evidence, a changed
 transition, a missed protection or a stronger funded alternative.
 
 [Observed opening and care comparison](../../../settlement/first-year-obligations-and-receiving/01-common-opening-and-overlapping-care.md)
-· [Decision and sources](../../../2026-11-first-year-obligations-and-receiving/decision-record.md)
+· [Decision and sources](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-first-year-obligations-and-receiving/decision-record.md)

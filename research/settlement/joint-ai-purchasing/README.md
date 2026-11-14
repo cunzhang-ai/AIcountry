@@ -45,7 +45,7 @@ already authorized payments and original review dates. These
 figures are assumptions about a declared roster, prices and failure,
 with no measured actual service or productivity effect.
 
-[Verification](verify-joint-purchase.py) · [Primary evidence](../../2026-11-joint-ai-purchasing-and-public-fallback/sources.md)
+[Verification](verify-joint-purchase.py) · [Primary evidence](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-joint-ai-purchasing-and-public-fallback/sources.md)
 
 The [workflow comparison](../discovering-public-ai-reliance/01-contracted-features-and-shared-fallback.md)
 tests reliance beyond the declared procurement and the resulting common

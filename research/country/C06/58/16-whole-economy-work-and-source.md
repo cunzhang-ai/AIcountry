@@ -79,6 +79,6 @@ but actual essentials, private agency, contracts, workers and paid OP/T claims
 must be protected; do not assert equivalent provision without evidence or
 assign private careers through a national plan. No compulsory labor, automatic
 foreign recruitment, new tax/source, weaker enacted TW right or readiness veto
-is selected. [Decision and exact results](../../../2026-11-whole-economy-work-and-source/decision-record.md)
+is selected. [Decision and exact results](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-whole-economy-work-and-source/decision-record.md)
 close this finite whole-work join with actual full resource/source qualification
 unresolved; next the largest matched whole-country decision, not a new hours grid.

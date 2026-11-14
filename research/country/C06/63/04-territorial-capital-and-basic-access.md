@@ -72,7 +72,7 @@ Carry original dates, commitments and paid successors under IV, JC and T.
 [Local duties and finance](../../C04/08-funded-local-mandates-and-equalization.md)
 · [Usable journeys](../../C07/17/05-joined-journeys-and-service-access.md)
 · [Worked portfolio](../../../settlement/territorial-capital-access/README.md)
-· [Design248 decision](../../../2026-11-territorial-capital-and-basic-access/decision-record.md)
+· [Design248 decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-territorial-capital-and-basic-access/decision-record.md)
 
 [IV18–IV22](05-maintenance-and-service-continuity.md) carries the same
 access duty through later maintenance, safe reordering and funded exit.

@@ -40,6 +40,6 @@ duties. This supplies no basis to hold the person's income payment or
 an unrelated care task. An optional support or monitoring refusal
 never supplies that clinical evidence.
 
-The [decision record](../../2026-11-essential-services-and-free-refusal/decision-record.md)
+The [decision record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-essential-services-and-free-refusal/decision-record.md)
 retains other structures and actual field questions. The financial and
 timing examples are authored and are not observed costs or effects.

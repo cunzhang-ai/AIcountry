@@ -95,4 +95,4 @@ exceeds funded endurance. A later restoration clears only the confirmed
 current interruption and leaves earlier injuries and remedies traceable.
 
 [Historical case and reproducible comparison](../../../settlement/staged-grid-restoration/README.md)
-· [Decision and migration](../../../2026-11-staged-grid-restoration-and-essential-receipt/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-staged-grid-restoration-and-essential-receipt/decision-record.md)

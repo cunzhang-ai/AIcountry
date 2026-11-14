@@ -39,7 +39,7 @@ also contrasts a 30-staff-hour initial planning estimate with a
 154-staff-hour average through payment approval, and examines the
 subset reaching that stage. It is evidence against casually reusing
 a queue's assumed effort. It is not a new staffing price or proof of
-the effect of judicial supervision. [NAO findings and scope](../../2026-11-repeated-public-failure-and-remedy/sources.md)
+the effect of judicial supervision. [NAO findings and scope](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-repeated-public-failure-and-remedy/sources.md)
 
 ## One joint receipt test
 

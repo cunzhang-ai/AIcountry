@@ -107,4 +107,4 @@ usable access, chilling disclosures, displaced duties or a simpler
 way to protect practical replacement.
 
 [Worked comparison](../../../settlement/contestable-transition-preparation/01-three-contestants-and-a-late-correction.md)
-· [Decision and migration](../../../2026-11-contestable-transition-preparation/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-contestable-transition-preparation/decision-record.md)

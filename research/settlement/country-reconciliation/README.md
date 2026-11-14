@@ -17,13 +17,13 @@ connects it to S16/Y15/T04 while preserving already due rights and elections.
 3. [Real alternatives and remaining country decisions](03-alternatives-and-open-work.md).
 4. [Sources, review scope and correction limits](04-sources-and-review-limits.md).
 
-The [14-chapter audit](../../status/completion/04-country-audit-findings.md)
+The [14-chapter audit](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/status/completion/04-country-audit-findings.md)
 distinguishes actual normative omissions, accounting defects, value conflicts,
 context inputs, authority and lived outcomes. It is a scoped multi-agent desk
 audit under one AI controller; not qualified independent review or participation.
 
-The [dated record](../../2026-10-whole-country-reconciliation/README.md)
-preserves [460 exact predecessor artifacts](../../2026-10-whole-country-reconciliation/predecessor-design-78/SNAPSHOT.md).
+The [dated record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-whole-country-reconciliation/README.md)
+preserves [460 exact predecessor artifacts](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-whole-country-reconciliation/predecessor-design-78/SNAPSHOT.md).
 The bridge corrects a declared numerical scope only. Old payment/bid identities
 remain historical support where unaffected, not blanket financing/feasibility
 approval. Actual new-duty requirements, sources, capacity, adoption, received

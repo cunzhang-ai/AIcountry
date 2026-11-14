@@ -103,7 +103,7 @@ unexplained delays, exposure through linkage or a more reliable
 ordinary alternative.
 
 [Budget and coverage comparison](../../../settlement/independent-public-statistics/README.md)
-· [Decision and evidence limits](../../../2026-11-independent-public-statistics/decision-record.md)
+· [Decision and evidence limits](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-independent-public-statistics/decision-record.md)
 
 [MF14–MF18](../../C04/08/04-funding-through-population-change.md) applies the lawful
 contingency to local funding when a population series breaks. A verified

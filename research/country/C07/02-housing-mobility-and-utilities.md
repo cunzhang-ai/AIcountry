@@ -28,7 +28,7 @@ A landlord's insolvency or unsafe building needs tenancy, deposit, property,
 creditor and safe-accommodation process; a transit operator's exit needs lawful
 step-in, route and ticket records, accessible vehicles, depots, trained workers
 and payment authority. Paper receivers cannot carry residents or house them.
-The [housing-and-mobility comparison](../../2026-10-housing-and-mobility/analysis.md)
+The [housing-and-mobility comparison](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-housing-and-mobility/analysis.md)
 retains direct-public and regulated-plural alternatives and the risk that a
 local public provider becomes a patronage landlord or excludes newcomers.
 
@@ -39,7 +39,7 @@ debts or promise unlimited use. Food access combines income protection with
 physical supply and emergency in-kind delivery when money cannot buy food at
 an accessible place. The public steward remains answerable for a safe alternative
 after a licensed operator's failure; a completed transfer notice is not delivered
-water, power or food. The [essential-systems comparison](../../2026-10-material-and-resilience/essential-systems.md)
+water, power or food. The [essential-systems comparison](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-material-and-resilience/essential-systems.md)
 preserves different operational forms for networks and food production under
 one national guarantee and ecological account.
 [TH safe home temperatures](../C09/23-safe-home-temperatures-and-continuity.md)

@@ -30,4 +30,4 @@ stocks have distinct accounts. No quoted cheap ingredient/tariff cuts old rights
 All actual finance, source-law migration, quality and paid receiving remain open.
 No new tax, cap, office, engineering law, payment priority or rationing power.
 
-[Comparison](../physical-portfolio/README.md) · [Remaining design work](../../status/completion/35-physical-portfolio-and-democratic-capacity.md)
+[Comparison](../physical-portfolio/README.md) · [Remaining design work](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/status/completion/35-physical-portfolio-and-democratic-capacity.md)

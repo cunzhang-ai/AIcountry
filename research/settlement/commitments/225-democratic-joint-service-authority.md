@@ -9,6 +9,6 @@ authority require their own law.
 
 Carry worker pay, contracts, resident duties, pending remedies,
 funded assets and record custody through expiry or withdrawal.
-The [decision record](../../2026-11-democratic-joint-service-authority/decision-record.md)
+The [decision record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-democratic-joint-service-authority/decision-record.md)
 identifies the better direct, compact and contractual alternatives
 to test with a real calendar and paid review.

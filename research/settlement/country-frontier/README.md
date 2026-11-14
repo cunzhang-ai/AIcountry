@@ -10,9 +10,9 @@ TW36/32 and real rivals while qualifying aggregate affordability claims.
 |---|---|
 | [Reference and findings](01-reference-and-findings.md) | Fresh complete reference expense views, scope coverage and conditional paid-time frontier |
 | [Alternatives and unknowns](02-alternatives-and-unpriced-duties.md) | Whole choices, distribution, transition/source limits and finite next action |
-| [Dated decision](../../2026-11-country-source-and-capacity-frontier/decision-record.md) | Preserved baseline, sources, actual inspection, compatibility and bounded conclusion |
-| [Reproducible results](../../2026-11-country-source-and-capacity-frontier/results.json) | 432 explicit sensitivity combinations plus unknown/cash/foreign/title boundaries |
-| [Coverage register](../../2026-11-country-source-and-capacity-frontier/coverage-register.json) | 37 full original functions/90 inherited scopes and61 exact original selections; no127 additive programmes |
+| [Dated decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-country-source-and-capacity-frontier/decision-record.md) | Preserved baseline, sources, actual inspection, compatibility and bounded conclusion |
+| [Reproducible results](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-country-source-and-capacity-frontier/results.json) | 432 explicit sensitivity combinations plus unknown/cash/foreign/title boundaries |
+| [Coverage register](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-country-source-and-capacity-frontier/coverage-register.json) | 37 full original functions/90 inherited scopes and61 exact original selections; no127 additive programmes |
 
 Actual candidate cost/source/capacity, legitimate authorization, operation and
 observed better lives remain unknown. Successful arithmetic establishes none

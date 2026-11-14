@@ -36,7 +36,7 @@ subject to legal protection, persistence and cumulative commitments. A unit
 already supporting another permit or arriving the following season leaves 5.
 A verified flood unit supplies no corridor protection.
 
-The [decision record](../../2026-11-ecological-loss-and-replacement/decision-record.md)
+The [decision record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-ecological-loss-and-replacement/decision-record.md)
 retains the alternatives and reopening test. The accompanying check exercises
 authored arithmetic and release predicates. Actual housing and ecological
 outcomes require field observation and independent receiving evidence.

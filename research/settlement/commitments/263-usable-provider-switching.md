@@ -4,6 +4,6 @@
 requires funded safe transfer, independent review and separate
 financial correction under the applicable sector schedule.
 
-The [decision](../../2026-11-usable-provider-switching/decision-record.md)
+The [decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-usable-provider-switching/decision-record.md)
 retains simpler bilateral and cancellation-only options where they work.
 Actual cost, paid fallback and useful receipt remain open.

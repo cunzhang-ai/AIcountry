@@ -34,4 +34,4 @@ the claim and verifies any due relief. A confirmed common implementation
 error can trigger LX through its competent duty owner. People retain
 their separate remedies and deadlines throughout.
 
-[Decision and source limits](../../2026-11-public-ombuds-and-systemic-correction/decision-record.md).
+[Decision and source limits](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-public-ombuds-and-systemic-correction/decision-record.md).

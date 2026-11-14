@@ -73,4 +73,4 @@ contract to satisfy the competition requirement. This establishes one legal form
 with no basis for importing its duration or inferring that a bridge will
 deliver care. [FAR 52.217-8](https://www.acquisition.gov/far/52.217-8) · [FAR 17.207](https://www.acquisition.gov/far/17.207)
 
-[Canonical rule](../../country/C03/19/11-essential-service-renewal-and-elected-choice.md) · [Decision record](../../2026-11-essential-service-renewal-and-elected-choice/decision-record.md).
+[Canonical rule](../../country/C03/19/11-essential-service-renewal-and-elected-choice.md) · [Decision record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-essential-service-renewal-and-elected-choice/decision-record.md).

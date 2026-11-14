@@ -4,7 +4,7 @@
 
 The old S service envelopes total 774 million fictional CU in year 2.
 Income support is separately 120 million in the compound case: 100 retained
-plus 20 authored additional need. The [inputs](../../2026-10-continuity-law/inputs.json)
+plus 20 authored additional need. The [inputs](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-10-continuity-law/inputs.json)
 assume core staffing shares inside existing required FTE. They allocate
 each envelope at its constant average cost per required FTE, including
 nonwage costs. This is an explicit **scenario placeholder**, not observed

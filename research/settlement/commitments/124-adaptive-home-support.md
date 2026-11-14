@@ -8,7 +8,7 @@ Clinical authority, consent, paid work and independent challenge remain
 separate. Existing assistance choices continue.
 
 [Observed and constructed comparisons](../adaptive-home-support/README.md) ·
-[Decision record](../../2026-11-adaptive-home-support/decision-record.md)
+[Decision record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-adaptive-home-support/decision-record.md)
 
 Historical law, budgets and a recipient survey qualify different parts of
 the design. This supplies no affected mandate, adoption, paid readiness or

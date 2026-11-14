@@ -46,5 +46,5 @@ the public share was merely a forecast, no split contract has been
 established and the case needs a separate actual source or other
 affordable offer.
 
-The [decision record](../../2026-11-rental-entry-and-lawful-income/decision-record.md)
+The [decision record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-rental-entry-and-lawful-income/decision-record.md)
 retains alternatives and scope. All amounts and capacities are authored.

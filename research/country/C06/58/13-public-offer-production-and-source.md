@@ -86,7 +86,7 @@ contract/creditor/record/claim successors and all earlier legal clocks persist.
 Same-controller source/calculation review supplies no affected assent or actual
 independent engineering/legal/fiscal approval, safe receiving or better lives.
 
-[The retained/change comparison](../../../2026-11-public-offer-and-production-bridge/README.md)
+[The retained/change comparison](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-public-offer-and-production-bridge/README.md)
 closes this finite production/source bridge. Next join one qualified current
 public-offer increment to its actual task/quality/calendar, household incidence,
 public/private source and paid transition inside this common account. Do not

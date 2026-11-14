@@ -54,4 +54,4 @@ effective change in the water objective, an exact allocation,
 paid capacity, a failed handoff or a stronger ordinary alternative.
 
 [Observed funding and restoration exercise](../../../settlement/integrated-first-programme/08-copenhagen-emergency-reserve.md)
-· [Decision and migration](../../../2026-11-copenhagen-emergency-reserve/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-copenhagen-emergency-reserve/decision-record.md)

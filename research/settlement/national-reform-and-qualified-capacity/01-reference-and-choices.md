@@ -87,4 +87,4 @@ extra cost merits the earlier access. Show any other use of the
 same cash as a competing choice. The scenario assumes no actual
 national authority, prices, realized savings or improvement.
 
-[Reproduction](verify-national-choices.py) · [Decision](../../2026-11-national-reform-and-qualified-capacity/decision-record.md).
+[Reproduction](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/settlement/national-reform-and-qualified-capacity/verify-national-choices.py) · [Decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-national-reform-and-qualified-capacity/decision-record.md).

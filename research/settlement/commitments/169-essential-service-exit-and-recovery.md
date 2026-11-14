@@ -7,6 +7,6 @@ or supplier. Source independently paid verification. Count recovery
 only after actual lawful collection.
 
 [Observed and authored checks](../essential-service-exit/README.md)
-· [Decision and migration](../../2026-11-essential-service-exit-and-recovery/decision-record.md)
+· [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-essential-service-exit-and-recovery/decision-record.md)
 
 Actual authority, qualified cash and paid receiving remain open.

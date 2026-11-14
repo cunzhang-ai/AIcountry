@@ -19,6 +19,6 @@ Actual constitutional/software/contribution permissions/holds, earlier lawful
 rights and paid OP/T asset/staff/pension/contract/creditor/record/case/claim
 successors persist. This is a source-reference revision, no actual new law,
 rate/date/office, fee abolition, intervention budget or authority to use funds.
-[Decision](../../2026-11-care-provider-cost-and-source/decision-record.md)
+[Decision](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-care-provider-cost-and-source/decision-record.md)
 closes the bounded cost/source inspection unresolved for a qualified candidate
 increment/source; no automatic next municipality/childcare-study sequence.

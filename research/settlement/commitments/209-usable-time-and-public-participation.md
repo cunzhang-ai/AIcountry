@@ -4,4 +4,4 @@
 joins usable time, paid support, independent review and real opportunity
 without requiring private schedules or merging public powers.
 
-[Comparison](../usable-time/README.md) · [Decision and migration](../../2026-11-usable-time-and-public-participation/decision-record.md)
+[Comparison](../usable-time/README.md) · [Decision and migration](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-usable-time-and-public-participation/decision-record.md)

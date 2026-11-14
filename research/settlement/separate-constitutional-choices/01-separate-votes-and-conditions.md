@@ -38,5 +38,5 @@ separated questions. Independently authorized untouched text follows
 its own timetable. This case assumes no judicial power to change
 the threshold or the protected succession.
 
-The [decision record](../../2026-11-separate-constitutional-choices/decision-record.md)
+The [decision record](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-separate-constitutional-choices/decision-record.md)
 retains alternatives and an actual readiness check.

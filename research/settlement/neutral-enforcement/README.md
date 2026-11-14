@@ -6,5 +6,5 @@
   separates case findings, formal prosecution arrangements and standards.
 - [One contest, a freeze and a credible threat](02-two-paths-through-one-campaign-clock.md)
   tests harmful timing, lawful emergency action and actual execution.
-- [Choice and transition](../../2026-11-open-contests-and-neutral-enforcement/decision-record.md)
+- [Choice and transition](https://github.com/cunzhang-ai/AIcountry/blob/edition-1/research/2026-11-open-contests-and-neutral-enforcement/decision-record.md)
   records the constitutional and ordinary-law choice and its limits.
