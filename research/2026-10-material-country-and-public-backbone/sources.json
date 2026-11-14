@@ -1,0 +1,50 @@
+{
+  "edition": 84,
+  "read_date": "2026-10-15",
+  "documentary_entries": 2,
+  "institutional_families": 2,
+  "publisher_byte_archive": false,
+  "full_legal_fiscal_clinical_or_operational_conformity": false,
+  "sources": [
+    {
+      "id": "ILO-R202-ANNEX",
+      "family": "ILO",
+      "url": "https://www.ilo.org/sites/default/files/wcmsp5/groups/public/%40ed_protect/%40soc_sec/documents/publication/wcms_538986.pdf",
+      "publication": "2016 volume; recommendation adopted2012",
+      "inspected": "Annex1 printed129-135/PDF140-146; principles and paras4-22, especially resources/sequence/participation; not case studies elsewhere in volume",
+      "kind": "Normative recommendation text, not treaty, actual adoption or outcome observations",
+      "limits": "Intro calls recommendation treaty; that characterization explicitly not adopted. Does not validate NP or120/180-day procedure."
+    },
+    {
+      "id": "IMF-TRANSPARENCY-OVERVIEW",
+      "family": "IMF",
+      "url": "https://www.imf.org/en/topics/fiscal-policies/fiscal-transparency",
+      "publication": "Live overview inspected15October2026",
+      "inspected": "Fiscal reporting/forecasting/budgeting/risk/accountability overview, not whole code/handbook or underlying country evaluations",
+      "kind": "Institutional overview, not direct evidence that NP is superior",
+      "limits": "No optimal tax/priority or full-source-law conformity claim"
+    }
+  ],
+  "failed_or_limited_routes": [
+    {
+      "url": "https://www.elibrary.imf.org/display/book/9781484331859/ch03.xml",
+      "result": "403; whole2018 handbook chapter not inspected"
+    },
+    {
+      "url": "https://www.imf.org/external/np/fad/trans/manual/sec03a.htm",
+      "result": "Internal tool fetch error; search snippets not full inspection"
+    },
+    {
+      "url": "https://www.imf.org/files/ft-code.pdf",
+      "result": "Official linked PDF failed parsing; whole code not inspected"
+    },
+    {
+      "url": "https://unstats.un.org/unsd/Nationalaccount/sna.asp",
+      "result": "Redirect to econstats/national-accounts/sna yielded one-line response; no new2025 SNA text read"
+    },
+    {
+      "url": "https://normlex.ilo.org/dyn/nrmlx_en/f?p=NORMLEXPUB%3A12100%3A0%3A%3ANO%3A12100%3AP12100_INSTRUMENT_ID%3A3065524%3ANO",
+      "result": "Agent direct route looped/failed; primary Annex text inspected via successful alternate"
+    }
+  ]
+}

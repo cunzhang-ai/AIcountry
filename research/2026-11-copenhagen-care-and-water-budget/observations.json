@@ -1,0 +1,40 @@
+{
+  "period": 2025,
+  "money_unit": "DKK thousand",
+  "health_and_care": {
+    "service_budget": 5739793,
+    "service_expense": 5725004,
+    "reported_service_underspend": 14789,
+    "home_care_overspend_rounded": 18500,
+    "nursing_overspend_rounded": 18200,
+    "requested_service_carryforward_march": 8788,
+    "own_technical_service_carryforward_april_rounded": -100
+  },
+  "council_2026": {
+    "remaining_citywide_service_allowance_and_financing_rounded": 8700,
+    "dementia_package_service_rounded": 5800,
+    "afforestation_service_rounded": 3000,
+    "continuity_plan_approval": "2026-05-21"
+  },
+  "water_company": {
+    "report_sha256": "ca83dac6779a7adb1e43b2d26e5cd6cb69966e4861a09c344c93cec025acf2e0",
+    "annual_revenue": 865620,
+    "supply_area_sales": 328556,
+    "external_utility_sales": 120498,
+    "regulatory_adjustments": 416566,
+    "annual_profit": 204201,
+    "year_end_bank_deposits": 50,
+    "year_end_related_entity_receivables": 108177,
+    "customer_receivables_noncurrent": 545082,
+    "customer_receivables_current": 64158,
+    "customer_over_recovery_liability": 21509
+  },
+  "joint_window": {
+    "lawfully_available_new_city_cash_on_due_date": null,
+    "lawfully_available_new_utility_cash_on_due_date": null,
+    "received_water_reserve": null,
+    "available_qualified_care_shifts": null,
+    "incremental_release_approval": null,
+    "observed_joint_service_receipt": null
+  }
+}

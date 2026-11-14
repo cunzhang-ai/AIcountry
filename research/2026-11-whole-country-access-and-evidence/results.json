@@ -1,0 +1,272 @@
+{
+  "edition": 94,
+  "scope": "Conditional arithmetic and illustrative institution thresholds only; no complete country operating account",
+  "context": {
+    "edition": 94,
+    "status": "Authored conditional commencement/source-frontier seed; no selected funded launch, actual offer, source or readiness",
+    "selected_research_context": "Existing-community retrofit; actual territory, residents, titles, lawful authority and opening accounts unknown",
+    "rival_context": "Paid new settlement/greenfield; all required assets, land, construction, imports and public capacity need explicit acquisition/source; not assumed absent in retrofit",
+    "paths": [
+      {
+        "id": "resource_fit_mixed/desal",
+        "named_recurring_foreign_reference_quote_subtotal_CU": 98645717.35297477,
+        "named_subtotal_only": true,
+        "established_actual_country_lower_bound": false,
+        "scope": "Disjoint named PS recurring foreign quotes plus PA final-goods border invoice; not full imports, CPI, actual FX demand or a funded plan",
+        "net_national_energy_scope_complete": false,
+        "full_foreign_requirement": null,
+        "actual_owned_foreign_source": null,
+        "actual_residual_or_feasibility": null,
+        "separate_initial_water_asset_quote_CU": 68850000,
+        "separate_initial_water_asset_foreign_quote_CU": 35752500.0,
+        "separate_initial_water_fill_m3": 200000,
+        "separate_initial_fill_process_GWh": 0.8,
+        "initial_items_are_not_in_recurring_subtotal": true,
+        "initial_water_source_and_other_initial_purchases": null
+      },
+      {
+        "id": "import_heavy/bulk",
+        "named_recurring_foreign_reference_quote_subtotal_CU": 111633156.47144523,
+        "named_subtotal_only": true,
+        "established_actual_country_lower_bound": false,
+        "scope": "Disjoint named PS recurring foreign quotes plus PA final-goods border invoice; not full imports, CPI, actual FX demand or a funded plan",
+        "net_national_energy_scope_complete": false,
+        "full_foreign_requirement": null,
+        "actual_owned_foreign_source": null,
+        "actual_residual_or_feasibility": null,
+        "separate_initial_water_asset_quote_CU": 40000000,
+        "separate_initial_water_asset_foreign_quote_CU": 16400000.0,
+        "separate_initial_water_fill_m3": 200000,
+        "separate_initial_fill_process_GWh": 0.02,
+        "initial_items_are_not_in_recurring_subtotal": true,
+        "initial_water_source_and_other_initial_purchases": null
+      }
+    ],
+    "nonfood_all_absent_hypothesis": {
+      "components_CU": {
+        "operator_replacement_quote": 108330000,
+        "household_consumer_stock_quote": 92500000,
+        "working_inventory_if_absent": 3139726.02739726
+      },
+      "named_quote_subtotal_CU": 203969726.02739727,
+      "actual_initial_requirement_CU": null,
+      "actual_G_use_CU": null,
+      "actual_foreign_requirement_CU": null,
+      "scope": "Only if these separately classified stocks are absent and this pack is chosen; no addition for already owned/included assets; excludes other assets, land, finance, initial delivery and tails",
+      "CFC_reference_not_added_CU": 6323500.0
+    },
+    "four_source_frontiers": {
+      "recurring_general_public": {
+        "required_CU": null,
+        "received_recurring_sources_CU": null,
+        "residual_CU": null,
+        "coverage": "Current protection/services/admin + actual own replacement + external coupons/other continuing obligations; distinguish financial subscriptions, new capital and principal. Keep G and S separate and remove internal transfers/coupons only in a stated consolidation."
+      },
+      "initial_assets_and_transition": {
+        "actual_required_CU": null,
+        "owned_uncommitted_sources_CU": null,
+        "coverage": "Only absent/new/paid-acquired assets, land/title settlement, inventories/fill, training/overlap, compensation, required subscriptions and liquidity seeds, with distinct owners and no duplicate initial-vs-replacement purchase."
+      },
+      "due_date_liquidity": {
+        "required_by_account_currency_date": null,
+        "usable_owned_cash_and_actual_receipts": null,
+        "maximum_uncovered_requirement": null,
+        "coverage": "Calendar cumulative due uses minus usable owned opening cash and receipts; restricted S/client/renewal cash not a G offer. Include pre-first-pay seed, maturity, fees/coupons and source dates. No automatic overdraft or end-year money funding first month."
+      },
+      "owned_foreign_settlement": {
+        "full_required_by_currency_date": null,
+        "actual_owned_source_by_currency_date": null,
+        "coverage": "Reference subtotals calculated below; full uses add other imports/foreign debt/initial purchases/fees and matching timing. No assumed exports, conversion guarantee, grants, lender consent or private pooling."
+      }
+    },
+    "full_operating_budget_or_price_closure": null,
+    "lawful_commencement_or_operational_readiness": null,
+    "observed_better_lives": null,
+    "bounded_arithmetic_checks": {
+      "three_different_nonfood_opening_stock_classes": true,
+      "no_CFC_added_as_initial_purchase": true,
+      "no_automatic_opening_purchase": true,
+      "no_actual_source_credited": true,
+      "all_current_actual_fields_unknown": true,
+      "no_full_financing_requirement_computed": true
+    }
+  },
+  "mobility": {
+    "local_cases": [
+      {
+        "id": "packed_network",
+        "person_returns_week": 2000,
+        "passenger_km_year": 1040000,
+        "vehicle_returns_week": 40.0,
+        "vehicle_km_week": 500.0,
+        "task_hours_week": 28.0,
+        "task_hours_year": 1456.0,
+        "task_driver_post_bound": 2,
+        "reserve_posts": 1,
+        "dispatch_posts": 0.5,
+        "fleet_hypothesis": 2,
+        "initial_fleet_quote_CU": 400000,
+        "fuel_quote_CU_year": 9360.0,
+        "maintenance_quote_CU_year": 16000,
+        "renewal_cash_quote_CU_year": 33333.333333333336,
+        "named_recurring_subtotal_CU": 175693.33333333334,
+        "omitted_costs": [
+          "finance",
+          "insurance",
+          "qualification",
+          "inspection",
+          "access construction",
+          "tax",
+          "other suppliers",
+          "constrained waiting beyond named handling"
+        ],
+        "qualified_roster_or_fleet": false,
+        "actual_offer_or_source": null
+      },
+      {
+        "id": "demand_responsive",
+        "person_returns_week": 2000,
+        "passenger_km_year": 1040000,
+        "vehicle_returns_week": 1000.0,
+        "vehicle_km_week": 15000.0,
+        "task_hours_week": 800.0,
+        "task_hours_year": 41600.0,
+        "task_driver_post_bound": 38,
+        "reserve_posts": 2,
+        "dispatch_posts": 2,
+        "fleet_hypothesis": 12,
+        "initial_fleet_quote_CU": 720000,
+        "fuel_quote_CU_year": 93600.0,
+        "maintenance_quote_CU_year": 48000,
+        "renewal_cash_quote_CU_year": 90000.0,
+        "named_recurring_subtotal_CU": 1515600.0,
+        "omitted_costs": [
+          "finance",
+          "insurance",
+          "qualification",
+          "inspection",
+          "access construction",
+          "tax",
+          "other suppliers",
+          "constrained waiting beyond named handling"
+        ],
+        "qualified_roster_or_fleet": false,
+        "actual_offer_or_source": null
+      }
+    ],
+    "country_cases": [
+      {
+        "return_km": 10,
+        "usage_fraction": 1,
+        "ordinary_person_returns_year": 10400000,
+        "ordinary_passenger_km": 104000000,
+        "old_PA_after_ordinary_passenger_km": 46000000,
+        "necessary_other_trips_included": false,
+        "accepted_capacity": false
+      },
+      {
+        "return_km": 10,
+        "usage_fraction": 0.5,
+        "ordinary_person_returns_year": 5200000.0,
+        "ordinary_passenger_km": 52000000.0,
+        "old_PA_after_ordinary_passenger_km": 98000000.0,
+        "necessary_other_trips_included": false,
+        "accepted_capacity": false
+      },
+      {
+        "return_km": 20,
+        "usage_fraction": 1,
+        "ordinary_person_returns_year": 10400000,
+        "ordinary_passenger_km": 208000000,
+        "old_PA_after_ordinary_passenger_km": -58000000,
+        "necessary_other_trips_included": false,
+        "accepted_capacity": false
+      },
+      {
+        "return_km": 20,
+        "usage_fraction": 0.5,
+        "ordinary_person_returns_year": 5200000.0,
+        "ordinary_passenger_km": 104000000.0,
+        "old_PA_after_ordinary_passenger_km": 46000000.0,
+        "necessary_other_trips_included": false,
+        "accepted_capacity": false
+      }
+    ],
+    "wheelchair_peak": {
+      "first_arrival_minute": 525,
+      "next_arrival_minute": 575,
+      "deadline_minute": 540,
+      "first_wave_capacity": 2,
+      "people": 3,
+      "all_arrive_in_time": false,
+      "actual_safe_engineering": null
+    },
+    "actual_national_cost_or_source": null
+  },
+  "evidence": {
+    "full_seats": 101,
+    "votes_required": 61,
+    "illustrative_votes": [
+      {
+        "yes": 60,
+        "threshold_met": false,
+        "actual_appointment": false
+      },
+      {
+        "yes": 61,
+        "threshold_met": true,
+        "actual_appointment": false
+      }
+    ],
+    "vacancy_cases": [
+      {
+        "elapsed_days": 0,
+        "limited_deputy_continuity": true,
+        "routine_source_preservation_existing_series_and_in_method_correction_continue": true,
+        "new_policy_or_senior_discretion_from_vacancy": false,
+        "appointment_from_elapsed_time": false
+      },
+      {
+        "elapsed_days": 179,
+        "limited_deputy_continuity": true,
+        "routine_source_preservation_existing_series_and_in_method_correction_continue": true,
+        "new_policy_or_senior_discretion_from_vacancy": false,
+        "appointment_from_elapsed_time": false
+      },
+      {
+        "elapsed_days": 180,
+        "limited_deputy_continuity": false,
+        "routine_source_preservation_existing_series_and_in_method_correction_continue": true,
+        "new_policy_or_senior_discretion_from_vacancy": false,
+        "appointment_from_elapsed_time": false
+      },
+      {
+        "elapsed_days": 181,
+        "limited_deputy_continuity": false,
+        "routine_source_preservation_existing_series_and_in_method_correction_continue": true,
+        "new_policy_or_senior_discretion_from_vacancy": false,
+        "appointment_from_elapsed_time": false
+      },
+      {
+        "elapsed_days": 365,
+        "limited_deputy_continuity": false,
+        "routine_source_preservation_existing_series_and_in_method_correction_continue": true,
+        "new_policy_or_senior_discretion_from_vacancy": false,
+        "appointment_from_elapsed_time": false
+      }
+    ],
+    "legal_series_definition_changed_by_method": false,
+    "statistical_revision_automatically_reprices_claim": false,
+    "actual_authority_publication_or_funding": null
+  },
+  "actual": {
+    "authority": null,
+    "appropriation": null,
+    "owned_sources": null,
+    "vehicles_drivers_or_staff": null,
+    "affected_participation": null,
+    "qualified_independent_review": null,
+    "delivered_remedies": null,
+    "better_lives": null
+  }
+}

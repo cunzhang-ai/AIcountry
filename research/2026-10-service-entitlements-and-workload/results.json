@@ -1,0 +1,173 @@
+{
+  "edition": 67,
+  "education": {
+    "early_users": 2400.0,
+    "early_groups": 200,
+    "school_groups": 560,
+    "early_contact_teacher_hours": 156000.0,
+    "school_contact_teacher_hours": 655200.0,
+    "teacher_preparation_hours": 405600.0,
+    "teacher_hours": 1216800.0,
+    "individual_support_hours": 109200.0,
+    "combined_known_role_hours": 1326000.0,
+    "teacher_normal_margin": 1156800.0,
+    "support_normal_margin": 10800.0,
+    "support_additional_absence_gap": 1200.0,
+    "aggregate_absence_margin_before_other_tasks": 1134240.0,
+    "unknown_other_education_work": null
+  },
+  "care": {
+    "under3_users": 1800.0,
+    "under3_group_carer_hours": 1152000.0,
+    "preschool_carer_hours": 612000.0,
+    "adult_care_hours": 2080000.0,
+    "known_partial_care_hours": 3844000.0,
+    "normal_available_hours": 2700000.0,
+    "normal_gap_hours": 1144000.0,
+    "additional_absence_available_hours": 2430000.0,
+    "additional_absence_gap_hours": 1414000.0,
+    "missing_school_age_and_other_care": null
+  },
+  "primary": {
+    "unique_episodes": 300000.0,
+    "tagged_service_count_not_unique_episodes": 350000.0,
+    "label_overlap": 5000.0,
+    "base_role_hours_including_own_notes": 120000.0,
+    "mental_role_hours_including_own_incremental_work": 12500.0,
+    "reproductive_role_hours_including_own_incremental_work": 6666.666666666667,
+    "clerical_hours": 30000.0,
+    "double_booked_base_minutes_if_tags_bought_independently": 1000000.0,
+    "normal_base_margin": 12000.0,
+    "absence_base_gap": 1200.0,
+    "normal_reproductive_margin": 533.3333333333334,
+    "absence_reproductive_gap": 186.66666666666666,
+    "normal_mental_margin": 1900.0,
+    "absence_mental_gap": 0.0,
+    "actual_competence_or_receipt": null,
+    "all_other_clinical_workload": null
+  },
+  "valid_joint_preschool_delivery": {
+    "joint_actual_staff_hours": 768000.0,
+    "independent_duplicate_staff_hours": 1080000.0,
+    "hours_double_booked_if_both_bought_in_full": 312000.0,
+    "physical_child_care_hours": 4608000.0,
+    "included_child_learning_hours": 1872000.0,
+    "early_learning_users": 2400.0,
+    "childcare_users_independent_of_learning": 2400.0,
+    "unique_child_service_hours": 4608000.0,
+    "actual_dual_safety_and_quality_verified": null
+  },
+  "shared_admin": {
+    "annual_due_hours": 36000.0,
+    "annual_ordinary_capacity": 36000.0,
+    "annual_ordinary_margin": 0.0,
+    "calendar": [
+      {
+        "month": 1,
+        "due_hours": 2500.0,
+        "ordinary_gap": 0.0,
+        "additional_absence_gap": 0.0
+      },
+      {
+        "month": 2,
+        "due_hours": 2500.0,
+        "ordinary_gap": 0.0,
+        "additional_absence_gap": 0.0
+      },
+      {
+        "month": 3,
+        "due_hours": 2500.0,
+        "ordinary_gap": 0.0,
+        "additional_absence_gap": 0.0
+      },
+      {
+        "month": 4,
+        "due_hours": 2500.0,
+        "ordinary_gap": 0.0,
+        "additional_absence_gap": 0.0
+      },
+      {
+        "month": 5,
+        "due_hours": 2500.0,
+        "ordinary_gap": 0.0,
+        "additional_absence_gap": 0.0
+      },
+      {
+        "month": 6,
+        "due_hours": 2500.0,
+        "ordinary_gap": 0.0,
+        "additional_absence_gap": 0.0
+      },
+      {
+        "month": 7,
+        "due_hours": 2500.0,
+        "ordinary_gap": 0.0,
+        "additional_absence_gap": 0.0
+      },
+      {
+        "month": 8,
+        "due_hours": 2500.0,
+        "ordinary_gap": 0.0,
+        "additional_absence_gap": 0.0
+      },
+      {
+        "month": 9,
+        "due_hours": 5500.0,
+        "ordinary_gap": 2500.0,
+        "additional_absence_gap": 2800.0
+      },
+      {
+        "month": 10,
+        "due_hours": 5500.0,
+        "ordinary_gap": 2500.0,
+        "additional_absence_gap": 2800.0
+      },
+      {
+        "month": 11,
+        "due_hours": 2500.0,
+        "ordinary_gap": 0.0,
+        "additional_absence_gap": 0.0
+      },
+      {
+        "month": 12,
+        "due_hours": 2500.0,
+        "ordinary_gap": 0.0,
+        "additional_absence_gap": 0.0
+      }
+    ],
+    "sum_ordinary_positive_period_gaps": 5000.0,
+    "sum_additional_absence_positive_period_gaps": 5600.0,
+    "actual_cross_role_permission_and_records_separation": null
+  },
+  "illustrative_repair": {
+    "care_FTE": 1310,
+    "education_support_FTE": 2,
+    "primary_general_FTE": 2,
+    "primary_reproductive_FTE": 1,
+    "two_month_additional_admin_people": 32,
+    "gross_annual_and_seasonal_salary_floor_million": 39.7,
+    "preparation_sites_and_source_cost": null,
+    "actual_available_qualified_people": null,
+    "actual_private_work_displaced": null,
+    "changes_are_not_selected_country_headcounts": true
+  },
+  "actual_safe_service_standards": null,
+  "full_current_country_cost": null,
+  "actual_operational_readiness": false,
+  "observed_life_improvement": null,
+  "limits": [
+    "Population age bands, take-up, assessed needs, group sizes, times, annual usable hours, wages and available-role allocations are authored, not observations or scientifically certified safety standards.",
+    "The policy reference provides offers, not mandatory classroom/screen hours. The cohort exercise does not establish genuine individual take-up, adequate access or equivalent learning.",
+    "One preschool episode has a qualified teacher and carer in learning hours; outside them it has two qualified carers. Joint supervision/learning requires actual evidence, not label overlap or automatically interchangeable staff.",
+    "Teacher preparation and base professional documentation are workloads inside the declared 1200 allocatable hours, not already subtracted from that capacity. Ordinary non-task allowances are outside it; the 10% absence is additional unexpected loss.",
+    "National grouping arithmetic is not a local safe roster. Geography, inclusion, travel, individual clinical/care acuity, shift timing and actual professional standards may require more resources.",
+    "The education teacher/support/other split sums to 2278 and is a new authored allocation, not proof of real qualifications. Other education tasks, older learners and first qualifying pathways remain unmeasured.",
+    "The 2250 care FTE is only the earlier public backbone. Actual accredited additional supply/finance is unknown; school-age wraparound, other care, holiday needs beyond the 48-week baseline and individual high needs are unpriced, not zero.",
+    "Primary base, mental increment, reproductive increment and clerical work are distinct declared skills. Some episode labels overlap, but incremental specialized work is not assumed free. Their allocations are included within old national role totals, not extra people.",
+    "The primary/election clerical pool is an illustrative time contention, not authority to combine personal records or appoint health staff as electoral decision-makers. Actual competence, law, privacy and independent review are unverified.",
+    "Additional repair staff face the same unexpected absence. Added salaries are gross known components only, not a fully funded alternative: training, sites, recurring renewal, contributions/benefit interactions, private displacement, actual people and source cash remain unknown.",
+    "The model prices no full country or complete service package, counts no hypothetical AI saving, and does not validate the seven/fourteen-day legal service deadlines or any actual receiving remedy.",
+    "All changes remain research; no actual national authority, affected participation, qualified independent service review, operational readiness or observed improvement is obtained.",
+    "Early-learning and preschool-care participation are independent, with a declared overlap rather than a condition of entitlement. Declining early learning does not remove childcare; actual take-up and safe integrated provision remain unverified."
+  ]
+}

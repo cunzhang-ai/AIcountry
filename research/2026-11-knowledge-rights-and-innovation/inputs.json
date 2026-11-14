@@ -1,0 +1,117 @@
+{
+  "edition": 95,
+  "status": "Entirely authored conditional rights/cash/transition examples, no actual legal, finance or engineering offer",
+  "unit": "million CU of quoted uses unless stated. Foreign demand/source use fixture quote-equivalent only; actual currencies/rates unknown.",
+  "scope_keys": [
+    "right_id",
+    "holder_authority",
+    "territory",
+    "recipient",
+    "permitted_acts",
+    "purpose",
+    "period",
+    "conditions_met"
+  ],
+  "medicine": {
+    "prior_research_grant": 12,
+    "valid_prior_license": {
+      "right_id": "formulation_foreground_1",
+      "holder_authority": "fixture_verified",
+      "territory": "fixture_domestic",
+      "recipient": "designated_supplier",
+      "permitted_acts": [
+        "manufacture",
+        "public_supply"
+      ],
+      "purpose": "essential_care",
+      "period": "current_fixture_year",
+      "conditions_met": true
+    },
+    "requested_license": {
+      "right_id": "formulation_foreground_1",
+      "holder_authority": "fixture_verified",
+      "territory": "fixture_domestic",
+      "recipient": "designated_supplier",
+      "permitted_acts": [
+        "manufacture",
+        "public_supply"
+      ],
+      "purpose": "essential_care",
+      "period": "current_fixture_year",
+      "conditions_met": true
+    },
+    "quoted_current_supply": {
+      "domestic_processing": 2,
+      "foreign_API_packaging": 4,
+      "independent_quality": 2,
+      "distribution_clinical_handoff": 1,
+      "same_foreground_license_fee": 3
+    },
+    "fixture_current_CU_quote_cash": 9,
+    "fixture_owned_foreign_quote_equivalent": 0,
+    "actual_alternative_qualified": null
+  },
+  "software": {
+    "foreground_grant": 5,
+    "background_permission_quote": 1,
+    "paid_staff_practice": 2,
+    "hardware_spares_security_testing": 2,
+    "background_permission_obtained": false,
+    "actual_qualified_receiver": null,
+    "optional_prize_instead_of_grant": 4
+  },
+  "creator": {
+    "commission_costs": {
+      "creator_performer_pay": 4,
+      "production": 1,
+      "exhibition_access_translation": 1
+    },
+    "forecast_private_royalty": 3,
+    "public_rights_purchased": [
+      "defined_exhibition"
+    ],
+    "public_royalty_title": false,
+    "actual_receipts": null,
+    "fixture_received_royalty": null,
+    "fixture_receipt_verified": false,
+    "fixture_receipt_owned_unrestricted": false
+  },
+  "delayed_medicine": {
+    "annual_units": 120000,
+    "months": 12,
+    "incumbent_unit_quote_CU": 10,
+    "new_unit_quotes_CU": {
+      "inputs": 4,
+      "quality": 1,
+      "negotiated_royalty_assumption": 0.5
+    },
+    "initial_knowhow_quote_CU": 250000,
+    "initial_validation_quote_CU": 150000,
+    "months_before_safe_alternative_hypothesis": 4,
+    "actual_safe_acceptance": null,
+    "actual_source": null
+  },
+  "operator_royalty": {
+    "due_month_day": "January05",
+    "receipt_expected_month_day": "January10",
+    "fixture_royalty_due": 0.5,
+    "fixture_owned_unrestricted_due_day_cash": 0.1,
+    "future_invoice_receivable": 1.5,
+    "public_procurer_validly_assumes_royalty": false,
+    "actual_source_or_receipt": null,
+    "rights_holder_validly_releases_operator": false
+  },
+  "actual": {
+    "jurisdiction_and_treaty_status": null,
+    "rights_inventory_or_permissions": null,
+    "grant_or_appropriation": null,
+    "prices_and_resource_quantities": null,
+    "owned_sources_or_foreign_settlement": null,
+    "workers_and_safe_receiving": null,
+    "affected_participation": null,
+    "qualified_independent_review": null,
+    "enacted_law": null,
+    "delivered_remedies": null,
+    "better_lives": null
+  }
+}

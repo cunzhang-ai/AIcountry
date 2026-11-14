@@ -1,0 +1,90 @@
+{
+  "personal": {
+    "taxable_base": 34000,
+    "tax": 10050.0,
+    "excluded_not_cash_source": 15500
+  },
+  "two_jobs": {
+    "one_annual_tax": 8250.0,
+    "wrong_two_bandsets": 6000.0,
+    "remaining_balance": 2250.0
+  },
+  "withholding": {
+    "taxpayer_refund": 1950,
+    "taxpayer_balance": 0,
+    "payer_receivable": 1500,
+    "Treasury_cash_before_refund": 10500
+  },
+  "scale": {
+    "next_M": 30600.0,
+    "missing_components": []
+  },
+  "business": {
+    "capital_first_year": 2000.0,
+    "net_before_Y": 18000.0,
+    "taxable_after_Y": 17000.0,
+    "tax": 3400.0
+  },
+  "foreign": {
+    "tax_before_credit": 10400.0,
+    "foreign_attributable_cap": 5200.0,
+    "credit": 3000,
+    "tax_after_credit": 7400.0,
+    "late_relief_max_if_other_lawful_conditions": 3000
+  },
+  "noncash": {
+    "benefit_value_if_proved": 4500,
+    "actual_valuation_or_safe_cash_or_grossup": null
+  },
+  "refund_ordinals": {
+    "original_due_index": 10,
+    "within_original_bound": false,
+    "misleading_later_referral_bound": true,
+    "actual_undisputed_status_or_legal_calendar_or_receipt": null
+  },
+  "interest_quantity": {
+    "simple_amount": 20.0,
+    "actual_rate_or_accrual_entitlement": null
+  },
+  "commencement": {
+    "procedure_180_calendar_days": "2027-04-30",
+    "new_personal_tax_first_Jan1_after_12months": "2028-01-01",
+    "actual_law_or_U_readiness": null
+  },
+  "assessment": {
+    "ordinary_final_service_outer": "2033-04-30",
+    "conditional_concealment_outer": "2035-04-30",
+    "ordinary_date_bound": false,
+    "conditional_date_bound": true,
+    "actual_tax_or_usable_final_notice_or_intent_or_order": null
+  },
+  "collection": {
+    "original_all_in_outer": "2035-06-12",
+    "attempt_within_original_bound": false,
+    "wrong_judgment_reset_outer": "2040-06-12",
+    "misleading_reset_bound": true,
+    "actual_enforceable_tax_or_evasion_or_collection_order": null
+  },
+  "grossup": {
+    "total_benefit": 400,
+    "tax_inclusive_employer_g": 100.0,
+    "pro_rata_employer_g": [
+      25.0,
+      75.0
+    ],
+    "worker_extra_cash_burden": 0,
+    "conditional_statutory_credit": 100.0,
+    "employer_receivable": 100.0,
+    "Treasury_actual_cash": 0,
+    "actual_benefit_or_designated_employer_or_credit_entitlement": null
+  },
+  "actual": {
+    "legal_adoption": null,
+    "affected_participation": null,
+    "independent_professional_review": null,
+    "qualified_staff_and_courts": null,
+    "source_cash_and_FX": null,
+    "received_remedies": null,
+    "observed_outcomes": null
+  }
+}

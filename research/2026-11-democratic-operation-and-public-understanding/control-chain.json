@@ -1,0 +1,63 @@
+{
+  "edition": 128,
+  "scope": "Specific existing candidate powers, not actual appointments/independence/readiness or authority",
+  "links": [
+    {
+      "id": "entry",
+      "actor": "Actual person/contestant under EL/EN/ER",
+      "appointment_or_permission": "E02 lawful receiver and career decider; no AI/party/incumbent approval",
+      "funding_information_and_scope": "Per-body/cutoff assent, concrete eligibility, protected original source",
+      "review": "Assisted/offline first receipt, source reasons and direct EA16ordinary courts; allegations alone do not suspend opponent",
+      "failure_and_continuity": "Retain receipt/claims if source or receiver fails; no defaultqualification/exclusion",
+      "actual_independence_or_received_execution": null
+    },
+    {
+      "id": "electoral_leadership",
+      "actor": "Seven EAcommission seats:2legal,2opposition,3public",
+      "appointment_or_permission": "Legal CJ06nine-member formation6votes plusone/category; opposition ceil(3O/5)fixedprotectedO; public separatelydrawn36paidpanel24votes/27quorum perPprocess; onepreselectedfinite reserve/seat",
+      "funding_information_and_scope": "C04protected career officers and prepublished case/conflict assignment, not commissioner vote for each filing",
+      "review": "Direct unconflicted EA16ordinary court; selectionfailure never transfers to another source/cabinet",
+      "failure_and_continuity": "Quorumfailure leaves actualstatutory career duties, not invented certificationvotes or termextension",
+      "actual_independence_or_received_execution": null
+    },
+    {
+      "id": "funding",
+      "actor": "Assembly lawful bounded standing/peak appropriations; actual municipal payers for local scope",
+      "appointment_or_permission": "Treasury pays verified due items without litigating official selective release; no office selftax/debt/appropriation",
+      "funding_information_and_scope": "Actual money, credit source, provider assignment, invoice and receipt distinct; shared source/controllers inspectable",
+      "review": "EA15/OJ31direct ordinary/status budgetlegality remedies within scope; AAauditnotpolicyveto",
+      "failure_and_continuity": "Claims persist on genuine cash shortage; no assumed fines/recovery/AI savings or newcourt fiscalpower",
+      "actual_independence_or_received_execution": null
+    },
+    {
+      "id": "judges_and_counsel",
+      "actor": "OJlawful ordinary judges and client-directed counsel",
+      "appointment_or_permission": "OJ12selectors6peerjudges/3practitioners/3paidlay;8fixedvotes andone/category;30dayopenapplications/21dayappointmentnotice; actualpriorappointments/deployment/conflicts",
+      "funding_information_and_scope": "Secure careers, prepublished assignment, actual paid release/standby; no election probationary/actingjudge",
+      "review": "OJ16unimplicatedstatus/ordinary/case appeal, constitutionalonlyCJscope; verified lawful visiting appointments",
+      "failure_and_continuity": "No qualifiedavailablepeople means actualfailure, not lowerquorum, longerinjury or inventedforeign judges",
+      "actual_independence_or_received_execution": null
+    },
+    {
+      "id": "source_and_information",
+      "actor": "Original roll/assent custodians; C11/K01record service; contestant originals; chosen competing mediators",
+      "appointment_or_permission": "Lawful source/control/PDpurpose limits and existing equal-access/providerterms; optional extra public comparison needs appropriation",
+      "funding_information_and_scope": "Masked discrepancies, protected court access, alternative questions/interpretations, source-linked corrections; no publicsuppportgraph",
+      "review": "Directordinaryreceipt/record/baseline relief and actual alternativeprovider within competence; no officialpoliticaltruthdecision",
+      "failure_and_continuity": "Preserve opaque original and help on uninterpretedmedia; data match does not settle jurisdiction/consent",
+      "actual_independence_or_received_execution": null
+    },
+    {
+      "id": "execution_and_handover",
+      "actor": "Named EAcareer correction/custodian, Treasury payer/provider and lawful civil executor; existing ELformation/OPsuccessor",
+      "appointment_or_permission": "Actual orderstatesowner/act/source/due/usefultime and notice; ordinary lawfulforceonlyunderseparateauthority",
+      "funding_information_and_scope": "Trace receivedaccess/payment/correction and peaceful replacement under hostile executive; preserveterms/services/records/claims",
+      "review": "Existing directcourts/electedsource and independentordinaryreview; no protectorimmunity",
+      "failure_and_continuity": "Universal refusal/capture or missingcapacity can defeat remedies; disclose actualfailure rather than guarantee fallback or extend incumbent",
+      "actual_independence_or_received_execution": null
+    }
+  ],
+  "cumulative_capture": "Trace shared people/controllers/source/financiers/vendors across all links; different labels/accounts/AIcopies do not prove independence. Protectors may collude.",
+  "actual_legal_authority": null,
+  "actual_affected_participation": null
+}

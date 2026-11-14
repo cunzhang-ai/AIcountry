@@ -1,0 +1,37 @@
+# Test the first service budget against observed distribution
+
+*Design516 · Independent statistical scope and constructed decisions.*
+
+An improvement in national averages can coexist with worse access for some people and worse affordability. The reopening test compares two actual survey years for Denmark and Finland. It then applies the result only to selecting a useful local diagnostic. The countries remain comparators. The budget branches below describe separate invented programmes.
+
+| Survey measure, percent | Denmark 2024 → 2025 | Finland 2024 → 2025 |
+|---|---:|---:|
+| Cost, distance or waiting, full surveyed population | 3.1 → 2.9 | 8.5 → 7.8 |
+| Same combined measure, lowest income fifth | 4.6 → 4.7 | 13.2 → 10.7 |
+| Same combined measure, highest income fifth | 2.7 → 1.0 | 4.7 → 4.6 |
+| Waiting as main reason, lowest income fifth | 3.7 → 3.5 | 12.3 → 9.7 |
+| Cost as main reason, lowest income fifth | 0.6 → 0.7 | 0.7 → 1.0 |
+| Cost, distance or waiting, among people who report needing care | 3.9 → 3.6 | 12.4 → 11.3 |
+| Same need-conditioned measure, below 60% of national median income | 7.3 → 6.6 | 20.9 → 18.9 |
+
+The first five rows use the proportion in the named population group aged 16 or older. The last two condition on self-reported need; a below-threshold group is distinct from an income fifth. No re-identification or pooling follows. The surveys concern main reported reasons over the previous twelve months in private households. These are repeated population estimates, not a cohort panel or a list of affected individuals. Refer to [sources and reproduction](../../2026-11-comparative-country-validation/sources.md).
+
+In Denmark the combined gap between the lowest and highest fifths widens from 1.9 to 3.7 points. The total estimate improves while the lowest fifth's point estimate rises by 0.1, and the below-threshold estimate among people needing care falls. These observations answer different questions. The published cells used here do not establish the statistical significance of the 0.1 change. In Finland the combined estimates fall in both fifths, while reported cost barriers in the lowest fifth rise. A single headline would miss those distinctions. The missing-care reasons and income categories do not identify the same people across tables or reveal who has several barriers. Neither country comparison identifies which institution, staffing choice or budget caused the movement. The [2024 spending comparison](../health-access-bottlenecks-and-first-budget/01-health-spending-and-unmet-care.md) retains its original year. The current data supply no 2025 spending-effect estimate.
+
+## Discriminate three first-budget responses
+
+Use a constructed six-unit marginal budget and eight residents with verified need for one lawful timely treatment under the same dates and equal ordinary protections. The ordinary schedule can treat four, including the two people facing neither cost nor access barriers. Two people face a cost-only barrier, one faces an access-only barrier, and one faces both. Two additional people lack timely clinical capacity and have no cost or access barrier. Hold the four ordinary slots fixed and suppose each additional staffed slot costs three units. Each single-barrier correction costs one unit under either qualified provider arrangement. The fourth person’s paired route needs two units. These figures price support, staffing and their actual acceptance only for this example. Existing services and review are paid in all branches. Choose an exact budget motion only with an accepting clinical operator and lawful criteria for individual priority.
+
+| Six-unit response | Scope under the stated diagnosis |
+|---|---|
+| Direct public capacity expansion | Adds clinical slots for the two excluded by capacity and preserves the existing two received treatments. Costs and access continue to block the remaining four. |
+| Strong ordinary repair of prices and access | Costs five for two cost-only routes, one access-only route and one paired route. Keep the unused unit for qualified uses. Confirm enough independent timely clinical capacity before assuming those four can all receive treatment. With only the four existing slots, no more than two of these improvements fit alongside the two existing receipts. |
+| Targeted service-first package | Spends three on one incremental clinical slot and three on the two cost-only and one access-only route. All three support recipients can accept the available schedule in this branch. If five people receive service by their dates, it leads the other two branches on timely receipt under these assumptions. |
+
+Publish which people remain without a service and why. Counts cannot choose clinical priority or cancel the underlying claim. If ordinary law allows the same mixed purchase, ordinary repair ties. That is a budget choice and gives no institutional advantage by itself. If an independent ordinary repair instead releases two additional compatible slots at the same full cost, delivers six with earlier relief and preserves quality and rights, prefer it on these facts. If all single-barrier corrections cost two units, the package with one extra slot and three corrections would cost nine, exceeding the six-unit cap. If the service-first package loses the receiver of its fifth slot, its displayed advantage vanishes. If a direct provider addresses the actual barrier with the same or better public access, fund that exact option where qualified. Unknown binding capacity calls for direct observation of assessment, fees, travel, actual treatment and later follow-up. A matched decision is a comparison of published options and actual limits, with no empirically established new delivery yet.
+
+Test the next visit for the original people. Suppose two motions each serve five of eight people on time in each of two windows. Under one, the same three miss both visits. Under the other, the missed groups are disjoint after a qualified receiving change and no one misses twice. Each motion still has six missed acts. Without lawful evidence of the overlap, the identical totals support between zero and three people repeatedly missed. Compare original missed service, the paid follow-up, clinical severity and the effect on newly visible need. Five timely receipts alone cannot resolve this difference. A qualified deterioration retains its existing individual remedy and elected response.
+
+In a separate scale test, assume full incremental cost at present quality is six plus one per patient for direct provision and two plus two per patient for plural contracting. At three recipients these cost nine and eight. At six, the initial comparison flips to twelve and fourteen. If two remote recipients need one additional unit each for direct provision, both complete options cost fourteen. With only twelve available neither is proved to cover all six. Look for a funded change to access or a narrower choice within the affected rights. Count independently paid standby, travel and clinical receiving under each arrangement. Account for independent alternative staff and lawful records if the choice retires an ordinary route. The preferred ownership form can differ by scale and place without reviving a broader national claim.
+
+[Public conditions rule](../../country/C14/04/09-compare-average-and-worst-served.md) · [First-round settlement](../../FIRST-ROUND-SETTLEMENT.md).

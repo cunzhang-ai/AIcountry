@@ -1,0 +1,24 @@
+{
+  "edition": 136,
+  "published_cases": "published-cases.json",
+  "normalization": "100 units of new gross earnings; not currency, level income, marginal slope or paid outcome",
+  "country_layer": "unchanged authored 130/131 firm_seven_extended context, separate CU units",
+  "cases": [
+    {
+      "id": "A_plural",
+      "path": "2026-11-current-country-operating-and-source-reference/cases/firm_plural_I05.json"
+    },
+    {
+      "id": "A_direct",
+      "path": "2026-11-current-country-operating-and-source-reference/cases/firm_direct_I05.json"
+    },
+    {
+      "id": "U_C2_plural",
+      "path": "2026-11-productive-choice-and-work-incidence/cases/firm_plural_C2.json"
+    },
+    {
+      "id": "U_C2_direct",
+      "path": "2026-11-productive-choice-and-work-incidence/cases/firm_direct_C2.json"
+    }
+  ]
+}

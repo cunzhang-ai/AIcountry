@@ -1,0 +1,83 @@
+{
+  "edition": 101,
+  "declared_scope": "independent invented CU/person/date fixtures; not one real election or source budget",
+  "B_CU": 1000,
+  "minor_unit_CU": 0.01,
+  "N_fixture": 120,
+  "call_national": 100000,
+  "call_territories": [
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000
+  ],
+  "cutoff_people_national": 100000,
+  "cutoff_people_territories": [
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000
+  ],
+  "eligible_credit_national": 100000,
+  "eligible_credit_territories": [
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000
+  ],
+  "requested_one_principal_national": 60000,
+  "requested_one_principal_first_territory": 5000,
+  "declared_person_partition": "distinct eligible natural people; one actual territorial track each where assigned; no account or AI copies",
+  "printing_staff_fixture": {
+    "platform_words": 100,
+    "words_per_page": 500,
+    "assumed_words_per_pool_name": 4,
+    "hours_per_nomination_including_source_check": 4,
+    "decision_calendar_days": 5,
+    "availability_fraction": 0.9,
+    "paid_hours_per_worker_in_decision_peak": 32
+  },
+  "growth_fixture": {
+    "cutoff_and_credit_people_national": 112000,
+    "cutoff_and_credit_people_territories": [
+      11200,
+      11200,
+      11200,
+      11200,
+      11200,
+      11200,
+      11200,
+      11200,
+      11200,
+      11200
+    ]
+  },
+  "fine_quantity": {
+    "defendant_verified_revenue": 10000,
+    "proved_net_illicit_gain": 0,
+    "proved_one_flow_unlawful_campaign_value": 8000
+  },
+  "calendar": {
+    "final_P": "2030-11-01",
+    "annulment_J": "2031-02-01",
+    "late_cap_notice_days_before_V": 4
+  }
+}

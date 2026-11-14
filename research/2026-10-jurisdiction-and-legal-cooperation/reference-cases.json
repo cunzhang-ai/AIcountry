@@ -1,0 +1,87 @@
+{
+  "edition": 72,
+  "date": "2026-10-15",
+  "scope": "Stipulated arithmetic only; no legal recognition, jurisdiction, asylum risk, guilt or execution algorithm",
+  "compensatory_credit": {
+    "principal": 100,
+    "lawful_compensatory_costs": 10,
+    "punitive_increment": 50,
+    "previous_same_harm_received": 40,
+    "planned_collections": [
+      45,
+      50
+    ],
+    "separate_proved_harm_claim": 50
+  },
+  "one_estate": {
+    "canonical_assets": [
+      {
+        "id": "A",
+        "value": 60
+      },
+      {
+        "id": "B",
+        "value": 40
+      }
+    ],
+    "mirror_asset_ids": [
+      "B"
+    ],
+    "assumed_costs": 10,
+    "ordinary_claims": [
+      {
+        "id": "C1",
+        "amount": 70
+      },
+      {
+        "id": "C2",
+        "amount": 50
+      }
+    ],
+    "assumed_higher_priorities": 0
+  },
+  "interim_clock": {
+    "first_hours": 72,
+    "one_extension_hours": 72,
+    "proposed_office_reset_hours": 72
+  },
+  "request_clock": {
+    "complete_file_day": 31,
+    "additional_outer_days": 30
+  },
+  "gross_capacity": {
+    "civil_requests": 8,
+    "civil_translation_hours": 5,
+    "civil_court_hours": 2,
+    "transfer_reviews": 4,
+    "transfer_translation_hours": 8,
+    "transfer_court_hours": 3,
+    "available_translation_hours": 60,
+    "available_court_hours": 24
+  },
+  "actual": {
+    "case_authority": null,
+    "source_evidence": null,
+    "treaty_status": null,
+    "foreign_consent": null,
+    "recognized_amount": null,
+    "received_payments": null,
+    "custody_or_risk": null,
+    "safe_staffing": null,
+    "full_costs": null,
+    "due_cash": null,
+    "affected_participation": null,
+    "independent_review": null,
+    "lawful_adoption": null,
+    "observed_superiority": null
+  },
+  "limits": [
+    "All identities, amounts, awards, costs and hours are authored stipulations, not observations, actual recognition/priority or legal amounts.",
+    "No actual FX rate, asset liquidity, collection, domestic/foreign authority or counterpart is supplied; proposed enforcement is not received money.",
+    "The compensatory example assumes compatible ordinary recognition only. Excluding a punitive amount does not adjudicate the real foreign order or allow a new national fine.",
+    "Mirrors are explicitly stipulated to represent the same canonical asset, not identified by a model. Higher estate priorities are assumed zero only here, not amended in U/C06.",
+    "Arithmetic clocks cannot decide custody or rights. Actual start events, meaningful hearing, expiry, authority, risk and independent court/executor must be established.",
+    "Gross translation/court hours are uncalibrated and omit defense, conflicts, safety, reception, records and peaks. Annual totals do not certify first-hearing coverage.",
+    "Existing country-book bids and all actual cost/quantity/remedy fields remain unqualified; no new funding, partner commitment, adoption or superiority."
+  ]
+}

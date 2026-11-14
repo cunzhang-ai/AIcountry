@@ -1,0 +1,111 @@
+{
+  "edition": 89,
+  "date": "2026-11-01",
+  "status": "Authored accounting bounds and contractual/cohort stress, not a funded national forecast",
+  "pinned_support": {
+    "2026-10-full-offer-resource-estimate/inputs.json": "76eb73607d29e2ed53b5321372cf5703c272a89866eba00c54a11b4267e81af1",
+    "2026-10-full-offer-resource-estimate/workloads.json": "b0114372fba271e003233fd7e440e22ae039893586bbf885c9b1848851adac04",
+    "2026-10-full-offer-resource-estimate/catalog.json": "6074ffed13e07c425f3475fe2402f5e167c045098468e1cc320a7b324b32ebb9",
+    "2026-10-full-offer-resource-estimate/model.py": "453b431b6726a266053499c1859ee5198544d1b621bebe33e53c4163660d6f1e",
+    "2026-10-full-offer-resource-estimate/results.json": "11b46ffdb4ec8122d9e1a9b2bf155f9ff558ef1091285d8f7b3078caf87c40b0",
+    "2026-10-income-floor/model.py": "b15a17b92deb6358a790d222524f2ce4a916bf9bcc2cac71b5ab27f8362566da",
+    "2026-10-finance-and-delivery-bridge/model.py": "5929feec06d7a1bf751cba876eab18b478fb65c85ff6210e4609638f9d1c7f38",
+    "2026-10-finance-and-delivery-bridge/inputs.json": "972def652200637374e6361cc93aae765f9da39fb00604bb2cb2bbaea26e1b33",
+    "2026-10-finance-and-delivery-bridge/results.json": "0c764e3749c1edd1b48fe4cd7683401638f0cca358ad8b297b4efbf77a547402",
+    "2026-11-income-and-investment-settlement/model.py": "a05addd8c99f00e1451a77a5ced2682a961883163ef16375ef0950f407249ede",
+    "2026-11-income-and-investment-settlement/macro.py": "27f111219a680e29a4101d61629038be226401434335807625e183a0657da0ae",
+    "2026-11-income-and-investment-settlement/inputs.json": "2e8d9c0b0735848cb22470bfd0a5bf95310179dd3a7fc2b42d0cef9976cd4f6c",
+    "2026-11-income-and-investment-settlement/results.json": "7774c5a38fd36988e051fddd24957da62f0709e7d8ff58f083843d97129aaea8",
+    "2026-11-income-and-investment-settlement/solve-changes.diff": "52aeba9a43069cb757ccbbb841fb23acf9c42c9ba6dc9e3611c2c61d8b043603"
+  },
+  "tax_cases": [
+    {
+      "id": "i05_current",
+      "share": 0
+    },
+    {
+      "id": "universal_current",
+      "share": 1
+    },
+    {
+      "id": "universal_82_all_bands",
+      "share": 1,
+      "personal_rates": [
+        0.82,
+        0.82,
+        0.82,
+        0.82
+      ]
+    },
+    {
+      "id": "universal_84_all_bands",
+      "share": 1,
+      "personal_rates": [
+        0.84,
+        0.84,
+        0.84,
+        0.84
+      ]
+    },
+    {
+      "id": "universal_90_all_bands",
+      "share": 1,
+      "personal_rates": [
+        0.9,
+        0.9,
+        0.9,
+        0.9
+      ]
+    },
+    {
+      "id": "universal_protected_first_band",
+      "share": 1,
+      "personal_rates": [
+        0,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "id": "i05_zero_supplier_margin_bound",
+      "share": 0,
+      "supplier_margin": 0
+    },
+    {
+      "id": "universal_zero_supplier_margin_bound",
+      "share": 1,
+      "supplier_margin": 0
+    }
+  ],
+  "case_selection": "82% was located in prior exploratory curves and deliberately retained as a narrow one-year cash-pass counterexample; not a selected rate, optimum or plausibility estimate.84/90 expose invalid producer/tax/ringfence support. Zero supplier margin is optimistic elimination bound, not actual supplier offer or public ownership without acquisition.",
+  "debt_stress": {
+    "years": 20,
+    "coupon_rate": 0.05,
+    "cash_draw_first_year": 30,
+    "annual_new_offer_cap_mode": "Hold authored first-year offers constant only as a disclosed stress; not future lender commitments",
+    "funded_path_claim": false
+  },
+  "pension_choices": {
+    "new_service_cap_multiple_W": 1,
+    "prior_cap_multiple_W": 2,
+    "annual_accrual": 0.0125,
+    "best_years": 48,
+    "contribution_rate": 0.1,
+    "credit_target_multiple_W": 0.5,
+    "notice_months_minimum": 24,
+    "hypothesis_not_law": true
+  },
+  "actual": {
+    "complete_cost": null,
+    "lawful_recurring_source": null,
+    "pension_histories": null,
+    "demographic_forecast": null,
+    "qualified_engineering": null,
+    "public_participation": null,
+    "independent_review": null,
+    "authority": null,
+    "readiness": null,
+    "superior_outcomes": null
+  }
+}

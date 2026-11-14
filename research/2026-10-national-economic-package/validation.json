@@ -1,0 +1,14 @@
+{
+  "status": "passed",
+  "checks": [
+    "GDP income/expenditure identities",
+    "all planned transactions have two counterparties",
+    "public depreciation distinct from cash expenditure",
+    "internal transfers removed from conditional consolidation",
+    "funded debt, cash draw and unfunded claims distinct",
+    "stock acquisition priced and carried",
+    "financial surplus with physical/FX counterexamples",
+    "236 predecessor artifacts and fresh dependencies"
+  ],
+  "qualification": "Checks prove authored accounting and adverse cases only; not actual cash, loan agreement, tax yield, control, safe supply, authority or better lives."
+}

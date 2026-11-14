@@ -1,0 +1,34 @@
+{
+  "edition": 129,
+  "scope": "Authored care/work/journey interval counterexample applying existing effective-access duties; not school hours, an observed family, safe staffing, child preference, eligibility or an appropriation.",
+  "requested_paid_work_minutes_week": 1920,
+  "nominal_current_care_offer_minutes_week": 2400,
+  "current": {
+    "earliest_work_arrival_minute": 525,
+    "latest_work_departure_minute": 915,
+    "feasible_requested_work_minutes_each_day": 390,
+    "feasible_requested_work_minutes_week": 1560,
+    "chosen_care_minutes_week": 1920,
+    "chosen_minutes_within_S10_reference": true,
+    "time_compatibility_only": false,
+    "actual_safe_received_service_or_free_choice": null
+  },
+  "alternative": {
+    "earliest_work_arrival_minute": 480,
+    "latest_work_departure_minute": 960,
+    "feasible_requested_work_minutes_each_day": 480,
+    "feasible_requested_work_minutes_week": 1920,
+    "chosen_care_minutes_week": 2280,
+    "chosen_minutes_within_S10_reference": true,
+    "time_compatibility_only": true,
+    "actual_safe_received_service_or_free_choice": null
+  },
+  "missing_current_work_minutes_week": 360,
+  "additional_chosen_edge_child_minutes_week": 360,
+  "hypothetical_all_family_edge_child_hours_week": 6000.0,
+  "hypothetical_all_family_edge_child_hours_year": 288000.0,
+  "additional_staff_hours_or_budget": null,
+  "actual_staff_ratio_group_schedule_release_child_preference_or_quality": null,
+  "actual_new_entitlement_or_legal_authority": null,
+  "actual_better_lives": null
+}

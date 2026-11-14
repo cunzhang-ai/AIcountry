@@ -1,0 +1,55 @@
+{
+  "table": "VNASFK",
+  "format": "JSONSTAT",
+  "lang": "en",
+  "variables": [
+    {
+      "code": "VERSION",
+      "values": [
+        "R2023Q1_2025Q4_Q2_2026"
+      ]
+    },
+    {
+      "code": "SEKTORNAT",
+      "values": [
+        "S1",
+        "S11",
+        "S12",
+        "S13",
+        "S14",
+        "S15",
+        "S2"
+      ]
+    },
+    {
+      "code": "KONTO1",
+      "values": [
+        "*"
+      ]
+    },
+    {
+      "code": "BALANCE",
+      "values": [
+        "*"
+      ]
+    },
+    {
+      "code": "FININS",
+      "values": [
+        "F"
+      ]
+    },
+    {
+      "code": "MODSEKNAT",
+      "values": [
+        "SALLE"
+      ]
+    },
+    {
+      "code": "Tid",
+      "values": [
+        "2023"
+      ]
+    }
+  ]
+}

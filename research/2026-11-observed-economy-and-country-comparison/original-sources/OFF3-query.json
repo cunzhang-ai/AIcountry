@@ -1,0 +1,25 @@
+{
+  "table": "OFF3",
+  "format": "JSONSTAT",
+  "lang": "en",
+  "variables": [
+    {
+      "code": "UI",
+      "values": [
+        "*"
+      ]
+    },
+    {
+      "code": "SEKTOR",
+      "values": [
+        "TOTAL"
+      ]
+    },
+    {
+      "code": "Tid",
+      "values": [
+        "2023"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1651 @@
+{
+  "edition": 179,
+  "source_edition": 178,
+  "scope": "46 complete chronological133\u2013178status lines and5 complete predecessor bodies; only link destinations rewritten, dated wrapper outside each preserved body.",
+  "records": [
+    {
+      "kind": "whole-file",
+      "source": "status/current/01-democratic-and-legal-choices.md",
+      "destination": "history/06-current-research/07-former-democratic-register.md",
+      "body_start": 160,
+      "body_end": 4218,
+      "original_sha256": "49c887484c78532e9cc1e97ed37961bc8623197e50b71aefdd525f272d8339bf",
+      "archived_body_sha256": "4f406dc5809775346f8bafcd26c8f32c08272e22ffbd7134f9b0f9976baec10b",
+      "links": [
+        {
+          "old": "../../country/C03/10-democratic-entry-and-campaign-resources.md",
+          "new": "../../country/C03/10-democratic-entry-and-campaign-resources.md",
+          "resolved": {
+            "target": "research/country/C03/10-democratic-entry-and-campaign-resources.md",
+            "query": "",
+            "fragment": ""
+          }
+        },
+        {
+          "old": "../../country/C10/10-civilian-assessment-and-intelligence-limits.md",
+          "new": "../../country/C10/10-civilian-assessment-and-intelligence-limits.md",
+          "resolved": {
+            "target": "research/country/C10/10-civilian-assessment-and-intelligence-limits.md",
+            "query": "",
+            "fragment": ""
+          }
+        },
+        {
+          "old": "../../country/C03/11-delegated-rules-and-effective-public-control.md",
+          "new": "../../country/C03/11-delegated-rules-and-effective-public-control.md",
+          "resolved": {
+            "target": "research/country/C03/11-delegated-rules-and-effective-public-control.md",
+            "query": "",
+            "fragment": ""
+          }
+        },
+        {
+          "old": "../completion/14-delegated-law-and-country-control.md",
+          "new": "../../status/completion/14-delegated-law-and-country-control.md",
+          "resolved": {
+            "target": "research/status/completion/14-delegated-law-and-country-control.md",
+            "query": "",
+            "fragment": ""
+          }
+        },
+        {
+          "old": "../../country/C03/12-continuous-political-finance.md",
+          "new": "../../country/C03/12-continuous-political-finance.md",
+          "resolved": {
+            "target": "research/country/C03/12-continuous-political-finance.md",
+            "query": "",
+            "fragment": ""
+          }
+        },
+        {
+          "old": "../../settlement/campaign-access/01-continuous-finance-and-other-votes.md",
+          "new": "../../settlement/campaign-access/01-continuous-finance-and-other-votes.md",
+          "resolved": {
+            "target": "research/settlement/campaign-access/01-continuous-finance-and-other-votes.md",
+            "query": "",
+            "fragment": ""
+          }
+        },
+        {
+          "old": "../../country/C03/13-equal-franchise-and-usable-elections.md",
+          "new": "../../country/C03/13-equal-franchise-and-usable-elections.md",
+          "resolved": {
+            "target": "research/country/C03/13-equal-franchise-and-usable-elections.md",
+            "query": "",
+            "fragment": ""
+          }
+        },
+        {
+          "old": "../../settlement/campaign-access/02-franchise-ballot-and-local-elections.md",
+          "new": "../../settlement/campaign-access/02-franchise-ballot-and-local-elections.md",
+          "resolved": {
+            "target": "research/settlement/campaign-access/02-franchise-ballot-and-local-elections.md",
+            "query": "",
+            "fragment": ""
+          }
+        },
+        {
+          "old": "../../country/C03/14-local-law-and-public-control.md",
+          "new": "../../country/C03/14-local-law-and-public-control.md",
+          "resolved": {
+            "target": "research/country/C03/14-local-law-and-public-control.md",
+            "query": "",
+            "fragment": ""
+          }
+        },
+        {
+          "old": "../../settlement/local-law/README.md",
+          "new": "../../settlement/local-law/README.md",
+          "resolved": {
+            "target": "research/settlement/local-law/README.md",
+            "query": "",
+            "fragment": ""
+          }
+        },
+        {
+          "old": "../../country/C08/25-ordinary-justice-and-public-prosecution.md",
+          "new": "../../country/C08/25-ordinary-justice-and-public-prosecution.md",
+          "resolved": {
+            "target": "research/country/C08/25-ordinary-justice-and-public-prosecution.md",
+            "query": "",
+            "fragment": ""
+          }
+        },
+        {
+          "old": "../../country/C04/04-public-audit-and-accountable-oversight.md",
+          "new": "../../country/C04/04-public-audit-and-accountable-oversight.md",
+          "resolved": {
+            "target": "research/country/C04/04-public-audit-and-accountable-oversight.md",
+            "query": "",
+            "fragment": ""
+          }
+        }
+      ]
+    },
+    {
+      "kind": "whole-file",
+      "source": "status/current/02-money-and-country-sources.md",
+      "destination": "history/06-current-research/08-former-money-register.md",
+      "body_start": 160,
+      "body_end": 6737,
+      "original_sha256": "60cd21da67da887313e2e6dd5cfdc402835ede89d99ca45bb37343e1b7cc1df1",
+      "archived_body_sha256": "cfef3afcb478f58569245311b0cff6e866f197eccc38082998d6f8bac1b0e5a9",
+      "links": [
+        {
+          "old": "../../country/C05/15-service-first-personal-security.md",
+          "new": "../../country/C05/15-service-first-personal-security.md",
+          "resolved": {
+            "target": "research/country/C05/15-service-first-personal-security.md",
+            "query": "",
+            "fragment": ""
+          }
+        },
+        {
+          "old": "../../country/C06/59-tax-sources-and-country-operation.md",
+          "new": "../../country/C06/59-tax-sources-and-country-operation.md",
+          "resolved": {
+            "target": "research/country/C06/59-tax-sources-and-country-operation.md",
+            "query": "",
+            "fragment": ""
+          }
+        },
+        {
+          "old": "../../country/C06/59/05-country-package-and-source-continuity.md",
+          "new": "../../country/C06/59/05-country-package-and-source-continuity.md",
+          "resolved": {
+            "target": "research/country/C06/59/05-country-package-and-source-continuity.md",
+            "query": "",
+            "fragment": ""
+          }
+        },
+        {
+          "old": "../../country/C06/41-money-and-financial-public-control.md",
+          "new": "../../country/C06/41-money-and-financial-public-control.md",
+          "resolved": {
+            "target": "research/country/C06/41-money-and-financial-public-control.md",
+            "query": "",
+            "fragment": ""
+          }
+        },
+        {
+          "old": "../completion/15-money-and-country-source-gaps.md",
+          "new": "../../status/completion/15-money-and-country-source-gaps.md",
+          "resolved": {
+            "target": "research/status/completion/15-money-and-country-source-gaps.md",
+            "query": "",
+            "fragment": ""
+          }
+        },
+        {
+          "old": "../../country/C06/42-recurring-tax-and-noncash-work.md",
+          "new": "../../country/C06/42-recurring-tax-and-noncash-work.md",
+          "resolved": {
+            "target": "research/country/C06/42-recurring-tax-and-noncash-work.md",
+            "query": "",
+            "fragment": ""
+          }
+        },
+        {
+          "old": "../completion/16-recurring-source-and-country-delivery.md",
+          "new": "../../status/completion/16-recurring-source-and-country-delivery.md",
+          "resolved": {
+            "target": "research/status/completion/16-recurring-source-and-country-delivery.md",
+            "query": "",
+            "fragment": ""
+          }
+        },
+        {
+          "old": "../../country/C06/43-country-source-and-delivery.md",
+          "new": "../../country/C06/43-country-source-and-delivery.md",
+          "resolved": {
+            "target": "research/country/C06/43-country-source-and-delivery.md",
+            "query": "",
+            "fragment": ""
+          }
+        },
+        {
+          "old": "../completion/17-country-source-and-delivery.md",
+          "new": "../../status/completion/17-country-source-and-delivery.md",
+          "resolved": {
+            "target": "research/status/completion/17-country-source-and-delivery.md",
+            "query": "",
+            "fragment": ""
+          }
+        },
+        {
+          "old": "../../settlement/country-delivery/04-matched-country-comparison.md",
+          "new": "../../settlement/country-delivery/04-matched-country-comparison.md",
+          "resolved": {
+            "target": "research/settlement/country-delivery/04-matched-country-comparison.md",
+            "query": "",
+            "fragment": ""
+          }
+        },
+        {
+          "old": "../../country/C06/53-productive-choice-and-work-incidence.md",
+          "new": "../../country/C06/53-productive-choice-and-work-incidence.md",
+          "resolved": {
+            "target": "research/country/C06/53-productive-choice-and-work-incidence.md",
+            "query": "",
+            "fragment": ""
+          }
+        },
+        {
+          "old": "../../settlement/country-delivery/05-production-title-and-receipts.md",
+          "new": "../../settlement/country-delivery/05-production-title-and-receipts.md",
+          "resolved": {
+            "target": "research/settlement/country-delivery/05-production-title-and-receipts.md",
+            "query": "",
+            "fragment": ""
+          }
+        },
+        {
+          "old": "../../settlement/country-delivery/06-financing-and-public-control.md",
+          "new": "../../settlement/country-delivery/06-financing-and-public-control.md",
+          "resolved": {
+            "target": "research/settlement/country-delivery/06-financing-and-public-control.md",
+            "query": "",
+            "fragment": ""
+          }
+        },
+        {
+          "old": "../../country/C06/44-nonbank-finance-and-client-protection.md",
+          "new": "../../country/C06/44-nonbank-finance-and-client-protection.md",
+          "resolved": {
+            "target": "research/country/C06/44-nonbank-finance-and-client-protection.md",
+            "query": "",
+            "fragment": ""
+          }
+        },
+        {
+          "old": "../../settlement/nonbank-finance/README.md",
+          "new": "../../settlement/nonbank-finance/README.md",
+          "resolved": {
+            "target": "research/settlement/nonbank-finance/README.md",
+            "query": "",
+            "fragment": ""
+          }
+        },
+        {
+          "old": "../../settlement/country-delivery/07-production-prices-and-financial-claims.md",
+          "new": "../../settlement/country-delivery/07-production-prices-and-financial-claims.md",
+          "resolved": {
+            "target": "research/settlement/country-delivery/07-production-prices-and-financial-claims.md",
+            "query": "",
+            "fragment": ""
+          }
+        },
+        {
+          "old": "../../country/C06/54-national-production-and-source-strategy.md",
+          "new": "../../country/C06/54-national-production-and-source-strategy.md",
+          "resolved": {
+            "target": "research/country/C06/54-national-production-and-source-strategy.md",
+            "query": "",
+            "fragment": ""
+          }
+        },
+        {
+          "old": "../../country/C06/55-observed-economy-and-country-comparison.md",
+          "new": "../../country/C06/55-observed-economy-and-country-comparison.md",
+          "resolved": {
+            "target": "research/country/C06/55-observed-economy-and-country-comparison.md",
+            "query": "",
+            "fragment": ""
+          }
+        }
+      ]
+    },
+    {
+      "kind": "whole-file",
+      "source": "status/current/03-living-standards-and-work.md",
+      "destination": "history/06-current-research/09-former-living-register.md",
+      "body_start": 160,
+      "body_end": 2888,
+      "original_sha256": "99e27b5358136ac8ed3599e7b414ee9bed0ced1479f4525562f6a698b7e8b223",
+      "archived_body_sha256": "99e27b5358136ac8ed3599e7b414ee9bed0ced1479f4525562f6a698b7e8b223",
+      "links": [
+        {
+          "old": "../../country/C05/15-service-first-personal-security.md",
+          "new": "../../country/C05/15-service-first-personal-security.md",
+          "resolved": {
+            "target": "research/country/C05/15-service-first-personal-security.md",
+            "query": "",
+            "fragment": ""
+          }
+        },
+        {
+          "old": "../../settlement/income-floor/03-living-standard-and-context.md",
+          "new": "../../settlement/income-floor/03-living-standard-and-context.md",
+          "resolved": {
+            "target": "research/settlement/income-floor/03-living-standard-and-context.md",
+            "query": "",
+            "fragment": ""
+          }
+        },
+        {
+          "old": "../../settlement/assistance/README.md",
+          "new": "../../settlement/assistance/README.md",
+          "resolved": {
+            "target": "research/settlement/assistance/README.md",
+            "query": "",
+            "fragment": ""
+          }
+        },
+        {
+          "old": "../../country/C05/12-work-contracts-and-collective-power.md",
+          "new": "../../country/C05/12-work-contracts-and-collective-power.md",
+          "resolved": {
+            "target": "research/country/C05/12-work-contracts-and-collective-power.md",
+            "query": "",
+            "fragment": ""
+          }
+        },
+        {
+          "old": "../../country/C05/13-enterprise-and-association-constitutions.md",
+          "new": "../../country/C05/13-enterprise-and-association-constitutions.md",
+          "resolved": {
+            "target": "research/country/C05/13-enterprise-and-association-constitutions.md",
+            "query": "",
+            "fragment": ""
+          }
+        }
+      ]
+    },
+    {
+      "kind": "whole-file",
+      "source": "status/current/04-country-operation-and-scoped-support.md",
+      "destination": "history/06-current-research/10-former-operation-register.md",
+      "body_start": 160,
+      "body_end": 7672,
+      "original_sha256": "0cb96bacb83d7c1b77d4d8f197e0c0396aa2213c4e861595e27f88798d95722d",
+      "archived_body_sha256": "0cb96bacb83d7c1b77d4d8f197e0c0396aa2213c4e861595e27f88798d95722d",
+      "links": [
+        {
+          "old": "../../DESIGN-STATUS.md",
+          "new": "../../DESIGN-STATUS.md",
+          "resolved": {
+            "target": "research/DESIGN-STATUS.md",
+            "query": "",
+            "fragment": ""
+          }
+        },
+        {
+          "old": "../../country/C06/52-current-country-operating-and-source-reference.md",
+          "new": "../../country/C06/52-current-country-operating-and-source-reference.md",
+          "resolved": {
+            "target": "research/country/C06/52-current-country-operating-and-source-reference.md",
+            "query": "",
+            "fragment": ""
+          }
+        },
+        {
+          "old": "../../settlement/work-law/README.md",
+          "new": "../../settlement/work-law/README.md",
+          "resolved": {
+            "target": "research/settlement/work-law/README.md",
+            "query": "",
+            "fragment": ""
+          }
+        },
+        {
+          "old": "../../settlement/enterprise/README.md",
+          "new": "../../settlement/enterprise/README.md",
+          "resolved": {
+            "target": "research/settlement/enterprise/README.md",
+            "query": "",
+            "fragment": ""
+          }
+        },
+        {
+          "old": "../../settlement/country-integration/README.md",
+          "new": "../../settlement/country-integration/README.md",
+          "resolved": {
+            "target": "research/settlement/country-integration/README.md",
+            "query": "",
+            "fragment": ""
+          }
+        },
+        {
+          "old": "../../settlement/ordinary-justice/README.md",
+          "new": "../../settlement/ordinary-justice/README.md",
+          "resolved": {
+            "target": "research/settlement/ordinary-justice/README.md",
+            "query": "",
+            "fragment": ""
+          }
+        },
+        {
+          "old": "../../settlement/public-audit/README.md",
+          "new": "../../settlement/public-audit/README.md",
+          "resolved": {
+            "target": "research/settlement/public-audit/README.md",
+            "query": "",
+            "fragment": ""
+          }
+        },
+        {
+          "old": "../../settlement/country-operation/README.md",
+          "new": "../../settlement/country-operation/README.md",
+          "resolved": {
+            "target": "research/settlement/country-operation/README.md",
+            "query": "",
+            "fragment": ""
+          }
+        },
+        {
+          "old": "../../settlement/life-needs/README.md",
+          "new": "../../settlement/life-needs/README.md",
+          "resolved": {
+            "target": "research/settlement/life-needs/README.md",
+            "query": "",
+            "fragment": ""
+          }
+        },
+        {
+          "old": "../../settlement/ordinary-life/README.md",
+          "new": "../../settlement/ordinary-life/README.md",
+          "resolved": {
+            "target": "research/settlement/ordinary-life/README.md",
+            "query": "",
+            "fragment": ""
+          }
+        },
+        {
+          "old": "../../settlement/joined-country/README.md",
+          "new": "../../settlement/joined-country/README.md",
+          "resolved": {
+            "target": "research/settlement/joined-country/README.md",
+            "query": "",
+            "fragment": ""
+          }
+        },
+        {
+          "old": "../../settlement/source-claims/README.md",
+          "new": "../../settlement/source-claims/README.md",
+          "resolved": {
+            "target": "research/settlement/source-claims/README.md",
+            "query": "",
+            "fragment": ""
+          }
+        },
+        {
+          "old": "../../settlement/physical-portfolio/README.md",
+          "new": "../../settlement/physical-portfolio/README.md",
+          "resolved": {
+            "target": "research/settlement/physical-portfolio/README.md",
+            "query": "",
+            "fragment": ""
+          }
+        },
+        {
+          "old": "../../settlement/democratic-operation/README.md",
+          "new": "../../settlement/democratic-operation/README.md",
+          "resolved": {
+            "target": "research/settlement/democratic-operation/README.md",
+            "query": "",
+            "fragment": ""
+          }
+        },
+        {
+          "old": "../../settlement/country-closure/README.md",
+          "new": "../../settlement/country-closure/README.md",
+          "resolved": {
+            "target": "research/settlement/country-closure/README.md",
+            "query": "",
+            "fragment": ""
+          }
+        }
+      ]
+    },
+    {
+      "kind": "whole-file",
+      "source": "country/C14/11-country-closure-and-current-priorities.md",
+      "destination": "history/06-current-research/11-former-country-closure.md",
+      "body_start": 160,
+      "body_end": 12869,
+      "original_sha256": "0461f213c4f6367ea79ad675a176524c00b15f8b05ca118bbcc438f72bdf6944",
+      "archived_body_sha256": "68570e7f1d55c154143acfe19f7c29f60a5e2982810e6f71a458578a3ed8e115",
+      "links": [
+        {
+          "old": "../C14-establishment-and-improvement.md",
+          "new": "../../country/C14-establishment-and-improvement.md",
+          "resolved": {
+            "target": "research/country/C14-establishment-and-improvement.md",
+            "query": "",
+            "fragment": ""
+          }
+        },
+        {
+          "old": "../../settlement/country-closure/README.md",
+          "new": "../../settlement/country-closure/README.md",
+          "resolved": {
+            "target": "research/settlement/country-closure/README.md",
+            "query": "",
+            "fragment": ""
+          }
+        },
+        {
+          "old": "../C13/22-current-country-operating-paths.md",
+          "new": "../../country/C13/22-current-country-operating-paths.md",
+          "resolved": {
+            "target": "research/country/C13/22-current-country-operating-paths.md",
+            "query": "",
+            "fragment": ""
+          }
+        },
+        {
+          "old": "../C06/52-current-country-operating-and-source-reference.md",
+          "new": "../../country/C06/52-current-country-operating-and-source-reference.md",
+          "resolved": {
+            "target": "research/country/C06/52-current-country-operating-and-source-reference.md",
+            "query": "",
+            "fragment": ""
+          }
+        },
+        {
+          "old": "../C06/52/06-country-disposition-and-reopening.md",
+          "new": "../../country/C06/52/06-country-disposition-and-reopening.md",
+          "resolved": {
+            "target": "research/country/C06/52/06-country-disposition-and-reopening.md",
+            "query": "",
+            "fragment": ""
+          }
+        },
+        {
+          "old": "../../settlement/country-gaps/README.md",
+          "new": "../../settlement/country-gaps/README.md",
+          "resolved": {
+            "target": "research/settlement/country-gaps/README.md",
+            "query": "",
+            "fragment": ""
+          }
+        },
+        {
+          "old": "../../settlement/country-review-150/README.md",
+          "new": "../../settlement/country-review-150/README.md",
+          "resolved": {
+            "target": "research/settlement/country-review-150/README.md",
+            "query": "",
+            "fragment": ""
+          }
+        },
+        {
+          "old": "../C06/58-country-source-and-capacity-frontier.md",
+          "new": "../../country/C06/58-country-source-and-capacity-frontier.md",
+          "resolved": {
+            "target": "research/country/C06/58-country-source-and-capacity-frontier.md",
+            "query": "",
+            "fragment": ""
+          }
+        },
+        {
+          "old": "../C06/58/05-observed-population-income-and-retirement.md",
+          "new": "../../country/C06/58/05-observed-population-income-and-retirement.md",
+          "resolved": {
+            "target": "research/country/C06/58/05-observed-population-income-and-retirement.md",
+            "query": "",
+            "fragment": ""
+          }
+        },
+        {
+          "old": "../C06/58/07-living-bundles-and-early-care.md",
+          "new": "../../country/C06/58/07-living-bundles-and-early-care.md",
+          "resolved": {
+            "target": "research/country/C06/58/07-living-bundles-and-early-care.md",
+            "query": "",
+            "fragment": ""
+          }
+        },
+        {
+          "old": "../../settlement/country-review-154/README.md",
+          "new": "../../settlement/country-review-154/README.md",
+          "resolved": {
+            "target": "research/settlement/country-review-154/README.md",
+            "query": "",
+            "fragment": ""
+          }
+        },
+        {
+          "old": "../C06/59-tax-sources-and-country-operation.md",
+          "new": "../../country/C06/59-tax-sources-and-country-operation.md",
+          "resolved": {
+            "target": "research/country/C06/59-tax-sources-and-country-operation.md",
+            "query": "",
+            "fragment": ""
+          }
+        },
+        {
+          "old": "../C07/04/05-common-factors-and-equal-standing.md",
+          "new": "../../country/C07/04/05-common-factors-and-equal-standing.md",
+          "resolved": {
+            "target": "research/country/C07/04/05-common-factors-and-equal-standing.md",
+            "query": "",
+            "fragment": ""
+          }
+        },
+        {
+          "old": "../../settlement/early-care-capacity/README.md",
+          "new": "../../settlement/early-care-capacity/README.md",
+          "resolved": {
+            "target": "research/settlement/early-care-capacity/README.md",
+            "query": "",
+            "fragment": ""
+          }
+        }
+      ]
+    },
+    {
+      "kind": "status-edition-line",
+      "edition": 133,
+      "source": "DESIGN-STATUS.md",
+      "source_line": 63,
+      "destination": "history/06-current-research/01-design-133-140.md",
+      "body_start": 219,
+      "body_end": 885,
+      "original_sha256": "ad4b0a40645e0f8a74aa6654dfdd5d39545213f1b1e094658d160bd51de7f05e",
+      "archived_body_sha256": "806049a57ebba326a6bc65d7dea9961fe336461bdd2518f3ce7a72f69195508a",
+      "links": [
+        {
+          "old": "country/C06/54-national-production-and-source-strategy.md",
+          "new": "../../country/C06/54-national-production-and-source-strategy.md",
+          "resolved": {
+            "target": "research/country/C06/54-national-production-and-source-strategy.md",
+            "query": "",
+            "fragment": ""
+          }
+        }
+      ]
+    },
+    {
+      "kind": "status-edition-line",
+      "edition": 134,
+      "source": "DESIGN-STATUS.md",
+      "source_line": 64,
+      "destination": "history/06-current-research/01-design-133-140.md",
+      "body_start": 900,
+      "body_end": 1646,
+      "original_sha256": "59be18bc09a2468f8de7c284f6c47d4c13737faed0a53b940ac7dbd8f7bc04e9",
+      "archived_body_sha256": "8eea57ae2eb9de568a22553ef1521bff624a1ed11945319719eff0e5c27c58cf",
+      "links": [
+        {
+          "old": "country/C06/55-observed-economy-and-country-comparison.md",
+          "new": "../../country/C06/55-observed-economy-and-country-comparison.md",
+          "resolved": {
+            "target": "research/country/C06/55-observed-economy-and-country-comparison.md",
+            "query": "",
+            "fragment": ""
+          }
+        }
+      ]
+    },
+    {
+      "kind": "status-edition-line",
+      "edition": 135,
+      "source": "DESIGN-STATUS.md",
+      "source_line": 65,
+      "destination": "history/06-current-research/01-design-133-140.md",
+      "body_start": 1661,
+      "body_end": 2361,
+      "original_sha256": "b7c044c671315d3535e6b20b87c88ac94061270db3db418c70d3383821742fc1",
+      "archived_body_sha256": "de0a25b779fe958f6a38e0501458b2feefb05349b6078ff2b5892982a911b231",
+      "links": [
+        {
+          "old": "country/C05/09/06-income-security-and-credit-continuity.md",
+          "new": "../../country/C05/09/06-income-security-and-credit-continuity.md",
+          "resolved": {
+            "target": "research/country/C05/09/06-income-security-and-credit-continuity.md",
+            "query": "",
+            "fragment": ""
+          }
+        }
+      ]
+    },
+    {
+      "kind": "status-edition-line",
+      "edition": 136,
+      "source": "DESIGN-STATUS.md",
+      "source_line": 66,
+      "destination": "history/06-current-research/01-design-133-140.md",
+      "body_start": 2376,
+      "body_end": 3109,
+      "original_sha256": "6043d80eb8290568cf84e91ed8e5f34aa1898ce9ae4ec73dbcf53f7a17c7d53f",
+      "archived_body_sha256": "0cdfdc4d07cafc5345d4c36c3de4f7500a824e3d5c1163afdb3132f637d6a5cf",
+      "links": [
+        {
+          "old": "country/C05/15-service-first-personal-security.md",
+          "new": "../../country/C05/15-service-first-personal-security.md",
+          "resolved": {
+            "target": "research/country/C05/15-service-first-personal-security.md",
+            "query": "",
+            "fragment": ""
+          }
+        }
+      ]
+    },
+    {
+      "kind": "status-edition-line",
+      "edition": 137,
+      "source": "DESIGN-STATUS.md",
+      "source_line": 67,
+      "destination": "history/06-current-research/01-design-133-140.md",
+      "body_start": 3124,
+      "body_end": 3772,
+      "original_sha256": "c3fce4a4c08a3d53b7903d3d7fe222b1d5ba039c9f60a412acd9888a8c651b96",
+      "archived_body_sha256": "44c658d0600c1934967023da4896b6f48110c5073ad456e6408d212924a04810",
+      "links": [
+        {
+          "old": "country/C04/05/06-need-and-upstream-capability.md",
+          "new": "../../country/C04/05/06-need-and-upstream-capability.md",
+          "resolved": {
+            "target": "research/country/C04/05/06-need-and-upstream-capability.md",
+            "query": "",
+            "fragment": ""
+          }
+        }
+      ]
+    },
+    {
+      "kind": "status-edition-line",
+      "edition": 138,
+      "source": "DESIGN-STATUS.md",
+      "source_line": 68,
+      "destination": "history/06-current-research/01-design-133-140.md",
+      "body_start": 3787,
+      "body_end": 4634,
+      "original_sha256": "3a254866ec9857486d15ef1e9641c85e7c521ade2b18b29f81dbd8bad1ac0aab",
+      "archived_body_sha256": "6aef5b3ded4166307251cfe7654376df6b3669fa671577ba814bf7f730fe925c",
+      "links": [
+        {
+          "old": "country/C06/56-national-fiscal-settlement-and-source-boundaries.md",
+          "new": "../../country/C06/56-national-fiscal-settlement-and-source-boundaries.md",
+          "resolved": {
+            "target": "research/country/C06/56-national-fiscal-settlement-and-source-boundaries.md",
+            "query": "",
+            "fragment": ""
+          }
+        }
+      ]
+    },
+    {
+      "kind": "status-edition-line",
+      "edition": 139,
+      "source": "DESIGN-STATUS.md",
+      "source_line": 69,
+      "destination": "history/06-current-research/01-design-133-140.md",
+      "body_start": 4649,
+      "body_end": 5224,
+      "original_sha256": "bb20d1eebe0bfa0590e7b9a74b161dc7b69a36143b70dc8722af6598f33b31df",
+      "archived_body_sha256": "e1ac9eead19f39d3dc673ade6d79fa518908264c98bb2b3cad290b35a0a0ddb2",
+      "links": [
+        {
+          "old": "settlement/published-fiscal/README.md",
+          "new": "../../settlement/published-fiscal/README.md",
+          "resolved": {
+            "target": "research/settlement/published-fiscal/README.md",
+            "query": "",
+            "fragment": ""
+          }
+        }
+      ]
+    },
+    {
+      "kind": "status-edition-line",
+      "edition": 140,
+      "source": "DESIGN-STATUS.md",
+      "source_line": 70,
+      "destination": "history/06-current-research/01-design-133-140.md",
+      "body_start": 5239,
+      "body_end": 5948,
+      "original_sha256": "b224586c5a143113b41ec5ee0f1b9fab718a162e50b50a0386ba3d25e8e9fea7",
+      "archived_body_sha256": "f2326996da72f79aeed6fdbd0356aae62bf3ede5635302db2fa43c3853b432b2",
+      "links": [
+        {
+          "old": "country/C04/06-reachable-administration-and-finite-decisions.md",
+          "new": "../../country/C04/06-reachable-administration-and-finite-decisions.md",
+          "resolved": {
+            "target": "research/country/C04/06-reachable-administration-and-finite-decisions.md",
+            "query": "",
+            "fragment": ""
+          }
+        }
+      ]
+    },
+    {
+      "kind": "status-edition-line",
+      "edition": 141,
+      "source": "DESIGN-STATUS.md",
+      "source_line": 71,
+      "destination": "history/06-current-research/02-design-141-148.md",
+      "body_start": 219,
+      "body_end": 910,
+      "original_sha256": "00e89818be3135a9605a38c31f4028b6fa9a5ac7ba0d70b591a27b9cd1d342bd",
+      "archived_body_sha256": "d675feadef02b6d8aa8652a17faf58076be59fc75215abec05867eaf19015034",
+      "links": [
+        {
+          "old": "country/C01/03/06-current-country-and-strong-alternatives.md",
+          "new": "../../country/C01/03/06-current-country-and-strong-alternatives.md",
+          "resolved": {
+            "target": "research/country/C01/03/06-current-country-and-strong-alternatives.md",
+            "query": "",
+            "fragment": ""
+          }
+        }
+      ]
+    },
+    {
+      "kind": "status-edition-line",
+      "edition": 142,
+      "source": "DESIGN-STATUS.md",
+      "source_line": 72,
+      "destination": "history/06-current-research/02-design-141-148.md",
+      "body_start": 925,
+      "body_end": 1769,
+      "original_sha256": "f3dad7dec36ce0a65288303034f2ab45bb4433f71b8c1626046b1b2156461526",
+      "archived_body_sha256": "9234c11328296186856966525370d38b1c85d9f16388c8d33ef85645718d2c9f",
+      "links": [
+        {
+          "old": "country/C06/57-private-retirement-tax-and-personal-capital.md",
+          "new": "../../country/C06/57-private-retirement-tax-and-personal-capital.md",
+          "resolved": {
+            "target": "research/country/C06/57-private-retirement-tax-and-personal-capital.md",
+            "query": "",
+            "fragment": ""
+          }
+        }
+      ]
+    },
+    {
+      "kind": "status-edition-line",
+      "edition": 143,
+      "source": "DESIGN-STATUS.md",
+      "source_line": 73,
+      "destination": "history/06-current-research/02-design-141-148.md",
+      "body_start": 1784,
+      "body_end": 2386,
+      "original_sha256": "4ce634a1cf0a4d182fcf27d15ba72f21626a10acb458273fd45bbbabdd922ccb",
+      "archived_body_sha256": "844899e57a20dc5094ead6784eb44c1debdb158c0db236c02a6b9fdc91b5786d",
+      "links": [
+        {
+          "old": "country/C04/02-territorial-self-government.md",
+          "new": "../../country/C04/02-territorial-self-government.md",
+          "resolved": {
+            "target": "research/country/C04/02-territorial-self-government.md",
+            "query": "",
+            "fragment": ""
+          }
+        }
+      ]
+    },
+    {
+      "kind": "status-edition-line",
+      "edition": 144,
+      "source": "DESIGN-STATUS.md",
+      "source_line": 74,
+      "destination": "history/06-current-research/02-design-141-148.md",
+      "body_start": 2401,
+      "body_end": 3076,
+      "original_sha256": "fa87180ebd2fad3c67872bf1806b599af09eb6ae7b3f4daafe97a2f27c0fff81",
+      "archived_body_sha256": "e7eb19ce9b14ac1f21b25188cbc3eb8fdc78945e66f858798395c2336b6f8cfd",
+      "links": [
+        {
+          "old": "country/C10/01-public-safety-and-emergencies.md",
+          "new": "../../country/C10/01-public-safety-and-emergencies.md",
+          "resolved": {
+            "target": "research/country/C10/01-public-safety-and-emergencies.md",
+            "query": "",
+            "fragment": ""
+          }
+        }
+      ]
+    },
+    {
+      "kind": "status-edition-line",
+      "edition": 145,
+      "source": "DESIGN-STATUS.md",
+      "source_line": 75,
+      "destination": "history/06-current-research/02-design-141-148.md",
+      "body_start": 3091,
+      "body_end": 3757,
+      "original_sha256": "e2fcd8ac15e3a17ad67ef7a5601f891206e5bd4fa1e6453ff657a29a3516c40c",
+      "archived_body_sha256": "086e78e46e2f0e6f9f0bf3f8d42d0c0899680e780494c035b85b8291a0a14439",
+      "links": [
+        {
+          "old": "settlement/country-gaps/README.md",
+          "new": "../../settlement/country-gaps/README.md",
+          "resolved": {
+            "target": "research/settlement/country-gaps/README.md",
+            "query": "",
+            "fragment": ""
+          }
+        }
+      ]
+    },
+    {
+      "kind": "status-edition-line",
+      "edition": 146,
+      "source": "DESIGN-STATUS.md",
+      "source_line": 76,
+      "destination": "history/06-current-research/02-design-141-148.md",
+      "body_start": 3772,
+      "body_end": 4535,
+      "original_sha256": "c98836f77bc20b3739b823d1108f5401be54e28380980b5b3583924349943211",
+      "archived_body_sha256": "af285a4543a16ec837d265eaef776294a0ccf90b47a096a96124830d3da7503e",
+      "links": [
+        {
+          "old": "country/C11/08-public-media-and-editorial-independence.md",
+          "new": "../../country/C11/08-public-media-and-editorial-independence.md",
+          "resolved": {
+            "target": "research/country/C11/08-public-media-and-editorial-independence.md",
+            "query": "",
+            "fragment": ""
+          }
+        }
+      ]
+    },
+    {
+      "kind": "status-edition-line",
+      "edition": 147,
+      "source": "DESIGN-STATUS.md",
+      "source_line": 77,
+      "destination": "history/06-current-research/02-design-141-148.md",
+      "body_start": 4550,
+      "body_end": 5290,
+      "original_sha256": "7ee85f9989192b62dd26174e42559807dbc14bf1ca6db748641f6a3615a17f39",
+      "archived_body_sha256": "820aa08088281294604ae574a6bb6727a72e7137897f729ef24c00f62f4a1983",
+      "links": [
+        {
+          "old": "country/C10/11-ordinary-health-and-hazard-protection.md",
+          "new": "../../country/C10/11-ordinary-health-and-hazard-protection.md",
+          "resolved": {
+            "target": "research/country/C10/11-ordinary-health-and-hazard-protection.md",
+            "query": "",
+            "fragment": ""
+          }
+        }
+      ]
+    },
+    {
+      "kind": "status-edition-line",
+      "edition": 148,
+      "source": "DESIGN-STATUS.md",
+      "source_line": 78,
+      "destination": "history/06-current-research/02-design-141-148.md",
+      "body_start": 5305,
+      "body_end": 5954,
+      "original_sha256": "570b13ae2a3e1de88b8c18fd8184959fb9d2befaa6f456d0c1b83949a5ed4a62",
+      "archived_body_sha256": "af8d231c2ff44129aa93bdedd2e5d0c84353257420bbbd07b490f7f79b86ac88",
+      "links": [
+        {
+          "old": "country/C08/26-property-transfers-and-secured-credit.md",
+          "new": "../../country/C08/26-property-transfers-and-secured-credit.md",
+          "resolved": {
+            "target": "research/country/C08/26-property-transfers-and-secured-credit.md",
+            "query": "",
+            "fragment": ""
+          }
+        }
+      ]
+    },
+    {
+      "kind": "status-edition-line",
+      "edition": 149,
+      "source": "DESIGN-STATUS.md",
+      "source_line": 79,
+      "destination": "history/06-current-research/03-design-149-156.md",
+      "body_start": 219,
+      "body_end": 871,
+      "original_sha256": "43aeaf667be459a8398260003fc9a2d8f9fdbf28dcc8a9df941c80d1c78c1721",
+      "archived_body_sha256": "b720ba4f3dc3770f4a815aa0e497cb7418d2df846d5008d6ca16a298cb003cd4",
+      "links": [
+        {
+          "old": "country/C09/14-shared-buildings-and-neighbor-rights.md",
+          "new": "../../country/C09/14-shared-buildings-and-neighbor-rights.md",
+          "resolved": {
+            "target": "research/country/C09/14-shared-buildings-and-neighbor-rights.md",
+            "query": "",
+            "fragment": ""
+          }
+        }
+      ]
+    },
+    {
+      "kind": "status-edition-line",
+      "edition": 150,
+      "source": "DESIGN-STATUS.md",
+      "source_line": 80,
+      "destination": "history/06-current-research/03-design-149-156.md",
+      "body_start": 886,
+      "body_end": 1610,
+      "original_sha256": "29f22e45d099b3a5b18afda72c915f02ae6a8a473030154f0055f6a9b98f5ada",
+      "archived_body_sha256": "17923f5984960c61db8c090ae84905a23837c63024ad9b734a7daca7f670e5b6",
+      "links": [
+        {
+          "old": "settlement/country-review-150/README.md",
+          "new": "../../settlement/country-review-150/README.md",
+          "resolved": {
+            "target": "research/settlement/country-review-150/README.md",
+            "query": "",
+            "fragment": ""
+          }
+        }
+      ]
+    },
+    {
+      "kind": "status-edition-line",
+      "edition": 151,
+      "source": "DESIGN-STATUS.md",
+      "source_line": 81,
+      "destination": "history/06-current-research/03-design-149-156.md",
+      "body_start": 1625,
+      "body_end": 2325,
+      "original_sha256": "5e22fb37ca86016f56297b19e528fb3a1326f9e4f152f4625aef5e457a81a633",
+      "archived_body_sha256": "a6e5c1ba06792bdb271df3f5f3677a2b72c55b9fd965fb5e6d71c55bf814d6c4",
+      "links": [
+        {
+          "old": "country/C06/58-country-source-and-capacity-frontier.md",
+          "new": "../../country/C06/58-country-source-and-capacity-frontier.md",
+          "resolved": {
+            "target": "research/country/C06/58-country-source-and-capacity-frontier.md",
+            "query": "",
+            "fragment": ""
+          }
+        }
+      ]
+    },
+    {
+      "kind": "status-edition-line",
+      "edition": 152,
+      "source": "DESIGN-STATUS.md",
+      "source_line": 82,
+      "destination": "history/06-current-research/03-design-149-156.md",
+      "body_start": 2340,
+      "body_end": 2953,
+      "original_sha256": "4cb8fd4ba1f024efdfdb5466203dfeca107867afb53c072ecc61b115c9518d48",
+      "archived_body_sha256": "fcebb341d6e30a6a02602acf0df0a9071cc5fb85438a8f79b7d53b01afe5e606",
+      "links": [
+        {
+          "old": "country/C06/58/05-observed-population-income-and-retirement.md",
+          "new": "../../country/C06/58/05-observed-population-income-and-retirement.md",
+          "resolved": {
+            "target": "research/country/C06/58/05-observed-population-income-and-retirement.md",
+            "query": "",
+            "fragment": ""
+          }
+        }
+      ]
+    },
+    {
+      "kind": "status-edition-line",
+      "edition": 153,
+      "source": "DESIGN-STATUS.md",
+      "source_line": 83,
+      "destination": "history/06-current-research/03-design-149-156.md",
+      "body_start": 2968,
+      "body_end": 3600,
+      "original_sha256": "018b23ac0a32fb47800193cbda3b6d40dc6012b80ab7d3361e4d8bf4e319746e",
+      "archived_body_sha256": "f24893b297128366c34411a8d446befac9b107f1d91045b0554ce42b6e99134e",
+      "links": [
+        {
+          "old": "country/C07/20-early-care-relationships-and-staffing.md",
+          "new": "../../country/C07/20-early-care-relationships-and-staffing.md",
+          "resolved": {
+            "target": "research/country/C07/20-early-care-relationships-and-staffing.md",
+            "query": "",
+            "fragment": ""
+          }
+        }
+      ]
+    },
+    {
+      "kind": "status-edition-line",
+      "edition": 154,
+      "source": "DESIGN-STATUS.md",
+      "source_line": 84,
+      "destination": "history/06-current-research/03-design-149-156.md",
+      "body_start": 3615,
+      "body_end": 4324,
+      "original_sha256": "41ae92a4216756d347ea18dc5a9c8f77c0ca49550617be2f11d25e63bba561f2",
+      "archived_body_sha256": "8ba3e0bc75af718785961865e9367978e190ac6dccf0b0c6ec43ada8274ba47f",
+      "links": [
+        {
+          "old": "settlement/country-review-154/README.md",
+          "new": "../../settlement/country-review-154/README.md",
+          "resolved": {
+            "target": "research/settlement/country-review-154/README.md",
+            "query": "",
+            "fragment": ""
+          }
+        }
+      ]
+    },
+    {
+      "kind": "status-edition-line",
+      "edition": 155,
+      "source": "DESIGN-STATUS.md",
+      "source_line": 85,
+      "destination": "history/06-current-research/03-design-149-156.md",
+      "body_start": 4339,
+      "body_end": 5087,
+      "original_sha256": "a4b6bc02aa0a9b36b967f798f6f08994e9e4852529b41d3b96b98b40d016208e",
+      "archived_body_sha256": "87fb218156ac026fbce04b55a83eab162c58a32b471c68c4d19e61a452debeb3",
+      "links": [
+        {
+          "old": "country/C06/59-tax-sources-and-country-operation.md",
+          "new": "../../country/C06/59-tax-sources-and-country-operation.md",
+          "resolved": {
+            "target": "research/country/C06/59-tax-sources-and-country-operation.md",
+            "query": "",
+            "fragment": ""
+          }
+        }
+      ]
+    },
+    {
+      "kind": "status-edition-line",
+      "edition": 156,
+      "source": "DESIGN-STATUS.md",
+      "source_line": 86,
+      "destination": "history/06-current-research/03-design-149-156.md",
+      "body_start": 5102,
+      "body_end": 5755,
+      "original_sha256": "9e2a83c2283bd7171e08d1d69e19d1f3ff9d72b871ebd127c5fb92f9f891c0b4",
+      "archived_body_sha256": "ecf01de1e6325a88469fe9598d686e77ea0f25342d3a2561a4f176a8c1266c6a",
+      "links": [
+        {
+          "old": "country/C06/59/05-country-package-and-source-continuity.md",
+          "new": "../../country/C06/59/05-country-package-and-source-continuity.md",
+          "resolved": {
+            "target": "research/country/C06/59/05-country-package-and-source-continuity.md",
+            "query": "",
+            "fragment": ""
+          }
+        }
+      ]
+    },
+    {
+      "kind": "status-edition-line",
+      "edition": 157,
+      "source": "DESIGN-STATUS.md",
+      "source_line": 87,
+      "destination": "history/06-current-research/04-design-157-164.md",
+      "body_start": 219,
+      "body_end": 1101,
+      "original_sha256": "5f084945a53191ae62420107a0274c3324e66b41de8efde990eaf5452a02ebf0",
+      "archived_body_sha256": "0e4d800b7de4b9f79149bf7f16a33e55ef2686e59a3396a29b4a175b5bd05948",
+      "links": [
+        {
+          "old": "country/C07/04/05-common-factors-and-equal-standing.md",
+          "new": "../../country/C07/04/05-common-factors-and-equal-standing.md",
+          "resolved": {
+            "target": "research/country/C07/04/05-common-factors-and-equal-standing.md",
+            "query": "",
+            "fragment": ""
+          }
+        }
+      ]
+    },
+    {
+      "kind": "status-edition-line",
+      "edition": 158,
+      "source": "DESIGN-STATUS.md",
+      "source_line": 88,
+      "destination": "history/06-current-research/04-design-157-164.md",
+      "body_start": 1116,
+      "body_end": 1849,
+      "original_sha256": "4e6026b09ada543f9a1a651f94356507bfba2822e4781145d1f8c23e1088d0da",
+      "archived_body_sha256": "1610b70790da691c51f8d9e88f366783c4db312a97d2d4a7307d9fe8a92a199e",
+      "links": [
+        {
+          "old": "settlement/country-review-158/README.md",
+          "new": "../../settlement/country-review-158/README.md",
+          "resolved": {
+            "target": "research/settlement/country-review-158/README.md",
+            "query": "",
+            "fragment": ""
+          }
+        }
+      ]
+    },
+    {
+      "kind": "status-edition-line",
+      "edition": 159,
+      "source": "DESIGN-STATUS.md",
+      "source_line": 89,
+      "destination": "history/06-current-research/04-design-157-164.md",
+      "body_start": 1864,
+      "body_end": 2450,
+      "original_sha256": "bf5ca87d5b7f3e1f9084c44fe4655d240bf152de8e8c1f8cd2964986fb736bbe",
+      "archived_body_sha256": "8a9d91151e8746b148981c858eea00b37e183fb9862d6821f0c9ee1d47d80ade",
+      "links": [
+        {
+          "old": "settlement/country-frontier/05-joined-public-offer-and-source.md",
+          "new": "../../settlement/country-frontier/05-joined-public-offer-and-source.md",
+          "resolved": {
+            "target": "research/settlement/country-frontier/05-joined-public-offer-and-source.md",
+            "query": "",
+            "fragment": ""
+          }
+        }
+      ]
+    },
+    {
+      "kind": "status-edition-line",
+      "edition": 160,
+      "source": "DESIGN-STATUS.md",
+      "source_line": 90,
+      "destination": "history/06-current-research/04-design-157-164.md",
+      "body_start": 2465,
+      "body_end": 3087,
+      "original_sha256": "4003056d6bd25b0af75a2f8eaafa137eec1567444a5bccdfe16911320bb95f8f",
+      "archived_body_sha256": "b6eff9768a568bc0c85edb100d8ef9726407f5738fca4d0dc3a43a4d0162058e",
+      "links": [
+        {
+          "old": "settlement/country-frontier/06-paired-net-source-and-legacy-bridge.md",
+          "new": "../../settlement/country-frontier/06-paired-net-source-and-legacy-bridge.md",
+          "resolved": {
+            "target": "research/settlement/country-frontier/06-paired-net-source-and-legacy-bridge.md",
+            "query": "",
+            "fragment": ""
+          }
+        }
+      ]
+    },
+    {
+      "kind": "status-edition-line",
+      "edition": 161,
+      "source": "DESIGN-STATUS.md",
+      "source_line": 91,
+      "destination": "history/06-current-research/04-design-157-164.md",
+      "body_start": 3102,
+      "body_end": 3869,
+      "original_sha256": "d3928d0768c15da22b62961dc03386069778b95cd9bb13eb94f821fef7812c81",
+      "archived_body_sha256": "dc0920dc409862f90282c801640f126b56448b0091b8ab2597da1fef284529e6",
+      "links": [
+        {
+          "old": "settlement/country-review-161/README.md",
+          "new": "../../settlement/country-review-161/README.md",
+          "resolved": {
+            "target": "research/settlement/country-review-161/README.md",
+            "query": "",
+            "fragment": ""
+          }
+        }
+      ]
+    },
+    {
+      "kind": "status-edition-line",
+      "edition": 162,
+      "source": "DESIGN-STATUS.md",
+      "source_line": 92,
+      "destination": "history/06-current-research/04-design-157-164.md",
+      "body_start": 3884,
+      "body_end": 4725,
+      "original_sha256": "80816d584db318bf12e244c5ef4fa2d8b6121f95bd874bbc242d080a0a62acb3",
+      "archived_body_sha256": "ed6fd492685757e5ed9f437579a84a8df648ff3944458516dfc3da1889c73a18",
+      "links": [
+        {
+          "old": "settlement/country-operation/01-paid-life-and-shared-logistics.md",
+          "new": "../../settlement/country-operation/01-paid-life-and-shared-logistics.md",
+          "resolved": {
+            "target": "research/settlement/country-operation/01-paid-life-and-shared-logistics.md",
+            "query": "",
+            "fragment": ""
+          }
+        }
+      ]
+    },
+    {
+      "kind": "status-edition-line",
+      "edition": 163,
+      "source": "DESIGN-STATUS.md",
+      "source_line": 93,
+      "destination": "history/06-current-research/04-design-157-164.md",
+      "body_start": 4740,
+      "body_end": 5474,
+      "original_sha256": "c1563c4c9bef12b5962c04c26883f34f43eff36f239ac47770f6e8e53eca59d3",
+      "archived_body_sha256": "169aba4245509684366fca03981de34b6f1f9eab7c0395d52080aa97bddced4a",
+      "links": [
+        {
+          "old": "settlement/country-operation/03-provider-architecture-and-public-control.md",
+          "new": "../../settlement/country-operation/03-provider-architecture-and-public-control.md",
+          "resolved": {
+            "target": "research/settlement/country-operation/03-provider-architecture-and-public-control.md",
+            "query": "",
+            "fragment": ""
+          }
+        }
+      ]
+    },
+    {
+      "kind": "status-edition-line",
+      "edition": 164,
+      "source": "DESIGN-STATUS.md",
+      "source_line": 94,
+      "destination": "history/06-current-research/04-design-157-164.md",
+      "body_start": 5489,
+      "body_end": 6360,
+      "original_sha256": "ddbb68947e7c673929b336409575cc6ac755a3c4652dcfe6c74b9aa1a1f0222f",
+      "archived_body_sha256": "ecd5e85f34e54339e98f081f8e2cb13fa5dcd659dc0c385fde6c68b1e0f9ab70",
+      "links": [
+        {
+          "old": "settlement/clinical-governance/README.md",
+          "new": "../../settlement/clinical-governance/README.md",
+          "resolved": {
+            "target": "research/settlement/clinical-governance/README.md",
+            "query": "",
+            "fragment": ""
+          }
+        }
+      ]
+    },
+    {
+      "kind": "status-edition-line",
+      "edition": 165,
+      "source": "DESIGN-STATUS.md",
+      "source_line": 95,
+      "destination": "history/06-current-research/05-design-165-171.md",
+      "body_start": 219,
+      "body_end": 1106,
+      "original_sha256": "6a80e14006833ef5a25904aa0312fcd136a296d6259585ecb29cb6676d9d81b1",
+      "archived_body_sha256": "65aaf0590e6053b52e8e983c9edd158f71b2f2751ed159025b17c691f1c842e3",
+      "links": [
+        {
+          "old": "settlement/civil-rescue/README.md",
+          "new": "../../settlement/civil-rescue/README.md",
+          "resolved": {
+            "target": "research/settlement/civil-rescue/README.md",
+            "query": "",
+            "fragment": ""
+          }
+        }
+      ]
+    },
+    {
+      "kind": "status-edition-line",
+      "edition": 166,
+      "source": "DESIGN-STATUS.md",
+      "source_line": 96,
+      "destination": "history/06-current-research/05-design-165-171.md",
+      "body_start": 1121,
+      "body_end": 2751,
+      "original_sha256": "dc58814cd9197bddc991df2bd4077d9d89d0b2be3724fdc800ba7736305d7587",
+      "archived_body_sha256": "7ab27e5b2e0f1b00609a404aabb53d8ad09a3673bb91bf98c8554ff4ad7caadf",
+      "links": [
+        {
+          "old": "settlement/critical-power/README.md",
+          "new": "../../settlement/critical-power/README.md",
+          "resolved": {
+            "target": "research/settlement/critical-power/README.md",
+            "query": "",
+            "fragment": ""
+          }
+        }
+      ]
+    },
+    {
+      "kind": "status-edition-line",
+      "edition": 167,
+      "source": "DESIGN-STATUS.md",
+      "source_line": 97,
+      "destination": "history/06-current-research/05-design-165-171.md",
+      "body_start": 2766,
+      "body_end": 4302,
+      "original_sha256": "274aef5a787898b184e5b787c6d3233de4497902b1405b96c80daddfc10dd8ba",
+      "archived_body_sha256": "5e47c7f51414e65055d8d60ae603ac1d6085286cc77fbdbd5a16831a8b4213f0",
+      "links": [
+        {
+          "old": "settlement/mineral-rights/README.md",
+          "new": "../../settlement/mineral-rights/README.md",
+          "resolved": {
+            "target": "research/settlement/mineral-rights/README.md",
+            "query": "",
+            "fragment": ""
+          }
+        }
+      ]
+    },
+    {
+      "kind": "status-edition-line",
+      "edition": 168,
+      "source": "DESIGN-STATUS.md",
+      "source_line": 98,
+      "destination": "history/06-current-research/05-design-165-171.md",
+      "body_start": 4317,
+      "body_end": 5717,
+      "original_sha256": "6db9378daaeb28a95dc7dac6f0794aa78403eb4696c6fad1d2934c6fbc9fc59d",
+      "archived_body_sha256": "31ef61d85bd4c92939127a6dd32e67847219b22308029cf0eac7e98630c35dcb",
+      "links": [
+        {
+          "old": "settlement/earnings-transition/README.md",
+          "new": "../../settlement/earnings-transition/README.md",
+          "resolved": {
+            "target": "research/settlement/earnings-transition/README.md",
+            "query": "",
+            "fragment": ""
+          }
+        }
+      ]
+    },
+    {
+      "kind": "status-edition-line",
+      "edition": 169,
+      "source": "DESIGN-STATUS.md",
+      "source_line": 99,
+      "destination": "history/06-current-research/05-design-165-171.md",
+      "body_start": 5732,
+      "body_end": 7013,
+      "original_sha256": "9621f1ae17a4b0dc9bfc947ac25d2a25d7025bb5ca88e6fb88668e6c5609909c",
+      "archived_body_sha256": "8d0aa562fe162a583f0c7e1f838b6210c091985955c0e251ba1a1b4504cb54c6",
+      "links": [
+        {
+          "old": "settlement/water-service/README.md",
+          "new": "../../settlement/water-service/README.md",
+          "resolved": {
+            "target": "research/settlement/water-service/README.md",
+            "query": "",
+            "fragment": ""
+          }
+        }
+      ]
+    },
+    {
+      "kind": "status-edition-line",
+      "edition": 170,
+      "source": "DESIGN-STATUS.md",
+      "source_line": 100,
+      "destination": "history/06-current-research/05-design-165-171.md",
+      "body_start": 7028,
+      "body_end": 8498,
+      "original_sha256": "984c777b6087c5967c023368391d4e029fe5f98d56277860ab70899c284b804b",
+      "archived_body_sha256": "4a797090d4cf8fc0b12d243d50cec585f0e7769e2ec7adf65cb2bcdb2b1837b9",
+      "links": [
+        {
+          "old": "settlement/budget-government/README.md",
+          "new": "../../settlement/budget-government/README.md",
+          "resolved": {
+            "target": "research/settlement/budget-government/README.md",
+            "query": "",
+            "fragment": ""
+          }
+        }
+      ]
+    },
+    {
+      "kind": "status-edition-line",
+      "edition": 171,
+      "source": "DESIGN-STATUS.md",
+      "source_line": 101,
+      "destination": "history/06-current-research/05-design-165-171.md",
+      "body_start": 8513,
+      "body_end": 9772,
+      "original_sha256": "5afca84ca7b669122c71c00e0ae9c34cec88853b1748ae33bd14cf5ef808b6b4",
+      "archived_body_sha256": "6f505d51e232c868c77b9d0c5467fa291106e2fcab7f861478987585c395c7f7",
+      "links": [
+        {
+          "old": "settlement/paid-time-source/README.md",
+          "new": "../../settlement/paid-time-source/README.md",
+          "resolved": {
+            "target": "research/settlement/paid-time-source/README.md",
+            "query": "",
+            "fragment": ""
+          }
+        }
+      ]
+    },
+    {
+      "kind": "status-edition-line",
+      "edition": 172,
+      "source": "DESIGN-STATUS.md",
+      "source_line": 102,
+      "destination": "history/06-current-research/06-design-172-178.md",
+      "body_start": 219,
+      "body_end": 1512,
+      "original_sha256": "cddc17947ffc26ac388e27770d70591a9484bd829f774971b85e5c2c5ea28e91",
+      "archived_body_sha256": "a468aec5cbee715afd108ebf8ec1294206c80acaf6837c09c4b93b95fbfbc85c",
+      "links": [
+        {
+          "old": "settlement/development-permission/README.md",
+          "new": "../../settlement/development-permission/README.md",
+          "resolved": {
+            "target": "research/settlement/development-permission/README.md",
+            "query": "",
+            "fragment": ""
+          }
+        }
+      ]
+    },
+    {
+      "kind": "status-edition-line",
+      "edition": 173,
+      "source": "DESIGN-STATUS.md",
+      "source_line": 103,
+      "destination": "history/06-current-research/06-design-172-178.md",
+      "body_start": 1527,
+      "body_end": 3117,
+      "original_sha256": "c71be0a32069dd9093b1d36c423229afe5dafd7a71e7c8a20e8da5fb1443639e",
+      "archived_body_sha256": "cf461f4fa044f41583faf54359041fbce9e69d0f395f8088c406784e8f09b887",
+      "links": [
+        {
+          "old": "settlement/lifelong-learning/README.md",
+          "new": "../../settlement/lifelong-learning/README.md",
+          "resolved": {
+            "target": "research/settlement/lifelong-learning/README.md",
+            "query": "",
+            "fragment": ""
+          }
+        }
+      ]
+    },
+    {
+      "kind": "status-edition-line",
+      "edition": 174,
+      "source": "DESIGN-STATUS.md",
+      "source_line": 104,
+      "destination": "history/06-current-research/06-design-172-178.md",
+      "body_start": 3132,
+      "body_end": 4758,
+      "original_sha256": "69ff6992388409e285c3b521a613c55f05b871eb2f888dd96debe47871c1e791",
+      "archived_body_sha256": "655b1fa9aa9fa7879bc556abcf529c6adfc3968a04d6d14dd471ee2351d97a85",
+      "links": [
+        {
+          "old": "settlement/public-initiatives/README.md",
+          "new": "../../settlement/public-initiatives/README.md",
+          "resolved": {
+            "target": "research/settlement/public-initiatives/README.md",
+            "query": "",
+            "fragment": ""
+          }
+        }
+      ]
+    },
+    {
+      "kind": "status-edition-line",
+      "edition": 175,
+      "source": "DESIGN-STATUS.md",
+      "source_line": 105,
+      "destination": "history/06-current-research/06-design-172-178.md",
+      "body_start": 4773,
+      "body_end": 6574,
+      "original_sha256": "599d76edf5814cd006ae2f4eacaa3b284dec5e1699864b6a3061b0a39b71a698",
+      "archived_body_sha256": "a8766264a0fc0ce4802d6f375c61abbb8698096e60667fea90f300b5b3d5c6de",
+      "links": [
+        {
+          "old": "settlement/public-assistance/README.md",
+          "new": "../../settlement/public-assistance/README.md",
+          "resolved": {
+            "target": "research/settlement/public-assistance/README.md",
+            "query": "",
+            "fragment": ""
+          }
+        }
+      ]
+    },
+    {
+      "kind": "status-edition-line",
+      "edition": 176,
+      "source": "DESIGN-STATUS.md",
+      "source_line": 106,
+      "destination": "history/06-current-research/06-design-172-178.md",
+      "body_start": 6589,
+      "body_end": 7802,
+      "original_sha256": "5989aed34bba0b58b7ddab70df5393e2c676fe946ecd42b3acf5af3e85a31b33",
+      "archived_body_sha256": "7fd2ff474b4534c550c048b73515a26f1d206000300ea467e288341f2278f078",
+      "links": [
+        {
+          "old": "settlement/resource-scope/README.md",
+          "new": "../../settlement/resource-scope/README.md",
+          "resolved": {
+            "target": "research/settlement/resource-scope/README.md",
+            "query": "",
+            "fragment": ""
+          }
+        }
+      ]
+    },
+    {
+      "kind": "status-edition-line",
+      "edition": 177,
+      "source": "DESIGN-STATUS.md",
+      "source_line": 107,
+      "destination": "history/06-current-research/06-design-172-178.md",
+      "body_start": 7817,
+      "body_end": 9124,
+      "original_sha256": "9e1d2dd429916837909a98e7b421bac2b67978938ad6327b76bb662541a2d71d",
+      "archived_body_sha256": "0287e7d7bb4c595800b6c001399fb2d2da74cf764f2d7870edf25a9d57c6edf1",
+      "links": [
+        {
+          "old": "settlement/production-bridge/README.md",
+          "new": "../../settlement/production-bridge/README.md",
+          "resolved": {
+            "target": "research/settlement/production-bridge/README.md",
+            "query": "",
+            "fragment": ""
+          }
+        }
+      ]
+    },
+    {
+      "kind": "status-edition-line",
+      "edition": 178,
+      "source": "DESIGN-STATUS.md",
+      "source_line": 108,
+      "destination": "history/06-current-research/06-design-172-178.md",
+      "body_start": 9139,
+      "body_end": 10536,
+      "original_sha256": "1d5f922a4eaf8f5b0ffefc967f6b4b5a37a2cbe1e183b67f7460949b2f1b4f02",
+      "archived_body_sha256": "16015ba959b8544d7da762f892a73ec722e504d03d0f2fcf547fe38e7cb7d199",
+      "links": [
+        {
+          "old": "settlement/early-care-capacity/README.md",
+          "new": "../../settlement/early-care-capacity/README.md",
+          "resolved": {
+            "target": "research/settlement/early-care-capacity/README.md",
+            "query": "",
+            "fragment": ""
+          }
+        }
+      ]
+    }
+  ],
+  "actual_new_source_or_authority": null
+}

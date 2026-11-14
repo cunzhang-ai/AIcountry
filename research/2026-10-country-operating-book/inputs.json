@@ -1,0 +1,376 @@
+{
+  "edition": 68,
+  "date": "2026-10-15",
+  "scope": "All 37 currently audited functions receive proposed ordinary operating bids; no claim that every duty/workload is priced or feasible",
+  "pinned_sources": {
+    "2026-10-income-floor/inputs.json": "83a829f77ceff901848b31447e28c15d2bf603e66d97359ac9d6414308646337",
+    "2026-10-income-floor/model.py": "b15a17b92deb6358a790d222524f2ce4a916bf9bcc2cac71b5ab27f8362566da",
+    "2026-10-demand-and-steady-stocks/model.py": "029c7d2a3ea939709942483a1beb0a962a8e49e2310289ecb80be9616c782d79",
+    "2026-10-service-entitlements-and-workload/inputs.json": "66fe39b74be149467de35e56b58d0d354853c4aa9abfcf58b4a8fcefecdc8ef7",
+    "2026-10-service-entitlements-and-workload/results.json": "306d73a5b1cc502bf5bf3c50d7e98cf7e3bd75ed6d5bba966f4d536bfccf82f3",
+    "2026-10-productive-capability/results.json": "ec8c3ce8e9df53bc91dfb775c89d2001f0161e5461a6b9faac49820553928183",
+    "2026-10-country-operating-book/predecessor-design-67/settlement/commitments/inventory.json": "cb2edeef2ea46059f98f53c49cb55ca0b550a511e8a5f229653c324631c7b634"
+  },
+  "payroll": [
+    {
+      "id": "clinical",
+      "higher_people": 2280,
+      "middle_people": 1168,
+      "months": 12,
+      "shares": {
+        "L07": 0.65,
+        "L02": 0.1,
+        "L08": 0.1,
+        "L09": 0.1,
+        "L03": 0.05
+      }
+    },
+    {
+      "id": "education",
+      "higher_people": 700,
+      "middle_people": 1580,
+      "months": 12,
+      "shares": {
+        "L07": 0.9,
+        "K01": 0.1
+      }
+    },
+    {
+      "id": "care",
+      "higher_people": 0,
+      "middle_people": 3560,
+      "months": 12,
+      "shares": {
+        "L07": 0.75,
+        "L08": 0.1,
+        "L03": 0.1,
+        "L09": 0.05
+      }
+    },
+    {
+      "id": "networks",
+      "higher_people": 250,
+      "middle_people": 562,
+      "months": 12,
+      "shares": {
+        "R05": 0.35,
+        "R09": 0.25,
+        "R10": 0.2,
+        "R08": 0.1,
+        "L10": 0.1
+      }
+    },
+    {
+      "id": "justice_safety",
+      "higher_people": 550,
+      "middle_people": 570,
+      "months": 12,
+      "shares": {
+        "D10": 0.1,
+        "D11": 0.25,
+        "D12": 0.3,
+        "R01": 0.2,
+        "R02": 0.05,
+        "D03": 0.1
+      }
+    },
+    {
+      "id": "public_power_admin",
+      "higher_people": 200,
+      "middle_people": 920,
+      "months": 12,
+      "shares": {
+        "D01": 0.03,
+        "D02": 0.08,
+        "D04": 0.12,
+        "D05": 0.05,
+        "D06": 0.04,
+        "D07": 0.1,
+        "D08": 0.1,
+        "D09": 0.03,
+        "L04": 0.05,
+        "L05": 0.04,
+        "L06": 0.1,
+        "R03": 0.05,
+        "R04": 0.1,
+        "R11": 0.03,
+        "K02": 0.04,
+        "K01": 0.04
+      }
+    },
+    {
+      "id": "technical",
+      "higher_people": 20,
+      "middle_people": 3,
+      "months": 12,
+      "shares": {
+        "R06": 0.2,
+        "R07": 0.15,
+        "R08": 0.15,
+        "K03": 0.15,
+        "R11": 0.15,
+        "L11": 0.1,
+        "L05": 0.1
+      }
+    },
+    {
+      "id": "election_peak",
+      "higher_people": 0,
+      "middle_people": 32,
+      "months": 2,
+      "shares": {
+        "D04": 1
+      },
+      "active_months": [
+        9,
+        10
+      ]
+    }
+  ],
+  "operating_components": [
+    {
+      "id": "primary_community",
+      "cash": 40,
+      "imports": 8,
+      "shares": {
+        "L07": 0.55,
+        "L02": 0.15,
+        "L08": 0.1,
+        "L09": 0.15,
+        "L03": 0.05
+      },
+      "bid_scope": "Proposed nonwage operating allowance, not measured clinical demand",
+      "actual_workload_requirement": null
+    },
+    {
+      "id": "hospital_medicines",
+      "cash": 200,
+      "imports": 100,
+      "shares": {
+        "L07": 0.65,
+        "L02": 0.1,
+        "L08": 0.15,
+        "L09": 0.1
+      },
+      "bid_scope": "Acute/chronic care and medicines; real case mix and supply unverified",
+      "actual_workload_requirement": null
+    },
+    {
+      "id": "prevention",
+      "cash": 20,
+      "imports": 5,
+      "shares": {
+        "L01": 0.8,
+        "R01": 0.2
+      },
+      "bid_scope": "Local prevention, laboratories and warning",
+      "actual_workload_requirement": null
+    },
+    {
+      "id": "care_receiving",
+      "cash": 40,
+      "imports": 4,
+      "shares": {
+        "L07": 0.7,
+        "L08": 0.1,
+        "L03": 0.1,
+        "L09": 0.1
+      },
+      "bid_scope": "Care sites, transport and safeguarding; not all care needs priced",
+      "actual_workload_requirement": null
+    },
+    {
+      "id": "learning_sites",
+      "cash": 60,
+      "imports": 8,
+      "shares": {
+        "L07": 0.8,
+        "L10": 0.05,
+        "L11": 0.15
+      },
+      "bid_scope": "Learning sites, meals and transport; includes proposed training-site maintenance 0.5 once",
+      "actual_workload_requirement": null
+    },
+    {
+      "id": "learning_research_renewal",
+      "cash": 15,
+      "imports": 2,
+      "shares": {
+        "L04": 0.4,
+        "L07": 0.4,
+        "K01": 0.2
+      },
+      "bid_scope": "Renewal/research bid; future actual replacement cohorts remain unknown",
+      "actual_workload_requirement": null
+    },
+    {
+      "id": "public_life",
+      "cash": 10,
+      "imports": 1,
+      "shares": {
+        "K01": 0.7,
+        "L10": 0.3
+      },
+      "bid_scope": "Voluntary civic and cultural access",
+      "actual_workload_requirement": null
+    },
+    {
+      "id": "networks_operation",
+      "cash": 50,
+      "imports": 12,
+      "shares": {
+        "R05": 0.3,
+        "R09": 0.25,
+        "R10": 0.25,
+        "R08": 0.1,
+        "R07": 0.1
+      },
+      "bid_scope": "Includes the old 16 operating-maintenance assumption once, not an extra bill",
+      "actual_workload_requirement": null
+    },
+    {
+      "id": "environment_food_animals",
+      "cash": 20,
+      "imports": 4,
+      "shares": {
+        "R06": 0.3,
+        "R07": 0.2,
+        "R08": 0.2,
+        "L11": 0.2,
+        "L05": 0.1
+      },
+      "bid_scope": "Inspection and ecological/food/animal operating bid",
+      "actual_workload_requirement": null
+    },
+    {
+      "id": "courts_remedy",
+      "cash": 15,
+      "imports": 1,
+      "shares": {
+        "D11": 0.5,
+        "D10": 0.25,
+        "D03": 0.25
+      },
+      "bid_scope": "Court, defense and executed-remedy operating allowance, not actual case capacity",
+      "actual_workload_requirement": null
+    },
+    {
+      "id": "safety_protection",
+      "cash": 35,
+      "imports": 8,
+      "shares": {
+        "D12": 0.4,
+        "R01": 0.6
+      },
+      "bid_scope": "Civil protection and bounded defense bid; threat/hazard sufficiency unknown",
+      "actual_workload_requirement": null
+    },
+    {
+      "id": "democratic_civil_systems",
+      "cash": 12,
+      "imports": 1,
+      "shares": {
+        "D01": 0.1,
+        "D02": 0.15,
+        "D04": 0.2,
+        "D05": 0.1,
+        "D06": 0.1,
+        "D08": 0.15,
+        "D09": 0.1,
+        "D07": 0.1
+      },
+      "bid_scope": "Democratic/civil institutions; not a founding electorate or seat-count decision",
+      "actual_workload_requirement": null
+    },
+    {
+      "id": "finance_administration",
+      "cash": 10,
+      "imports": 1,
+      "shares": {
+        "R04": 0.85,
+        "L06": 0.15
+      },
+      "bid_scope": "Includes insurance administration financed by a 3 transfer from S; no second resource cost",
+      "actual_workload_requirement": null
+    },
+    {
+      "id": "evidence_AI_recovery",
+      "cash": 20,
+      "imports": 7,
+      "shares": {
+        "K01": 0.5,
+        "K02": 0.2,
+        "K03": 0.3
+      },
+      "bid_scope": "Archives, evidence, AI/manual access and recovery; no assumed efficiency gain",
+      "actual_workload_requirement": null
+    },
+    {
+      "id": "external_reception_border",
+      "cash": 15,
+      "imports": 4,
+      "shares": {
+        "R03": 0.4,
+        "R02": 0.3,
+        "R11": 0.3
+      },
+      "bid_scope": "External, reception, border and preparedness operations; treaty/disaster liabilities unknown",
+      "actual_workload_requirement": null
+    }
+  ],
+  "rates": {
+    "corporate": 0.5,
+    "capital_personal": 0.4,
+    "wear": 0.05,
+    "sovereign_interest": 0.05
+  },
+  "opening": {
+    "public_real": 595,
+    "market_real": 1920,
+    "treasury_cash": 500,
+    "insurance_cash": 100,
+    "deposits": 600,
+    "bank_reserves": 175,
+    "gross_bonds": 1080,
+    "household_bonds": 425,
+    "insurance_bonds": 100,
+    "foreign_bonds": 205,
+    "bank_bonds": 250,
+    "monetary_bonds": 100,
+    "public_equity_share": 0.25
+  },
+  "insurance": {
+    "monthly_earned": 1250,
+    "survivor_group": "middle parent and child",
+    "survivor_monthly_exact": [
+      500,
+      3
+    ],
+    "administration": 3,
+    "credit_transfer": 6,
+    "actual_lifetime_liability": null
+  },
+  "limits": [
+    "Every new allocation, pay grade, amount, price, role mix, import, source, contract and stock is an authored bid/hypothesis, not a workload estimate, actual appropriation or empirical safe capacity.",
+    "Allocating every current function does not establish a complete legal/duty census. All actual quantities, costs, receivers and full requirements remain unknown; no function is workload-qualified by a budget share.",
+    "Payroll replaces the old gross 400/438.25 assumptions rather than adding to them. There are 4000 higher-pay and 8363 full-year middle-pay public positions plus 32 two-month middle-pay contracts; all are drawn from the 55000-person reference, not additional national workers.",
+    "Proposed public-office/administrative payroll contains an allowance for officeholder remuneration but fixes no Assembly size or legitimate founding map; individual posts and work/independence still need reconciliation.",
+    "The 562 purchase bids already contain the old 16 maintenance and new 0.5 training-site maintenance. Public wear replacement is 29.75 on assets 595, including old-project 5.4 and training-facility 0.35 once, never added again to the whole capital budget.",
+    "The earned pension 225 is a different authored mature 40-year/30000-pay history, not reclassification or erasure of old 45 claims. The 6000 selected child survivor recipients and 4000 credit-year equivalents are authored allocation fixtures, not eligibility observations. Actual accrued L(t), other claims and future demography remain unknown.",
+    "Insurance administration 3 is financed by S to G and included once in public resources. Credit transfer 6 and explicit backing cover due modeled insurance payments; no restricted surplus is swept or invested under compulsion.",
+    "All household consumption follows modeled available cash under unchanged I05 and wage taxes. Full voluntary market payout after replacement, concentrated capital ownership and fixed prices are hypotheses, not mandates or behavioral forecasts.",
+    "GDP is derived required output, not observed supply or welfare. No extra private productivity, AI saving or jobs after public reassignment are verified. All sector flows are planned and require actual payment/receipt.",
+    "Opening bank asset 250/new Treasury deposit 250 is a separate conditional sovereign-bond purchase, not automatic monetary/Treasury credit. A prior G-to-S 75 transfer changes deposit allocation: G 500/S100 total600. Prior public assets, bank capital/equity and inherited claims remain unverified.",
+    "Known book positions omit other household assets and unknown liabilities. The unknown pension symbol remains paired H asset/S liability; no market valuation, full public-sector classification or 2025 SNA certification is claimed.",
+    "Normal public FX uses only its own 100 reserve with floor75 and an actual conditional purchase from private exporters; no private exporter income or monetary FX75 is automatically Treasury property. Private imports use a separate conditional FX line64, fee1/rate5%, with zero public reserve pledge.",
+    "The private export-loss calendar assumes the normal public FX-sale contract is still honored and puts remaining usable receipts through the private line. It is a conditional failure test, not authority to prioritize the state, guarantee seller performance or book unpaid imports as received goods.",
+    "Cash costs are conservatively reserved day1 with regular receipts day21 in 30-day months. Public FX conversion is part of the same cost, not a second expense. Principal sensitivities hold old flows before changed interest and are not a complete multi-year forecast.",
+    "Domestic bank liquidity300 against sovereign250 at20% haircut/producer275 at40% is only a capacity comparison. Actual collateral, solvency, authorization, draw costs and repayment are unknown; Treasury/insurance reliance on one bank adds common-failure risk.",
+    "Public energy430/water2.6, private output intensities, commissioned supplies and savings are authored partial resource vectors. Food, land, other materials, emissions, local shifts, physical stocks and actual environmental/foreign access remain unknown.",
+    "The prior preparation535.725, its remaining10 buffer and public cash500 are not additive funds. This is a conditional post-preparation state, not its funded transition; the programme buffer is included within public cash if actually retained.",
+    "Actual whole-duty prices, legal migration, pending cases, crisis/reconstruction claims, service/controller independence, stakeholder participation, qualified review and better-life outcomes remain unestablished.",
+    "The proposed workforce includes the S repair roles beyond the earlier N training pipeline; their actual qualification and additional transition cost are unknown, not provided by the old 535.725 programme. Budget allocation cannot certify them.",
+    "Normal cash balances are not accrued national saving or a full actuarial/SNA net-lending account; pension entitlement changes remain unknown. Principal sensitivity only tests domestic cash before changed flows, not the additional foreign-principal FX path or a full future-year budget.",
+    "The two-month payroll is paid in months9/10, not smoothed into a fictive year-round post. Other current costs and regular receipts use the declared equal-month convention; actual full subannual schedules remain unverified."
+  ]
+}

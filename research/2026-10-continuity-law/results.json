@@ -1,0 +1,430 @@
+{
+  "status": "Authored bounded reference allocations and logical failure cases; not national estimates or legal authority",
+  "allocation": [
+    {
+      "sector": "health",
+      "required_fte": 3100.0,
+      "available_fte": 3150.0,
+      "assumed_protected_core_fte": 200.0,
+      "allocated_core_fte": 200.0,
+      "core_shortfall_fte": 0.0,
+      "remaining_required_fte": 2900.0,
+      "remaining_available_fte": 2950.0,
+      "remaining_shortfall_fte": 0.0,
+      "reference_total_cost": 240.0,
+      "assumed_core_cost": 15.483870967741936,
+      "remaining_reference_cost": 224.51612903225808,
+      "cost_identity_exact": "240",
+      "status": "Authored included allocation; no qualified/independent shifts or adequate service established"
+    },
+    {
+      "sector": "education",
+      "required_fte": 2050.0,
+      "available_fte": 2100.0,
+      "assumed_protected_core_fte": 0.0,
+      "allocated_core_fte": 0.0,
+      "core_shortfall_fte": 0.0,
+      "remaining_required_fte": 2050.0,
+      "remaining_available_fte": 2100.0,
+      "remaining_shortfall_fte": 0.0,
+      "reference_total_cost": 145.0,
+      "assumed_core_cost": 0.0,
+      "remaining_reference_cost": 145.0,
+      "cost_identity_exact": "145",
+      "status": "Authored included allocation; no qualified/independent shifts or adequate service established"
+    },
+    {
+      "sector": "care",
+      "required_fte": 2000.0,
+      "available_fte": 1845.0,
+      "assumed_protected_core_fte": 100.0,
+      "allocated_core_fte": 100.0,
+      "core_shortfall_fte": 0.0,
+      "remaining_required_fte": 1900.0,
+      "remaining_available_fte": 1745.0,
+      "remaining_shortfall_fte": 155.0,
+      "reference_total_cost": 110.0,
+      "assumed_core_cost": 5.5,
+      "remaining_reference_cost": 104.5,
+      "cost_identity_exact": "110",
+      "status": "Authored included allocation; no qualified/independent shifts or adequate service established"
+    },
+    {
+      "sector": "housing_networks",
+      "required_fte": 730.0,
+      "available_fte": 750.0,
+      "assumed_protected_core_fte": 30.0,
+      "allocated_core_fte": 30.0,
+      "core_shortfall_fte": 0.0,
+      "remaining_required_fte": 700.0,
+      "remaining_available_fte": 720.0,
+      "remaining_shortfall_fte": 0.0,
+      "reference_total_cost": 105.0,
+      "assumed_core_cost": 4.315068493150685,
+      "remaining_reference_cost": 100.68493150684931,
+      "cost_identity_exact": "105",
+      "status": "Authored included allocation; no qualified/independent shifts or adequate service established"
+    },
+    {
+      "sector": "justice_safety_defense",
+      "required_fte": 1000.0,
+      "available_fte": 918.0,
+      "assumed_protected_core_fte": 150.0,
+      "allocated_core_fte": 150.0,
+      "core_shortfall_fte": 0.0,
+      "remaining_required_fte": 850.0,
+      "remaining_available_fte": 768.0,
+      "remaining_shortfall_fte": 82.0,
+      "reference_total_cost": 92.0,
+      "assumed_core_cost": 13.8,
+      "remaining_reference_cost": 78.2,
+      "cost_identity_exact": "92",
+      "status": "Authored included allocation; no qualified/independent shifts or adequate service established"
+    },
+    {
+      "sector": "democracy_administration_science_culture",
+      "required_fte": 1000.0,
+      "available_fte": 918.0,
+      "assumed_protected_core_fte": 100.0,
+      "allocated_core_fte": 100.0,
+      "core_shortfall_fte": 0.0,
+      "remaining_required_fte": 900.0,
+      "remaining_available_fte": 818.0,
+      "remaining_shortfall_fte": 82.0,
+      "reference_total_cost": 82.0,
+      "assumed_core_cost": 8.2,
+      "remaining_reference_cost": 73.8,
+      "cost_identity_exact": "82",
+      "status": "Authored included allocation; no qualified/independent shifts or adequate service established"
+    }
+  ],
+  "year2_six_envelope_cost": 774,
+  "year2_transfer_envelope": 120.0,
+  "unclosed_year2_cash_gap": 52.0,
+  "sample_roster": [
+    {
+      "role": "clinical",
+      "per_block_available_hours": 16,
+      "per_block_required_hours": 16,
+      "per_block_shortfall_hours": 0,
+      "four_block_shortfall_hours": 0,
+      "status": "Four authored consecutive blocks; replacement staff differ by block; no full-country roster"
+    },
+    {
+      "role": "paid_care",
+      "per_block_available_hours": 108,
+      "per_block_required_hours": 120,
+      "per_block_shortfall_hours": 12,
+      "four_block_shortfall_hours": 48,
+      "status": "Four authored consecutive blocks; replacement staff differ by block; no full-country roster"
+    },
+    {
+      "role": "judicial",
+      "per_block_available_hours": 8,
+      "per_block_required_hours": 9,
+      "per_block_shortfall_hours": 1,
+      "four_block_shortfall_hours": 4,
+      "status": "Four authored consecutive blocks; replacement staff differ by block; no full-country roster"
+    },
+    {
+      "role": "separate_counsel",
+      "per_block_available_hours": 16,
+      "per_block_required_hours": 20,
+      "per_block_shortfall_hours": 4,
+      "four_block_shortfall_hours": 16,
+      "status": "Four authored consecutive blocks; replacement staff differ by block; no full-country roster"
+    },
+    {
+      "role": "court_clerical",
+      "per_block_available_hours": 16,
+      "per_block_required_hours": 16,
+      "per_block_shortfall_hours": 0,
+      "four_block_shortfall_hours": 0,
+      "status": "Four authored consecutive blocks; replacement staff differ by block; no full-country roster"
+    },
+    {
+      "role": "lawful_execution",
+      "per_block_available_hours": 12,
+      "per_block_required_hours": 12,
+      "per_block_shortfall_hours": 0,
+      "four_block_shortfall_hours": 0,
+      "status": "Four authored consecutive blocks; replacement staff differ by block; no full-country roster"
+    },
+    {
+      "role": "benefit_processing",
+      "per_block_available_hours": 24,
+      "per_block_required_hours": 24,
+      "per_block_shortfall_hours": 0,
+      "four_block_shortfall_hours": 0,
+      "status": "Four authored consecutive blocks; replacement staff differ by block; no full-country roster"
+    },
+    {
+      "role": "contest_processing",
+      "per_block_available_hours": 8,
+      "per_block_required_hours": 8,
+      "per_block_shortfall_hours": 0,
+      "four_block_shortfall_hours": 0,
+      "status": "Four authored consecutive blocks; replacement staff differ by block; no full-country roster"
+    }
+  ],
+  "clock_cases": [
+    {
+      "duty": "New hardship protection",
+      "statutory_outer_hours": 24,
+      "latest_useful_hours": 8,
+      "completed_hours": 18,
+      "effective_latest_hours": 8,
+      "outer_clock_met": true,
+      "protection_time_met": false,
+      "claim_survives_failure": true
+    },
+    {
+      "duty": "Urgent clinical receiving",
+      "statutory_outer_hours": 2,
+      "latest_useful_hours": 1,
+      "completed_hours": 2,
+      "effective_latest_hours": 1,
+      "outer_clock_met": true,
+      "protection_time_met": false,
+      "claim_survives_failure": true
+    },
+    {
+      "duty": "Interrupted essential paid care",
+      "statutory_outer_hours": 6,
+      "latest_useful_hours": 3,
+      "completed_hours": 5,
+      "effective_latest_hours": 3,
+      "outer_clock_met": true,
+      "protection_time_met": false,
+      "claim_survives_failure": true
+    },
+    {
+      "duty": "Independent interim consideration",
+      "statutory_outer_hours": 24,
+      "latest_useful_hours": 10,
+      "completed_hours": 20,
+      "effective_latest_hours": 10,
+      "outer_clock_met": true,
+      "protection_time_met": false,
+      "claim_survives_failure": true
+    },
+    {
+      "duty": "Qualified contestant baseline access",
+      "statutory_outer_hours": 48,
+      "latest_useful_hours": 36,
+      "completed_hours": 40,
+      "effective_latest_hours": 36,
+      "outer_clock_met": true,
+      "protection_time_met": false,
+      "claim_survives_failure": true
+    }
+  ],
+  "interim_orders": [
+    {
+      "case": "late_without_extension",
+      "extensions_requested": 0,
+      "fresh_necessity_finding": false,
+      "shorter_source_limit_hours": 144,
+      "meaningful_hearing_opportunity_hours": null,
+      "test_hour": 73,
+      "maximum_ex_parte_hours": 72,
+      "hearing_opportunity_timely": false,
+      "hearing_opportunity_occurred_by_test": false,
+      "ex_parte_power_available_at_test": false,
+      "underlying_claim_cancelled": false,
+      "qualification": "Time-bound scope test; no force or new adjudicator authorized"
+    },
+    {
+      "case": "one_justified_extension",
+      "extensions_requested": 1,
+      "fresh_necessity_finding": true,
+      "shorter_source_limit_hours": 144,
+      "meaningful_hearing_opportunity_hours": 140,
+      "test_hour": 100,
+      "maximum_ex_parte_hours": 144,
+      "hearing_opportunity_timely": true,
+      "hearing_opportunity_occurred_by_test": false,
+      "ex_parte_power_available_at_test": true,
+      "underlying_claim_cancelled": false,
+      "qualification": "Time-bound scope test; no force or new adjudicator authorized"
+    },
+    {
+      "case": "serial_extension_attempt",
+      "extensions_requested": 2,
+      "fresh_necessity_finding": true,
+      "shorter_source_limit_hours": 999,
+      "meaningful_hearing_opportunity_hours": null,
+      "test_hour": 145,
+      "maximum_ex_parte_hours": 144,
+      "hearing_opportunity_timely": false,
+      "hearing_opportunity_occurred_by_test": false,
+      "ex_parte_power_available_at_test": false,
+      "underlying_claim_cancelled": false,
+      "qualification": "Time-bound scope test; no force or new adjudicator authorized"
+    },
+    {
+      "case": "shorter_liberty_limit",
+      "extensions_requested": 1,
+      "fresh_necessity_finding": true,
+      "shorter_source_limit_hours": 6,
+      "meaningful_hearing_opportunity_hours": null,
+      "test_hour": 8,
+      "maximum_ex_parte_hours": 6,
+      "hearing_opportunity_timely": false,
+      "hearing_opportunity_occurred_by_test": false,
+      "ex_parte_power_available_at_test": false,
+      "underlying_claim_cancelled": false,
+      "qualification": "Time-bound scope test; no force or new adjudicator authorized"
+    },
+    {
+      "case": "nonattendance_after_opportunity",
+      "extensions_requested": 0,
+      "fresh_necessity_finding": false,
+      "shorter_source_limit_hours": 72,
+      "meaningful_hearing_opportunity_hours": 50,
+      "test_hour": 60,
+      "maximum_ex_parte_hours": 72,
+      "hearing_opportunity_timely": true,
+      "hearing_opportunity_occurred_by_test": true,
+      "ex_parte_power_available_at_test": false,
+      "underlying_claim_cancelled": false,
+      "qualification": "Time-bound scope test; no force or new adjudicator authorized"
+    }
+  ],
+  "controller_paths": [
+    {
+      "package": "shared_clone",
+      "function": "benefit",
+      "paths": [
+        [
+          "R1",
+          "B1",
+          "P1"
+        ],
+        [
+          "R1",
+          "B2",
+          "P1"
+        ]
+      ],
+      "path_available_in_sample": false,
+      "actual_delivery": null,
+      "qualification": "Path test only; not proof of legal power, independent controllers, due cash or staffed execution"
+    },
+    {
+      "package": "shared_clone",
+      "function": "contest",
+      "paths": [
+        [
+          "Q1",
+          "R1",
+          "P1"
+        ],
+        [
+          "Q1",
+          "R1",
+          "P1"
+        ]
+      ],
+      "path_available_in_sample": false,
+      "actual_delivery": null,
+      "qualification": "Path test only; not proof of legal power, independent controllers, due cash or staffed execution"
+    },
+    {
+      "package": "shared_clone",
+      "function": "remedy_execution",
+      "paths": [
+        [
+          "F1",
+          "J1",
+          "R1",
+          "P1"
+        ],
+        [
+          "F2",
+          "J2",
+          "R1",
+          "P1"
+        ]
+      ],
+      "path_available_in_sample": false,
+      "actual_delivery": null,
+      "qualification": "Path test only; not proof of legal power, independent controllers, due cash or staffed execution"
+    },
+    {
+      "package": "distinct_preassigned",
+      "function": "benefit",
+      "paths": [
+        [
+          "R1",
+          "B1",
+          "P1"
+        ],
+        [
+          "R2",
+          "B2",
+          "P2"
+        ]
+      ],
+      "path_available_in_sample": true,
+      "actual_delivery": null,
+      "qualification": "Path test only; not proof of legal power, independent controllers, due cash or staffed execution"
+    },
+    {
+      "package": "distinct_preassigned",
+      "function": "contest",
+      "paths": [
+        [
+          "Q1",
+          "R1",
+          "P1"
+        ],
+        [
+          "Q2",
+          "R2",
+          "P2"
+        ]
+      ],
+      "path_available_in_sample": true,
+      "actual_delivery": null,
+      "qualification": "Path test only; not proof of legal power, independent controllers, due cash or staffed execution"
+    },
+    {
+      "package": "distinct_preassigned",
+      "function": "remedy_execution",
+      "paths": [
+        [
+          "F1",
+          "J1",
+          "R1",
+          "P1"
+        ],
+        [
+          "F2",
+          "J2",
+          "R2",
+          "P2"
+        ]
+      ],
+      "path_available_in_sample": true,
+      "actual_delivery": null,
+      "qualification": "Path test only; not proof of legal power, independent controllers, due cash or staffed execution"
+    }
+  ],
+  "actual_national_cost": null,
+  "full_country_feasibility": "undetermined",
+  "conditions": [
+    "Core shares and all sample workloads are authored assumptions, not empirical calibration.",
+    "Core envelope cost attribution uses constant average envelope cost per required FTE, including nonwage costs; it is a placeholder and not an occupational unit price.",
+    "Income support remains 100 baseline plus 20 authored shock; this does not price the E06 basket or its take-up.",
+    "Allocation protects assumed core first for arithmetic only; a competent elected law must justify an actual allocation and displaced duties.",
+    "Education remains fully counted in the six-envelope total despite zero in this limited continuity core.",
+    "Distinct personnel cover each six-hour block, with replacement/rest presumed and unverified.",
+    "Sample roster is a bounded subset; specialty, recusal, geography, medicine, imports, sites and actual rosters remain unknown.",
+    "Controller tests are end-to-end path loss only; they do not infer that all judges or services stop.",
+    "P2 and R2 are assumed prior-law alternatives with independently controlled records/credentials; their actual law, controller, cash, cost and staff are unverified.",
+    "No new national tax, borrowing, appropriation, entitlement or force power follows from arithmetic.",
+    "Interim-order cases test a 72-hour opportunity limit, one justified extension of at most 72 hours, and any shorter source-law limit; this Act grants no force or detention power."
+  ],
+  "interpretation": "Protected core allocation moves unmet work; separate paths do not create cash, qualified labor or authority. Earlier protection time prevails over administrative outer clocks."
+}

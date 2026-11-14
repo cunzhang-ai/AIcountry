@@ -1,0 +1,282 @@
+{
+  "edition": 185,
+  "baseline": {
+    "all_hours": {
+      "total": {
+        "exact_fraction": "4384582",
+        "decimal": 4384582.0
+      },
+      "G": {
+        "exact_fraction": "1166489",
+        "decimal": 1166489.0
+      },
+      "non_G": {
+        "exact_fraction": "3218093",
+        "decimal": 3218093.0
+      }
+    },
+    "employee_hours": {
+      "total": {
+        "exact_fraction": "4105972",
+        "decimal": 4105972.0
+      },
+      "G": {
+        "exact_fraction": "1166489",
+        "decimal": 1166489.0
+      },
+      "non_G": {
+        "exact_fraction": "2939483",
+        "decimal": 2939483.0
+      }
+    },
+    "employed_person_average": {
+      "total": {
+        "exact_fraction": "3194185",
+        "decimal": 3194185.0
+      },
+      "G": {
+        "exact_fraction": "872679",
+        "decimal": 872679.0
+      },
+      "non_G": {
+        "exact_fraction": "2321506",
+        "decimal": 2321506.0
+      }
+    },
+    "employee_person_average": {
+      "total": {
+        "exact_fraction": "3019379",
+        "decimal": 3019379.0
+      },
+      "G": {
+        "exact_fraction": "872679",
+        "decimal": 872679.0
+      },
+      "non_G": {
+        "exact_fraction": "2146700",
+        "decimal": 2146700.0
+      }
+    },
+    "nonemployee_hours": {
+      "total": {
+        "exact_fraction": "278610",
+        "decimal": 278610.0
+      },
+      "G": {
+        "exact_fraction": "0",
+        "decimal": 0.0
+      },
+      "non_G": {
+        "exact_fraction": "278610",
+        "decimal": 278610.0
+      }
+    },
+    "D1_compensation": {
+      "total": {
+        "exact_fraction": "1435787",
+        "decimal": 1435787.0
+      },
+      "G": {
+        "exact_fraction": "396633",
+        "decimal": 396633.0
+      },
+      "non_G": {
+        "exact_fraction": "1039154",
+        "decimal": 1039154.0
+      }
+    },
+    "gross_output": {
+      "total": {
+        "exact_fraction": "5151686",
+        "decimal": 5151686.0
+      },
+      "G": {
+        "exact_fraction": "690165",
+        "decimal": 690165.0
+      },
+      "non_G": {
+        "exact_fraction": "4461521",
+        "decimal": 4461521.0
+      }
+    },
+    "GVA": {
+      "total": {
+        "exact_fraction": "2463205",
+        "decimal": 2463205.0
+      },
+      "G": {
+        "exact_fraction": "462116",
+        "decimal": 462116.0
+      },
+      "non_G": {
+        "exact_fraction": "2001089",
+        "decimal": 2001089.0
+      }
+    }
+  },
+  "leaf_sum_less_published_total": {
+    "NABB117": {
+      "EMPH_DC": {
+        "exact_fraction": "4",
+        "decimal": 4.0
+      },
+      "SALH_DC": {
+        "exact_fraction": "6",
+        "decimal": 6.0
+      },
+      "EMPM_DC": {
+        "exact_fraction": "-5",
+        "decimal": -5.0
+      },
+      "SALM_DC": {
+        "exact_fraction": "-3",
+        "decimal": -3.0
+      }
+    },
+    "NABP117": {
+      "P1K": {
+        "exact_fraction": "3",
+        "decimal": 3.0
+      },
+      "P2D": {
+        "exact_fraction": "0",
+        "decimal": 0.0
+      },
+      "B1GD": {
+        "exact_fraction": "0",
+        "decimal": 0.0
+      },
+      "D29X39D": {
+        "exact_fraction": "0",
+        "decimal": 0.0
+      },
+      "B1GFD": {
+        "exact_fraction": "3",
+        "decimal": 3.0
+      },
+      "D1D": {
+        "exact_fraction": "0",
+        "decimal": 0.0
+      },
+      "B2A3GD": {
+        "exact_fraction": "-4",
+        "decimal": -4.0
+      }
+    }
+  },
+  "declared_counterfactuals": [
+    {
+      "id": "retain_reference_scalar",
+      "remaining_employee_hour_fraction": {
+        "exact_fraction": "1",
+        "decimal": 1.0
+      },
+      "employee_hour_shortfall_thousand": {
+        "total": {
+          "exact_fraction": "0",
+          "decimal": 0.0
+        },
+        "G": {
+          "exact_fraction": "0",
+          "decimal": 0.0
+        },
+        "non_G": {
+          "exact_fraction": "0",
+          "decimal": 0.0
+        }
+      },
+      "conditional_extra_D1_million_if_real_capacity_hired": {
+        "total": {
+          "exact_fraction": "0",
+          "decimal": 0.0
+        },
+        "G": {
+          "exact_fraction": "0",
+          "decimal": 0.0
+        },
+        "non_G": {
+          "exact_fraction": "0",
+          "decimal": 0.0
+        }
+      },
+      "same_retained_volume_with_only_internal_transfer": true,
+      "full_candidate_cost_source_or_TW_effect": null
+    },
+    {
+      "id": "uniform_36_scalar",
+      "remaining_employee_hour_fraction": {
+        "exact_fraction": "36/37",
+        "decimal": 0.972972972972973
+      },
+      "employee_hour_shortfall_thousand": {
+        "total": {
+          "exact_fraction": "4105972/37",
+          "decimal": 110972.21621621621
+        },
+        "G": {
+          "exact_fraction": "1166489/37",
+          "decimal": 31526.72972972973
+        },
+        "non_G": {
+          "exact_fraction": "2939483/37",
+          "decimal": 79445.48648648648
+        }
+      },
+      "conditional_extra_D1_million_if_real_capacity_hired": {
+        "total": {
+          "exact_fraction": "1435787/36",
+          "decimal": 39882.97222222222
+        },
+        "G": {
+          "exact_fraction": "132211/12",
+          "decimal": 11017.583333333334
+        },
+        "non_G": {
+          "exact_fraction": "519577/18",
+          "decimal": 28865.38888888889
+        }
+      },
+      "same_retained_volume_with_only_internal_transfer": false,
+      "full_candidate_cost_source_or_TW_effect": null
+    },
+    {
+      "id": "uniform_32_scalar",
+      "remaining_employee_hour_fraction": {
+        "exact_fraction": "32/37",
+        "decimal": 0.8648648648648649
+      },
+      "employee_hour_shortfall_thousand": {
+        "total": {
+          "exact_fraction": "20529860/37",
+          "decimal": 554861.0810810811
+        },
+        "G": {
+          "exact_fraction": "5832445/37",
+          "decimal": 157633.64864864864
+        },
+        "non_G": {
+          "exact_fraction": "14697415/37",
+          "decimal": 397227.4324324324
+        }
+      },
+      "conditional_extra_D1_million_if_real_capacity_hired": {
+        "total": {
+          "exact_fraction": "7178935/32",
+          "decimal": 224341.71875
+        },
+        "G": {
+          "exact_fraction": "1983165/32",
+          "decimal": 61973.90625
+        },
+        "non_G": {
+          "exact_fraction": "2597885/16",
+          "decimal": 162367.8125
+        }
+      },
+      "same_retained_volume_with_only_internal_transfer": false,
+      "full_candidate_cost_source_or_TW_effect": null
+    }
+  ],
+  "internal_transfer_identity": "Any +d G/-d non-G transfer leaves signed combined shortfall unchanged; nonnegative unmet requirements cannot fall below that gap and may rise with unusable surplus. Skills/sector requirements remain additional constraints.",
+  "actual_calibrated_TW_effect_cost_recruitment_or_country_feasibility": null
+}

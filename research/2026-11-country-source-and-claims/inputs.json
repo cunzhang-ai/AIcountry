@@ -1,0 +1,208 @@
+{
+  "edition": 126,
+  "scope": "Authored same125population/mature2030 named-wage/civic/private-help/retirement/needs/source schedule. All100k conditional personal profiles, not actual national income/source/adequate B or fullcurrent cost. Newly mapped nominal holdings/taxbases/receipts are hypotheses, not old-stock reconciliation or source authority. Allrequiredpayments conditional: firstunfunded event defeats fundedpath; later recycledsources require earlierdelivery. Opening2029Q4site receivable/payable explicitly matches onequarter of declared2030same-base case; no actualoldrate/assessment or adoption claim. No suppliedpriorpayroll/otherreceivables; theiractualscopeunknown.",
+  "year": 2030,
+  "service_source": "2026-11-joined-country-operating-book/results.json",
+  "household_source": "2026-11-ordinary-life-and-household-production/inputs.json",
+  "household_results": "2026-11-ordinary-life-and-household-production/results.json",
+  "M": 30000,
+  "W": 30000,
+  "working_people": 65000,
+  "older_people": 15000,
+  "children": {
+    "0_2": 3000,
+    "3_5": 3000,
+    "6_12": 8000,
+    "13_17": 6000
+  },
+  "care_credit_people": 4000,
+  "civic_recipient_people": 5000,
+  "tax_rates": [
+    ".2",
+    ".35",
+    ".45",
+    ".55"
+  ],
+  "band_widths_M": [
+    ".5",
+    ".5",
+    "1",
+    null
+  ],
+  "Y_rate": ".1",
+  "withdrawal": ".5",
+  "disregard_B": ".2",
+  "pension_disregard": ".2",
+  "ordinary_Q": 0,
+  "asset_draw_in_named_resource_stress": 0,
+  "pension": {
+    "years": 40,
+    "accrual": ".0125",
+    "past_revalued_base": 30000,
+    "higher_prior_base": 45000,
+    "prior_ceiling_W": 2,
+    "survivor_pots": 500,
+    "survivor_annual_each": 7500,
+    "survivor_age": "6_12",
+    "actually_new_deaths_or_contingent_future_tail": null,
+    "actual_prior_net_makewhole_or_foreign_rights": null
+  },
+  "housing_tenure_fraction": {
+    "owner": ".6",
+    "private_rent": ".32",
+    "public_rent": ".08"
+  },
+  "local_teacher_component_ids": [
+    "labor:preschool_teacher",
+    "labor:school_teacher"
+  ],
+  "local_sites": [
+    {
+      "id": "L1",
+      "taxable_site_base": 100000000,
+      "primary_fraction": ".6",
+      "deferral": 100000,
+      "stay": 0
+    },
+    {
+      "id": "L2",
+      "taxable_site_base": 200000000,
+      "primary_fraction": ".6",
+      "deferral": 200000,
+      "stay": 100000
+    },
+    {
+      "id": "L3",
+      "taxable_site_base": 300000000,
+      "primary_fraction": ".6",
+      "deferral": 0,
+      "stay": 0
+    },
+    {
+      "id": "L4",
+      "taxable_site_base": 400000000,
+      "primary_fraction": ".6",
+      "deferral": 400000,
+      "stay": 0
+    }
+  ],
+  "local_rate": ".01",
+  "local_share": ".8",
+  "equalization_withdrawal": ".75",
+  "opening_CU": {
+    "G": 100000000,
+    "S": 25000000,
+    "L1": 0,
+    "L2": 0,
+    "L3": 0,
+    "L4": 0,
+    "foreign_CU_lender": 200000000
+  },
+  "S_postdue_months": 4,
+  "named_legacy_bond": {
+    "principal": 100000000,
+    "holders": {
+      "S": 20000000,
+      "foreign_CU_creditors": 70000000,
+      "MC": 10000000
+    },
+    "coupon": ".05",
+    "redemption_fraction_Dec31": ".2",
+    "status": "One authored nominalCUtranche, not a reconciliation/replacement of older830/1080mopening books or actual complete sovereign debt. No automatic MCprofitremittance or ownedFX."
+  },
+  "conditional_bridge": {
+    "principal": 100000000,
+    "coupon": ".05",
+    "draw": "2030-01-01",
+    "repay": "2030-12-31",
+    "lender": "foreign_CU_lender",
+    "actual_offer_or_authorization_or_settlement_assets": null
+  },
+  "private_goods_source": {
+    "owner": "private_goods_purchaser",
+    "opening_owned_FU": 1000000,
+    "actual_title_vendor_finance_currency_route": null
+  },
+  "cases": [
+    {
+      "id": "plural_I05",
+      "service": "plural_public_backbone",
+      "package": "A",
+      "helper": "prospective_wholeposts",
+      "private_wage_received_fraction": 1,
+      "higher_prior_units": false,
+      "net_makewhole_hypothesis": false
+    },
+    {
+      "id": "plural_U",
+      "service": "plural_public_backbone",
+      "package": "C1",
+      "helper": "prospective_wholeposts",
+      "private_wage_received_fraction": 1,
+      "higher_prior_units": false,
+      "net_makewhole_hypothesis": false
+    },
+    {
+      "id": "direct_I05",
+      "service": "direct_public_rival",
+      "package": "A",
+      "helper": "prospective_wholeposts",
+      "private_wage_received_fraction": 1,
+      "higher_prior_units": false,
+      "net_makewhole_hypothesis": false
+    },
+    {
+      "id": "direct_U",
+      "service": "direct_public_rival",
+      "package": "C1",
+      "helper": "prospective_wholeposts",
+      "private_wage_received_fraction": 1,
+      "higher_prior_units": false,
+      "net_makewhole_hypothesis": false
+    },
+    {
+      "id": "retained_help_I05",
+      "service": "plural_public_backbone",
+      "package": "A",
+      "helper": "retained_source",
+      "private_wage_received_fraction": 1,
+      "higher_prior_units": false,
+      "net_makewhole_hypothesis": false
+    },
+    {
+      "id": "higher_old_units_I05",
+      "service": "plural_public_backbone",
+      "package": "A",
+      "helper": "prospective_wholeposts",
+      "private_wage_received_fraction": 1,
+      "higher_prior_units": true,
+      "net_makewhole_hypothesis": false
+    },
+    {
+      "id": "private_wage_failure_I05",
+      "service": "plural_public_backbone",
+      "package": "A",
+      "helper": "prospective_wholeposts",
+      "private_wage_received_fraction": ".8",
+      "higher_prior_units": false,
+      "net_makewhole_hypothesis": false
+    },
+    {
+      "id": "authored_old_net_I05",
+      "service": "plural_public_backbone",
+      "package": "A",
+      "helper": "prospective_wholeposts",
+      "private_wage_received_fraction": 1,
+      "higher_prior_units": false,
+      "net_makewhole_hypothesis": true
+    }
+  ],
+  "unpriced": [
+    "Actual independently sourced M/W/age/needs/prices/generalCPI and ordinary adequacy; larger accrued/foreign/net/creditor claims survive.",
+    "Completefees/other income/means/assets, unprovided private production/finance/buyers, timely nonclaimant/household/clinic/care/local/independent capacity; no private-wage national forecast.",
+    "Fullphysical replacement/supply/ownedFX, transition/acquisition/housingrenewal/teacherfacilities/unallocatedSadministration/reserve, fulloldpension75yearandtail/legacydebt/equity/openingbanks/actualtax/refundbases and every later duty.",
+    "Company/transfer annual balances, VAT/inputrefunds/withholding arrears/prior-year installments not supplied: remainunknown, notzero source/yield; namedsourcegap not nationaldeficit orlowerbound."
+  ],
+  "actual_national_source_cost_or_readiness": null,
+  "opening_previous_site_quarter_same_named_amount": true
+}

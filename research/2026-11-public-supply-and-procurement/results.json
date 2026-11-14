@@ -1,0 +1,725 @@
+{
+  "edition": 132,
+  "format_revision": "132-input-coverage-and-proposed-clocks-v1",
+  "public_purchase_scope": {
+    "rows": [
+      {
+        "id": "op:election_sites",
+        "function_owner": "D04",
+        "named_allocation_CU": "80000.00",
+        "coverage": "budget_or_task_quote_without_current_matched_supplier_recipe",
+        "linked_scope": null,
+        "actual_output_quantity_recipe_acceptance_or_paid_source": null
+      },
+      {
+        "id": "op:election_ballots",
+        "function_owner": "D04",
+        "named_allocation_CU": "80000.00",
+        "coverage": "budget_or_task_quote_without_current_matched_supplier_recipe",
+        "linked_scope": null,
+        "actual_output_quantity_recipe_acceptance_or_paid_source": null
+      },
+      {
+        "id": "op:election_access",
+        "function_owner": "D04",
+        "named_allocation_CU": "30000.00",
+        "coverage": "budget_or_task_quote_without_current_matched_supplier_recipe",
+        "linked_scope": null,
+        "actual_output_quantity_recipe_acceptance_or_paid_source": null
+      },
+      {
+        "id": "op:election_transport",
+        "function_owner": "D04",
+        "named_allocation_CU": "6000.00",
+        "coverage": "budget_or_task_quote_without_current_matched_supplier_recipe",
+        "linked_scope": null,
+        "actual_output_quantity_recipe_acceptance_or_paid_source": null
+      },
+      {
+        "id": "op:election_comms",
+        "function_owner": "D04",
+        "named_allocation_CU": "20000.00",
+        "coverage": "budget_or_task_quote_without_current_matched_supplier_recipe",
+        "linked_scope": null,
+        "actual_output_quantity_recipe_acceptance_or_paid_source": null
+      },
+      {
+        "id": "op:independent_field_checks",
+        "function_owner": "D07",
+        "named_allocation_CU": "14000.00",
+        "coverage": "budget_or_task_quote_without_current_matched_supplier_recipe",
+        "linked_scope": null,
+        "actual_output_quantity_recipe_acceptance_or_paid_source": null
+      },
+      {
+        "id": "op:independent_lab_checks",
+        "function_owner": "D07",
+        "named_allocation_CU": "20000.00",
+        "coverage": "budget_or_task_quote_without_current_matched_supplier_recipe",
+        "linked_scope": null,
+        "actual_output_quantity_recipe_acceptance_or_paid_source": null
+      },
+      {
+        "id": "op:protected_reports",
+        "function_owner": "D07",
+        "named_allocation_CU": "10000.00",
+        "coverage": "budget_or_task_quote_without_current_matched_supplier_recipe",
+        "linked_scope": null,
+        "actual_output_quantity_recipe_acceptance_or_paid_source": null
+      },
+      {
+        "id": "op:medicines_devices",
+        "function_owner": "L07",
+        "named_allocation_CU": "30720000.000",
+        "coverage": "budget_or_task_quote_without_current_matched_supplier_recipe",
+        "linked_scope": null,
+        "actual_output_quantity_recipe_acceptance_or_paid_source": null
+      },
+      {
+        "id": "op:laboratory_reagents",
+        "function_owner": "L07",
+        "named_allocation_CU": "4096000.000",
+        "coverage": "budget_or_task_quote_without_current_matched_supplier_recipe",
+        "linked_scope": null,
+        "actual_output_quantity_recipe_acceptance_or_paid_source": null
+      },
+      {
+        "id": "op:imaging_consumables",
+        "function_owner": "L07",
+        "named_allocation_CU": "1024000.000",
+        "coverage": "budget_or_task_quote_without_current_matched_supplier_recipe",
+        "linked_scope": null,
+        "actual_output_quantity_recipe_acceptance_or_paid_source": null
+      },
+      {
+        "id": "op:theatre_supplies",
+        "function_owner": "L07",
+        "named_allocation_CU": "2560000.000",
+        "coverage": "budget_or_task_quote_without_current_matched_supplier_recipe",
+        "linked_scope": null,
+        "actual_output_quantity_recipe_acceptance_or_paid_source": null
+      },
+      {
+        "id": "op:health_hygiene",
+        "function_owner": "L07",
+        "named_allocation_CU": "2048000.000",
+        "coverage": "budget_or_task_quote_without_current_matched_supplier_recipe",
+        "linked_scope": null,
+        "actual_output_quantity_recipe_acceptance_or_paid_source": null
+      },
+      {
+        "id": "op:care_supplies",
+        "function_owner": "L07",
+        "named_allocation_CU": "3072000.000",
+        "coverage": "budget_or_task_quote_without_current_matched_supplier_recipe",
+        "linked_scope": null,
+        "actual_output_quantity_recipe_acceptance_or_paid_source": null
+      },
+      {
+        "id": "op:care_vehicle_fuel",
+        "function_owner": "L07",
+        "named_allocation_CU": "102400.0000",
+        "coverage": "budget_or_task_quote_without_current_matched_supplier_recipe",
+        "linked_scope": null,
+        "actual_output_quantity_recipe_acceptance_or_paid_source": null
+      },
+      {
+        "id": "op:learning_materials",
+        "function_owner": "L07",
+        "named_allocation_CU": "2457600.000",
+        "coverage": "budget_or_task_quote_without_current_matched_supplier_recipe",
+        "linked_scope": null,
+        "actual_output_quantity_recipe_acceptance_or_paid_source": null
+      },
+      {
+        "id": "op:custody_supplies",
+        "function_owner": "D12",
+        "named_allocation_CU": "184800.00",
+        "coverage": "budget_or_task_quote_without_current_matched_supplier_recipe",
+        "linked_scope": null,
+        "actual_output_quantity_recipe_acceptance_or_paid_source": null
+      },
+      {
+        "id": "op:UA_access",
+        "function_owner": "D11",
+        "named_allocation_CU": "100000.00",
+        "coverage": "budget_or_task_quote_without_current_matched_supplier_recipe",
+        "linked_scope": null,
+        "actual_output_quantity_recipe_acceptance_or_paid_source": null
+      },
+      {
+        "id": "op:bus_fuel",
+        "function_owner": "L10",
+        "named_allocation_CU": "788480.0000",
+        "coverage": "budget_or_task_quote_without_current_matched_supplier_recipe",
+        "linked_scope": null,
+        "actual_output_quantity_recipe_acceptance_or_paid_source": null
+      },
+      {
+        "id": "op:bus_parts",
+        "function_owner": "L10",
+        "named_allocation_CU": "245760.000",
+        "coverage": "budget_or_task_quote_without_current_matched_supplier_recipe",
+        "linked_scope": null,
+        "actual_output_quantity_recipe_acceptance_or_paid_source": null
+      },
+      {
+        "id": "op:reception_supplies",
+        "function_owner": "L10",
+        "named_allocation_CU": "729600.000",
+        "coverage": "budget_or_task_quote_without_current_matched_supplier_recipe",
+        "linked_scope": null,
+        "actual_output_quantity_recipe_acceptance_or_paid_source": null
+      },
+      {
+        "id": "op:housing_repairs_material",
+        "function_owner": "L10",
+        "named_allocation_CU": "1024000.000",
+        "coverage": "budget_or_task_quote_without_current_matched_supplier_recipe",
+        "linked_scope": null,
+        "actual_output_quantity_recipe_acceptance_or_paid_source": null
+      },
+      {
+        "id": "op:food_inspection_samples",
+        "function_owner": "L11",
+        "named_allocation_CU": "25000.00",
+        "coverage": "budget_or_task_quote_without_current_matched_supplier_recipe",
+        "linked_scope": null,
+        "actual_output_quantity_recipe_acceptance_or_paid_source": null
+      },
+      {
+        "id": "op:fire_defense_equipment_flow",
+        "function_owner": "R01",
+        "named_allocation_CU": "10000000.00",
+        "coverage": "budget_or_task_quote_without_current_matched_supplier_recipe",
+        "linked_scope": null,
+        "actual_output_quantity_recipe_acceptance_or_paid_source": null
+      },
+      {
+        "id": "op:minor_flood_repairs",
+        "function_owner": "R02",
+        "named_allocation_CU": "2000000.00",
+        "coverage": "budget_or_task_quote_without_current_matched_supplier_recipe",
+        "linked_scope": null,
+        "actual_output_quantity_recipe_acceptance_or_paid_source": null
+      },
+      {
+        "id": "op:external_missions",
+        "function_owner": "R03",
+        "named_allocation_CU": "240000.00",
+        "coverage": "budget_or_task_quote_without_current_matched_supplier_recipe",
+        "linked_scope": null,
+        "actual_output_quantity_recipe_acceptance_or_paid_source": null
+      },
+      {
+        "id": "op:power_water_repair_parts",
+        "function_owner": "R05",
+        "named_allocation_CU": "2048000.000",
+        "coverage": "budget_or_task_quote_without_current_matched_supplier_recipe",
+        "linked_scope": null,
+        "actual_output_quantity_recipe_acceptance_or_paid_source": null
+      },
+      {
+        "id": "op:animal_supplies",
+        "function_owner": "R06",
+        "named_allocation_CU": "92160.000",
+        "coverage": "budget_or_task_quote_without_current_matched_supplier_recipe",
+        "linked_scope": null,
+        "actual_output_quantity_recipe_acceptance_or_paid_source": null
+      },
+      {
+        "id": "op:environment_samples",
+        "function_owner": "R08",
+        "named_allocation_CU": "100000.00",
+        "coverage": "budget_or_task_quote_without_current_matched_supplier_recipe",
+        "linked_scope": null,
+        "actual_output_quantity_recipe_acceptance_or_paid_source": null
+      },
+      {
+        "id": "op:notices_delivery",
+        "function_owner": "R09",
+        "named_allocation_CU": "100000.00",
+        "coverage": "budget_or_task_quote_without_current_matched_supplier_recipe",
+        "linked_scope": null,
+        "actual_output_quantity_recipe_acceptance_or_paid_source": null
+      },
+      {
+        "id": "op:critical_logistics_fuel",
+        "function_owner": "R09",
+        "named_allocation_CU": "76800.0000",
+        "coverage": "budget_or_task_quote_without_current_matched_supplier_recipe",
+        "linked_scope": null,
+        "actual_output_quantity_recipe_acceptance_or_paid_source": null
+      },
+      {
+        "id": "op:waste_treatment",
+        "function_owner": "R10",
+        "named_allocation_CU": "2048000.000",
+        "coverage": "budget_or_task_quote_without_current_matched_supplier_recipe",
+        "linked_scope": null,
+        "actual_output_quantity_recipe_acceptance_or_paid_source": null
+      },
+      {
+        "id": "op:wastewater_chemicals",
+        "function_owner": "R10",
+        "named_allocation_CU": "1024000.0000",
+        "coverage": "budget_or_task_quote_without_current_matched_supplier_recipe",
+        "linked_scope": null,
+        "actual_output_quantity_recipe_acceptance_or_paid_source": null
+      },
+      {
+        "id": "op:customs_storage",
+        "function_owner": "R11",
+        "named_allocation_CU": "100000.00",
+        "coverage": "budget_or_task_quote_without_current_matched_supplier_recipe",
+        "linked_scope": null,
+        "actual_output_quantity_recipe_acceptance_or_paid_source": null
+      },
+      {
+        "id": "op:libraries_and_research_inputs",
+        "function_owner": "K01",
+        "named_allocation_CU": "3000000.00",
+        "coverage": "budget_or_task_quote_without_current_matched_supplier_recipe",
+        "linked_scope": null,
+        "actual_output_quantity_recipe_acceptance_or_paid_source": null
+      },
+      {
+        "id": "op:public_digital_operations",
+        "function_owner": "K03",
+        "named_allocation_CU": "3000000.00",
+        "coverage": "budget_or_task_quote_without_current_matched_supplier_recipe",
+        "linked_scope": null,
+        "actual_output_quantity_recipe_acceptance_or_paid_source": null
+      },
+      {
+        "id": "op:MO_additional_fuel",
+        "function_owner": "L10",
+        "named_allocation_CU": "7454720.0000",
+        "coverage": "budget_or_task_quote_without_current_matched_supplier_recipe",
+        "linked_scope": null,
+        "actual_output_quantity_recipe_acceptance_or_paid_source": null
+      },
+      {
+        "id": "op:MO_additional_parts",
+        "function_owner": "L10",
+        "named_allocation_CU": "2232320.000",
+        "coverage": "budget_or_task_quote_without_current_matched_supplier_recipe",
+        "linked_scope": null,
+        "actual_output_quantity_recipe_acceptance_or_paid_source": null
+      },
+      {
+        "id": "op:neonatal_distinct_supplies",
+        "function_owner": "L09",
+        "named_allocation_CU": "98304.000",
+        "coverage": "budget_or_task_quote_without_current_matched_supplier_recipe",
+        "linked_scope": null,
+        "actual_output_quantity_recipe_acceptance_or_paid_source": null
+      },
+      {
+        "id": "op:FD_transport_parts",
+        "function_owner": "L10",
+        "named_allocation_CU": "81920.000",
+        "coverage": "budget_or_task_quote_without_current_matched_supplier_recipe",
+        "linked_scope": null,
+        "actual_output_quantity_recipe_acceptance_or_paid_source": null
+      },
+      {
+        "id": "op:FD_transport_eventfuel",
+        "function_owner": "L10",
+        "named_allocation_CU": "7798.784",
+        "coverage": "budget_or_task_quote_without_current_matched_supplier_recipe",
+        "linked_scope": null,
+        "actual_output_quantity_recipe_acceptance_or_paid_source": null
+      },
+      {
+        "id": "op:NF_source_postage",
+        "function_owner": "R04",
+        "named_allocation_CU": "200000.00",
+        "coverage": "budget_or_task_quote_without_current_matched_supplier_recipe",
+        "linked_scope": null,
+        "actual_output_quantity_recipe_acceptance_or_paid_source": null
+      },
+      {
+        "id": "op:NF_title_value_data",
+        "function_owner": "R04",
+        "named_allocation_CU": "200000.00",
+        "coverage": "budget_or_task_quote_without_current_matched_supplier_recipe",
+        "linked_scope": null,
+        "actual_output_quantity_recipe_acceptance_or_paid_source": null
+      },
+      {
+        "id": "op:IA_public_diplomatic_licences",
+        "function_owner": "R01",
+        "named_allocation_CU": "100000.00",
+        "coverage": "budget_or_task_quote_without_current_matched_supplier_recipe",
+        "linked_scope": null,
+        "actual_output_quantity_recipe_acceptance_or_paid_source": null
+      },
+      {
+        "id": "op:KR_registry_lab_source",
+        "function_owner": "K01",
+        "named_allocation_CU": "60000.00",
+        "coverage": "budget_or_task_quote_without_current_matched_supplier_recipe",
+        "linked_scope": null,
+        "actual_output_quantity_recipe_acceptance_or_paid_source": null
+      },
+      {
+        "id": "op:PD_safe_case_sources",
+        "function_owner": "K02",
+        "named_allocation_CU": "40000.00",
+        "coverage": "budget_or_task_quote_without_current_matched_supplier_recipe",
+        "linked_scope": null,
+        "actual_output_quantity_recipe_acceptance_or_paid_source": null
+      },
+      {
+        "id": "op:DR_accessible_rule_sources",
+        "function_owner": "K01",
+        "named_allocation_CU": "72000.00",
+        "coverage": "budget_or_task_quote_without_current_matched_supplier_recipe",
+        "linked_scope": null,
+        "actual_output_quantity_recipe_acceptance_or_paid_source": null
+      },
+      {
+        "id": "op:H_tenant_repair_notice",
+        "function_owner": "L10",
+        "named_allocation_CU": "100000.00",
+        "coverage": "budget_or_task_quote_without_current_matched_supplier_recipe",
+        "linked_scope": null,
+        "actual_output_quantity_recipe_acceptance_or_paid_source": null
+      },
+      {
+        "id": "op:MC_source_audit",
+        "function_owner": "R04",
+        "named_allocation_CU": "150000.00",
+        "coverage": "budget_or_task_quote_without_current_matched_supplier_recipe",
+        "linked_scope": null,
+        "actual_output_quantity_recipe_acceptance_or_paid_source": null
+      },
+      {
+        "id": "op:participant_care_transport_expenses",
+        "function_owner": "K02",
+        "named_allocation_CU": "80000.00",
+        "coverage": "budget_or_task_quote_without_current_matched_supplier_recipe",
+        "linked_scope": null,
+        "actual_output_quantity_recipe_acceptance_or_paid_source": null
+      },
+      {
+        "id": "op:current_tender_publication",
+        "function_owner": "D07",
+        "named_allocation_CU": "30000.00",
+        "coverage": "budget_or_task_quote_without_current_matched_supplier_recipe",
+        "linked_scope": null,
+        "actual_output_quantity_recipe_acceptance_or_paid_source": null
+      },
+      {
+        "id": "op:PC_access_source_material",
+        "function_owner": "D05",
+        "named_allocation_CU": "160000.00",
+        "coverage": "budget_or_task_quote_without_current_matched_supplier_recipe",
+        "linked_scope": null,
+        "actual_output_quantity_recipe_acceptance_or_paid_source": null
+      },
+      {
+        "id": "op:AS_independent_employer_support",
+        "function_owner": "L07",
+        "named_allocation_CU": "250000.00",
+        "coverage": "budget_or_task_quote_without_current_matched_supplier_recipe",
+        "linked_scope": null,
+        "actual_output_quantity_recipe_acceptance_or_paid_source": null
+      },
+      {
+        "id": "op:WL_ballot_sources",
+        "function_owner": "L04",
+        "named_allocation_CU": "90000.00",
+        "coverage": "budget_or_task_quote_without_current_matched_supplier_recipe",
+        "linked_scope": null,
+        "actual_output_quantity_recipe_acceptance_or_paid_source": null
+      },
+      {
+        "id": "op:OE_qualified_registry_access",
+        "function_owner": "D10",
+        "named_allocation_CU": "100000.00",
+        "coverage": "budget_or_task_quote_without_current_matched_supplier_recipe",
+        "linked_scope": null,
+        "actual_output_quantity_recipe_acceptance_or_paid_source": null
+      },
+      {
+        "id": "op:OJ_selection_status_access",
+        "function_owner": "D11",
+        "named_allocation_CU": "50000.00",
+        "coverage": "budget_or_task_quote_without_current_matched_supplier_recipe",
+        "linked_scope": null,
+        "actual_output_quantity_recipe_acceptance_or_paid_source": null
+      },
+      {
+        "id": "op:AA_safe_field_report_source",
+        "function_owner": "D07",
+        "named_allocation_CU": "100000.00",
+        "coverage": "budget_or_task_quote_without_current_matched_supplier_recipe",
+        "linked_scope": null,
+        "actual_output_quantity_recipe_acceptance_or_paid_source": null
+      },
+      {
+        "id": "op:NB_independent_actuarial_source",
+        "function_owner": "R04",
+        "named_allocation_CU": "120000.00",
+        "coverage": "budget_or_task_quote_without_current_matched_supplier_recipe",
+        "linked_scope": null,
+        "actual_output_quantity_recipe_acceptance_or_paid_source": null
+      },
+      {
+        "id": "op:HN_treatment_reservation_and_access",
+        "function_owner": "L07",
+        "named_allocation_CU": "6558000.00",
+        "coverage": "budget_or_task_quote_without_current_matched_supplier_recipe",
+        "linked_scope": null,
+        "actual_output_quantity_recipe_acceptance_or_paid_source": null
+      },
+      {
+        "id": "op:EL_fullscope_pack",
+        "function_owner": "D05",
+        "named_allocation_CU": "720000.00",
+        "coverage": "budget_or_task_quote_without_current_matched_supplier_recipe",
+        "linked_scope": null,
+        "actual_output_quantity_recipe_acceptance_or_paid_source": null
+      },
+      {
+        "id": "op:EL_fullscope_forum",
+        "function_owner": "D05",
+        "named_allocation_CU": "198000.00",
+        "coverage": "budget_or_task_quote_without_current_matched_supplier_recipe",
+        "linked_scope": null,
+        "actual_output_quantity_recipe_acceptance_or_paid_source": null
+      },
+      {
+        "id": "op:EL_fullscope_paper",
+        "function_owner": "D05",
+        "named_allocation_CU": "1662720.000",
+        "coverage": "budget_or_task_quote_without_current_matched_supplier_recipe",
+        "linked_scope": null,
+        "actual_output_quantity_recipe_acceptance_or_paid_source": null
+      },
+      {
+        "id": "op:national_service_electricity",
+        "function_owner": "R05",
+        "named_allocation_CU": "13495059.25293252161074929450",
+        "coverage": "linked_current_partial_scope",
+        "linked_scope": "130 supply/public meter; not executed purchase",
+        "actual_output_quantity_recipe_acceptance_or_paid_source": null
+      },
+      {
+        "id": "op:national_service_water",
+        "function_owner": "R05",
+        "named_allocation_CU": "2921314.124240542085173310807",
+        "coverage": "linked_current_partial_scope",
+        "linked_scope": "130 supply/public meter; not executed purchase",
+        "actual_output_quantity_recipe_acceptance_or_paid_source": null
+      },
+      {
+        "id": "op:current_institutional_ingredients",
+        "function_owner": "L07",
+        "named_allocation_CU": "7592213.490697498926768235662",
+        "coverage": "linked_current_partial_scope",
+        "linked_scope": "127/130 literal food/scope allocation; not accepted quality or source",
+        "actual_output_quantity_recipe_acceptance_or_paid_source": null
+      },
+      {
+        "id": "op:current_public_housing_programme",
+        "function_owner": "L10",
+        "named_allocation_CU": "5795014.022976458351836388794",
+        "coverage": "linked_current_partial_scope",
+        "linked_scope": "130 repair/rebuild attribution; not verified material recipe or paid supplier",
+        "actual_output_quantity_recipe_acceptance_or_paid_source": null
+      }
+    ],
+    "count": 66,
+    "named_total_CU": "123985983.6748470209745272298",
+    "linked_partial_scope_CU": "29803600.89084702097452722976",
+    "remaining_budget_or_task_scope_CU": "94182382.7840",
+    "six_clinical_budget_rows_CU": "43520000.000",
+    "scope": "Every purchase row in one 130 reference, not every national input, independent producer value added, full cost or proved minimum cost."
+  },
+  "private_nonfood_reference": [
+    {
+      "id": "garments",
+      "kind": "named_quantity_quote",
+      "reference_quantity": "1213200.00",
+      "unit": "item",
+      "reference_purchaser_quote_CU": "60660000.00",
+      "coverage": "131_partial_garment_offer_not_in_national_book",
+      "actual_need_buyer_recipe_order_receipt_or_source": null
+    },
+    {
+      "id": "shoes",
+      "kind": "named_quantity_quote",
+      "reference_quantity": "202200.00",
+      "unit": "pair",
+      "reference_purchaser_quote_CU": "18198000.00",
+      "coverage": "unmatched_current_private_recipe",
+      "actual_need_buyer_recipe_order_receipt_or_source": null
+    },
+    {
+      "id": "personal_hygiene",
+      "kind": "named_quantity_quote",
+      "reference_quantity": "1165200.00",
+      "unit": "month_bundle",
+      "reference_purchaser_quote_CU": "58260000.00",
+      "coverage": "unmatched_current_private_recipe",
+      "actual_need_buyer_recipe_order_receipt_or_source": null
+    },
+    {
+      "id": "mobile_connection",
+      "kind": "named_quantity_quote",
+      "reference_quantity": "1087200.00",
+      "unit": "month",
+      "reference_purchaser_quote_CU": "27180000.00",
+      "coverage": "unmatched_current_private_recipe",
+      "actual_need_buyer_recipe_order_receipt_or_source": null
+    },
+    {
+      "id": "reading_culture",
+      "kind": "named_quantity_quote",
+      "reference_quantity": "1150800.00",
+      "unit": "month_bundle",
+      "reference_purchaser_quote_CU": "57540000.00",
+      "coverage": "unmatched_current_private_recipe",
+      "actual_need_buyer_recipe_order_receipt_or_source": null
+    },
+    {
+      "id": "social_activity",
+      "kind": "named_quantity_quote",
+      "reference_quantity": "4986800.00",
+      "unit": "event",
+      "reference_purchaser_quote_CU": "124670000.00",
+      "coverage": "unmatched_current_private_recipe",
+      "actual_need_buyer_recipe_order_receipt_or_source": null
+    },
+    {
+      "id": "fitness",
+      "kind": "named_quantity_quote",
+      "reference_quantity": "1150800.00",
+      "unit": "month",
+      "reference_purchaser_quote_CU": "40278000.00",
+      "coverage": "unmatched_current_private_recipe",
+      "actual_need_buyer_recipe_order_receipt_or_source": null
+    },
+    {
+      "id": "uncovered_private_journeys",
+      "kind": "named_quantity_quote",
+      "reference_quantity": "2301600.00",
+      "unit": "journey",
+      "reference_purchaser_quote_CU": "46032000.00",
+      "coverage": "unmatched_current_private_recipe",
+      "actual_need_buyer_recipe_order_receipt_or_source": null
+    },
+    {
+      "id": "holiday_stay",
+      "kind": "named_quantity_quote",
+      "reference_quantity": "671300.00",
+      "unit": "night",
+      "reference_purchaser_quote_CU": "53704000.00",
+      "coverage": "unmatched_current_private_recipe",
+      "actual_need_buyer_recipe_order_receipt_or_source": null
+    },
+    {
+      "id": "holiday_travel",
+      "kind": "named_quantity_quote",
+      "reference_quantity": "95900.00",
+      "unit": "return_journey",
+      "reference_purchaser_quote_CU": "38360000.00",
+      "coverage": "unmatched_current_private_recipe",
+      "actual_need_buyer_recipe_order_receipt_or_source": null
+    },
+    {
+      "id": "personal_services",
+      "kind": "named_quantity_quote",
+      "reference_quantity": "1165200.00",
+      "unit": "visit",
+      "reference_purchaser_quote_CU": "29130000.00",
+      "coverage": "unmatched_current_private_recipe",
+      "actual_need_buyer_recipe_order_receipt_or_source": null
+    },
+    {
+      "id": "meal_venue_preparation_service",
+      "kind": "named_quantity_quote",
+      "reference_quantity": "2301600.00",
+      "unit": "episode",
+      "reference_purchaser_quote_CU": "23016000.00",
+      "coverage": "unmatched_current_private_recipe",
+      "actual_need_buyer_recipe_order_receipt_or_source": null
+    },
+    {
+      "id": "adult_private_choice",
+      "kind": "unassigned_choice_envelope",
+      "reference_quantity": "960000",
+      "unit": "month_envelope",
+      "reference_purchaser_quote_CU": "19200000",
+      "coverage": "not_output_or_tax_base",
+      "actual_need_buyer_recipe_order_receipt_or_source": null
+    }
+  ],
+  "proposed_clock_cases": [
+    {
+      "id": "split_related_need",
+      "aggregated_gross_commitment_CU": "160000",
+      "material": true,
+      "micro": false,
+      "earliest_bid_date_without_material_revision": "2030-02-06",
+      "standstill_ends_at_close_of_day": "2030-02-25",
+      "ordinary_contract_not_before": "2030-02-26",
+      "ordinary_contract_remains_blocked_pending_interim_court_decision": false,
+      "continuity_contract_is_separate_limited_source_authority_not_main_award": false,
+      "actual_judge_source_notice_or_receiving": null
+    },
+    {
+      "id": "small_purchase",
+      "aggregated_gross_commitment_CU": "10000",
+      "material": false,
+      "micro": true,
+      "earliest_bid_date_without_material_revision": "2030-01-07",
+      "standstill_ends_at_close_of_day": null,
+      "ordinary_contract_not_before": "2030-01-15",
+      "ordinary_contract_remains_blocked_pending_interim_court_decision": false,
+      "continuity_contract_is_separate_limited_source_authority_not_main_award": false,
+      "actual_judge_source_notice_or_receiving": null
+    },
+    {
+      "id": "challenged_medicine_award",
+      "aggregated_gross_commitment_CU": "1000000",
+      "material": true,
+      "micro": false,
+      "earliest_bid_date_without_material_revision": "2030-02-06",
+      "standstill_ends_at_close_of_day": "2030-02-25",
+      "ordinary_contract_not_before": null,
+      "ordinary_contract_remains_blocked_pending_interim_court_decision": true,
+      "continuity_contract_is_separate_limited_source_authority_not_main_award": true,
+      "actual_judge_source_notice_or_receiving": null
+    },
+    {
+      "id": "holiday_and_challenger_access",
+      "aggregated_gross_commitment_CU": "150000",
+      "material": true,
+      "micro": false,
+      "earliest_bid_date_without_material_revision": "2030-02-06",
+      "standstill_ends_at_close_of_day": "2030-02-26",
+      "ordinary_contract_not_before": "2030-02-27",
+      "ordinary_contract_remains_blocked_pending_interim_court_decision": false,
+      "continuity_contract_is_separate_limited_source_authority_not_main_award": false,
+      "actual_judge_source_notice_or_receiving": null
+    },
+    {
+      "id": "ordinary_quotation",
+      "aggregated_gross_commitment_CU": "35000",
+      "material": false,
+      "micro": false,
+      "earliest_bid_date_without_material_revision": "2030-01-14",
+      "standstill_ends_at_close_of_day": null,
+      "ordinary_contract_not_before": "2030-01-15",
+      "ordinary_contract_remains_blocked_pending_interim_court_decision": false,
+      "continuity_contract_is_separate_limited_source_authority_not_main_award": false,
+      "actual_judge_source_notice_or_receiving": null
+    }
+  ],
+  "source_disposition": "Reject complete-source/ready-production inference. No new recipe, export, profit, tax yield, debt or issue fills the omitted scope.",
+  "actual_national_source_capacity_authority_or_better_lives": null
+}

@@ -1,0 +1,455 @@
+{
+  "edition": 137,
+  "context": "Authored abstract critical-input units and CU/FU finance counterexamples, not clinical doses, medicine forecasts, suppliers or prices",
+  "register": "input-register.json",
+  "cases": [
+    {
+      "id": "retained_stock_no_new_delivery",
+      "daily_requirement_units": [
+        "5",
+        "5",
+        "5"
+      ],
+      "batches": [
+        {
+          "id": "short",
+          "quantity": "8",
+          "usable_from_day": 0,
+          "usable_through_day": 0,
+          "status": "accepted"
+        },
+        {
+          "id": "long",
+          "quantity": "4",
+          "usable_from_day": 0,
+          "usable_through_day": 9,
+          "status": "accepted"
+        },
+        {
+          "id": "expired",
+          "quantity": "4",
+          "usable_from_day": 0,
+          "usable_through_day": -1,
+          "status": "accepted"
+        },
+        {
+          "id": "recalled",
+          "quantity": "3",
+          "usable_from_day": 0,
+          "usable_through_day": 9,
+          "status": "recalled"
+        }
+      ],
+      "routes": [],
+      "failed_nodes": [],
+      "finance": {
+        "due_currency": "CU",
+        "gross_due": "120",
+        "source_currency": "CU",
+        "assumed_owned_source_amount": "120",
+        "actual_received_source": null
+      }
+    },
+    {
+      "id": "one_route_no_disruption",
+      "daily_requirement_units": [
+        "5",
+        "5",
+        "5"
+      ],
+      "batches": [
+        {
+          "id": "short",
+          "quantity": "8",
+          "usable_from_day": 0,
+          "usable_through_day": 0,
+          "status": "accepted"
+        },
+        {
+          "id": "long",
+          "quantity": "4",
+          "usable_from_day": 0,
+          "usable_through_day": 9,
+          "status": "accepted"
+        },
+        {
+          "id": "expired",
+          "quantity": "4",
+          "usable_from_day": 0,
+          "usable_through_day": -1,
+          "status": "accepted"
+        },
+        {
+          "id": "recalled",
+          "quantity": "3",
+          "usable_from_day": 0,
+          "usable_through_day": 9,
+          "status": "recalled"
+        }
+      ],
+      "routes": [
+        {
+          "id": "a",
+          "dependency_nodes": [
+            "factory-A",
+            "carrier-a"
+          ],
+          "arrival_day": 1,
+          "quantity": "6",
+          "usable_through_day": 9,
+          "assumed_qualified": true
+        }
+      ],
+      "failed_nodes": [],
+      "finance": {
+        "due_currency": "CU",
+        "gross_due": "120",
+        "source_currency": "CU",
+        "assumed_owned_source_amount": "120",
+        "actual_received_source": null
+      }
+    },
+    {
+      "id": "two_labels_one_factory",
+      "daily_requirement_units": [
+        "5",
+        "5",
+        "5"
+      ],
+      "batches": [
+        {
+          "id": "short",
+          "quantity": "8",
+          "usable_from_day": 0,
+          "usable_through_day": 0,
+          "status": "accepted"
+        },
+        {
+          "id": "long",
+          "quantity": "4",
+          "usable_from_day": 0,
+          "usable_through_day": 9,
+          "status": "accepted"
+        },
+        {
+          "id": "expired",
+          "quantity": "4",
+          "usable_from_day": 0,
+          "usable_through_day": -1,
+          "status": "accepted"
+        },
+        {
+          "id": "recalled",
+          "quantity": "3",
+          "usable_from_day": 0,
+          "usable_through_day": 9,
+          "status": "recalled"
+        }
+      ],
+      "routes": [
+        {
+          "id": "a",
+          "dependency_nodes": [
+            "factory-A",
+            "carrier-a"
+          ],
+          "arrival_day": 1,
+          "quantity": "3",
+          "usable_through_day": 9,
+          "assumed_qualified": true
+        },
+        {
+          "id": "b",
+          "dependency_nodes": [
+            "factory-A",
+            "carrier-b"
+          ],
+          "arrival_day": 1,
+          "quantity": "3",
+          "usable_through_day": 9,
+          "assumed_qualified": true
+        }
+      ],
+      "failed_nodes": [
+        "factory-A"
+      ],
+      "finance": {
+        "due_currency": "CU",
+        "gross_due": "120",
+        "source_currency": "CU",
+        "assumed_owned_source_amount": "120",
+        "actual_received_source": null
+      }
+    },
+    {
+      "id": "two_factories_insufficient_backup",
+      "daily_requirement_units": [
+        "5",
+        "5",
+        "5"
+      ],
+      "batches": [
+        {
+          "id": "short",
+          "quantity": "8",
+          "usable_from_day": 0,
+          "usable_through_day": 0,
+          "status": "accepted"
+        },
+        {
+          "id": "long",
+          "quantity": "4",
+          "usable_from_day": 0,
+          "usable_through_day": 9,
+          "status": "accepted"
+        },
+        {
+          "id": "expired",
+          "quantity": "4",
+          "usable_from_day": 0,
+          "usable_through_day": -1,
+          "status": "accepted"
+        },
+        {
+          "id": "recalled",
+          "quantity": "3",
+          "usable_from_day": 0,
+          "usable_through_day": 9,
+          "status": "recalled"
+        }
+      ],
+      "routes": [
+        {
+          "id": "a",
+          "dependency_nodes": [
+            "factory-A",
+            "carrier-a"
+          ],
+          "arrival_day": 1,
+          "quantity": "3",
+          "usable_through_day": 9,
+          "assumed_qualified": true
+        },
+        {
+          "id": "b",
+          "dependency_nodes": [
+            "factory-B",
+            "carrier-b"
+          ],
+          "arrival_day": 1,
+          "quantity": "3",
+          "usable_through_day": 9,
+          "assumed_qualified": true
+        }
+      ],
+      "failed_nodes": [
+        "factory-A"
+      ],
+      "finance": {
+        "due_currency": "CU",
+        "gross_due": "120",
+        "source_currency": "CU",
+        "assumed_owned_source_amount": "120",
+        "actual_received_source": null
+      }
+    },
+    {
+      "id": "full_backup_source_shortfall",
+      "daily_requirement_units": [
+        "5",
+        "5",
+        "5"
+      ],
+      "batches": [
+        {
+          "id": "short",
+          "quantity": "8",
+          "usable_from_day": 0,
+          "usable_through_day": 0,
+          "status": "accepted"
+        },
+        {
+          "id": "long",
+          "quantity": "4",
+          "usable_from_day": 0,
+          "usable_through_day": 9,
+          "status": "accepted"
+        },
+        {
+          "id": "expired",
+          "quantity": "4",
+          "usable_from_day": 0,
+          "usable_through_day": -1,
+          "status": "accepted"
+        },
+        {
+          "id": "recalled",
+          "quantity": "3",
+          "usable_from_day": 0,
+          "usable_through_day": 9,
+          "status": "recalled"
+        }
+      ],
+      "routes": [
+        {
+          "id": "a",
+          "dependency_nodes": [
+            "factory-A",
+            "carrier-a"
+          ],
+          "arrival_day": 1,
+          "quantity": "3",
+          "usable_through_day": 9,
+          "assumed_qualified": true
+        },
+        {
+          "id": "b",
+          "dependency_nodes": [
+            "factory-B",
+            "carrier-b"
+          ],
+          "arrival_day": 1,
+          "quantity": "6",
+          "usable_through_day": 9,
+          "assumed_qualified": true
+        }
+      ],
+      "failed_nodes": [
+        "factory-A"
+      ],
+      "finance": {
+        "due_currency": "CU",
+        "gross_due": "120",
+        "source_currency": "CU",
+        "assumed_owned_source_amount": "80",
+        "actual_received_source": null
+      }
+    },
+    {
+      "id": "full_backup_wrong_currency",
+      "daily_requirement_units": [
+        "5",
+        "5",
+        "5"
+      ],
+      "batches": [
+        {
+          "id": "short",
+          "quantity": "8",
+          "usable_from_day": 0,
+          "usable_through_day": 0,
+          "status": "accepted"
+        },
+        {
+          "id": "long",
+          "quantity": "4",
+          "usable_from_day": 0,
+          "usable_through_day": 9,
+          "status": "accepted"
+        },
+        {
+          "id": "expired",
+          "quantity": "4",
+          "usable_from_day": 0,
+          "usable_through_day": -1,
+          "status": "accepted"
+        },
+        {
+          "id": "recalled",
+          "quantity": "3",
+          "usable_from_day": 0,
+          "usable_through_day": 9,
+          "status": "recalled"
+        }
+      ],
+      "routes": [
+        {
+          "id": "a",
+          "dependency_nodes": [
+            "factory-A",
+            "carrier-a"
+          ],
+          "arrival_day": 1,
+          "quantity": "3",
+          "usable_through_day": 9,
+          "assumed_qualified": true
+        },
+        {
+          "id": "b",
+          "dependency_nodes": [
+            "factory-B",
+            "carrier-b"
+          ],
+          "arrival_day": 1,
+          "quantity": "6",
+          "usable_through_day": 9,
+          "assumed_qualified": true
+        }
+      ],
+      "failed_nodes": [
+        "factory-A"
+      ],
+      "finance": {
+        "due_currency": "CU",
+        "gross_due": "120",
+        "source_currency": "FU",
+        "assumed_owned_source_amount": "120",
+        "actual_received_source": null
+      }
+    },
+    {
+      "id": "large_pending_lot",
+      "daily_requirement_units": [
+        "5",
+        "5",
+        "5"
+      ],
+      "batches": [
+        {
+          "id": "short",
+          "quantity": "8",
+          "usable_from_day": 0,
+          "usable_through_day": 0,
+          "status": "accepted"
+        },
+        {
+          "id": "long",
+          "quantity": "4",
+          "usable_from_day": 0,
+          "usable_through_day": 9,
+          "status": "accepted"
+        },
+        {
+          "id": "expired",
+          "quantity": "4",
+          "usable_from_day": 0,
+          "usable_through_day": -1,
+          "status": "accepted"
+        },
+        {
+          "id": "recalled",
+          "quantity": "3",
+          "usable_from_day": 0,
+          "usable_through_day": 9,
+          "status": "recalled"
+        },
+        {
+          "id": "pending",
+          "quantity": "100",
+          "usable_from_day": 0,
+          "usable_through_day": 9,
+          "status": "pending"
+        }
+      ],
+      "routes": [],
+      "failed_nodes": [],
+      "finance": {
+        "due_currency": "CU",
+        "gross_due": "120",
+        "source_currency": "CU",
+        "assumed_owned_source_amount": "120",
+        "actual_received_source": null
+      }
+    }
+  ]
+}

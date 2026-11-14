@@ -1,0 +1,71 @@
+{
+  "edition": 132,
+  "scope": "Fictional date/amount counterexamples for a proposed procedure, not actual tenders, public powers, assigned courts or source. Working-day examples omit all holidays except those explicitly supplied; start day excluded.",
+  "procurement_cases": [
+    {
+      "id": "split_related_need",
+      "M": "30000",
+      "related_expected_gross_commitments": [
+        "40000",
+        "40000",
+        "40000",
+        "40000"
+      ],
+      "usable_notice": "2030-01-07",
+      "usable_award_notice": "2030-02-11",
+      "unresolved_timely_challenge": false,
+      "urgency": "ordinary",
+      "holiday_dates": []
+    },
+    {
+      "id": "small_purchase",
+      "M": "30000",
+      "related_expected_gross_commitments": [
+        "10000"
+      ],
+      "usable_notice": "2030-01-07",
+      "usable_award_notice": "2030-01-15",
+      "unresolved_timely_challenge": false,
+      "urgency": "ordinary",
+      "holiday_dates": []
+    },
+    {
+      "id": "challenged_medicine_award",
+      "M": "30000",
+      "related_expected_gross_commitments": [
+        "1000000"
+      ],
+      "usable_notice": "2030-01-07",
+      "usable_award_notice": "2030-02-11",
+      "unresolved_timely_challenge": true,
+      "urgency": "separately_authorized_continuity",
+      "holiday_dates": []
+    },
+    {
+      "id": "holiday_and_challenger_access",
+      "M": "30000",
+      "related_expected_gross_commitments": [
+        "150000"
+      ],
+      "usable_notice": "2030-01-07",
+      "usable_award_notice": "2030-02-11",
+      "unresolved_timely_challenge": false,
+      "urgency": "ordinary",
+      "holiday_dates": [
+        "2030-02-18"
+      ]
+    },
+    {
+      "id": "ordinary_quotation",
+      "M": "30000",
+      "related_expected_gross_commitments": [
+        "35000"
+      ],
+      "usable_notice": "2030-01-07",
+      "usable_award_notice": "2030-01-15",
+      "unresolved_timely_challenge": false,
+      "urgency": "ordinary",
+      "holiday_dates": []
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "edition": 96,
+  "status": "Authored scope/work/time examples; no real data subjects, permission, safe roster, source, technology or operating system",
+  "intake": {
+    "assisted_intake_required_h": 2.0,
+    "online_intake_reference_h": 0.25,
+    "assisted_gap_h": 1.0,
+    "actual_clinical_receipt": null
+  },
+  "correction": {
+    "required_distinct_h": 5,
+    "available_aggregate_h": 5,
+    "shortage_by_task_h": {
+      "feature_model": 1,
+      "housing_redecision": 0,
+      "independent_challenge": 0,
+      "source": 0
+    },
+    "uncompleted_nodes": [
+      "feature_model",
+      "housing_redecision",
+      "independent_challenge"
+    ],
+    "all_stages_completed": false,
+    "actual_corrected_model_or_decision": null
+  },
+  "proof": {
+    "named_first_year_subset_CU": 15,
+    "assisted_fallback_CU": null,
+    "full_example_cost_CU": null,
+    "claim": "over65_hypothetical_threshold",
+    "actual_earned_units_or_payee_or_receipt": null,
+    "actual_anonymity_or_safe_proof": null
+  },
+  "vendor": {
+    "distinct_task_h": 115,
+    "incorrect_duplicate_core_total_h": 155,
+    "shared_core_count": 1,
+    "actual_qualified_shifts_or_receivers": null
+  },
+  "agent": {
+    "scope_only_classification": {
+      "book_visit": true,
+      "train_on_full_archive": false,
+      "send_to_insurer": false
+    },
+    "direct_assisted_alternative_h": 0.75,
+    "fixture_prior_booking_not_erased_by_chat_deletion": true,
+    "actual_data_basis_or_current_mandate": null,
+    "actual_unlearning_or_received_care": null
+  },
+  "request_clock": {
+    "first_usable_received": "2026-11-01T10:00:00+00:00",
+    "fixture_controller_outer_due_assuming_valid_extension": "2026-12-01T10:00:00+00:00",
+    "fixture_extension_time_and_flags_pass": false,
+    "answer_within_trigger_and_outer_bound": false,
+    "ignored_reset_if_using_referral": "2026-12-20T10:00:00+00:00",
+    "urgent_protection_within_useful_time": false,
+    "working_day_or_holiday_deadlines_computed": false,
+    "actual_legal_or_service_finding": null
+  },
+  "breach_clock": {
+    "outer_due": "2026-11-04T08:00:00+00:00",
+    "regulator_trigger_and_outer_notice_bound": true,
+    "affected_trigger_and_outer_notice_bound": true,
+    "useful_protection_within_time": false,
+    "without_undue_delay_or_full_notice_receipt_qualified": false,
+    "actual_secure_recovery_or_notice_receipt": null
+  },
+  "actual": {
+    "jurisdiction_law_and_treaties": null,
+    "appropriation_and_owned_sources": null,
+    "qualified_controller_supervisor_or_court_staff": null,
+    "lawful_bases_consent_and_mandates": null,
+    "safe_custody_anonymity_or_unlearning": null,
+    "affected_participation": null,
+    "qualified_independent_review": null,
+    "received_remedies": null,
+    "better_lives": null
+  }
+}

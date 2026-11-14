@@ -1,0 +1,80 @@
+{
+  "edition": 95,
+  "status": "Entirely authored conditional rights/cash/transition examples, no actual legal, finance or engineering offer",
+  "medicine": {
+    "quoted_supply": 12,
+    "scope_matched": true,
+    "duplicate_fee_if_already_bought": 3,
+    "distinct_current_uses_quote": 9,
+    "prior_period_research_grant": 12,
+    "prior_and_current_distinct_cash_uses": 21,
+    "nominal_quote_budget_test": true,
+    "fixture_foreign_quote_gap": 4,
+    "actual_payment_obligation_or_royalty": null,
+    "actual_safe_supply": null,
+    "actual_public_return": null
+  },
+  "software": {
+    "foreground_grant": 5,
+    "distinct_fallback_uses_quote": 5,
+    "combined_quote_uses": 10,
+    "optional_prize_plus_same_fallback_quote": 9,
+    "prize_requires_entrants_to_finance_attempts": true,
+    "background_permission_obtained": false,
+    "actual_qualified_receiver": null,
+    "actual_safe_operation": null,
+    "actual_net_saving": null
+  },
+  "creator": {
+    "public_commission_quote": 6,
+    "public_use_scope": [
+      "defined_exhibition"
+    ],
+    "forecast_private_royalty": 3,
+    "public_royalty_source_credited": 0,
+    "actual_receipt_or_tax_or_source": null,
+    "actual_additional_archive_or_training_permission": null
+  },
+  "delayed_medicine": {
+    "annual_units": 120000,
+    "new_unit_quote_CU": 5.5,
+    "initial_distinct_uses_CU": 400000,
+    "bridge_units": 40000.0,
+    "bridge_quote_CU": 400000.0,
+    "first_year_alternative_units": 80000.0,
+    "first_year_alternative_supply_quote_CU": 440000.0,
+    "first_year_combined_quote_CU": 1240000.0,
+    "retained_incumbent_annual_quote_CU": 1200000,
+    "later_full_year_named_quote_CU": 660000.0,
+    "actual_qualified_acceptance": null,
+    "actual_finance_or_full_manufacturing_cost": null
+  },
+  "operator_royalty": {
+    "due": 0.5,
+    "due_day": "January05",
+    "future_receipt_day": "January10",
+    "owned_operator_due_day_cash": 0.1,
+    "unreceived_invoice_not_credited": 1.5,
+    "fixture_operator_gap": 0.4,
+    "named_operator_liability": 0.5,
+    "express_public_assumption_liability": 0,
+    "single_royalty_claim_total": 0.5,
+    "no_double_recovery_across_overlapping_payers": true,
+    "automatic_Treasury_guarantee": false,
+    "actual_source_or_receipt": null,
+    "actual_safe_receiving_or_remedy": null
+  },
+  "actual": {
+    "jurisdiction_and_treaty_status": null,
+    "rights_inventory_or_permissions": null,
+    "grant_or_appropriation": null,
+    "prices_and_resource_quantities": null,
+    "owned_sources_or_foreign_settlement": null,
+    "workers_and_safe_receiving": null,
+    "affected_participation": null,
+    "qualified_independent_review": null,
+    "enacted_law": null,
+    "delivered_remedies": null,
+    "better_lives": null
+  }
+}

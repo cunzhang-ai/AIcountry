@@ -1,0 +1,256 @@
+{
+  "edition": 93,
+  "status": "Authored operating/accounting and distributional hypotheses, not a national forecast, supplier offer or tax Act",
+  "pinned_support": {
+    "2026-10-finance-and-delivery-bridge/inputs.json": "972def652200637374e6361cc93aae765f9da39fb00604bb2cb2bbaea26e1b33",
+    "2026-10-finance-and-delivery-bridge/model.py": "5929feec06d7a1bf751cba876eab18b478fb65c85ff6210e4609638f9d1c7f38",
+    "2026-10-full-offer-resource-estimate/inputs.json": "76eb73607d29e2ed53b5321372cf5703c272a89866eba00c54a11b4267e81af1",
+    "2026-10-full-offer-resource-estimate/catalog.json": "6074ffed13e07c425f3475fe2402f5e167c045098468e1cc320a7b324b32ebb9",
+    "2026-11-recurring-finance-and-pension-commitments/inputs.json": "d9b67a3984f245521e8f6ad072ca69ab058fb6f0cb4c02441d4ecc4bb9197e09",
+    "2026-11-work-time-and-paid-capability/inputs.json": "2f8847d2a77b830583d6b2569eebe49c21543ff3185b976a80de0acb767d09e1",
+    "2026-11-work-time-and-paid-capability/model.py": "5ee8469e0c288d332b4c9b3c48a4c888e44caf16645012c54067ccb1a7c8262d",
+    "2026-11-work-time-and-paid-capability/results.json": "212f168837e6ce733b72c2317addc190e65d8d5aa20ffd662b0ac8bc25f67399",
+    "2026-11-secure-housing-and-repair/inputs.json": "b4160a695f6f9830b3c0209a2ec50e5135e3c9da58740efc1ad4766105b693e0",
+    "2026-11-secure-housing-and-repair/results.json": "0a646dc2dd05d7678bceaf12beb44fe36098e383fe10079c8a6724a4b7fd9205",
+    "2026-11-physical-supply-and-trade/inputs.json": "c742177860a8fe34085824e7268c20ddd6893967edfcfe65454e9e7d8bdc2b83",
+    "2026-11-physical-supply-and-trade/model.py": "5f47d443657e7f94d0cdc089405e76901ac2df48c7792a83d2296727c5e9a9ae",
+    "2026-11-physical-supply-and-trade/results.json": "a10c7c13c9e42a37fdc430657659432cdf416067cbb3572c5440e6050cb843db"
+  },
+  "sources": {
+    "ps_inputs": "2026-11-physical-supply-and-trade/inputs.json",
+    "ps_results": "2026-11-physical-supply-and-trade/results.json",
+    "housing_results": "2026-11-secure-housing-and-repair/results.json",
+    "tw_results": "2026-11-work-time-and-paid-capability/results.json",
+    "fd_inputs": "2026-10-finance-and-delivery-bridge/inputs.json"
+  },
+  "labor": {
+    "normal_week": 32,
+    "paid_weeks": 52,
+    "scheduled_weeks": 44,
+    "learning_fulltime": 64,
+    "unexpected_loss": 0.1,
+    "median_ordinary_hourly_hypothesis": 18.028846153846153,
+    "minimum_median_fraction": 0.6,
+    "cohorts": [
+      {
+        "id": "low",
+        "people": 15000,
+        "annual_pay": 12000
+      },
+      {
+        "id": "middle",
+        "people": 20000,
+        "annual_pay": 30000
+      },
+      {
+        "id": "high",
+        "people": 15000,
+        "annual_pay": 60000
+      },
+      {
+        "id": "upper",
+        "people": 5000,
+        "annual_pay": 120000
+      }
+    ],
+    "cases": [
+      {
+        "id": "fulltime_funded_uplift",
+        "low_fraction": 1,
+        "low_days": 5,
+        "uplift": true
+      },
+      {
+        "id": "consented_two_thirds_five_days",
+        "low_fraction": 0.6666666666666666,
+        "low_days": 5,
+        "uplift": false
+      },
+      {
+        "id": "consented_two_thirds_three_days",
+        "low_fraction": 0.6666666666666666,
+        "low_days": 3,
+        "uplift": false
+      },
+      {
+        "id": "consented_half_time",
+        "low_fraction": 0.5,
+        "low_days": 5,
+        "uplift": false
+      }
+    ],
+    "actual_offered_jobs_or_consent": null
+  },
+  "tax": {
+    "annual_independent_W": 30000,
+    "ordinary_adult_basket_CU": 13248,
+    "child_factor": 0.6,
+    "contribution_rate": 0.1,
+    "marginal_rates": [
+      0.2,
+      0.35,
+      0.45,
+      0.55
+    ],
+    "withdrawal": 0.5,
+    "earnings_disregard_fraction": 0.2,
+    "pension_disregard_fraction": 0.2,
+    "pension_disregard_cap_fraction": 0.2,
+    "default_housing_CU": 6000,
+    "foundation_exclusive_source_period_offset": true,
+    "selected_attribution": "proportionate_nonfoundation",
+    "prior_units_repriced": false,
+    "annual_tax_scale_M": 30000,
+    "band_width_multiple_M": [
+      0.5,
+      0.5,
+      1,
+      null
+    ],
+    "comparison_general_personal_allowance_CU": 12000
+  },
+  "persons": [
+    {
+      "id": "no_work",
+      "wage": 0
+    },
+    {
+      "id": "low_parttime",
+      "wage": 12000
+    },
+    {
+      "id": "minimum_fulltime",
+      "wage": 18000
+    },
+    {
+      "id": "median_worker",
+      "wage": 30000
+    },
+    {
+      "id": "higher_worker",
+      "wage": 60000
+    },
+    {
+      "id": "upper_worker",
+      "wage": 120000
+    },
+    {
+      "id": "earned_pension",
+      "wage": 0,
+      "pension": 15000,
+      "kind": "older",
+      "ordinary_component": "Ybasicmatchedonce, not additionalsecondU"
+    },
+    {
+      "id": "mixed_work_pension_capital",
+      "wage": 12000,
+      "pension": 12000,
+      "capital": 6000
+    },
+    {
+      "id": "medical_replacement",
+      "wage": 0,
+      "replacement": 12000
+    },
+    {
+      "id": "child_with_received_support",
+      "kind": "child",
+      "wage": 0,
+      "support_received": 6000
+    },
+    {
+      "id": "safe_exit_and_access",
+      "wage": 12000,
+      "housing": 9000,
+      "access_cost": 3000
+    },
+    {
+      "id": "actual_food_receipt",
+      "wage": 30000,
+      "in_kind": 1200
+    },
+    {
+      "id": "cash_food_alternative",
+      "wage": 30000,
+      "in_kind": 0
+    },
+    {
+      "id": "delayed_ordinary_payment",
+      "wage": 12000,
+      "foundation_receipt_fraction": 0
+    },
+    {
+      "id": "mixed_recognized_cost_test",
+      "wage": 12000,
+      "pension": 12000,
+      "capital": 6000,
+      "recognized_work_cost": 24000,
+      "scope": "Formal recognized-cost stress only, not evidence this expense qualifies or is priced"
+    },
+    {
+      "id": "self_employed_net_labor",
+      "wage": 0,
+      "net_business": 12000,
+      "scope": "Actual net personal labor after genuine business costs, not turnover/capital"
+    }
+  ],
+  "goods": {
+    "population": 100000,
+    "dwellings": 75000,
+    "garments_person_year": 12,
+    "garment_kg": 0.5,
+    "garment_border_CU": 15,
+    "hygiene_kg_person_year": 24,
+    "hygiene_border_CU_kg": 3,
+    "device_stock": 100000,
+    "device_life": 4,
+    "device_border_CU": 250,
+    "appliances_dwelling": 3,
+    "appliance_life": 10,
+    "appliance_border_CU": 300,
+    "retail_outlets": 40,
+    "retail_people": 2,
+    "retail_daily_hours": 10,
+    "retail_days": 365,
+    "retail_activities_item": 0.05,
+    "ordinary_annual_pay_CU": 30000,
+    "professional_annual_pay_CU": 60000,
+    "reference_electricity_CU_kWh": 0.15,
+    "reference_power_quote_is_complete": false,
+    "hygiene_pack_kg": 2,
+    "device_kg": 1,
+    "appliance_kg": 30,
+    "inventory_days": 30,
+    "goods_haul_km": 100,
+    "truck_load_tonnes": 10,
+    "truck_speed_km_h": 30,
+    "truck_empty_return_fraction": 1,
+    "truck_handling_hours_trip": 2,
+    "truck_fuel_litres_km": 0.3,
+    "diesel_border_CU_litre": 1.2,
+    "bus_passenger_km_person": 1500,
+    "bus_average_passengers": 20,
+    "bus_deadhead_fraction": 0.1,
+    "bus_service_speed": 20,
+    "bus_deadhead_speed": 30,
+    "bus_preparation_fraction": 0.1,
+    "bus_km_year": 80000,
+    "bus_fuel_litres_km": 0.35,
+    "household_shopping_hours_transaction": 0.25,
+    "household_shopping_return_km": 10,
+    "scope": "Authored boundednonfoodreference, notcompulsoryadequacyoractualoffer. 10GWh replacesPSsmallprivateplaceholder; retailtransactionsuse2kg hygienepacks. Consumerdurables notoperatorcapital; initialownerstock/title/finance/landunknown. Extra/clinical/disability/discretionaryneeds notpricedaway."
+  },
+  "actual": {
+    "accepted_employment_and_hours": null,
+    "household_occupancy_and_choice": null,
+    "complete_supplier_price": null,
+    "full_domestic_and_foreign_sources": null,
+    "initial_assets_and_owner_finance": null,
+    "tax_collection_or_adoption": null,
+    "independent_review": null,
+    "affected_participation": null,
+    "qualified_rosters": null,
+    "received_remedy": null,
+    "better_lives": null
+  }
+}

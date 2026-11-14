@@ -1,0 +1,101 @@
+{
+  "committee": {
+    "authorized_K": 5,
+    "allocatable_k": 5,
+    "governing_places": 3,
+    "nongoverning_places": 2,
+    "vacant_authorized": 0,
+    "fixed_present_and_yes": 3,
+    "could_report_if_all_allocated_present_and_agree": true,
+    "actual_cohort_independence_or_appointments": null,
+    "governing_groups": {
+      "conditional_places": {
+        "G1": 2,
+        "G2": 1
+      },
+      "floor_places_before_remainders": {
+        "G1": 1,
+        "G2": 1
+      },
+      "public_lot_needed": false,
+      "actual_representatives": null
+    },
+    "nongoverning_groups": {
+      "conditional_places": {
+        "O1": 1,
+        "O2": 1
+      },
+      "floor_places_before_remainders": {
+        "O1": 1,
+        "O2": 0
+      },
+      "public_lot_needed": false,
+      "actual_representatives": null
+    }
+  },
+  "lineage": {
+    "selected_report_count": 4,
+    "known_declared_origin_families": [
+      "A"
+    ],
+    "unknown_origin_ids": [],
+    "contrary_declared_families": [
+      "C"
+    ],
+    "contrary_unknown_origin_ids": [],
+    "unexamined_node_ids": [
+      "unknown_U"
+    ],
+    "actual_independence_truth_or_warning_authority": null
+  },
+  "resources": {
+    "prior_due": 8,
+    "prior_unpaid": 0,
+    "remaining_cash_after_prior": 2,
+    "new_need": 3.75,
+    "new_cash_gap": 1.75,
+    "new_FX_gap": 0.5,
+    "actual_owned_source_or_prices_or_appropriation": null
+  },
+  "shifts": {
+    "language_remaining": 1,
+    "language_gap_shifts": 1,
+    "language_gap_hours": 8,
+    "prior_language_shortfall": 0,
+    "legal_gap_shifts": 0,
+    "actual_qualification_or_released_roster": null
+  },
+  "calendar": {
+    "fixed_180day_commencement": "2027-04-30",
+    "aggregate_first90_review": "2031-01-30",
+    "first_quarter_report": "2031-01-15",
+    "annual_safe_outlook": "2031-03-01",
+    "identifiable_first90_outer": "2031-01-30",
+    "identifiable_original180_outer": "2031-04-30",
+    "proposed_within_original_outer": false,
+    "misleading_renamed180_outer": "2031-06-30",
+    "misleading_rename_pass": true,
+    "unjustified_original30_due": "2030-12-01",
+    "removed_within_original30": false,
+    "misleading_screening_reset_pass": true,
+    "PD25_initial30_review_fixture": "2030-12-01",
+    "ground_end_notice7_due": "2030-11-22",
+    "notice_within_ground_end7": false,
+    "actual_task_necessity_notice_ground_or_order": null
+  },
+  "handover": {
+    "original_elapsed_h": 25.0,
+    "within_original24h": false,
+    "misleading_later_receipt24h": true,
+    "actual_lawful_succession_or_received_inventory": null
+  },
+  "actual": {
+    "legitimate_authority": null,
+    "qualified_independent_review": null,
+    "affected_participation": null,
+    "original_threat_and_rights_evidence": null,
+    "funded_qualified_service_and_oversight": null,
+    "received_warning_or_correction_or_compensation": null,
+    "observed_better_lives": null
+  }
+}

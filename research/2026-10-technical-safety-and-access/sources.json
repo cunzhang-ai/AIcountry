@@ -1,0 +1,84 @@
+{
+  "edition": 78,
+  "date": "2026-10-15",
+  "document_entries": 8,
+  "institutional_family_count": 6,
+  "full_external_technical_clinical_or_legal_conformity": false,
+  "publisher_byte_archive": false,
+  "sources": [
+    {
+      "id": "TSS01",
+      "family": "WHO",
+      "title": "Streets for Life campaign",
+      "year": 2021,
+      "url": "https://www.who.int/campaigns/un-global-road-safety-week/2021/streets-for-life",
+      "inspection": "Opened official campaign text on 30 km/h where vulnerable users mix with traffic",
+      "limit": "Not original country outcome data or support for our full road law, age/assistance choice or other maxima"
+    },
+    {
+      "id": "TSS02",
+      "family": "WHO",
+      "title": "Global Model Regulatory Framework, publication page and linked TRS 1045 Annex 3",
+      "year": 2023,
+      "url": "https://www.who.int/publications/m/item/who-global-model-regulatory-framework-for-medical-devices-including-in-vitro-diagnostic-medical-devices--annex-3",
+      "linked_document_url": "https://cdn.who.int/media/docs/default-source/biologicals/ecbs/annex3-gmrf-who_trs_1045.pdf?download=true&sfvrsn=88867b3a_3",
+      "inspection": "Actual linked PDF portions: risk classification around PDF pages 17-20, reliance/recognition 39-42, post-market 73-75; publication overview separately",
+      "limit": "Page describes 126 pages/prepublication wording; linked TRS 1045 PDF rendered 147 pages. No entire appendix/clinical conformity or byte archive claimed"
+    },
+    {
+      "id": "TSS03",
+      "family": "WHO",
+      "title": "Guidelines for drinking-water quality, fourth edition with first and second addenda",
+      "year": 2022,
+      "url": "https://www.who.int/publications/i/item/9789240045064",
+      "table_url": "https://www.ncbi.nlm.nih.gov/books/NBK579466/table/ch7.tab10/",
+      "inspection": "WHO publication overview opened; E. coli/100 mL Table 7.10 visible only in indexed search excerpt",
+      "limit": "Table open returned challenge page; linked WHO full download returned 403. Full table/method context not inspected, candidate requires qualified source review"
+    },
+    {
+      "id": "TSS04",
+      "family": "IAEA",
+      "title": "SSG-55 published online text: radiation inspection and non-medical human imaging",
+      "url": "https://nucleus.iaea.org/sites/nss-oui/Published%20Collections/m_b1697aee-6e30-4a17-904e-f69faaaef9fd/m_b1697aee-6e30-4a17-904e-f69faaaef9fd__4_0.Html",
+      "inspection": "Scope, justification/optimization/limits and graded-approach portions including paragraphs 2.71-2.75",
+      "limit": "Not complete GSR Part 3, medical/nuclear regime or numerical exposure annex; no national applicability presumed"
+    },
+    {
+      "id": "TSS05",
+      "family": "ICAO",
+      "title": "ICAO strengthens global framework for accident investigations, addresses conflicts of interest",
+      "date": "2026-03-27",
+      "url": "https://www.icao.int/news/icao-strengthens-global-framework-accident-investigations-addresses-conflicts-interest",
+      "inspection": "Actual announcement on independent safety investigation, source access, family communication and distinct preventive purpose",
+      "amendment_20_applicability": "2028-11-23",
+      "limit": "Future applicability is not current national law. Complete Annex 13/current implementation was not inspected"
+    },
+    {
+      "id": "TSS06",
+      "family": "ILO",
+      "title": "C155 official located text/excerpts",
+      "year": 1981,
+      "url": "https://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB%3A12100%3A0%3A%3ANO%3A12100%3AP12100_ILO_CODE%3AC155",
+      "inspection": "Official indexed Article 13/19 excerpts on serious-danger withdrawal only",
+      "limit": "Full retrieval failed; alternate Normlex endpoint had redirect loop. No full treaty inspection or actual ratification verified"
+    },
+    {
+      "id": "TSS07",
+      "family": "UNOOSA",
+      "title": "Outer Space Treaty official indexed Article VI",
+      "year": 1967,
+      "url": "https://www.unoosa.org/oosa/en/ourwork/spacelaw/treaties/outerspacetreaty.html",
+      "inspection": "Official search excerpt only on authorization and continuing supervision",
+      "limit": "Full page retrieval failed and located historical PDF returned 404. Not complete treaty/party/jurisdiction review"
+    },
+    {
+      "id": "TSS08",
+      "family": "UNECE",
+      "title": "ECE TRANS WP.1 173 Add.1, proposed Article 34 bis text located",
+      "url": "https://unece.org/sites/default/files/2021-01/ECE-TRANS-WP.1-173-Add1e.pdf",
+      "inspection": "Official indexed amendment text only",
+      "limit": "Direct document returned 403; no current consolidated treaty, applicability or local automated approval inferred"
+    }
+  ],
+  "qualification": "Same AI interpretation/controller; no affected participation, actual observation study, qualified independent technical/clinical/legal review or proof of superiority"
+}

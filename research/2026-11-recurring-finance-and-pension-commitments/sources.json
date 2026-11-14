@@ -1,0 +1,47 @@
+{
+  "date": "2026-11-01",
+  "scope": "Three original documentary families inspected for accounting/valuation distinctions; no rates, mortality, comparative superiority, foreign legal rule or recommended fiscal threshold imported",
+  "families": [
+    {
+      "id": "EC_DSM2025",
+      "title": "Debt Sustainability Monitor2025, European Economy Institutional Paper332",
+      "publication": "February2026, despite2025 title",
+      "url": "https://economy-finance.ec.europa.eu/document/download/39b3b61d-42c1-46d7-8088-0aad82e8731e_en?filename=ip332_en.pdf",
+      "inspected": "PDF cover/version and pp20\u201321 zero-index; gross financing needs and stock-flow adjustment discussion",
+      "support": "Separates deficits, interest, redemption and financial/cash-buffer adjustments; earmarked insurance liquidity can coexist with government borrowing needs.",
+      "limits": "No EU risk threshold, current member-country fiscal estimate or EU law imported; not whole-report inspection or AIcountry fiscal compliance."
+    },
+    {
+      "id": "SSA_METHODS",
+      "title": "SSA actuarial note2025.1 and2026 Trustees Report long-range/infinite-horizon sections",
+      "urls": [
+        "https://www.ssa.gov/oact/NOTES/ran1/an2025-1.pdf",
+        "https://www.ssa.gov/OACT/TR/2026/IV_B_LRest.html",
+        "https://www.ssa.gov/oact/TR/2026/VI_F_infinite.html"
+      ],
+      "inspected": "2025note pp0\u20131 and2026 long-range introductory methods/infinite-horizon discussion; current2026 method checked rather than assuming older report remains latest",
+      "support": "Distinguishes PAYG open-group assessment from closed transition cost; annual liquidity and remaining horizon differ from aggregate present value.",
+      "limits": "No US payment-stop law, replacement rate, contribution rule, population assumption or numerical actuarial finding imported. Multiple publications remain one original source family, not independent observations. Fictional Y/S rights and public backing differ."
+    },
+    {
+      "id": "UST_SOSI2025",
+      "title": "US Government FY2025/2024 Statements of Social Insurance",
+      "url": "https://fiscal.treasury.gov/accounting/us-financial-report/statements-of-social-insurance",
+      "inspected": "Statement introduction and note6 on intra-governmental transfers",
+      "support": "Internal public transfers are not a new source from the consolidated government perspective.",
+      "limits": "No US institutional rule or valuation amount validates the proposed country."
+    }
+  ],
+  "failed_routes": [
+    {
+      "url": "https://www.imf.org/-/media/files/publications/pp/2022/english/ppea2022039.pdf",
+      "result": "429 on original fetch; index snippets only"
+    },
+    {
+      "url": "https://www.elibrary.imf.org/view/journals/007/2022/039/article-A001-en.xml",
+      "result": "403; not claimed as inspected full text"
+    }
+  ],
+  "events_and_objections": "Checked2026 SSA method and received new source/legacy/counterparty/cash-seed objections. No actual affected-party consultation or independent professional review obtained.",
+  "review_controller": "Root and three AI helpers share one controller and original frozen synthetic sources; labels/output counts establish neither independence nor authority."
+}

@@ -1,0 +1,42 @@
+{
+  "edition": 94,
+  "inspected_on": "2026-11-01",
+  "role": "Normative primary references; no transferred local law, empirical effect size or validation of candidate numbers",
+  "source_families": [
+    {
+      "family": "United Nations",
+      "independence": "Both institutional normative texts, not independent empirical country evaluations",
+      "items": [
+        {
+          "url": "https://unstats.un.org/fpos/",
+          "title": "Fundamental Principles of Official Statistics",
+          "inspected": "English principles1,2,3,5,6, including confidentiality, professional methods, equal dissemination, sources/respondent burden",
+          "use": "Motivates boundaries for professional methods, plural access and protected data; chief term/ballot/removal mechanism remains our normative hypothesis",
+          "not_inspected": "No implementation dataset or actual country compliance"
+        },
+        {
+          "url": "https://treaties.un.org/doc/Publication/CTC/Ch_IV_15.pdf",
+          "title": "Convention on the Rights of Persons with Disabilities",
+          "inspected": "English Article9 physical PDFpage40 and Article20 physicalpage45 text; page screenshots requested, no additional image-dependent assertion",
+          "use": "Accessibility and personal-mobility reference; not domestic enactment, universal two-trip formula, engineering test or optimal time ceiling",
+          "not_inspected": "No ratification/local treaty-status or implementation/outcome study"
+        }
+      ]
+    }
+  ],
+  "limited_or_failed_access": [
+    {
+      "url": "https://ec.europa.eu/eurostat/web/quality/european-quality-standards/european-statistics-code-of-practice",
+      "scope": "Landing page only, not full code or chief-appointment provisions; not substantive support"
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32015R0759",
+      "scope": "Robot screen, not inspected regulatory text; not support"
+    },
+    {
+      "url": "https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-persons-disabilities",
+      "scope": "403, not inspected here; UN treatyPDF inspected instead"
+    }
+  ],
+  "events_and_objections": "Current primary text accessed; no claim of exhaustive event/outcome search, new field observation or unaffected all-country review. All numbered standards authored. Fresh same-controller review recorded separately."
+}

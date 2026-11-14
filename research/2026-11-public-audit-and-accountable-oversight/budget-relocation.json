@@ -1,0 +1,22 @@
+{
+  "edition": 121,
+  "source": "budget-before-organization.md",
+  "before_sha256": "ab75dc3515cfca5da9e45e4833fbaa9bcdc4a76cadfaea1bc36ea23cddcb5461",
+  "records": [
+    {
+      "destination": "country/C06/01/01-tax-powers-and-public-revenue.md",
+      "start": 158,
+      "end": 6723,
+      "retained_body_sha256": "9195ad8eac8507f7fd85c071683cc2a256d82f9eee95d2c1f1ac4e5ca5cb262f",
+      "scope": "Exact current section body apart from relative-link rebasing; new heading/navigation metadata only. AA new clauses already part of the pre-organization working source, not historical105 support."
+    },
+    {
+      "destination": "country/C06/01/02-consolidated-public-budget.md",
+      "start": 6723,
+      "end": 11553,
+      "retained_body_sha256": "9ccb0e60fbcff5b1b1423f31215cb6b6ec19cb421f978370e3717b6059d3cc40",
+      "scope": "Exact current section body apart from relative-link rebasing; new heading/navigation metadata only. AA new clauses already part of the pre-organization working source, not historical105 support."
+    }
+  ],
+  "meaning": "Loss-preserving navigation only after121 AA additions. Older120 predecessor and all dated originals stay unchanged; no new review, price or governing adoption."
+}

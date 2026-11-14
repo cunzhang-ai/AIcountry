@@ -1,0 +1,80 @@
+{
+  "edition": 100,
+  "same_controller": true,
+  "prior_review_transfer": false,
+  "actual_qualified_independent_review": null,
+  "actual_affected_participation": null,
+  "reports": {
+    "finance": [
+      "review/finance-initial.md",
+      "review/finance-reread.md",
+      "review/finance-correction-close.md"
+    ],
+    "authority": [
+      "review/authority-initial.md",
+      "review/authority-reread.md",
+      "review/authority-correction-close.md"
+    ],
+    "remedy": [
+      "review/remedy-initial.md",
+      "review/remedy-reread.md",
+      "review/remedy-correction-close.md"
+    ]
+  },
+  "findings": [
+    {
+      "id": "noncash_grossup_and_credit",
+      "status": "corrected_and_actual_reread",
+      "disposition": "Tax-inclusive employer-funded g is taxable and credited at expressly enacted actual delivered-benefit discharge; employer debt versus Treasury receipt separated, no optional unpaid worker loan. Pro-rata final allocation and default/cost dissent explicit.",
+      "report": "review/finance-reread.md"
+    },
+    {
+      "id": "tax_collector_risk_gate",
+      "status": "corrected_and_actual_reread",
+      "disposition": "Before designation require exact protected title/100% accessible principal, finite elected ceilings/security, next-working-day settlement/daily independent reconciliation and funded alternate. Postvalid discharge survives later breach; no Treasury M07 assumption.",
+      "report": "review/finance-reread.md"
+    },
+    {
+      "id": "insurer_receiver_award_reporting",
+      "status": "corrected_and_actual_reread",
+      "disposition": "TA08 includes insurer/estate/receiver/compensation payer minimum source/category records for actual first-paid taxable components, not blanket taxable incoming flows.",
+      "report": "review/finance-reread.md"
+    },
+    {
+      "id": "collection_30_vs_60_window",
+      "status": "corrected_and_actual_reread",
+      "disposition": "TX03/TA12/TX07/TX09/TX11 explicitly protect first60-working-day and linked court/ordinary-appeal filing windows, with specific TX10 preservation only and original TX12 bar anchor unchanged. Authority reviewer observed same seam; not independent corroboration.",
+      "report": "review/remedy-reread.md"
+    },
+    {
+      "id": "interest_across_linked_windows",
+      "status": "corrected_and_actual_reread",
+      "disposition": "Actually timely goodfaith challenge pauses interest through linked ordinary filing windows; no-nextfiling resumes at alreadyset30-working-day payment due without restarting collection bar.",
+      "report": "review/remedy-correction-close.md"
+    },
+    {
+      "id": "named_collector_designator",
+      "status": "corrected_and_actual_reread",
+      "disposition": "Cabinet reasoned prospective public designation on C04 Treasury qualified advice and verified source, procurement/conflicts/directordinarychallenge. Licence/RevenueDirector/software/operator cannot selfdesignate.",
+      "report": "review/authority-correction-close.md"
+    },
+    {
+      "id": "Y_parity_scope",
+      "status": "corrected_and_actual_reread",
+      "disposition": "Narrowed to personal-tax-only parity; cash125/Y12.5/PA22.5/net90 countercase. Noncash Y contribution/accrual/liquidity is an express unresolved national choice before cash-to-perk substitution; no exemption or new levy/old unit loss by tax analogy.",
+      "report": "review/finance-correction-close.md"
+    }
+  ],
+  "retained_dissent": [
+    "Common Cabinet/Treasury/source/vendor capture and protected-career entrenchment remain possible.",
+    "Full employer noncash gross-up raises labor cost, annual cross-employer allocation/default exposure; Y/S incidence still a national choice.",
+    "Home-gain mobility, five/25-year capital cost, loss ringfences, residence migration and late foreign refunds need affected/qualified review.",
+    "Six/eight-year all-in collection and review-window protection can forfeit valid revenue in court delay; ten-year single bar remains rival.",
+    "Safeguards constrain but do not eliminate state collector-loss exposure; no actual operator/security/cash/court/receipt is established."
+  ],
+  "not_reviewed": [
+    "Helpers did not inspect or approve numerical model/results/validator or every country clause.",
+    "No original affected observations, legal authority, qualified independent fiscal/treaty review, actual source or outcome."
+  ],
+  "method": "Fresh actual canonical text, recorded critique, actual correction rereads. Same texts/controllers and coordinated remedy/authority finding do not multiply support."
+}

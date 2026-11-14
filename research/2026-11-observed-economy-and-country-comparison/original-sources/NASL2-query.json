@@ -1,0 +1,25 @@
+{
+  "table": "NASL2",
+  "format": "JSONSTAT",
+  "lang": "en",
+  "variables": [
+    {
+      "code": "TRANSAKT",
+      "values": [
+        "*"
+      ]
+    },
+    {
+      "code": "SEKTOR",
+      "values": [
+        "*"
+      ]
+    },
+    {
+      "code": "Tid",
+      "values": [
+        "2023"
+      ]
+    }
+  ]
+}

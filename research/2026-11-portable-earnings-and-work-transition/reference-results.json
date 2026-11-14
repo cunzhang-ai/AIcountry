@@ -1,0 +1,159 @@
+{
+  "edition": 168,
+  "status": "passed",
+  "case_count": 25,
+  "cases": [
+    {
+      "case": "all jobs aggregate actual labor losses do not offset wages",
+      "result": "passed authored arithmetic",
+      "detail": "EB source floor only; actual TA losses unchanged",
+      "actual_field_source_or_outcome": null
+    },
+    {
+      "case": "full median history reference",
+      "result": "passed authored arithmetic",
+      "detail": "Authored W=52000, no actual national wage/source",
+      "actual_field_source_or_outcome": null
+    },
+    {
+      "case": "full gross bridge",
+      "result": "passed authored arithmetic",
+      "detail": "80% of capped reference gap",
+      "actual_field_source_or_outcome": null
+    },
+    {
+      "case": "new lower-paid full-time work remains portable",
+      "result": "passed authored arithmetic",
+      "detail": "Gross combined900 vs800, no net-after-tax/I05 claim",
+      "actual_field_source_or_outcome": null
+    },
+    {
+      "case": "cap before insured gap differs from uncapped loss",
+      "result": "passed authored arithmetic",
+      "detail": "2W past/remainingW gets0, not0.4W or0.8W",
+      "actual_field_source_or_outcome": null
+    },
+    {
+      "case": "all concurrent jobs one combined reference",
+      "result": "passed authored arithmetic",
+      "detail": "No extra entitlement per account/job",
+      "actual_field_source_or_outcome": null
+    },
+    {
+      "case": "gross discharged replacement includes net and tax credit",
+      "result": "passed authored arithmetic",
+      "detail": "Comparable gross800=net640+actual tax credit160; net M alone would wrongly pay160",
+      "actual_field_source_or_outcome": null
+    },
+    {
+      "case": "unpaid replacement award is not discharged receipt",
+      "result": "passed authored arithmetic",
+      "detail": "Illustration assumes no qualifying receipt/credit, not a due wage guarantee",
+      "actual_field_source_or_outcome": null
+    },
+    {
+      "case": "one eligible day aligns reference and same-day earnings",
+      "result": "passed authored arithmetic",
+      "detail": "Outside six-day600 earnings do not get mixed then fractioned again",
+      "actual_field_source_or_outcome": null
+    },
+    {
+      "case": "partial short-time week not multiplied twice",
+      "result": "passed authored arithmetic",
+      "detail": "Civil spell days are not lost working days",
+      "actual_field_source_or_outcome": null
+    },
+    {
+      "case": "capped yearly history retains ordinary zeros",
+      "result": "passed authored arithmetic",
+      "detail": "26zero weeks remain, not paid-week average1000",
+      "actual_field_source_or_outcome": null
+    },
+    {
+      "case": "one-day claim does not annualize contract",
+      "result": "passed authored arithmetic",
+      "detail": "One actual200 ordinary day, W52000; whole182-day spell80, not20800",
+      "actual_field_source_or_outcome": null
+    },
+    {
+      "case": "reject tiny-claim full-day quota trap",
+      "result": "passed authored arithmetic",
+      "detail": "Old rejected calendar quota spent182; selected amount quota spends0.7equivalent",
+      "actual_field_source_or_outcome": null
+    },
+    {
+      "case": "full working year after tiny aid retains meaningful bridge",
+      "result": "passed authored arithmetic",
+      "detail": "Given independently qualified genuine recovery/new spell: old80 only reduces new20800 by80, not tozero",
+      "actual_field_source_or_outcome": null
+    },
+    {
+      "case": "persistent partial loss stops at actual spell end",
+      "result": "passed authored arithmetic",
+      "detail": "Rejected26fractionalweeks/104alone stays at26forever; new actual [D,D+182) stops same-spell payments through728days",
+      "actual_field_source_or_outcome": null
+    },
+    {
+      "case": "rolling civil-day exact boundary",
+      "result": "passed authored arithmetic",
+      "detail": "day0 within inclusive728ending727; outside interval ending728",
+      "actual_field_source_or_outcome": null
+    },
+    {
+      "case": "fractional remaining quota partially pays day",
+      "result": "passed authored arithmetic",
+      "detail": "0.5equivalent remains; no all-or-nothing full-day loss",
+      "actual_field_source_or_outcome": null
+    },
+    {
+      "case": "new W never reprices past equivalent record",
+      "result": "passed authored arithmetic",
+      "detail": "Past amount/denominator/version retained; nominal values alone cannot redefine quota",
+      "actual_field_source_or_outcome": null
+    },
+    {
+      "case": "same-month net receipt I05 interaction",
+      "result": "passed authored arithmetic",
+      "detail": "Authored matched month/no tax assumed: netbridge40, I05save17, netgain23; no weekly-month unit mix",
+      "actual_field_source_or_outcome": null
+    },
+    {
+      "case": "poorer and non-I05 recipients need not gain equally",
+      "result": "passed authored arithmetic",
+      "detail": "Same40 netbridge may add40 outside I05 vs23 in priorcase; no universal fairness proof",
+      "actual_field_source_or_outcome": null
+    },
+    {
+      "case": "same already-counted earned pay not deducted again",
+      "result": "passed authored arithmetic",
+      "detail": "Later payment of that same500 changes usable cash/I05, not E twice",
+      "actual_field_source_or_outcome": null
+    },
+    {
+      "case": "newly proved unpaid work corrects entitlement apart from collection",
+      "result": "passed authored arithmetic",
+      "detail": "Award correction800; actual recovery/deferral/fraud/finality are human legal-source questions",
+      "actual_field_source_or_outcome": null
+    },
+    {
+      "case": "assessment week anchor does not follow pay batch",
+      "result": "passed authored arithmetic",
+      "detail": "Fixed Monday reference zone/date illustration, actual Act/source timezone required",
+      "actual_field_source_or_outcome": null
+    },
+    {
+      "case": "one combined day is not issued again for another job/account",
+      "result": "passed authored arithmetic",
+      "detail": "Ordinary model accepts one aggregate person-day, not per-job calls",
+      "actual_field_source_or_outcome": null
+    },
+    {
+      "case": "old-period repayment never becomes negative current M",
+      "result": "passed authored arithmetic",
+      "detail": "Actual correction belongs to original source period, not an extra current insured loss",
+      "actual_field_source_or_outcome": null
+    }
+  ],
+  "scope": "Authored unrounded gross amount, annual-reference, exact interval, proportional quota and separate I05 arithmetic only. No worker/absence/cause/fault/consent/legal classification, actual cohort cost, labor-market effect, source or authority validated",
+  "actual_participation_source_authority_or_better_lives": null
+}

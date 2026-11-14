@@ -1,0 +1,87 @@
+{
+  "edition": 115,
+  "context": "UK urban-outside-London April2026 reference budgets; indicative EastMidlands rent. Comparator only, no selected project territory/public/jurisdiction.",
+  "status": "Published household-cost estimates plus separately scoped provider information, not one completed local procurement/working-cash book.",
+  "budget_data": "observations.json",
+  "budget_item_version": {
+    "public_item_list_year": 2024,
+    "annual_category_price_year": 2026,
+    "same_item_prices_proved": false,
+    "source": "https://www.lboro.ac.uk/research/crsp/minimum-income-standard/household-budgets/"
+  },
+  "provider_observations": [
+    {
+      "id": "Leicester_partnership_bus",
+      "source": "https://www.leicesterbuses.co.uk/flexi-ticketing",
+      "published_effective": "2026-08-01",
+      "retrieved": "2026-11-02",
+      "currency": "GBP",
+      "unit": "adult-week-ticket",
+      "price": 23,
+      "scope": "GreaterLeicester Flexi area; PR1/2/3 excluded. Paper/cash route described. Retail fare, not network operating cost.",
+      "actual_route_time_accessibility_receipt": null
+    },
+    {
+      "id": "Arriva_September_fare",
+      "source": "https://www.arrivabus.co.uk/emfaressep26",
+      "edition": "September2026",
+      "retrieved": "2026-11-02",
+      "currency": "GBP",
+      "unit": "adult-week-ticket",
+      "price": 23,
+      "scope": "Exact LeicesterFlexi Zone adult-week row in full operator table; not the separate EastMidlands zone. Retail offer, not proof of actual ticket receipt or a wholesale budget.",
+      "actual_ticket_payment_contract_or_acceptance": null,
+      "published_date": "2026-09-11",
+      "published_effective": "2026-09-20"
+    }
+  ],
+  "candidate_delivery_roles": [
+    {
+      "component": "housing",
+      "canonical": "country/C09/12-secure-housing-and-repair.md",
+      "proposed_receiver": "Housing authority and chosen landlord/cost-rental provider",
+      "actual_paid_offer_or_stock": null
+    },
+    {
+      "component": "ordinary_mobility",
+      "canonical": "country/C07/17-ordinary-mobility-and-effective-journeys.md",
+      "proposed_receiver": "MO journey steward plus lawful provider",
+      "actual_whole_journey_capacity_or_public_source": null
+    },
+    {
+      "component": "care_and_time",
+      "canonical": "country/C07/13-public-service-entitlements.md",
+      "proposed_receiver": "C07 chosen care/learning receiver and provider; TW paid cover",
+      "actual_accepted_hours_qualification_place_cost": null
+    },
+    {
+      "component": "health_personal_access",
+      "canonical": "country/C07/01-effective-access.md",
+      "proposed_receiver": "Clinical/access receiver; partial mixed-basket line needs actual split",
+      "actual_receipt_or_credit": null
+    },
+    {
+      "component": "ordinary_goods_and_replacement",
+      "canonical": "country/C05/06-income-floor-and-safe-resources.md",
+      "proposed_receiver": "I career receiver/needs payer and freely chosen lawful supplier",
+      "actual_quote_stock_title_working_cash": null
+    }
+  ],
+  "actual_project_affected_participation_or_mandate": null,
+  "actual_complete_local_source_and_delivery_register": null,
+  "source_correction_history": [
+    {
+      "initial_draft": 24,
+      "basis": "Search-result snippet, not a verified table row",
+      "corrected": 23,
+      "basis_after_review": "Full operator table LeicesterFlexi Zone adult week; both inspected provider/partnership rows now23. Cause of snippet mismatch unknown; do not invent a continuing price conflict."
+    }
+  ],
+  "continuing_limits": "Same agreement/source family does not provide independent observations. August/September price vintages are not the April budget; no actual journey fit/payment, wholesale source or project receipt proved.",
+  "existing_subsidy_context": {
+    "source": "https://news.leicester.gov.uk/news-articles/2026/april/flexi-tickets-cut-cost-of-bus-travel-in-leicester/",
+    "published": "2026-04-08",
+    "annual_GBP_approx": 600000,
+    "scope": "Council-described public fare-reduction funding, not complete provider operating/renewal/capacity costs or a project source."
+  }
+}

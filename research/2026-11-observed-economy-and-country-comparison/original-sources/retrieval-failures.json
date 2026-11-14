@@ -1,0 +1,15 @@
+{
+  "VNASFK": {
+    "attempts": [
+      {
+        "format": "JSONSTAT",
+        "result": "HTTP500 SYSTEM-100; original request retried once"
+      },
+      {
+        "format": "CSV",
+        "result": "HTTP500 SYSTEM-100"
+      }
+    ],
+    "scope": "No archived June financial data are claimed retrieved. Current NASFK2023 companion keeps its September2026 table vintage explicitly; do not silently merge revisions."
+  }
+}

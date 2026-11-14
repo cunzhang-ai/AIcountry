@@ -1,0 +1,395 @@
+{
+  "id": "NASL2",
+  "text": "2.1.2-3.1 Allocation and \nuse of income (main table)",
+  "description": "2.1.2-3.1 Allocation and \nuse of income (main table) by transaction, sector and time",
+  "unit": "m DKK",
+  "suppressedDataValue": "0",
+  "updated": "2026-06-30T08:00:00",
+  "active": true,
+  "contacts": [
+    {
+      "name": "Ulla Ryder J\u00f8rgensen",
+      "phone": "+4551499262",
+      "mail": "urj@dst.dk"
+    }
+  ],
+  "documentation": {
+    "id": "d115a8c0-7b7e-4961-bf7a-414c025ec5d6",
+    "url": "https://www.dst.dk/documentationofstatistics/d115a8c0-7b7e-4961-bf7a-414c025ec5d6"
+  },
+  "footnote": null,
+  "variables": [
+    {
+      "id": "TRANSAKT",
+      "text": "transaction",
+      "elimination": false,
+      "time": false,
+      "values": [
+        {
+          "id": "B2A3GK",
+          "text": "B.2g+B.3g Gross operating surplus and mixed inc."
+        },
+        {
+          "id": "D1K",
+          "text": "D.1 Compensation of employees, receivable"
+        },
+        {
+          "id": "D2K",
+          "text": "D.2 Taxes on production and imports, receivable"
+        },
+        {
+          "id": "D3K",
+          "text": "D.3 Subsidies, payable"
+        },
+        {
+          "id": "D4N",
+          "text": "D.4 Property income, net"
+        },
+        {
+          "id": "B5GD",
+          "text": "B.5g Gross primary income"
+        },
+        {
+          "id": "P51C1D",
+          "text": "P.51c Consumption of fixed capital"
+        },
+        {
+          "id": "B5ND",
+          "text": "B.5n Net primary income"
+        },
+        {
+          "id": "D5_7N",
+          "text": "D.5-D.7 Current transfers, net"
+        },
+        {
+          "id": "D5N",
+          "text": "D.5 Current taxes on income, wealth, etc., net"
+        },
+        {
+          "id": "D6N",
+          "text": "D.6 Social contributions / social benefits, net"
+        },
+        {
+          "id": "D7N",
+          "text": "D.7 Other current transfers, net"
+        },
+        {
+          "id": "B6GD",
+          "text": "B.6g Disposable income, gross"
+        },
+        {
+          "id": "B6ND",
+          "text": "B.6n Net disposable income"
+        },
+        {
+          "id": "D8K",
+          "text": "D.8 Adjustment for the change in pension entitlements, receivable"
+        },
+        {
+          "id": "P3D",
+          "text": "P.3 Final consumption expenditure"
+        },
+        {
+          "id": "D8D",
+          "text": "D.8 Adjustment for the change in pension entitlements, payable"
+        },
+        {
+          "id": "B8GD",
+          "text": "B.8g Saving, gross"
+        },
+        {
+          "id": "B12D",
+          "text": "B.12 Current external balance"
+        },
+        {
+          "id": "B8ND",
+          "text": "B.8n Saving, net"
+        },
+        {
+          "id": "D9N",
+          "text": "D.9 Capital transfers, net"
+        },
+        {
+          "id": "P51C4D",
+          "text": "P.51c Consumption of fixed capital"
+        },
+        {
+          "id": "B101GD",
+          "text": "B.101 Changes in net worth due to saving and capital transfers"
+        },
+        {
+          "id": "P51GD",
+          "text": "P.51G Gross fixed capital formation"
+        },
+        {
+          "id": "P51C5D",
+          "text": "P.51c Consumption of fixed capital"
+        },
+        {
+          "id": "P52_53D",
+          "text": "P.52+P.53 Changes in inventories etc."
+        },
+        {
+          "id": "NPD",
+          "text": "NP Acquisitions less disposals of non-produced non-financial assets"
+        },
+        {
+          "id": "B9D",
+          "text": "B.9 Net lending (+)/net borrowing (-)"
+        }
+      ]
+    },
+    {
+      "id": "SEKTOR",
+      "text": "sector",
+      "elimination": false,
+      "time": false,
+      "values": [
+        {
+          "id": "S1",
+          "text": "S.1 Total economy"
+        },
+        {
+          "id": "S13",
+          "text": "S.13 General government"
+        },
+        {
+          "id": "S1W",
+          "text": "S.11+S.12+S.14+S.15 Total economy, except General Government"
+        },
+        {
+          "id": "S2",
+          "text": "S.2 Rest of the world"
+        }
+      ]
+    },
+    {
+      "id": "Tid",
+      "text": "time",
+      "elimination": false,
+      "time": true,
+      "values": [
+        {
+          "id": "1971",
+          "text": "1971"
+        },
+        {
+          "id": "1972",
+          "text": "1972"
+        },
+        {
+          "id": "1973",
+          "text": "1973"
+        },
+        {
+          "id": "1974",
+          "text": "1974"
+        },
+        {
+          "id": "1975",
+          "text": "1975"
+        },
+        {
+          "id": "1976",
+          "text": "1976"
+        },
+        {
+          "id": "1977",
+          "text": "1977"
+        },
+        {
+          "id": "1978",
+          "text": "1978"
+        },
+        {
+          "id": "1979",
+          "text": "1979"
+        },
+        {
+          "id": "1980",
+          "text": "1980"
+        },
+        {
+          "id": "1981",
+          "text": "1981"
+        },
+        {
+          "id": "1982",
+          "text": "1982"
+        },
+        {
+          "id": "1983",
+          "text": "1983"
+        },
+        {
+          "id": "1984",
+          "text": "1984"
+        },
+        {
+          "id": "1985",
+          "text": "1985"
+        },
+        {
+          "id": "1986",
+          "text": "1986"
+        },
+        {
+          "id": "1987",
+          "text": "1987"
+        },
+        {
+          "id": "1988",
+          "text": "1988"
+        },
+        {
+          "id": "1989",
+          "text": "1989"
+        },
+        {
+          "id": "1990",
+          "text": "1990"
+        },
+        {
+          "id": "1991",
+          "text": "1991"
+        },
+        {
+          "id": "1992",
+          "text": "1992"
+        },
+        {
+          "id": "1993",
+          "text": "1993"
+        },
+        {
+          "id": "1994",
+          "text": "1994"
+        },
+        {
+          "id": "1995",
+          "text": "1995"
+        },
+        {
+          "id": "1996",
+          "text": "1996"
+        },
+        {
+          "id": "1997",
+          "text": "1997"
+        },
+        {
+          "id": "1998",
+          "text": "1998"
+        },
+        {
+          "id": "1999",
+          "text": "1999"
+        },
+        {
+          "id": "2000",
+          "text": "2000"
+        },
+        {
+          "id": "2001",
+          "text": "2001"
+        },
+        {
+          "id": "2002",
+          "text": "2002"
+        },
+        {
+          "id": "2003",
+          "text": "2003"
+        },
+        {
+          "id": "2004",
+          "text": "2004"
+        },
+        {
+          "id": "2005",
+          "text": "2005"
+        },
+        {
+          "id": "2006",
+          "text": "2006"
+        },
+        {
+          "id": "2007",
+          "text": "2007"
+        },
+        {
+          "id": "2008",
+          "text": "2008"
+        },
+        {
+          "id": "2009",
+          "text": "2009"
+        },
+        {
+          "id": "2010",
+          "text": "2010"
+        },
+        {
+          "id": "2011",
+          "text": "2011"
+        },
+        {
+          "id": "2012",
+          "text": "2012"
+        },
+        {
+          "id": "2013",
+          "text": "2013"
+        },
+        {
+          "id": "2014",
+          "text": "2014"
+        },
+        {
+          "id": "2015",
+          "text": "2015"
+        },
+        {
+          "id": "2016",
+          "text": "2016"
+        },
+        {
+          "id": "2017",
+          "text": "2017"
+        },
+        {
+          "id": "2018",
+          "text": "2018"
+        },
+        {
+          "id": "2019",
+          "text": "2019"
+        },
+        {
+          "id": "2020",
+          "text": "2020"
+        },
+        {
+          "id": "2021",
+          "text": "2021"
+        },
+        {
+          "id": "2022",
+          "text": "2022"
+        },
+        {
+          "id": "2023",
+          "text": "2023"
+        },
+        {
+          "id": "2024",
+          "text": "2024"
+        },
+        {
+          "id": "2025",
+          "text": "2025"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "edition": 72,
+  "status": "passed",
+  "checks": 25,
+  "passed_checks": [
+    "Reference semantics explicit, not an unknown legal rule silently inferred",
+    "Authored quantities fill no actual authority, treaty status, risk, receipt, capacity, adoption or outcome",
+    "Stipulated compensatory amount, paid credit and excluded increment remain distinct",
+    "Two proposed executions cannot recover ninety-five against the same seventy balance",
+    "Same-harm compensation reconciles across jurisdictions",
+    "Distinct stipulated harm is not averaged away or credited by another claim payment",
+    "Asset mirror has a stipulated canonical identity, no automated ownership matching",
+    "One canonical estate is not increased by another foreign inventory",
+    "Stipulated ordinary allocations fit finite assets after costs",
+    "Creditor loss stays visible, not new public output or a guarantee",
+    "Office relabeling would exceed the stated single-extension illustration",
+    "Day31 lies beyond the stipulated day30 condition; no real custody decision is simulated",
+    "Distinct translation/court workloads expose separate shortages before omissions",
+    "Gross hour and payment illustrations do not fill safe shifts or actual receipts",
+    "Unknown numerical input cannot silently become zero",
+    "Twelve civil and four criminal-cooperation clauses have unique canonical definitions",
+    "Twenty-four authored journeys indexed, not claimed executed legal tests",
+    "All 350 predecessor artifacts preserved byte-for-byte",
+    "Existing functions/selections extended without declaring a complete denominator",
+    "New cooperation supplies no actual cost/remedy or silently qualified old bid",
+    "Current inventory dependency identity checked with fresh scope",
+    "Earlier dated support remains unchanged without re-greening old validators",
+    "Current consumers/primary-context scope pinned without claiming treaty adoption",
+    "Thirteen short current additions with one C08 owner and C10 receiving topic",
+    "Current publication remains English, bounded and whitespace clean"
+  ],
+  "derived_illustrations": {
+    "stipulated_compensatory_amount": 110.0,
+    "same_harm_balance": 70.0,
+    "capped_proposed_collections": [
+      45.0,
+      25.0
+    ],
+    "canonical_assets": 100.0,
+    "estate_net": 90.0,
+    "ordinary_payouts": [
+      {
+        "id": "C1",
+        "proposed_recovery": 52.5
+      },
+      {
+        "id": "C2",
+        "proposed_recovery": 37.5
+      }
+    ],
+    "creditor_loss": 30.0,
+    "interim_outer_hours": 144.0,
+    "translation_hours": 72.0,
+    "court_hours": 28.0,
+    "translation_gap": 12.0,
+    "court_gap": 4.0
+  },
+  "scope": "Stipulated arithmetic, source/consumer identity, unique definitions and preservation only; not jurisdiction, risk, guilt, legal recognition, actual foreign consent, safe delivery or superior-country proof",
+  "independence": "Same AI author/controller; no actual affected participation or qualified independent legal review"
+}

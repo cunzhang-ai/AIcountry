@@ -1,0 +1,105 @@
+{
+  "edition": 125,
+  "inspected_on": "2026-11-02",
+  "scope": "Selected primary scope and actual local baseline/prototypes inspected; all numeric countrycase assumptions authored, not empirical cost/roster/classification/source or actual participant observations. Prior scoped support reused only for identified component meanings; old final reviews do not transfer. No exhaustive current-event/clinical/engineering/legal/treaty survey or actual-country evaluation.",
+  "external_sources": [
+    {
+      "url": "https://www.imf.org/en/topics/fiscal-policies/fiscal-transparency",
+      "status": "HTML opened/read",
+      "family": "IMF fiscal-transparency overview",
+      "inspected_scope": "Reporting, forecasting/budgeting, risk and resource-revenue pillars; financial-position and public-accountability scope. Not fullCode2019text or compliance assessment.",
+      "support": "Separate reporting/allocation/stock/source/risk views; no support for project quantities, prices, democracy superiority or readiness."
+    },
+    {
+      "url": "https://www.imf.org/external/np/fad/trans/Code2019.pdf",
+      "status": "403 access failure; not full text read",
+      "family": "Same IMF family",
+      "support": "No clause/compliance inference from search snippet."
+    },
+    {
+      "url": "https://www.elibrary.imf.org/view/journals/007/2019/004/article-A001-en.xml",
+      "status": "403 access failure; not full text read",
+      "family": "Same IMF family",
+      "support": "No full text or independent evidence claim."
+    }
+  ],
+  "local_scoped_sources": [
+    {
+      "path": "2026-11-matched-country-comparison/public-results.json",
+      "sha256": "edab2a5fdf4d34f8df599746fcd441fce4420d2c353ed746bf1b5a4bf06ade56",
+      "status": "Scoped local design hypothesis/source, not original project observation or independent affected participation"
+    },
+    {
+      "path": "2026-11-matched-country-comparison/public.py",
+      "sha256": "6fff8cc16adec84ea99d6bdeefebbcbaa3d1933c47c85bcdef85e6267e2b56b0",
+      "status": "Scoped local design hypothesis/source, not original project observation or independent affected participation"
+    },
+    {
+      "path": "2026-11-life-needs-and-paid-capacity/results.json",
+      "sha256": "ecfee2136e7afcdb8db9de68da008b7b683262535258de60948082e3a1ac9004",
+      "status": "Scoped local design hypothesis/source, not original project observation or independent affected participation"
+    },
+    {
+      "path": "2026-11-life-needs-and-paid-capacity/inputs.json",
+      "sha256": "2a0d3a1e24a9b373546ca1724278fc02edecf78474b2fee329dda737e0297c95",
+      "status": "Scoped local design hypothesis/source, not original project observation or independent affected participation"
+    },
+    {
+      "path": "2026-11-ordinary-life-and-household-production/results.json",
+      "sha256": "6d4724dc69b2d4275eaa863fedbcb75cd16cec98a605fbe9c815cb5f2c7708c5",
+      "status": "Scoped local design hypothesis/source, not original project observation or independent affected participation"
+    },
+    {
+      "path": "2026-11-country-operation-and-handover/operating-register.json",
+      "sha256": "eba787d9bd2ff7d97e3f88777ad662fff56744a1f7f25680f01eacb38639defd",
+      "status": "Scoped local design hypothesis/source, not original project observation or independent affected participation"
+    },
+    {
+      "path": "2026-11-country-operation-and-handover/later-duty-register.json",
+      "sha256": "5dc0b04ddedd393622359559f0419bff8b9634cfad2b57ce624d6f23a3072651",
+      "status": "Scoped local design hypothesis/source, not original project observation or independent affected participation"
+    },
+    {
+      "path": "country/C03/13-equal-franchise-and-usable-elections.md",
+      "sha256": "10debfd64f07f84b4d611935507d25d6c0845a3fff6333801ce1842fff889832",
+      "status": "Scoped local design hypothesis/source, not original project observation or independent affected participation"
+    },
+    {
+      "path": "country/C03/12-continuous-political-finance.md",
+      "sha256": "a1ea29a0a7eac4f9361bde26f1d9db7b906205da6432f3b8e0bb19e2e9357c79",
+      "status": "Scoped local design hypothesis/source, not original project observation or independent affected participation"
+    },
+    {
+      "path": "country/C03/10-democratic-entry-and-campaign-resources.md",
+      "sha256": "3956b098fb6064089cdc4e51fe42c8c6ef430eaff77fc2a100c357b82f9ff563",
+      "status": "Scoped local design hypothesis/source, not original project observation or independent affected participation"
+    },
+    {
+      "path": "country/C08/25-ordinary-justice-and-public-prosecution.md",
+      "sha256": "171052dd6e76a9ea31c69d80fd3b9366365ebe41f2bb7846e6e51481d4db9b21",
+      "status": "Scoped local design hypothesis/source, not original project observation or independent affected participation"
+    },
+    {
+      "path": "country/C04/04-public-audit-and-accountable-oversight.md",
+      "sha256": "5a3835ae056934d5bc8afd914303ac35d3226f22fa9380ecdb0ae3995aafd642",
+      "status": "Scoped local design hypothesis/source, not original project observation or independent affected participation"
+    },
+    {
+      "path": "country/C05/12-work-contracts-and-collective-power.md",
+      "sha256": "06420b14ae7cf5707bcf7374e4070438d8d0bad9b8c56904a2d14e2858355c0d",
+      "status": "Scoped local design hypothesis/source, not original project observation or independent affected participation"
+    },
+    {
+      "path": "country/C05/13-enterprise-and-association-constitutions.md",
+      "sha256": "7d0d1ef363646a255e36486287abad2c76aa006e0c96a77a224b7e9d0ddf3681",
+      "status": "Scoped local design hypothesis/source, not original project observation or independent affected participation"
+    },
+    {
+      "path": "country/C07/18-person-directed-assistance.md",
+      "sha256": "e30260ff8e5a12f249c3ecc89eeb747d338b1cf47a36600a7e38325de9bbb400",
+      "status": "Scoped local design hypothesis/source, not original project observation or independent affected participation"
+    }
+  ],
+  "actual_project_participation_or_independence": null,
+  "actual_current_price_source_roster_or_authority": null
+}

@@ -1,0 +1,1749 @@
+{
+  "edition": 123,
+  "scope": "Authored100000-person planning case, all numerical service/demand/price/pay/stock/uptake/ownership/referral parameters are hypotheses, not actual local observations or safe clinical/care standards. Old55k wage/source forecast not revived. Dates, true institutions, original law and qualified actual needs retain their sources.",
+  "five_day_annual_task_hours": "1110.60",
+  "four_day_annual_task_hours": "1130.40",
+  "health": {
+    "rows": [
+      {
+        "id": "population_prevention",
+        "function": "L01",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "33333.3333333333300000",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 31,
+        "pay_CU": "1860000",
+        "contract_eligible": true
+      },
+      {
+        "id": "prevention_samples",
+        "function": "L01",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "3333.3333333333330000",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 4,
+        "pay_CU": "120000",
+        "contract_eligible": true
+      },
+      {
+        "id": "primary_GP",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "59999.999999999995500000",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 55,
+        "pay_CU": "3300000",
+        "contract_eligible": true
+      },
+      {
+        "id": "primary_nurse",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "59999.999999999995500000",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 55,
+        "pay_CU": "3300000",
+        "contract_eligible": true
+      },
+      {
+        "id": "primary_clerk",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "30000.0",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 28,
+        "pay_CU": "840000",
+        "contract_eligible": true
+      },
+      {
+        "id": "mental_increment",
+        "function": "L02",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "12500.0000000000010000",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 12,
+        "pay_CU": "720000",
+        "contract_eligible": true
+      },
+      {
+        "id": "reproductive_increment",
+        "function": "L09",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "6666.6666666666660000",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 7,
+        "pay_CU": "420000",
+        "contract_eligible": true
+      },
+      {
+        "id": "psychotherapy",
+        "function": "L02",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "48000",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 44,
+        "pay_CU": "2640000",
+        "contract_eligible": true
+      },
+      {
+        "id": "substance_clinical",
+        "function": "L02",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "18000.00",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 17,
+        "pay_CU": "1020000",
+        "contract_eligible": true
+      },
+      {
+        "id": "substance_peer",
+        "function": "L02",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "12000",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 11,
+        "pay_CU": "330000",
+        "contract_eligible": true
+      },
+      {
+        "id": "psychiatry",
+        "function": "L02",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "9000.0",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 9,
+        "pay_CU": "540000",
+        "contract_eligible": true
+      },
+      {
+        "id": "dentist",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "25000.0",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 23,
+        "pay_CU": "1380000",
+        "contract_eligible": true
+      },
+      {
+        "id": "dental_assistant",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "25000.0",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 23,
+        "pay_CU": "690000",
+        "contract_eligible": true
+      },
+      {
+        "id": "vision",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "12500.0",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 12,
+        "pay_CU": "720000",
+        "contract_eligible": true
+      },
+      {
+        "id": "hearing",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "7500.00",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 7,
+        "pay_CU": "420000",
+        "contract_eligible": true
+      },
+      {
+        "id": "rehabilitation",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "27000.00",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 25,
+        "pay_CU": "1500000",
+        "contract_eligible": true
+      },
+      {
+        "id": "pharmacy_technician",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "120000.0",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 109,
+        "pay_CU": "3270000",
+        "contract_eligible": true
+      },
+      {
+        "id": "pharmacist",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "39999.99999999999600000",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 37,
+        "pay_CU": "2220000",
+        "contract_eligible": true
+      },
+      {
+        "id": "clinical_lab",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "33333.33333333333200000",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 31,
+        "pay_CU": "1860000",
+        "contract_eligible": true
+      },
+      {
+        "id": "imaging",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "10000.0",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 10,
+        "pay_CU": "600000",
+        "contract_eligible": true
+      },
+      {
+        "id": "imaging_report",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "3000.00",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 3,
+        "pay_CU": "180000",
+        "contract_eligible": true
+      },
+      {
+        "id": "planned_surgery",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "12500.00",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 12,
+        "pay_CU": "720000",
+        "contract_eligible": true
+      },
+      {
+        "id": "planned_anaesthesia",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "12500.00",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 12,
+        "pay_CU": "720000",
+        "contract_eligible": true
+      },
+      {
+        "id": "planned_theatre_nurse",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "37500.00",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 34,
+        "pay_CU": "2040000",
+        "contract_eligible": true
+      },
+      {
+        "id": "abortion_nursing",
+        "function": "L09",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "1200",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 2,
+        "pay_CU": "120000",
+        "contract_eligible": true
+      },
+      {
+        "id": "fertility_clinical",
+        "function": "L09",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "1600",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 2,
+        "pay_CU": "120000",
+        "contract_eligible": true
+      },
+      {
+        "id": "fertility_cycles",
+        "function": "L09",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "2000",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 2,
+        "pay_CU": "120000",
+        "contract_eligible": true
+      },
+      {
+        "id": "embryology",
+        "function": "L09",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "1000",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 1,
+        "pay_CU": "60000",
+        "contract_eligible": true
+      },
+      {
+        "id": "abortion_specialist",
+        "function": "L09",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "200.0",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 1,
+        "pay_CU": "60000",
+        "contract_eligible": true
+      },
+      {
+        "id": "home_palliative",
+        "function": "L08",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "15000.0",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 14,
+        "pay_CU": "840000",
+        "contract_eligible": true
+      },
+      {
+        "id": "palliative_doctor",
+        "function": "L08",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "2000",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 2,
+        "pay_CU": "120000",
+        "contract_eligible": true
+      },
+      {
+        "id": "UA_opinions",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "3200",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 3,
+        "pay_CU": "180000",
+        "contract_eligible": true
+      },
+      {
+        "id": "UA_daily_review",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "9124.99999999999963500",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 9,
+        "pay_CU": "540000",
+        "contract_eligible": true
+      },
+      {
+        "id": "ward_nurse",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "160600",
+        "annual_task_hours_per_post": "1130.40",
+        "posts": 143,
+        "pay_CU": "8580000",
+        "contract_eligible": true
+      },
+      {
+        "id": "ward_physician",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "29200",
+        "annual_task_hours_per_post": "1130.40",
+        "posts": 26,
+        "pay_CU": "1560000",
+        "contract_eligible": true
+      },
+      {
+        "id": "ICU_nurse",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "70080",
+        "annual_task_hours_per_post": "1130.40",
+        "posts": 62,
+        "pay_CU": "3720000",
+        "contract_eligible": true
+      },
+      {
+        "id": "intensivist",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "8760",
+        "annual_task_hours_per_post": "1130.40",
+        "posts": 8,
+        "pay_CU": "480000",
+        "contract_eligible": true
+      },
+      {
+        "id": "ED_doctor",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "26280",
+        "annual_task_hours_per_post": "1130.40",
+        "posts": 24,
+        "pay_CU": "1440000",
+        "contract_eligible": true
+      },
+      {
+        "id": "ED_nurse",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "43800",
+        "annual_task_hours_per_post": "1130.40",
+        "posts": 39,
+        "pay_CU": "2340000",
+        "contract_eligible": true
+      },
+      {
+        "id": "emergency_surgeon",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "8760",
+        "annual_task_hours_per_post": "1130.40",
+        "posts": 8,
+        "pay_CU": "480000",
+        "contract_eligible": true
+      },
+      {
+        "id": "emergency_anaesthesia",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "8760",
+        "annual_task_hours_per_post": "1130.40",
+        "posts": 8,
+        "pay_CU": "480000",
+        "contract_eligible": true
+      },
+      {
+        "id": "emergency_OR_nurse",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "17520",
+        "annual_task_hours_per_post": "1130.40",
+        "posts": 16,
+        "pay_CU": "960000",
+        "contract_eligible": true
+      },
+      {
+        "id": "mobile_crisis_nurse",
+        "function": "L02",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "17520",
+        "annual_task_hours_per_post": "1130.40",
+        "posts": 16,
+        "pay_CU": "960000",
+        "contract_eligible": true
+      },
+      {
+        "id": "mobile_crisis_peer",
+        "function": "L02",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "17520",
+        "annual_task_hours_per_post": "1130.40",
+        "posts": 16,
+        "pay_CU": "480000",
+        "contract_eligible": true
+      },
+      {
+        "id": "crisis_dispatch",
+        "function": "L02",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "8760",
+        "annual_task_hours_per_post": "1130.40",
+        "posts": 8,
+        "pay_CU": "240000",
+        "contract_eligible": true
+      },
+      {
+        "id": "voluntary_bed_nurse",
+        "function": "L02",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "17520",
+        "annual_task_hours_per_post": "1130.40",
+        "posts": 16,
+        "pay_CU": "960000",
+        "contract_eligible": true
+      },
+      {
+        "id": "voluntary_bed_carer",
+        "function": "L02",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "8760",
+        "annual_task_hours_per_post": "1130.40",
+        "posts": 8,
+        "pay_CU": "240000",
+        "contract_eligible": true
+      },
+      {
+        "id": "palliative_bed_nurse",
+        "function": "L08",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "8760",
+        "annual_task_hours_per_post": "1130.40",
+        "posts": 8,
+        "pay_CU": "480000",
+        "contract_eligible": true
+      },
+      {
+        "id": "palliative_bed_carer",
+        "function": "L08",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "17520",
+        "annual_task_hours_per_post": "1130.40",
+        "posts": 16,
+        "pay_CU": "480000",
+        "contract_eligible": true
+      },
+      {
+        "id": "obstetric_coverage",
+        "function": "L09",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "8760",
+        "annual_task_hours_per_post": "1130.40",
+        "posts": 8,
+        "pay_CU": "480000",
+        "contract_eligible": true
+      },
+      {
+        "id": "paediatric_coverage",
+        "function": "L09",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "8760",
+        "annual_task_hours_per_post": "1130.40",
+        "posts": 8,
+        "pay_CU": "480000",
+        "contract_eligible": true
+      },
+      {
+        "id": "maternity_midwives",
+        "function": "L09",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "26280",
+        "annual_task_hours_per_post": "1130.40",
+        "posts": 24,
+        "pay_CU": "1440000",
+        "contract_eligible": true
+      },
+      {
+        "id": "health_cleaning",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "58400",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 53,
+        "pay_CU": "1590000",
+        "contract_eligible": true
+      },
+      {
+        "id": "health_catering",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "33333.33333333333000000",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 31,
+        "pay_CU": "930000",
+        "contract_eligible": true
+      },
+      {
+        "id": "health_navigation",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "10000.0",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 10,
+        "pay_CU": "600000",
+        "contract_eligible": true
+      },
+      {
+        "id": "clinical_HC",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "8000",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 8,
+        "pay_CU": "480000",
+        "contract_eligible": true
+      },
+      {
+        "id": "clinical_HC_independent",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "1000",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 1,
+        "pay_CU": "60000",
+        "contract_eligible": false
+      },
+      {
+        "id": "crisis_nonclinical_intake",
+        "function": "L02",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "4000",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 4,
+        "pay_CU": "240000",
+        "contract_eligible": false
+      },
+      {
+        "id": "independent_crisis_advocacy",
+        "function": "L02",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "3000",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 3,
+        "pay_CU": "180000",
+        "contract_eligible": false
+      },
+      {
+        "id": "interpersonal_safety_casework",
+        "function": "L03",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "6000",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 6,
+        "pay_CU": "360000",
+        "contract_eligible": false
+      },
+      {
+        "id": "confidential_communication",
+        "function": "L03",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "2000.0",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 2,
+        "pay_CU": "60000",
+        "contract_eligible": false
+      },
+      {
+        "id": "bodily_reproductive_navigation",
+        "function": "L09",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "2000",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 2,
+        "pay_CU": "120000",
+        "contract_eligible": false
+      },
+      {
+        "id": "death_bodycare",
+        "function": "L08",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "4000",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 4,
+        "pay_CU": "120000",
+        "contract_eligible": false
+      },
+      {
+        "id": "death_family_navigation",
+        "function": "L08",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "2000",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 2,
+        "pay_CU": "120000",
+        "contract_eligible": false
+      }
+    ],
+    "staff_posts": 1235,
+    "pay_CU": "64710000",
+    "named_operating_inputs_CU": "42500000",
+    "named_upkeep_CU": "1700000",
+    "reference_renewal_funding_CU": "7425000",
+    "gross_all_new_asset_quote_CU": "120000000",
+    "direct_public_named_recurring_allocation_CU": "116335000",
+    "mixed_named_supplier_margin_CU": "2761800.0000",
+    "mixed_named_recurring_allocation_CU": "119096800.0000",
+    "actual_sources_or_full_current_requirement": null
+  },
+  "health_only_if_actual_8000_practice_hours_match_paid_learning": {
+    "rows": [
+      {
+        "id": "population_prevention",
+        "function": "L01",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "33333.3333333333300000",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 31,
+        "pay_CU": "1860000",
+        "contract_eligible": true
+      },
+      {
+        "id": "prevention_samples",
+        "function": "L01",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "3333.3333333333330000",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 4,
+        "pay_CU": "120000",
+        "contract_eligible": true
+      },
+      {
+        "id": "primary_GP",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "59999.999999999995500000",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 55,
+        "pay_CU": "3300000",
+        "contract_eligible": true
+      },
+      {
+        "id": "primary_nurse",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "59999.999999999995500000",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 55,
+        "pay_CU": "3300000",
+        "contract_eligible": true
+      },
+      {
+        "id": "primary_clerk",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "30000.0",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 28,
+        "pay_CU": "840000",
+        "contract_eligible": true
+      },
+      {
+        "id": "mental_increment",
+        "function": "L02",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "12500.0000000000010000",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 12,
+        "pay_CU": "720000",
+        "contract_eligible": true
+      },
+      {
+        "id": "reproductive_increment",
+        "function": "L09",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "6666.6666666666660000",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 7,
+        "pay_CU": "420000",
+        "contract_eligible": true
+      },
+      {
+        "id": "psychotherapy",
+        "function": "L02",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "48000",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 44,
+        "pay_CU": "2640000",
+        "contract_eligible": true
+      },
+      {
+        "id": "substance_clinical",
+        "function": "L02",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "18000.00",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 17,
+        "pay_CU": "1020000",
+        "contract_eligible": true
+      },
+      {
+        "id": "substance_peer",
+        "function": "L02",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "12000",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 11,
+        "pay_CU": "330000",
+        "contract_eligible": true
+      },
+      {
+        "id": "psychiatry",
+        "function": "L02",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "9000.0",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 9,
+        "pay_CU": "540000",
+        "contract_eligible": true
+      },
+      {
+        "id": "dentist",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "25000.0",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 23,
+        "pay_CU": "1380000",
+        "contract_eligible": true
+      },
+      {
+        "id": "dental_assistant",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "25000.0",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 23,
+        "pay_CU": "690000",
+        "contract_eligible": true
+      },
+      {
+        "id": "vision",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "12500.0",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 12,
+        "pay_CU": "720000",
+        "contract_eligible": true
+      },
+      {
+        "id": "hearing",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "7500.00",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 7,
+        "pay_CU": "420000",
+        "contract_eligible": true
+      },
+      {
+        "id": "rehabilitation",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "27000.00",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 25,
+        "pay_CU": "1500000",
+        "contract_eligible": true
+      },
+      {
+        "id": "pharmacy_technician",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "120000.0",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 109,
+        "pay_CU": "3270000",
+        "contract_eligible": true
+      },
+      {
+        "id": "pharmacist",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "39999.99999999999600000",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 37,
+        "pay_CU": "2220000",
+        "contract_eligible": true
+      },
+      {
+        "id": "clinical_lab",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "33333.33333333333200000",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 31,
+        "pay_CU": "1860000",
+        "contract_eligible": true
+      },
+      {
+        "id": "imaging",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "10000.0",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 10,
+        "pay_CU": "600000",
+        "contract_eligible": true
+      },
+      {
+        "id": "imaging_report",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "3000.00",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 3,
+        "pay_CU": "180000",
+        "contract_eligible": true
+      },
+      {
+        "id": "planned_surgery",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "12500.00",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 12,
+        "pay_CU": "720000",
+        "contract_eligible": true
+      },
+      {
+        "id": "planned_anaesthesia",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "12500.00",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 12,
+        "pay_CU": "720000",
+        "contract_eligible": true
+      },
+      {
+        "id": "planned_theatre_nurse",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "37500.00",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 34,
+        "pay_CU": "2040000",
+        "contract_eligible": true
+      },
+      {
+        "id": "abortion_nursing",
+        "function": "L09",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "1200",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 2,
+        "pay_CU": "120000",
+        "contract_eligible": true
+      },
+      {
+        "id": "fertility_clinical",
+        "function": "L09",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "1600",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 2,
+        "pay_CU": "120000",
+        "contract_eligible": true
+      },
+      {
+        "id": "fertility_cycles",
+        "function": "L09",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "2000",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 2,
+        "pay_CU": "120000",
+        "contract_eligible": true
+      },
+      {
+        "id": "embryology",
+        "function": "L09",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "1000",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 1,
+        "pay_CU": "60000",
+        "contract_eligible": true
+      },
+      {
+        "id": "abortion_specialist",
+        "function": "L09",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "200.0",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 1,
+        "pay_CU": "60000",
+        "contract_eligible": true
+      },
+      {
+        "id": "home_palliative",
+        "function": "L08",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "15000.0",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 14,
+        "pay_CU": "840000",
+        "contract_eligible": true
+      },
+      {
+        "id": "palliative_doctor",
+        "function": "L08",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "2000",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 2,
+        "pay_CU": "120000",
+        "contract_eligible": true
+      },
+      {
+        "id": "UA_opinions",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "3200",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 3,
+        "pay_CU": "180000",
+        "contract_eligible": true
+      },
+      {
+        "id": "UA_daily_review",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "9124.99999999999963500",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 9,
+        "pay_CU": "540000",
+        "contract_eligible": true
+      },
+      {
+        "id": "ward_nurse",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "160600",
+        "annual_task_hours_per_post": "1130.40",
+        "posts": 143,
+        "pay_CU": "8580000",
+        "contract_eligible": true
+      },
+      {
+        "id": "ward_physician",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "29200",
+        "annual_task_hours_per_post": "1130.40",
+        "posts": 26,
+        "pay_CU": "1560000",
+        "contract_eligible": true
+      },
+      {
+        "id": "ICU_nurse",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "70080",
+        "annual_task_hours_per_post": "1130.40",
+        "posts": 62,
+        "pay_CU": "3720000",
+        "contract_eligible": true
+      },
+      {
+        "id": "intensivist",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "8760",
+        "annual_task_hours_per_post": "1130.40",
+        "posts": 8,
+        "pay_CU": "480000",
+        "contract_eligible": true
+      },
+      {
+        "id": "ED_doctor",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "26280",
+        "annual_task_hours_per_post": "1130.40",
+        "posts": 24,
+        "pay_CU": "1440000",
+        "contract_eligible": true
+      },
+      {
+        "id": "ED_nurse",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "43800",
+        "annual_task_hours_per_post": "1130.40",
+        "posts": 39,
+        "pay_CU": "2340000",
+        "contract_eligible": true
+      },
+      {
+        "id": "emergency_surgeon",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "8760",
+        "annual_task_hours_per_post": "1130.40",
+        "posts": 8,
+        "pay_CU": "480000",
+        "contract_eligible": true
+      },
+      {
+        "id": "emergency_anaesthesia",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "8760",
+        "annual_task_hours_per_post": "1130.40",
+        "posts": 8,
+        "pay_CU": "480000",
+        "contract_eligible": true
+      },
+      {
+        "id": "emergency_OR_nurse",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "17520",
+        "annual_task_hours_per_post": "1130.40",
+        "posts": 16,
+        "pay_CU": "960000",
+        "contract_eligible": true
+      },
+      {
+        "id": "mobile_crisis_nurse",
+        "function": "L02",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "17520",
+        "annual_task_hours_per_post": "1130.40",
+        "posts": 16,
+        "pay_CU": "960000",
+        "contract_eligible": true
+      },
+      {
+        "id": "mobile_crisis_peer",
+        "function": "L02",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "17520",
+        "annual_task_hours_per_post": "1130.40",
+        "posts": 16,
+        "pay_CU": "480000",
+        "contract_eligible": true
+      },
+      {
+        "id": "crisis_dispatch",
+        "function": "L02",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "8760",
+        "annual_task_hours_per_post": "1130.40",
+        "posts": 8,
+        "pay_CU": "240000",
+        "contract_eligible": true
+      },
+      {
+        "id": "voluntary_bed_nurse",
+        "function": "L02",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "17520",
+        "annual_task_hours_per_post": "1130.40",
+        "posts": 16,
+        "pay_CU": "960000",
+        "contract_eligible": true
+      },
+      {
+        "id": "voluntary_bed_carer",
+        "function": "L02",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "8760",
+        "annual_task_hours_per_post": "1130.40",
+        "posts": 8,
+        "pay_CU": "240000",
+        "contract_eligible": true
+      },
+      {
+        "id": "palliative_bed_nurse",
+        "function": "L08",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "8760",
+        "annual_task_hours_per_post": "1130.40",
+        "posts": 8,
+        "pay_CU": "480000",
+        "contract_eligible": true
+      },
+      {
+        "id": "palliative_bed_carer",
+        "function": "L08",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "17520",
+        "annual_task_hours_per_post": "1130.40",
+        "posts": 16,
+        "pay_CU": "480000",
+        "contract_eligible": true
+      },
+      {
+        "id": "obstetric_coverage",
+        "function": "L09",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "8760",
+        "annual_task_hours_per_post": "1130.40",
+        "posts": 8,
+        "pay_CU": "480000",
+        "contract_eligible": true
+      },
+      {
+        "id": "paediatric_coverage",
+        "function": "L09",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "8760",
+        "annual_task_hours_per_post": "1130.40",
+        "posts": 8,
+        "pay_CU": "480000",
+        "contract_eligible": true
+      },
+      {
+        "id": "maternity_midwives",
+        "function": "L09",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "26280",
+        "annual_task_hours_per_post": "1130.40",
+        "posts": 24,
+        "pay_CU": "1440000",
+        "contract_eligible": true
+      },
+      {
+        "id": "health_cleaning",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "58400",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 53,
+        "pay_CU": "1590000",
+        "contract_eligible": true
+      },
+      {
+        "id": "health_catering",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "33333.33333333333000000",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 31,
+        "pay_CU": "930000",
+        "contract_eligible": true
+      },
+      {
+        "id": "health_navigation",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "10000.0",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 10,
+        "pay_CU": "600000",
+        "contract_eligible": true
+      },
+      {
+        "id": "clinical_HC",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "0",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 0,
+        "pay_CU": "0",
+        "contract_eligible": true
+      },
+      {
+        "id": "clinical_HC_independent",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "1000",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 1,
+        "pay_CU": "60000",
+        "contract_eligible": false
+      },
+      {
+        "id": "crisis_nonclinical_intake",
+        "function": "L02",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "4000",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 4,
+        "pay_CU": "240000",
+        "contract_eligible": false
+      },
+      {
+        "id": "independent_crisis_advocacy",
+        "function": "L02",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "3000",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 3,
+        "pay_CU": "180000",
+        "contract_eligible": false
+      },
+      {
+        "id": "interpersonal_safety_casework",
+        "function": "L03",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "6000",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 6,
+        "pay_CU": "360000",
+        "contract_eligible": false
+      },
+      {
+        "id": "confidential_communication",
+        "function": "L03",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "2000.0",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 2,
+        "pay_CU": "60000",
+        "contract_eligible": false
+      },
+      {
+        "id": "bodily_reproductive_navigation",
+        "function": "L09",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "2000",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 2,
+        "pay_CU": "120000",
+        "contract_eligible": false
+      },
+      {
+        "id": "death_bodycare",
+        "function": "L08",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "4000",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 4,
+        "pay_CU": "120000",
+        "contract_eligible": false
+      },
+      {
+        "id": "death_family_navigation",
+        "function": "L08",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "2000",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 2,
+        "pay_CU": "120000",
+        "contract_eligible": false
+      }
+    ],
+    "staff_posts": 1227,
+    "pay_CU": "64230000",
+    "named_operating_inputs_CU": "42500000",
+    "named_upkeep_CU": "1700000",
+    "reference_renewal_funding_CU": "7425000",
+    "gross_all_new_asset_quote_CU": "120000000",
+    "direct_public_named_recurring_allocation_CU": "115855000",
+    "mixed_named_supplier_margin_CU": "2750280.0000",
+    "mixed_named_recurring_allocation_CU": "118605280.0000",
+    "actual_sources_or_full_current_requirement": null
+  },
+  "care_pooled_annual_bound": {
+    "rows": [
+      {
+        "id": "under3",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "2150400.00",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 1937,
+        "pay_CU": "58110000",
+        "contract_eligible": true
+      },
+      {
+        "id": "preschool_carer",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "856800.00",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 772,
+        "pay_CU": "23160000",
+        "contract_eligible": true
+      },
+      {
+        "id": "school_wrap",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "336000.00",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 303,
+        "pay_CU": "9090000",
+        "contract_eligible": true
+      },
+      {
+        "id": "beyond48weeks",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "63436.80",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 58,
+        "pay_CU": "1740000",
+        "contract_eligible": true
+      },
+      {
+        "id": "child_individual_support",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "161280.00",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 146,
+        "pay_CU": "4380000",
+        "contract_eligible": true
+      },
+      {
+        "id": "child_nights",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "130816.00",
+        "annual_task_hours_per_post": "1130.40",
+        "posts": 116,
+        "pay_CU": "3480000",
+        "contract_eligible": true
+      },
+      {
+        "id": "adult_noncontinuous",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "2900352.00",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 2612,
+        "pay_CU": "78360000",
+        "contract_eligible": true
+      },
+      {
+        "id": "adult_continuous",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "981120.00",
+        "annual_task_hours_per_post": "1130.40",
+        "posts": 868,
+        "pay_CU": "26040000",
+        "contract_eligible": true
+      },
+      {
+        "id": "adult_second_worker",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "49056.00",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 45,
+        "pay_CU": "1350000",
+        "contract_eligible": true
+      },
+      {
+        "id": "adult_awake_nights",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "186368.00",
+        "annual_task_hours_per_post": "1130.40",
+        "posts": 165,
+        "pay_CU": "4950000",
+        "contract_eligible": true
+      },
+      {
+        "id": "adult_care_travel",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "310752.000",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 280,
+        "pay_CU": "8400000",
+        "contract_eligible": true
+      },
+      {
+        "id": "care_assessment",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "30000",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 28,
+        "pay_CU": "1680000",
+        "contract_eligible": true
+      },
+      {
+        "id": "care_HC_independent",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "500",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 1,
+        "pay_CU": "60000",
+        "contract_eligible": false
+      }
+    ],
+    "staff_posts": 7331,
+    "pay_CU": "220800000",
+    "named_operating_inputs_CU": "3100000.0",
+    "named_upkeep_CU": "940000",
+    "reference_renewal_funding_CU": "6358333.333333333333333333333",
+    "gross_all_new_asset_quote_CU": "67000000",
+    "direct_public_named_recurring_allocation_CU": "231198333.3333333333333333333",
+    "mixed_named_supplier_margin_CU": "5547319.999999999999999999999",
+    "mixed_named_recurring_allocation_CU": "236745653.3333333333333333333",
+    "actual_sources_or_full_current_requirement": null
+  },
+  "care_100_separate_fulltime_posts": {
+    "rows": [
+      {
+        "id": "under3",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "2150400.00",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 1937,
+        "pay_CU": "58110000",
+        "contract_eligible": true
+      },
+      {
+        "id": "preschool_carer",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "856800.00",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 772,
+        "pay_CU": "23160000",
+        "contract_eligible": true
+      },
+      {
+        "id": "school_wrap",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "336000.00",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 303,
+        "pay_CU": "9090000",
+        "contract_eligible": true
+      },
+      {
+        "id": "beyond48weeks",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "63436.80",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 58,
+        "pay_CU": "1740000",
+        "contract_eligible": true
+      },
+      {
+        "id": "child_individual_support",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "161280.00",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 146,
+        "pay_CU": "4380000",
+        "contract_eligible": true
+      },
+      {
+        "id": "child_nights",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "130816.00",
+        "annual_task_hours_per_post": "1130.40",
+        "posts": 116,
+        "pay_CU": "3480000",
+        "contract_eligible": true
+      },
+      {
+        "id": "adult_noncontinuous",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "2900352.00",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 2612,
+        "pay_CU": "78360000",
+        "contract_eligible": true
+      },
+      {
+        "id": "adult_continuous",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "981120.00",
+        "annual_task_hours_per_post": "1130.40",
+        "posts": 900,
+        "pay_CU": "27000000",
+        "contract_eligible": true
+      },
+      {
+        "id": "adult_second_worker",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "49056.00",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 45,
+        "pay_CU": "1350000",
+        "contract_eligible": true
+      },
+      {
+        "id": "adult_awake_nights",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "186368.00",
+        "annual_task_hours_per_post": "1130.40",
+        "posts": 165,
+        "pay_CU": "4950000",
+        "contract_eligible": true
+      },
+      {
+        "id": "adult_care_travel",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "310752.000",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 280,
+        "pay_CU": "8400000",
+        "contract_eligible": true
+      },
+      {
+        "id": "care_assessment",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "30000",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 28,
+        "pay_CU": "1680000",
+        "contract_eligible": true
+      },
+      {
+        "id": "care_HC_independent",
+        "function": "L07",
+        "scope": "named staff bound, not a safe roster",
+        "task_hours": "500",
+        "annual_task_hours_per_post": "1110.60",
+        "posts": 1,
+        "pay_CU": "60000",
+        "contract_eligible": false
+      }
+    ],
+    "staff_posts": 7363,
+    "pay_CU": "221760000",
+    "named_operating_inputs_CU": "3100000.0",
+    "named_upkeep_CU": "940000",
+    "reference_renewal_funding_CU": "6358333.333333333333333333333",
+    "gross_all_new_asset_quote_CU": "67000000",
+    "direct_public_named_recurring_allocation_CU": "232158333.3333333333333333333",
+    "mixed_named_supplier_margin_CU": "5570359.999999999999999999999",
+    "mixed_named_recurring_allocation_CU": "237728693.3333333333333333333",
+    "actual_sources_or_full_current_requirement": null
+  },
+  "specialist_route": {
+    "ordinary_and_complex_cases": 220,
+    "treatment_CU": "5400000",
+    "travel_stay_access_CU": "308000",
+    "urgent_transfer_CU": "250000",
+    "reservation_CU": "600000",
+    "coordination_posts": 2,
+    "independent_posts": 1,
+    "named_staff_pay_CU": "180000",
+    "named_route_allocation_CU": "6738000",
+    "actual_acceptance_clinical_safety_foreign_source_and_capacity": null
+  },
+  "named_health_care_route_allocations_CU": {
+    "direct_public_named_recurring_allocation_CU": "355231333.3333333333333333333",
+    "mixed_named_recurring_allocation_CU": "363563493.3333333333333333333"
+  },
+  "personal_promised_only": {
+    "ordinary_cash_need_A": "20.00",
+    "unmet_housing_A": "120",
+    "need_A_before_I05_resource_taper": "140.00",
+    "actual_individual_entitlement_or_payment": null
+  },
+  "personal_actual_housing_receipt": {
+    "ordinary_cash_need_A": "20.00",
+    "unmet_housing_A": "70",
+    "need_A_before_I05_resource_taper": "90.00",
+    "actual_individual_entitlement_or_payment": null
+  },
+  "housing_integer_peak_corrected_quote": {
+    "scope": "Authored469rebuild/1406repair/352moving-repair quarter-start case with previous-year carryover; returns before same-day starts, no outage/slip. Separate from prior averaged40/20year stable-flow hypotheses. No actual tenure/condition/move/source proof.",
+    "rebuild_events": 469,
+    "repair_events": 1406,
+    "moving_repair_events": 352,
+    "temporary_dwellings_by_quarter": [
+      322,
+      322,
+      323,
+      323
+    ],
+    "temporary_peak": 323,
+    "roles": {
+      "craft": {
+        "task_hours": "2531400",
+        "posts": 2280,
+        "pay_CU": "68400000"
+      },
+      "design": {
+        "task_hours": "412480",
+        "posts": 372,
+        "pay_CU": "22320000"
+      },
+      "independent_technical": {
+        "task_hours": "103120",
+        "posts": 93,
+        "pay_CU": "5580000"
+      }
+    },
+    "new_material_tonnes": "40322",
+    "materials_CU": "20161000",
+    "distinct_other_CU": "60950000",
+    "temporary_lease_CU": "2907000",
+    "named_program_CU": "180318000",
+    "actual_public_cost_share_or_roster_or_accepted_repair_life": null
+  },
+  "housing_repair40_retained_scoped_quote": {
+    "rebuild_events_average": 468.75,
+    "repair_events_average": 1406.25,
+    "new_input_tonnes": 40312.5,
+    "task_hours": 3046875.0,
+    "annual_task_hours_per_post": 1110.6000000000001,
+    "annual_post_lower_bound": 2745,
+    "roles": {
+      "craft": {
+        "task_hours": 2531250.0,
+        "annual_post_lower_bound": 2280,
+        "ordinary_payroll_CU": 68400000
+      },
+      "design": {
+        "task_hours": 412500.0,
+        "annual_post_lower_bound": 372,
+        "ordinary_payroll_CU": 22320000
+      },
+      "independent_technical": {
+        "task_hours": 103125.0,
+        "annual_post_lower_bound": 93,
+        "ordinary_payroll_CU": 5580000
+      }
+    },
+    "ordinary_payroll_CU": 96300000,
+    "average_temporary_dwelling_demand": 292.96875,
+    "temporary_dwelling_lower_bound": 293,
+    "new_material_quote_CU": 20156250.0,
+    "distinct_other_quote_CU": 60937500.0,
+    "temporary_stock_lease_quote_CU": 2637000,
+    "named_total_quote_CU": 180030750.0,
+    "actual_safe_repair_acceptance": null,
+    "actual_roster": null,
+    "actual_temporary_stock": null,
+    "qualified_national_saving": false
+  },
+  "housing_repair20_retained_scoped_stress": {
+    "rebuild_events_average": 468.75,
+    "repair_events_average": 2812.5,
+    "new_input_tonnes": 57187.5,
+    "task_hours": 5156250.0,
+    "annual_task_hours_per_post": 1110.6000000000001,
+    "annual_post_lower_bound": 4644,
+    "roles": {
+      "craft": {
+        "task_hours": 4218750.0,
+        "annual_post_lower_bound": 3799,
+        "ordinary_payroll_CU": 113970000
+      },
+      "design": {
+        "task_hours": 750000.0,
+        "annual_post_lower_bound": 676,
+        "ordinary_payroll_CU": 40560000
+      },
+      "independent_technical": {
+        "task_hours": 187500.0,
+        "annual_post_lower_bound": 169,
+        "ordinary_payroll_CU": 10140000
+      }
+    },
+    "ordinary_payroll_CU": 164670000,
+    "average_temporary_dwelling_demand": 351.5625,
+    "temporary_dwelling_lower_bound": 352,
+    "new_material_quote_CU": 28593750.0,
+    "distinct_other_quote_CU": 89062500.0,
+    "temporary_stock_lease_quote_CU": 3168000,
+    "named_total_quote_CU": 285494250.0,
+    "actual_safe_repair_acceptance": null,
+    "actual_roster": null,
+    "actual_temporary_stock": null,
+    "qualified_national_saving": false
+  },
+  "health_care_and_housing_sum_is_national_public_cost": false,
+  "unpriced_current_scope": [
+    "All unpriced122current duties/37 fullcurrent costs, especially AS/WL/OE/OJ/AA source/control/record/standby/risk increments and retained legacy",
+    "Complete household basket/price/index, voluntary occupancy, private earnings, VAT/company-source/supplier inputs/tax timing, S actuarial/lifetime tails and ownedFX",
+    "Rare acuity/neonatal/chronic/dental/medical technology and professional demand/clinical safety/consent, geography/waiting/safe staffing/accepted foreign routes",
+    "Paid retained/reassigned workers, private unpaid time, whole stock actual titles/acquisition/repair overlap, source dates, peak cash and transition"
+  ],
+  "actual_national_year_cost_or_funded_source": null,
+  "actual_qualified_accepted_service": null,
+  "actual_independent_or_affected_authority": null,
+  "actual_better_lives": null
+}

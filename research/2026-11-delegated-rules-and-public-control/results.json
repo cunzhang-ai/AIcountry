@@ -1,0 +1,53 @@
+{
+  "edition": 103,
+  "fixture_only": true,
+  "dates": {
+    "call_in_last_calendar_date": "2032-03-02",
+    "routine_first_possible_making_date": "2032-03-03",
+    "routine_first_possible_effect_date": "2032-03-04",
+    "requested_effect_satisfies_routine_wait": false,
+    "original_receipt_call_in_is_timely": true,
+    "late_office_ack_is_timely_if_wrongly_substituted": false,
+    "mandatory_listing_outer_date": "2032-03-09",
+    "approval_and_making_outer_date": "2032-03-17",
+    "latest_list_followed_by_seven_day_notice": "2032-03-16",
+    "declared_approval_making_fit_31_45_and_order": true,
+    "declared_making_precedes_same_assembly_end": false,
+    "urgent_outer_end_exclusive": "2032-02-04",
+    "renamed_measure_fits_original_urgent_window": false,
+    "wrong_renamed_reset_end_exclusive": "2032-02-09"
+  },
+  "vote": {
+    "required_present_and_yes": 61,
+    "numerical_condition_only": false
+  },
+  "declared_related_costs": {
+    "sum": 11.0,
+    "one_percent": 10.0,
+    "reaches_fiscal_limb": true,
+    "each_fragment_below_limb": true
+  },
+  "elected_hours": {
+    "remaining": 8,
+    "new_need": 15,
+    "gap": 7
+  },
+  "cash": {
+    "remaining": 3,
+    "gap": 1
+  },
+  "owned_fx_gap": 0.3,
+  "legal_shifts": {
+    "remaining": 2,
+    "gap": 1
+  },
+  "unmet_prior_obligations": {
+    "elected_hours": 0,
+    "cash": 0,
+    "legal_shifts": 0
+  },
+  "actual_authority": null,
+  "actual_rule_classification": null,
+  "actual_independent_review": null,
+  "actual_received_remedy": null
+}

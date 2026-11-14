@@ -1,0 +1,249 @@
+{
+  "date": "2026-10-14",
+  "status": "Authored bounded reference allocations and logical failure cases; not national estimates or legal authority",
+  "pinned_sources": {
+    "2026-09-national-settlement/inputs.json": "7cf664218f244b89e09e6f7cc8b89756d757ea548fd42bba7c4b6e124ad5b9a8",
+    "2026-09-national-settlement/model.py": "ed7fff6c20589041653269b7e54070b1bc7c477f2c2331dbd8dcc74f895a5f50",
+    "2026-09-national-settlement/results.json": "a6152b5fdf6e8b86ab369a2fd7aed14ba90807002695b985a92ed2e0f4dcfe65",
+    "2026-10-commitment-reconciliation/model.py": "a57319f4a52e7cceb6e1930edc93a37e7686b8f831b480ccff507562d190e911",
+    "2026-10-commitment-reconciliation/assumptions.json": "4a11aad64132af83372b712478906c8a59b6c15a5d84a57552cd52f0cc8bf90b",
+    "2026-10-commitment-reconciliation/results.json": "d36c16bc180b813deac0f23c056658ac7c99a691889471a00abb1ec536ff2573"
+  },
+  "reference_core_fte": {
+    "health": 200,
+    "education": 0,
+    "care": 100,
+    "housing_networks": 30,
+    "justice_safety_defense": 150,
+    "democracy_administration_science_culture": 100
+  },
+  "six_hour_sample": {
+    "clinical": {
+      "staff": 4,
+      "productive_hours_each": 4,
+      "required_hours": 16
+    },
+    "paid_care": {
+      "staff": 18,
+      "productive_hours_each": 6,
+      "required_hours": 120
+    },
+    "judicial": {
+      "staff": 2,
+      "productive_hours_each": 4,
+      "required_hours": 9
+    },
+    "separate_counsel": {
+      "staff": 4,
+      "productive_hours_each": 4,
+      "required_hours": 20
+    },
+    "court_clerical": {
+      "staff": 4,
+      "productive_hours_each": 4,
+      "required_hours": 16
+    },
+    "lawful_execution": {
+      "staff": 3,
+      "productive_hours_each": 4,
+      "required_hours": 12
+    },
+    "benefit_processing": {
+      "staff": 6,
+      "productive_hours_each": 4,
+      "required_hours": 24
+    },
+    "contest_processing": {
+      "staff": 2,
+      "productive_hours_each": 4,
+      "required_hours": 8
+    }
+  },
+  "clock_cases": [
+    {
+      "duty": "New hardship protection",
+      "statutory_outer_hours": 24,
+      "latest_useful_hours": 8,
+      "completed_hours": 18
+    },
+    {
+      "duty": "Urgent clinical receiving",
+      "statutory_outer_hours": 2,
+      "latest_useful_hours": 1,
+      "completed_hours": 2
+    },
+    {
+      "duty": "Interrupted essential paid care",
+      "statutory_outer_hours": 6,
+      "latest_useful_hours": 3,
+      "completed_hours": 5
+    },
+    {
+      "duty": "Independent interim consideration",
+      "statutory_outer_hours": 24,
+      "latest_useful_hours": 10,
+      "completed_hours": 20
+    },
+    {
+      "duty": "Qualified contestant baseline access",
+      "statutory_outer_hours": 48,
+      "latest_useful_hours": 36,
+      "completed_hours": 40
+    }
+  ],
+  "failed_nodes": [
+    "R1",
+    "P1"
+  ],
+  "controller_packages": {
+    "shared_clone": {
+      "benefit": [
+        [
+          "R1",
+          "B1",
+          "P1"
+        ],
+        [
+          "R1",
+          "B2",
+          "P1"
+        ]
+      ],
+      "contest": [
+        [
+          "Q1",
+          "R1",
+          "P1"
+        ],
+        [
+          "Q1",
+          "R1",
+          "P1"
+        ]
+      ],
+      "remedy_execution": [
+        [
+          "F1",
+          "J1",
+          "R1",
+          "P1"
+        ],
+        [
+          "F2",
+          "J2",
+          "R1",
+          "P1"
+        ]
+      ]
+    },
+    "distinct_preassigned": {
+      "benefit": [
+        [
+          "R1",
+          "B1",
+          "P1"
+        ],
+        [
+          "R2",
+          "B2",
+          "P2"
+        ]
+      ],
+      "contest": [
+        [
+          "Q1",
+          "R1",
+          "P1"
+        ],
+        [
+          "Q2",
+          "R2",
+          "P2"
+        ]
+      ],
+      "remedy_execution": [
+        [
+          "F1",
+          "J1",
+          "R1",
+          "P1"
+        ],
+        [
+          "F2",
+          "J2",
+          "R2",
+          "P2"
+        ]
+      ]
+    }
+  },
+  "node_roles": {
+    "R1": "Primary source records/key",
+    "R2": "Lawful independently controlled minimal backup",
+    "P1": "Primary payment/execution credential",
+    "P2": "Prior-law alternate payment/execution credential",
+    "B1": "Primary benefits verifier",
+    "B2": "Preassigned substitute verifier",
+    "Q1": "Primary lawful qualification record",
+    "Q2": "Lawful preserved qualification evidence",
+    "F1": "Ordinary court filing",
+    "F2": "Alternate lawful filing",
+    "J1": "Ordinary competent judge",
+    "J2": "Preassigned alternate competent judge"
+  },
+  "conditions": [
+    "Core shares and all sample workloads are authored assumptions, not empirical calibration.",
+    "Core envelope cost attribution uses constant average envelope cost per required FTE, including nonwage costs; it is a placeholder and not an occupational unit price.",
+    "Income support remains 100 baseline plus 20 authored shock; this does not price the E06 basket or its take-up.",
+    "Allocation protects assumed core first for arithmetic only; a competent elected law must justify an actual allocation and displaced duties.",
+    "Education remains fully counted in the six-envelope total despite zero in this limited continuity core.",
+    "Distinct personnel cover each six-hour block, with replacement/rest presumed and unverified.",
+    "Sample roster is a bounded subset; specialty, recusal, geography, medicine, imports, sites and actual rosters remain unknown.",
+    "Controller tests are end-to-end path loss only; they do not infer that all judges or services stop.",
+    "P2 and R2 are assumed prior-law alternatives with independently controlled records/credentials; their actual law, controller, cash, cost and staff are unverified.",
+    "No new national tax, borrowing, appropriation, entitlement or force power follows from arithmetic.",
+    "Interim-order cases test a 72-hour opportunity limit, one justified extension of at most 72 hours, and any shorter source-law limit; this Act grants no force or detention power."
+  ],
+  "interim_orders": [
+    {
+      "case": "late_without_extension",
+      "extensions_requested": 0,
+      "fresh_necessity_finding": false,
+      "shorter_source_limit_hours": 144,
+      "meaningful_hearing_opportunity_hours": null,
+      "test_hour": 73
+    },
+    {
+      "case": "one_justified_extension",
+      "extensions_requested": 1,
+      "fresh_necessity_finding": true,
+      "shorter_source_limit_hours": 144,
+      "meaningful_hearing_opportunity_hours": 140,
+      "test_hour": 100
+    },
+    {
+      "case": "serial_extension_attempt",
+      "extensions_requested": 2,
+      "fresh_necessity_finding": true,
+      "shorter_source_limit_hours": 999,
+      "meaningful_hearing_opportunity_hours": null,
+      "test_hour": 145
+    },
+    {
+      "case": "shorter_liberty_limit",
+      "extensions_requested": 1,
+      "fresh_necessity_finding": true,
+      "shorter_source_limit_hours": 6,
+      "meaningful_hearing_opportunity_hours": null,
+      "test_hour": 8
+    },
+    {
+      "case": "nonattendance_after_opportunity",
+      "extensions_requested": 0,
+      "fresh_necessity_finding": false,
+      "shorter_source_limit_hours": 72,
+      "meaningful_hearing_opportunity_hours": 50,
+      "test_hour": 60
+    }
+  ]
+}

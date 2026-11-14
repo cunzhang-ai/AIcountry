@@ -1,0 +1,47 @@
+{
+  "edition": 102,
+  "same_controller": true,
+  "prior_draft_review_transfer": false,
+  "actual_qualified_independent_review": null,
+  "actual_affected_participation": null,
+  "reports": {
+    "authority": [
+      "review/authority-initial.md"
+    ],
+    "law": [
+      "review/law-initial.md",
+      "review/law-reread.md",
+      "review/law-correction-close.md"
+    ],
+    "source": [
+      "review/source-initial.md",
+      "review/source-reread.md",
+      "review/source-correction-close.md"
+    ]
+  },
+  "findings": [
+    {
+      "id": "ordinary_identity_gate_vs_urgent_single_origin_warning",
+      "status": "corrected_and_actual_reread",
+      "disposition": "Ordinary identity requires substantive checked original facts/authenticity/relevance, not a claim checklist or numeric2witness fiction. Separate minimal unverified imminent-life identifier on actual PD04e/IL08/PD06 necessity goes only to named lawful receiver,24h source status/IL09 original disposal, no ordinary person file/coercion. Initial broader ordinary-gate wording was tightened after source reviewer retained privacy objection.",
+      "reports": [
+        "review/law-correction-close.md",
+        "review/source-correction-close.md"
+      ],
+      "shared_observation": "Law/source reviewers identified the same cross-clause texts under one controller; not independent corroboration."
+    }
+  ],
+  "authority_review": "No additional material authority contradiction reported within actual inspected formation/source/ordinary court/180day exit scope. Does not approve whole country/model/operation.",
+  "root_scoped_clarification": "IA15 original legally effective succession starts24h inventory duty; office/vendor late acknowledgement cannot reset it. Ordinary source/case law retained, no new successor inferred.",
+  "retained_dissent": [
+    "Concealed grave preparations can escape selected lawful-source warning; bounded external/noncriminal-warrant service can outperform in some cases.",
+    "Cabinet framing/career/resource control and committee group replacement can capture scrutiny; genuine independence unverified.",
+    "Fixed committee seats/votes can prevent collective report when few members; individual lawful access does not guarantee a safe qualified court/receiver.",
+    "Source confidentiality/answerable case, short disposal and redress preservation can conflict; no blanket public testimony or hidden person files.",
+    "Foreign source withdrawal, one-origin uncertainty and cash/FX/language/court shortages are real failures, not new powers."
+  ],
+  "not_examined_by_helpers": [
+    "Authored model/results/validator not inspected or approved by text reviewers.",
+    "No actual threat/territory/electorate, qualified independent public/security review, legal adoption, funded operation, source receipt or outcomes."
+  ]
+}

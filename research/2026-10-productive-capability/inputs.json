@@ -1,0 +1,129 @@
+{
+  "edition": 66,
+  "date": "2026-10-15",
+  "scope": "Authored eight-year extension joining the old enabling envelope with a paid reserve-training pipeline; no entire-country cost/GDP forecast",
+  "pinned_sources": {
+    "2026-10-staged-transition/inputs.json": "96a8705207ed374075c7cea2d522017b879514db0e2eb23cd58e1d272c0250f6",
+    "2026-10-staged-transition/results.json": "8d6909e94731abe2539c8b1d97a632aae4517da42d6be99e625c2a9f876ad24d",
+    "2026-10-demand-and-steady-stocks/inputs.json": "afd5f53ce5c25dbc22eff59ed849e57b6988b625e665fbbbdf29a1d40d2e5ffa",
+    "2026-10-demand-and-steady-stocks/results.json": "b688fc7b9cd5f2d4e82fc226fc93df7685b04282d0b9055e66622a7677c327b3",
+    "2026-10-retirement-claims-and-finance/results.json": "2948a8127aaaaf017e05f9c67de57696a5d27e2127d5e8a5d4739aa7dd8faea3"
+  },
+  "cash_buffer": 10,
+  "old_prior_source": 296.4,
+  "old_transition": {
+    "annual_staff_pay": 16.8,
+    "annual_training": 2,
+    "capital_total": 108,
+    "commission_year": 6,
+    "annual_maintenance": 16,
+    "operating_capital_replacement_rate": 0.05
+  },
+  "pass_fraction": 0.85,
+  "students_per_instructor": 10,
+  "bridge_year_fraction": 0.5,
+  "annual_new_nonwage_training": 0.6,
+  "new_facilities": {
+    "capital": 7,
+    "annual_maintenance": 0.5,
+    "depreciation_rate": 0.05,
+    "readiness": "Assumed commissioned before year 1; actual sites, procurement and qualification unknown"
+  },
+  "tracks": [
+    {
+      "name": "clinical_higher_pay",
+      "role": "clinical",
+      "intake": 209,
+      "years": 6,
+      "prior_annual_pay_million": 0.06,
+      "instructor_annual_pay_million": 0.06
+    },
+    {
+      "name": "clinical_middle_pay",
+      "role": "clinical",
+      "intake": 139,
+      "years": 6,
+      "prior_annual_pay_million": 0.03,
+      "instructor_annual_pay_million": 0.06
+    },
+    {
+      "name": "education",
+      "role": "education",
+      "intake": 210,
+      "years": 4,
+      "prior_annual_pay_million": 0.03,
+      "instructor_annual_pay_million": 0.03
+    },
+    {
+      "name": "network",
+      "role": "network",
+      "intake": 73,
+      "years": 3,
+      "prior_annual_pay_million": 0.03,
+      "instructor_annual_pay_million": 0.03
+    },
+    {
+      "name": "technical",
+      "role": "technical",
+      "intake": 4,
+      "years": 2,
+      "prior_annual_pay_million": 0.03,
+      "instructor_annual_pay_million": 0.03
+    }
+  ],
+  "opening_roles": {
+    "clinical": 3150,
+    "education": 2100,
+    "care": 2050,
+    "network": 750,
+    "justice": 1020,
+    "admin": 1020,
+    "technical": 0
+  },
+  "old_role_training": {
+    "care": {
+      "people": 200,
+      "years": 2
+    },
+    "justice": {
+      "people": 100,
+      "years": 3
+    },
+    "admin": {
+      "people": 100,
+      "years": 1
+    },
+    "technical": {
+      "people": 20,
+      "years": 2
+    }
+  },
+  "postcommission_role_requirements": {
+    "clinical": 3100,
+    "education": 2050,
+    "care": 2000,
+    "network": 730,
+    "justice": 1000,
+    "admin": 1000,
+    "technical": 20
+  },
+  "limits": [
+    "All intakes, pay, 85% qualification, durations, instructor ratio, prices and dates are authored assumptions, not actual training/qualification evidence. Broad role categories do not certify clinical specialties or real staffing.",
+    "All 635 new trainees and 65 instructors are distinct source people with paid time drawn from prior market roles. The 55,000 accounting universe does not prove continued private employment/output or tax receipts.",
+    "The old 420-person preparation and its 2/year training line are retained only in their original bounded scope. Actual instructors/qualification for that older programme remain unknown and cannot be certified by this extension.",
+    "The proposed candidate model allocates old 108 capital/12 training separately from new 7 training facilities/other inputs. Actual baseline inclusion, overlap and all current 37-function attribution remain unknown, not a second actual bill.",
+    "7 training assets are assumed ready and paid at year 0, maintained 0.5/year and gross-replaced 0.35/year. Safe site, equipment, instructor access, energy, water, materials, FX and acceptance remain unverified.",
+    "Normal grants/appropriations are assumed upfront only to identify the required envelope. No source, creditor, tax receipt, permission, external counterparty or lawful actual budget is verified; borrowing would add its own service.",
+    "Training pay preserves the declared prior wage composition: clinical 209 higher-paid/139 middle-paid, rather than lowering all students to a cheaper uniform wage. Actual hardship and individual source rights need their separate records.",
+    "Minimum six-month bridges cover non-qualifiers and instructors after the declared term. They are not guaranteed private jobs, compulsory employment, cancellation of unresolved training claims or all future I05/care/pension costs.",
+    "Instruction-loss and unavailable-facility cases change usable admissions/graduates, not the normal spending envelope into a verified revised budget. Unplaced learners retain outstanding commitments; additional completion finance is unknown.",
+    "Yearly staffing counts become available only after the complete course; students and instructors are not also frontline capacity. A qualified credential still needs the actual role, shift, safe site and independent acceptance.",
+    "A two-year clinical delay is compared through year 10 with two post-completion operating years, retaining other wages/maintenance. A shorter year-8 snapshot cannot hide remaining obligations.",
+    "The eight/ten-year finance includes only this joined enabling/reserve programme; baseline public services, household income, all pension/survivor/credit obligations, private finance, existing debt/FX and current country costs are outside and unknown.",
+    "The technical opening zero is only the old additional project team, not a claim that an entire country has no other engineers or technicians. Gaps are against a stated postproject target, not proof that all earlier statutory duties were already due.",
+    "The known continuing bill excludes baseline capital replacement, future turnover/retirement training, new services, claims and shocks. Post-horizon renewal is unknown, not zero or a stationary workforce.",
+    "No assumed AI saving, higher GDP, future tax or birth/migration outcome funds present training or constitutes observed productivity. No real affected participation, independent qualified review or operating readiness was obtained.",
+    "The joined candidate attributes old-project wear replacement 5.4/year after commissioning in addition to the old envelope. It must be matched once against the general public replacement budget (29.4 in the older post-commission comparator), not added to that whole budget again. Actual baseline attribution remains unknown."
+  ],
+  "total_reference_workforce": 55000
+}

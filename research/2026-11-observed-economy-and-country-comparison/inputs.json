@@ -1,0 +1,8 @@
+{
+ "edition":134,
+ "country":"Denmark",
+ "reference_year":"2023",
+ "table_vintages":{"NAN1":"2026-06-30T08:00:00","NASL1":"2026-06-30T08:00:00","NASL2":"2026-06-30T08:00:00","NAN3":"2026-06-30T08:00:00","NASFK":"2026-09-30T08:00:00","OFF3":"2026-06-03T08:00:00"},
+ "scope":"Observed national2023 published aggregate baseline. Core production/income tables share June2026 vintage; fiscal/financial companions retain June3/September30 table vintages. The archived June financial query failed; no silent revision alignment or inferred exact archived equality. Monetary/fiscal/service/people/legacy boundaries and original rounding/missing status remain. Not a country adoption, causal superiority test, household microsimulation, source for fictional100k actors or rescaling to CU/FU.",
+ "actual_country_cost_source_or_readiness":null
+}

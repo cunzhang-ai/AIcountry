@@ -1,0 +1,1637 @@
+{
+  "edition": 66,
+  "normal_paid_pipeline": {
+    "horizon": 8,
+    "upfront_training_facilities": 7.0,
+    "annual": [
+      {
+        "year": 1,
+        "trainee_income": 25.32,
+        "dedicated_instructor_pay": 3.0,
+        "qualified_pay": 0.0,
+        "minimum_return_bridges": 0.0,
+        "facility_maintenance": 0.5,
+        "facility_gross_replacement": 0.35,
+        "other_training_inputs": 0.6,
+        "new_pipeline_total": 29.77,
+        "old_enabling_total": 36.8,
+        "old_project_gross_replacement": 0.0,
+        "combined_due": 66.57,
+        "new_paid_person_years": 700.0,
+        "base_paid_programme_people": 420,
+        "public_paid_person_years_including_core": 11210.0,
+        "people_not_assigned_to_public_paid_work": 43790.0,
+        "new_graduates_available_at_start": {
+          "clinical_higher_pay": 0,
+          "clinical_middle_pay": 0,
+          "education": 0,
+          "network": 0,
+          "technical": 0
+        }
+      },
+      {
+        "year": 2,
+        "trainee_income": 25.32,
+        "dedicated_instructor_pay": 3.0,
+        "qualified_pay": 0.0,
+        "minimum_return_bridges": 0.0,
+        "facility_maintenance": 0.5,
+        "facility_gross_replacement": 0.35,
+        "other_training_inputs": 0.6,
+        "new_pipeline_total": 29.77,
+        "old_enabling_total": 36.8,
+        "old_project_gross_replacement": 0.0,
+        "combined_due": 66.57,
+        "new_paid_person_years": 700.0,
+        "base_paid_programme_people": 420,
+        "public_paid_person_years_including_core": 11210.0,
+        "people_not_assigned_to_public_paid_work": 43790.0,
+        "new_graduates_available_at_start": {
+          "clinical_higher_pay": 0,
+          "clinical_middle_pay": 0,
+          "education": 0,
+          "network": 0,
+          "technical": 0
+        }
+      },
+      {
+        "year": 3,
+        "trainee_income": 25.2,
+        "dedicated_instructor_pay": 2.97,
+        "qualified_pay": 0.09,
+        "minimum_return_bridges": 0.03,
+        "facility_maintenance": 0.5,
+        "facility_gross_replacement": 0.35,
+        "other_training_inputs": 0.6,
+        "new_pipeline_total": 29.74,
+        "old_enabling_total": 36.8,
+        "old_project_gross_replacement": 0.0,
+        "combined_due": 66.54,
+        "new_paid_person_years": 699.0,
+        "base_paid_programme_people": 420,
+        "public_paid_person_years_including_core": 11209.0,
+        "people_not_assigned_to_public_paid_work": 43791.0,
+        "new_graduates_available_at_start": {
+          "clinical_higher_pay": 0,
+          "clinical_middle_pay": 0,
+          "education": 0,
+          "network": 0,
+          "technical": 3
+        }
+      },
+      {
+        "year": 4,
+        "trainee_income": 23.01,
+        "dedicated_instructor_pay": 2.73,
+        "qualified_pay": 1.95,
+        "minimum_return_bridges": 0.285,
+        "facility_maintenance": 0.5,
+        "facility_gross_replacement": 0.35,
+        "other_training_inputs": 0.6,
+        "new_pipeline_total": 29.425,
+        "old_enabling_total": 36.8,
+        "old_project_gross_replacement": 0.0,
+        "combined_due": 66.225,
+        "new_paid_person_years": 688.5,
+        "base_paid_programme_people": 420,
+        "public_paid_person_years_including_core": 11198.5,
+        "people_not_assigned_to_public_paid_work": 43801.5,
+        "new_graduates_available_at_start": {
+          "clinical_higher_pay": 0,
+          "clinical_middle_pay": 0,
+          "education": 0,
+          "network": 62,
+          "technical": 3
+        }
+      },
+      {
+        "year": 5,
+        "trainee_income": 16.71,
+        "dedicated_instructor_pay": 2.1,
+        "qualified_pay": 7.29,
+        "minimum_return_bridges": 0.795,
+        "facility_maintenance": 0.5,
+        "facility_gross_replacement": 0.35,
+        "other_training_inputs": 0.6,
+        "new_pipeline_total": 28.345,
+        "old_enabling_total": 36.8,
+        "old_project_gross_replacement": 0.0,
+        "combined_due": 65.145,
+        "new_paid_person_years": 652.5,
+        "base_paid_programme_people": 420,
+        "public_paid_person_years_including_core": 11162.5,
+        "people_not_assigned_to_public_paid_work": 43837.5,
+        "new_graduates_available_at_start": {
+          "clinical_higher_pay": 0,
+          "clinical_middle_pay": 0,
+          "education": 178,
+          "network": 62,
+          "technical": 3
+        }
+      },
+      {
+        "year": 6,
+        "trainee_income": 16.71,
+        "dedicated_instructor_pay": 2.1,
+        "qualified_pay": 7.29,
+        "minimum_return_bridges": 0.0,
+        "facility_maintenance": 0.5,
+        "facility_gross_replacement": 0.35,
+        "other_training_inputs": 0.6,
+        "new_pipeline_total": 27.55,
+        "old_enabling_total": 36.8,
+        "old_project_gross_replacement": 0.0,
+        "combined_due": 64.35,
+        "new_paid_person_years": 626.0,
+        "base_paid_programme_people": 420,
+        "public_paid_person_years_including_core": 11136.0,
+        "people_not_assigned_to_public_paid_work": 43864.0,
+        "new_graduates_available_at_start": {
+          "clinical_higher_pay": 0,
+          "clinical_middle_pay": 0,
+          "education": 178,
+          "network": 62,
+          "technical": 3
+        }
+      },
+      {
+        "year": 7,
+        "trainee_income": 0.0,
+        "dedicated_instructor_pay": 0.0,
+        "qualified_pay": 21.45,
+        "minimum_return_bridges": 2.325,
+        "facility_maintenance": 0.5,
+        "facility_gross_replacement": 0.35,
+        "other_training_inputs": 0.0,
+        "new_pipeline_total": 24.625,
+        "old_enabling_total": 38.2,
+        "old_project_gross_replacement": 5.4,
+        "combined_due": 62.825,
+        "new_paid_person_years": 582.0,
+        "base_paid_programme_people": 420,
+        "public_paid_person_years_including_core": 11092.0,
+        "people_not_assigned_to_public_paid_work": 43908.0,
+        "new_graduates_available_at_start": {
+          "clinical_higher_pay": 177,
+          "clinical_middle_pay": 118,
+          "education": 178,
+          "network": 62,
+          "technical": 3
+        }
+      },
+      {
+        "year": 8,
+        "trainee_income": 0.0,
+        "dedicated_instructor_pay": 0.0,
+        "qualified_pay": 21.45,
+        "minimum_return_bridges": 0.0,
+        "facility_maintenance": 0.5,
+        "facility_gross_replacement": 0.35,
+        "other_training_inputs": 0.0,
+        "new_pipeline_total": 22.3,
+        "old_enabling_total": 38.2,
+        "old_project_gross_replacement": 5.4,
+        "combined_due": 60.5,
+        "new_paid_person_years": 538.0,
+        "base_paid_programme_people": 420,
+        "public_paid_person_years_including_core": 11048.0,
+        "people_not_assigned_to_public_paid_work": 43952.0,
+        "new_graduates_available_at_start": {
+          "clinical_higher_pay": 177,
+          "clinical_middle_pay": 118,
+          "education": 178,
+          "network": 62,
+          "technical": 3
+        }
+      }
+    ],
+    "known_combined_bills": 525.725,
+    "conditional_prior_source_to_keep_buffer": 535.725,
+    "known_new_pipeline_bills": 228.525,
+    "qualified_target_annual_pay_after_training": 21.45,
+    "actual_whole_country_cost": null,
+    "actual_renewal_pipeline_after_horizon": null,
+    "actual_readiness": false
+  },
+  "two_year_clinical_delay": {
+    "horizon": 10,
+    "upfront_training_facilities": 7.0,
+    "annual": [
+      {
+        "year": 1,
+        "trainee_income": 25.32,
+        "dedicated_instructor_pay": 3.0,
+        "qualified_pay": 0.0,
+        "minimum_return_bridges": 0.0,
+        "facility_maintenance": 0.5,
+        "facility_gross_replacement": 0.35,
+        "other_training_inputs": 0.6,
+        "new_pipeline_total": 29.77,
+        "old_enabling_total": 36.8,
+        "old_project_gross_replacement": 0.0,
+        "combined_due": 66.57,
+        "new_paid_person_years": 700.0,
+        "base_paid_programme_people": 420,
+        "public_paid_person_years_including_core": 11210.0,
+        "people_not_assigned_to_public_paid_work": 43790.0,
+        "new_graduates_available_at_start": {
+          "clinical_higher_pay": 0,
+          "clinical_middle_pay": 0,
+          "education": 0,
+          "network": 0,
+          "technical": 0
+        }
+      },
+      {
+        "year": 2,
+        "trainee_income": 25.32,
+        "dedicated_instructor_pay": 3.0,
+        "qualified_pay": 0.0,
+        "minimum_return_bridges": 0.0,
+        "facility_maintenance": 0.5,
+        "facility_gross_replacement": 0.35,
+        "other_training_inputs": 0.6,
+        "new_pipeline_total": 29.77,
+        "old_enabling_total": 36.8,
+        "old_project_gross_replacement": 0.0,
+        "combined_due": 66.57,
+        "new_paid_person_years": 700.0,
+        "base_paid_programme_people": 420,
+        "public_paid_person_years_including_core": 11210.0,
+        "people_not_assigned_to_public_paid_work": 43790.0,
+        "new_graduates_available_at_start": {
+          "clinical_higher_pay": 0,
+          "clinical_middle_pay": 0,
+          "education": 0,
+          "network": 0,
+          "technical": 0
+        }
+      },
+      {
+        "year": 3,
+        "trainee_income": 25.2,
+        "dedicated_instructor_pay": 2.97,
+        "qualified_pay": 0.09,
+        "minimum_return_bridges": 0.03,
+        "facility_maintenance": 0.5,
+        "facility_gross_replacement": 0.35,
+        "other_training_inputs": 0.6,
+        "new_pipeline_total": 29.74,
+        "old_enabling_total": 36.8,
+        "old_project_gross_replacement": 0.0,
+        "combined_due": 66.54,
+        "new_paid_person_years": 699.0,
+        "base_paid_programme_people": 420,
+        "public_paid_person_years_including_core": 11209.0,
+        "people_not_assigned_to_public_paid_work": 43791.0,
+        "new_graduates_available_at_start": {
+          "clinical_higher_pay": 0,
+          "clinical_middle_pay": 0,
+          "education": 0,
+          "network": 0,
+          "technical": 3
+        }
+      },
+      {
+        "year": 4,
+        "trainee_income": 23.01,
+        "dedicated_instructor_pay": 2.73,
+        "qualified_pay": 1.95,
+        "minimum_return_bridges": 0.285,
+        "facility_maintenance": 0.5,
+        "facility_gross_replacement": 0.35,
+        "other_training_inputs": 0.6,
+        "new_pipeline_total": 29.425,
+        "old_enabling_total": 36.8,
+        "old_project_gross_replacement": 0.0,
+        "combined_due": 66.225,
+        "new_paid_person_years": 688.5,
+        "base_paid_programme_people": 420,
+        "public_paid_person_years_including_core": 11198.5,
+        "people_not_assigned_to_public_paid_work": 43801.5,
+        "new_graduates_available_at_start": {
+          "clinical_higher_pay": 0,
+          "clinical_middle_pay": 0,
+          "education": 0,
+          "network": 62,
+          "technical": 3
+        }
+      },
+      {
+        "year": 5,
+        "trainee_income": 16.71,
+        "dedicated_instructor_pay": 2.1,
+        "qualified_pay": 7.29,
+        "minimum_return_bridges": 0.795,
+        "facility_maintenance": 0.5,
+        "facility_gross_replacement": 0.35,
+        "other_training_inputs": 0.6,
+        "new_pipeline_total": 28.345,
+        "old_enabling_total": 36.8,
+        "old_project_gross_replacement": 0.0,
+        "combined_due": 65.145,
+        "new_paid_person_years": 652.5,
+        "base_paid_programme_people": 420,
+        "public_paid_person_years_including_core": 11162.5,
+        "people_not_assigned_to_public_paid_work": 43837.5,
+        "new_graduates_available_at_start": {
+          "clinical_higher_pay": 0,
+          "clinical_middle_pay": 0,
+          "education": 178,
+          "network": 62,
+          "technical": 3
+        }
+      },
+      {
+        "year": 6,
+        "trainee_income": 16.71,
+        "dedicated_instructor_pay": 2.1,
+        "qualified_pay": 7.29,
+        "minimum_return_bridges": 0.0,
+        "facility_maintenance": 0.5,
+        "facility_gross_replacement": 0.35,
+        "other_training_inputs": 0.6,
+        "new_pipeline_total": 27.55,
+        "old_enabling_total": 36.8,
+        "old_project_gross_replacement": 0.0,
+        "combined_due": 64.35,
+        "new_paid_person_years": 626.0,
+        "base_paid_programme_people": 420,
+        "public_paid_person_years_including_core": 11136.0,
+        "people_not_assigned_to_public_paid_work": 43864.0,
+        "new_graduates_available_at_start": {
+          "clinical_higher_pay": 0,
+          "clinical_middle_pay": 0,
+          "education": 178,
+          "network": 62,
+          "technical": 3
+        }
+      },
+      {
+        "year": 7,
+        "trainee_income": 16.71,
+        "dedicated_instructor_pay": 2.1,
+        "qualified_pay": 7.29,
+        "minimum_return_bridges": 0.0,
+        "facility_maintenance": 0.5,
+        "facility_gross_replacement": 0.35,
+        "other_training_inputs": 0.6,
+        "new_pipeline_total": 27.55,
+        "old_enabling_total": 38.2,
+        "old_project_gross_replacement": 5.4,
+        "combined_due": 65.75,
+        "new_paid_person_years": 626.0,
+        "base_paid_programme_people": 420,
+        "public_paid_person_years_including_core": 11136.0,
+        "people_not_assigned_to_public_paid_work": 43864.0,
+        "new_graduates_available_at_start": {
+          "clinical_higher_pay": 0,
+          "clinical_middle_pay": 0,
+          "education": 178,
+          "network": 62,
+          "technical": 3
+        }
+      },
+      {
+        "year": 8,
+        "trainee_income": 16.71,
+        "dedicated_instructor_pay": 2.1,
+        "qualified_pay": 7.29,
+        "minimum_return_bridges": 0.0,
+        "facility_maintenance": 0.5,
+        "facility_gross_replacement": 0.35,
+        "other_training_inputs": 0.6,
+        "new_pipeline_total": 27.55,
+        "old_enabling_total": 38.2,
+        "old_project_gross_replacement": 5.4,
+        "combined_due": 65.75,
+        "new_paid_person_years": 626.0,
+        "base_paid_programme_people": 420,
+        "public_paid_person_years_including_core": 11136.0,
+        "people_not_assigned_to_public_paid_work": 43864.0,
+        "new_graduates_available_at_start": {
+          "clinical_higher_pay": 0,
+          "clinical_middle_pay": 0,
+          "education": 178,
+          "network": 62,
+          "technical": 3
+        }
+      },
+      {
+        "year": 9,
+        "trainee_income": 0.0,
+        "dedicated_instructor_pay": 0.0,
+        "qualified_pay": 21.45,
+        "minimum_return_bridges": 2.325,
+        "facility_maintenance": 0.5,
+        "facility_gross_replacement": 0.35,
+        "other_training_inputs": 0.0,
+        "new_pipeline_total": 24.625,
+        "old_enabling_total": 38.2,
+        "old_project_gross_replacement": 5.4,
+        "combined_due": 62.825,
+        "new_paid_person_years": 582.0,
+        "base_paid_programme_people": 420,
+        "public_paid_person_years_including_core": 11092.0,
+        "people_not_assigned_to_public_paid_work": 43908.0,
+        "new_graduates_available_at_start": {
+          "clinical_higher_pay": 177,
+          "clinical_middle_pay": 118,
+          "education": 178,
+          "network": 62,
+          "technical": 3
+        }
+      },
+      {
+        "year": 10,
+        "trainee_income": 0.0,
+        "dedicated_instructor_pay": 0.0,
+        "qualified_pay": 21.45,
+        "minimum_return_bridges": 0.0,
+        "facility_maintenance": 0.5,
+        "facility_gross_replacement": 0.35,
+        "other_training_inputs": 0.0,
+        "new_pipeline_total": 22.3,
+        "old_enabling_total": 38.2,
+        "old_project_gross_replacement": 5.4,
+        "combined_due": 60.5,
+        "new_paid_person_years": 538.0,
+        "base_paid_programme_people": 420,
+        "public_paid_person_years_including_core": 11048.0,
+        "people_not_assigned_to_public_paid_work": 43952.0,
+        "new_graduates_available_at_start": {
+          "clinical_higher_pay": 177,
+          "clinical_middle_pay": 118,
+          "education": 178,
+          "network": 62,
+          "technical": 3
+        }
+      }
+    ],
+    "known_combined_bills": 657.225,
+    "conditional_prior_source_to_keep_buffer": 667.225,
+    "known_new_pipeline_bills": 283.625,
+    "qualified_target_annual_pay_after_training": 21.45,
+    "actual_whole_country_cost": null,
+    "actual_renewal_pipeline_after_horizon": null,
+    "actual_readiness": false
+  },
+  "normal_source_schedule": {
+    "conditional_opening_source": 535.725,
+    "schedule": [
+      {
+        "year": 1,
+        "cumulative_bills": 73.57,
+        "unallocated_bill_finance_gap": 0.0,
+        "additional_source_needed_to_preserve_buffer": 0.0
+      },
+      {
+        "year": 2,
+        "cumulative_bills": 140.14,
+        "unallocated_bill_finance_gap": 0.0,
+        "additional_source_needed_to_preserve_buffer": 0.0
+      },
+      {
+        "year": 3,
+        "cumulative_bills": 206.68,
+        "unallocated_bill_finance_gap": 0.0,
+        "additional_source_needed_to_preserve_buffer": 0.0
+      },
+      {
+        "year": 4,
+        "cumulative_bills": 272.905,
+        "unallocated_bill_finance_gap": 0.0,
+        "additional_source_needed_to_preserve_buffer": 0.0
+      },
+      {
+        "year": 5,
+        "cumulative_bills": 338.05,
+        "unallocated_bill_finance_gap": 0.0,
+        "additional_source_needed_to_preserve_buffer": 0.0
+      },
+      {
+        "year": 6,
+        "cumulative_bills": 402.4,
+        "unallocated_bill_finance_gap": 0.0,
+        "additional_source_needed_to_preserve_buffer": 0.0
+      },
+      {
+        "year": 7,
+        "cumulative_bills": 465.225,
+        "unallocated_bill_finance_gap": 0.0,
+        "additional_source_needed_to_preserve_buffer": 0.0
+      },
+      {
+        "year": 8,
+        "cumulative_bills": 525.725,
+        "unallocated_bill_finance_gap": 0.0,
+        "additional_source_needed_to_preserve_buffer": 0.0
+      }
+    ],
+    "last_bill_finance_gap": 0.0,
+    "last_gap_including_buffer": 0.0,
+    "actual_source_or_appropriation": null,
+    "payment_priority_or_actual_receipt": "Not assigned by this arithmetic; prior E/T and elected-law duties continue"
+  },
+  "posthire_wages_only_source_schedule": {
+    "conditional_opening_source": 468.0,
+    "schedule": [
+      {
+        "year": 1,
+        "cumulative_bills": 73.57,
+        "unallocated_bill_finance_gap": 0.0,
+        "additional_source_needed_to_preserve_buffer": 0.0
+      },
+      {
+        "year": 2,
+        "cumulative_bills": 140.14,
+        "unallocated_bill_finance_gap": 0.0,
+        "additional_source_needed_to_preserve_buffer": 0.0
+      },
+      {
+        "year": 3,
+        "cumulative_bills": 206.68,
+        "unallocated_bill_finance_gap": 0.0,
+        "additional_source_needed_to_preserve_buffer": 0.0
+      },
+      {
+        "year": 4,
+        "cumulative_bills": 272.905,
+        "unallocated_bill_finance_gap": 0.0,
+        "additional_source_needed_to_preserve_buffer": 0.0
+      },
+      {
+        "year": 5,
+        "cumulative_bills": 338.05,
+        "unallocated_bill_finance_gap": 0.0,
+        "additional_source_needed_to_preserve_buffer": 0.0
+      },
+      {
+        "year": 6,
+        "cumulative_bills": 402.4,
+        "unallocated_bill_finance_gap": 0.0,
+        "additional_source_needed_to_preserve_buffer": 0.0
+      },
+      {
+        "year": 7,
+        "cumulative_bills": 465.225,
+        "unallocated_bill_finance_gap": 0.0,
+        "additional_source_needed_to_preserve_buffer": 7.225
+      },
+      {
+        "year": 8,
+        "cumulative_bills": 525.725,
+        "unallocated_bill_finance_gap": 57.725,
+        "additional_source_needed_to_preserve_buffer": 67.725
+      }
+    ],
+    "last_bill_finance_gap": 57.725,
+    "last_gap_including_buffer": 67.725,
+    "actual_source_or_appropriation": null,
+    "payment_priority_or_actual_receipt": "Not assigned by this arithmetic; prior E/T and elected-law duties continue"
+  },
+  "delayed_with_only_normal_source": {
+    "conditional_opening_source": 535.725,
+    "schedule": [
+      {
+        "year": 1,
+        "cumulative_bills": 73.57,
+        "unallocated_bill_finance_gap": 0.0,
+        "additional_source_needed_to_preserve_buffer": 0.0
+      },
+      {
+        "year": 2,
+        "cumulative_bills": 140.14,
+        "unallocated_bill_finance_gap": 0.0,
+        "additional_source_needed_to_preserve_buffer": 0.0
+      },
+      {
+        "year": 3,
+        "cumulative_bills": 206.68,
+        "unallocated_bill_finance_gap": 0.0,
+        "additional_source_needed_to_preserve_buffer": 0.0
+      },
+      {
+        "year": 4,
+        "cumulative_bills": 272.905,
+        "unallocated_bill_finance_gap": 0.0,
+        "additional_source_needed_to_preserve_buffer": 0.0
+      },
+      {
+        "year": 5,
+        "cumulative_bills": 338.05,
+        "unallocated_bill_finance_gap": 0.0,
+        "additional_source_needed_to_preserve_buffer": 0.0
+      },
+      {
+        "year": 6,
+        "cumulative_bills": 402.4,
+        "unallocated_bill_finance_gap": 0.0,
+        "additional_source_needed_to_preserve_buffer": 0.0
+      },
+      {
+        "year": 7,
+        "cumulative_bills": 468.15,
+        "unallocated_bill_finance_gap": 0.0,
+        "additional_source_needed_to_preserve_buffer": 0.0
+      },
+      {
+        "year": 8,
+        "cumulative_bills": 533.9,
+        "unallocated_bill_finance_gap": 0.0,
+        "additional_source_needed_to_preserve_buffer": 8.175
+      },
+      {
+        "year": 9,
+        "cumulative_bills": 596.725,
+        "unallocated_bill_finance_gap": 61.0,
+        "additional_source_needed_to_preserve_buffer": 71.0
+      },
+      {
+        "year": 10,
+        "cumulative_bills": 657.225,
+        "unallocated_bill_finance_gap": 121.5,
+        "additional_source_needed_to_preserve_buffer": 131.5
+      }
+    ],
+    "last_bill_finance_gap": 121.5,
+    "last_gap_including_buffer": 131.5,
+    "actual_source_or_appropriation": null,
+    "payment_priority_or_actual_receipt": "Not assigned by this arithmetic; prior E/T and elected-law duties continue"
+  },
+  "capacity_normal": {
+    "tracks": [
+      {
+        "name": "clinical_higher_pay",
+        "role": "clinical",
+        "intake": 209,
+        "instructors_if_qualified": 21,
+        "admitted_by_declared_capacity": 209,
+        "unplaced_at_start": 0,
+        "graduates_if_qualified": 177,
+        "duration": 6
+      },
+      {
+        "name": "clinical_middle_pay",
+        "role": "clinical",
+        "intake": 139,
+        "instructors_if_qualified": 14,
+        "admitted_by_declared_capacity": 139,
+        "unplaced_at_start": 0,
+        "graduates_if_qualified": 118,
+        "duration": 6
+      },
+      {
+        "name": "education",
+        "role": "education",
+        "intake": 210,
+        "instructors_if_qualified": 21,
+        "admitted_by_declared_capacity": 210,
+        "unplaced_at_start": 0,
+        "graduates_if_qualified": 178,
+        "duration": 4
+      },
+      {
+        "name": "network",
+        "role": "network",
+        "intake": 73,
+        "instructors_if_qualified": 8,
+        "admitted_by_declared_capacity": 73,
+        "unplaced_at_start": 0,
+        "graduates_if_qualified": 62,
+        "duration": 3
+      },
+      {
+        "name": "technical",
+        "role": "technical",
+        "intake": 4,
+        "instructors_if_qualified": 1,
+        "admitted_by_declared_capacity": 4,
+        "unplaced_at_start": 0,
+        "graduates_if_qualified": 3,
+        "duration": 2
+      }
+    ],
+    "years": [
+      {
+        "year": 1,
+        "qualified_roles_if_all_sources_valid": {
+          "clinical": 3150.0,
+          "education": 2100.0,
+          "care": 2050.0,
+          "network": 750.0,
+          "justice": 1020.0,
+          "admin": 1020.0,
+          "technical": 0.0
+        },
+        "gaps_against_postproject_10_percent_loss_target": {
+          "clinical": 265.0,
+          "education": 160.0,
+          "care": 155.0,
+          "network": 55.0,
+          "justice": 82.0,
+          "admin": 82.0,
+          "technical": 20.0
+        }
+      },
+      {
+        "year": 2,
+        "qualified_roles_if_all_sources_valid": {
+          "clinical": 3150.0,
+          "education": 2100.0,
+          "care": 2050.0,
+          "network": 750.0,
+          "justice": 1020.0,
+          "admin": 1120.0,
+          "technical": 0.0
+        },
+        "gaps_against_postproject_10_percent_loss_target": {
+          "clinical": 265.0,
+          "education": 160.0,
+          "care": 155.0,
+          "network": 55.0,
+          "justice": 82.0,
+          "admin": 0.0,
+          "technical": 20.0
+        }
+      },
+      {
+        "year": 3,
+        "qualified_roles_if_all_sources_valid": {
+          "clinical": 3150.0,
+          "education": 2100.0,
+          "care": 2250.0,
+          "network": 750.0,
+          "justice": 1020.0,
+          "admin": 1120.0,
+          "technical": 23.0
+        },
+        "gaps_against_postproject_10_percent_loss_target": {
+          "clinical": 265.0,
+          "education": 160.0,
+          "care": 0.0,
+          "network": 55.0,
+          "justice": 82.0,
+          "admin": 0.0,
+          "technical": 0.0
+        }
+      },
+      {
+        "year": 4,
+        "qualified_roles_if_all_sources_valid": {
+          "clinical": 3150.0,
+          "education": 2100.0,
+          "care": 2250.0,
+          "network": 812.0,
+          "justice": 1120.0,
+          "admin": 1120.0,
+          "technical": 23.0
+        },
+        "gaps_against_postproject_10_percent_loss_target": {
+          "clinical": 265.0,
+          "education": 160.0,
+          "care": 0.0,
+          "network": 0.0,
+          "justice": 0.0,
+          "admin": 0.0,
+          "technical": 0.0
+        }
+      },
+      {
+        "year": 5,
+        "qualified_roles_if_all_sources_valid": {
+          "clinical": 3150.0,
+          "education": 2278.0,
+          "care": 2250.0,
+          "network": 812.0,
+          "justice": 1120.0,
+          "admin": 1120.0,
+          "technical": 23.0
+        },
+        "gaps_against_postproject_10_percent_loss_target": {
+          "clinical": 265.0,
+          "education": 0.0,
+          "care": 0.0,
+          "network": 0.0,
+          "justice": 0.0,
+          "admin": 0.0,
+          "technical": 0.0
+        }
+      },
+      {
+        "year": 6,
+        "qualified_roles_if_all_sources_valid": {
+          "clinical": 3150.0,
+          "education": 2278.0,
+          "care": 2250.0,
+          "network": 812.0,
+          "justice": 1120.0,
+          "admin": 1120.0,
+          "technical": 23.0
+        },
+        "gaps_against_postproject_10_percent_loss_target": {
+          "clinical": 265.0,
+          "education": 0.0,
+          "care": 0.0,
+          "network": 0.0,
+          "justice": 0.0,
+          "admin": 0.0,
+          "technical": 0.0
+        }
+      },
+      {
+        "year": 7,
+        "qualified_roles_if_all_sources_valid": {
+          "clinical": 3445.0,
+          "education": 2278.0,
+          "care": 2250.0,
+          "network": 812.0,
+          "justice": 1120.0,
+          "admin": 1120.0,
+          "technical": 23.0
+        },
+        "gaps_against_postproject_10_percent_loss_target": {
+          "clinical": 0.0,
+          "education": 0.0,
+          "care": 0.0,
+          "network": 0.0,
+          "justice": 0.0,
+          "admin": 0.0,
+          "technical": 0.0
+        }
+      },
+      {
+        "year": 8,
+        "qualified_roles_if_all_sources_valid": {
+          "clinical": 3445.0,
+          "education": 2278.0,
+          "care": 2250.0,
+          "network": 812.0,
+          "justice": 1120.0,
+          "admin": 1120.0,
+          "technical": 23.0
+        },
+        "gaps_against_postproject_10_percent_loss_target": {
+          "clinical": 0.0,
+          "education": 0.0,
+          "care": 0.0,
+          "network": 0.0,
+          "justice": 0.0,
+          "admin": 0.0,
+          "technical": 0.0
+        }
+      }
+    ],
+    "first_year_stated_loss_target_fits": 7,
+    "additional_finance_for_unplaced_or_revised_completion": null,
+    "actual_qualification_or_delivery": null
+  },
+  "capacity_10_percent_instructor_loss": {
+    "tracks": [
+      {
+        "name": "clinical_higher_pay",
+        "role": "clinical",
+        "intake": 209,
+        "instructors_if_qualified": 21,
+        "admitted_by_declared_capacity": 189,
+        "unplaced_at_start": 20,
+        "graduates_if_qualified": 160,
+        "duration": 6
+      },
+      {
+        "name": "clinical_middle_pay",
+        "role": "clinical",
+        "intake": 139,
+        "instructors_if_qualified": 14,
+        "admitted_by_declared_capacity": 126,
+        "unplaced_at_start": 13,
+        "graduates_if_qualified": 107,
+        "duration": 6
+      },
+      {
+        "name": "education",
+        "role": "education",
+        "intake": 210,
+        "instructors_if_qualified": 21,
+        "admitted_by_declared_capacity": 189,
+        "unplaced_at_start": 21,
+        "graduates_if_qualified": 160,
+        "duration": 4
+      },
+      {
+        "name": "network",
+        "role": "network",
+        "intake": 73,
+        "instructors_if_qualified": 8,
+        "admitted_by_declared_capacity": 72,
+        "unplaced_at_start": 1,
+        "graduates_if_qualified": 61,
+        "duration": 3
+      },
+      {
+        "name": "technical",
+        "role": "technical",
+        "intake": 4,
+        "instructors_if_qualified": 1,
+        "admitted_by_declared_capacity": 4,
+        "unplaced_at_start": 0,
+        "graduates_if_qualified": 3,
+        "duration": 2
+      }
+    ],
+    "years": [
+      {
+        "year": 1,
+        "qualified_roles_if_all_sources_valid": {
+          "clinical": 3150.0,
+          "education": 2100.0,
+          "care": 2050.0,
+          "network": 750.0,
+          "justice": 1020.0,
+          "admin": 1020.0,
+          "technical": 0.0
+        },
+        "gaps_against_postproject_10_percent_loss_target": {
+          "clinical": 265.0,
+          "education": 160.0,
+          "care": 155.0,
+          "network": 55.0,
+          "justice": 82.0,
+          "admin": 82.0,
+          "technical": 20.0
+        }
+      },
+      {
+        "year": 2,
+        "qualified_roles_if_all_sources_valid": {
+          "clinical": 3150.0,
+          "education": 2100.0,
+          "care": 2050.0,
+          "network": 750.0,
+          "justice": 1020.0,
+          "admin": 1120.0,
+          "technical": 0.0
+        },
+        "gaps_against_postproject_10_percent_loss_target": {
+          "clinical": 265.0,
+          "education": 160.0,
+          "care": 155.0,
+          "network": 55.0,
+          "justice": 82.0,
+          "admin": 0.0,
+          "technical": 20.0
+        }
+      },
+      {
+        "year": 3,
+        "qualified_roles_if_all_sources_valid": {
+          "clinical": 3150.0,
+          "education": 2100.0,
+          "care": 2250.0,
+          "network": 750.0,
+          "justice": 1020.0,
+          "admin": 1120.0,
+          "technical": 23.0
+        },
+        "gaps_against_postproject_10_percent_loss_target": {
+          "clinical": 265.0,
+          "education": 160.0,
+          "care": 0.0,
+          "network": 55.0,
+          "justice": 82.0,
+          "admin": 0.0,
+          "technical": 0.0
+        }
+      },
+      {
+        "year": 4,
+        "qualified_roles_if_all_sources_valid": {
+          "clinical": 3150.0,
+          "education": 2100.0,
+          "care": 2250.0,
+          "network": 811.0,
+          "justice": 1120.0,
+          "admin": 1120.0,
+          "technical": 23.0
+        },
+        "gaps_against_postproject_10_percent_loss_target": {
+          "clinical": 265.0,
+          "education": 160.0,
+          "care": 0.0,
+          "network": 0.1,
+          "justice": 0.0,
+          "admin": 0.0,
+          "technical": 0.0
+        }
+      },
+      {
+        "year": 5,
+        "qualified_roles_if_all_sources_valid": {
+          "clinical": 3150.0,
+          "education": 2260.0,
+          "care": 2250.0,
+          "network": 811.0,
+          "justice": 1120.0,
+          "admin": 1120.0,
+          "technical": 23.0
+        },
+        "gaps_against_postproject_10_percent_loss_target": {
+          "clinical": 265.0,
+          "education": 16.0,
+          "care": 0.0,
+          "network": 0.1,
+          "justice": 0.0,
+          "admin": 0.0,
+          "technical": 0.0
+        }
+      },
+      {
+        "year": 6,
+        "qualified_roles_if_all_sources_valid": {
+          "clinical": 3150.0,
+          "education": 2260.0,
+          "care": 2250.0,
+          "network": 811.0,
+          "justice": 1120.0,
+          "admin": 1120.0,
+          "technical": 23.0
+        },
+        "gaps_against_postproject_10_percent_loss_target": {
+          "clinical": 265.0,
+          "education": 16.0,
+          "care": 0.0,
+          "network": 0.1,
+          "justice": 0.0,
+          "admin": 0.0,
+          "technical": 0.0
+        }
+      },
+      {
+        "year": 7,
+        "qualified_roles_if_all_sources_valid": {
+          "clinical": 3417.0,
+          "education": 2260.0,
+          "care": 2250.0,
+          "network": 811.0,
+          "justice": 1120.0,
+          "admin": 1120.0,
+          "technical": 23.0
+        },
+        "gaps_against_postproject_10_percent_loss_target": {
+          "clinical": 24.7,
+          "education": 16.0,
+          "care": 0.0,
+          "network": 0.1,
+          "justice": 0.0,
+          "admin": 0.0,
+          "technical": 0.0
+        }
+      },
+      {
+        "year": 8,
+        "qualified_roles_if_all_sources_valid": {
+          "clinical": 3417.0,
+          "education": 2260.0,
+          "care": 2250.0,
+          "network": 811.0,
+          "justice": 1120.0,
+          "admin": 1120.0,
+          "technical": 23.0
+        },
+        "gaps_against_postproject_10_percent_loss_target": {
+          "clinical": 24.7,
+          "education": 16.0,
+          "care": 0.0,
+          "network": 0.1,
+          "justice": 0.0,
+          "admin": 0.0,
+          "technical": 0.0
+        }
+      }
+    ],
+    "first_year_stated_loss_target_fits": null,
+    "additional_finance_for_unplaced_or_revised_completion": null,
+    "actual_qualification_or_delivery": null
+  },
+  "capacity_unreceived_facility": {
+    "tracks": [
+      {
+        "name": "clinical_higher_pay",
+        "role": "clinical",
+        "intake": 209,
+        "instructors_if_qualified": 21,
+        "admitted_by_declared_capacity": 0,
+        "unplaced_at_start": 209,
+        "graduates_if_qualified": 0,
+        "duration": 6
+      },
+      {
+        "name": "clinical_middle_pay",
+        "role": "clinical",
+        "intake": 139,
+        "instructors_if_qualified": 14,
+        "admitted_by_declared_capacity": 0,
+        "unplaced_at_start": 139,
+        "graduates_if_qualified": 0,
+        "duration": 6
+      },
+      {
+        "name": "education",
+        "role": "education",
+        "intake": 210,
+        "instructors_if_qualified": 21,
+        "admitted_by_declared_capacity": 0,
+        "unplaced_at_start": 210,
+        "graduates_if_qualified": 0,
+        "duration": 4
+      },
+      {
+        "name": "network",
+        "role": "network",
+        "intake": 73,
+        "instructors_if_qualified": 8,
+        "admitted_by_declared_capacity": 0,
+        "unplaced_at_start": 73,
+        "graduates_if_qualified": 0,
+        "duration": 3
+      },
+      {
+        "name": "technical",
+        "role": "technical",
+        "intake": 4,
+        "instructors_if_qualified": 1,
+        "admitted_by_declared_capacity": 0,
+        "unplaced_at_start": 4,
+        "graduates_if_qualified": 0,
+        "duration": 2
+      }
+    ],
+    "years": [
+      {
+        "year": 1,
+        "qualified_roles_if_all_sources_valid": {
+          "clinical": 3150.0,
+          "education": 2100.0,
+          "care": 2050.0,
+          "network": 750.0,
+          "justice": 1020.0,
+          "admin": 1020.0,
+          "technical": 0.0
+        },
+        "gaps_against_postproject_10_percent_loss_target": {
+          "clinical": 265.0,
+          "education": 160.0,
+          "care": 155.0,
+          "network": 55.0,
+          "justice": 82.0,
+          "admin": 82.0,
+          "technical": 20.0
+        }
+      },
+      {
+        "year": 2,
+        "qualified_roles_if_all_sources_valid": {
+          "clinical": 3150.0,
+          "education": 2100.0,
+          "care": 2050.0,
+          "network": 750.0,
+          "justice": 1020.0,
+          "admin": 1120.0,
+          "technical": 0.0
+        },
+        "gaps_against_postproject_10_percent_loss_target": {
+          "clinical": 265.0,
+          "education": 160.0,
+          "care": 155.0,
+          "network": 55.0,
+          "justice": 82.0,
+          "admin": 0.0,
+          "technical": 20.0
+        }
+      },
+      {
+        "year": 3,
+        "qualified_roles_if_all_sources_valid": {
+          "clinical": 3150.0,
+          "education": 2100.0,
+          "care": 2250.0,
+          "network": 750.0,
+          "justice": 1020.0,
+          "admin": 1120.0,
+          "technical": 20.0
+        },
+        "gaps_against_postproject_10_percent_loss_target": {
+          "clinical": 265.0,
+          "education": 160.0,
+          "care": 0.0,
+          "network": 55.0,
+          "justice": 82.0,
+          "admin": 0.0,
+          "technical": 2.0
+        }
+      },
+      {
+        "year": 4,
+        "qualified_roles_if_all_sources_valid": {
+          "clinical": 3150.0,
+          "education": 2100.0,
+          "care": 2250.0,
+          "network": 750.0,
+          "justice": 1120.0,
+          "admin": 1120.0,
+          "technical": 20.0
+        },
+        "gaps_against_postproject_10_percent_loss_target": {
+          "clinical": 265.0,
+          "education": 160.0,
+          "care": 0.0,
+          "network": 55.0,
+          "justice": 0.0,
+          "admin": 0.0,
+          "technical": 2.0
+        }
+      },
+      {
+        "year": 5,
+        "qualified_roles_if_all_sources_valid": {
+          "clinical": 3150.0,
+          "education": 2100.0,
+          "care": 2250.0,
+          "network": 750.0,
+          "justice": 1120.0,
+          "admin": 1120.0,
+          "technical": 20.0
+        },
+        "gaps_against_postproject_10_percent_loss_target": {
+          "clinical": 265.0,
+          "education": 160.0,
+          "care": 0.0,
+          "network": 55.0,
+          "justice": 0.0,
+          "admin": 0.0,
+          "technical": 2.0
+        }
+      },
+      {
+        "year": 6,
+        "qualified_roles_if_all_sources_valid": {
+          "clinical": 3150.0,
+          "education": 2100.0,
+          "care": 2250.0,
+          "network": 750.0,
+          "justice": 1120.0,
+          "admin": 1120.0,
+          "technical": 20.0
+        },
+        "gaps_against_postproject_10_percent_loss_target": {
+          "clinical": 265.0,
+          "education": 160.0,
+          "care": 0.0,
+          "network": 55.0,
+          "justice": 0.0,
+          "admin": 0.0,
+          "technical": 2.0
+        }
+      },
+      {
+        "year": 7,
+        "qualified_roles_if_all_sources_valid": {
+          "clinical": 3150.0,
+          "education": 2100.0,
+          "care": 2250.0,
+          "network": 750.0,
+          "justice": 1120.0,
+          "admin": 1120.0,
+          "technical": 20.0
+        },
+        "gaps_against_postproject_10_percent_loss_target": {
+          "clinical": 265.0,
+          "education": 160.0,
+          "care": 0.0,
+          "network": 55.0,
+          "justice": 0.0,
+          "admin": 0.0,
+          "technical": 2.0
+        }
+      },
+      {
+        "year": 8,
+        "qualified_roles_if_all_sources_valid": {
+          "clinical": 3150.0,
+          "education": 2100.0,
+          "care": 2250.0,
+          "network": 750.0,
+          "justice": 1120.0,
+          "admin": 1120.0,
+          "technical": 20.0
+        },
+        "gaps_against_postproject_10_percent_loss_target": {
+          "clinical": 265.0,
+          "education": 160.0,
+          "care": 0.0,
+          "network": 55.0,
+          "justice": 0.0,
+          "admin": 0.0,
+          "technical": 2.0
+        }
+      }
+    ],
+    "first_year_stated_loss_target_fits": null,
+    "additional_finance_for_unplaced_or_revised_completion": null,
+    "actual_qualification_or_delivery": null
+  },
+  "capacity_two_year_clinical_delay": {
+    "tracks": [
+      {
+        "name": "clinical_higher_pay",
+        "role": "clinical",
+        "intake": 209,
+        "instructors_if_qualified": 21,
+        "admitted_by_declared_capacity": 209,
+        "unplaced_at_start": 0,
+        "graduates_if_qualified": 177,
+        "duration": 8
+      },
+      {
+        "name": "clinical_middle_pay",
+        "role": "clinical",
+        "intake": 139,
+        "instructors_if_qualified": 14,
+        "admitted_by_declared_capacity": 139,
+        "unplaced_at_start": 0,
+        "graduates_if_qualified": 118,
+        "duration": 8
+      },
+      {
+        "name": "education",
+        "role": "education",
+        "intake": 210,
+        "instructors_if_qualified": 21,
+        "admitted_by_declared_capacity": 210,
+        "unplaced_at_start": 0,
+        "graduates_if_qualified": 178,
+        "duration": 4
+      },
+      {
+        "name": "network",
+        "role": "network",
+        "intake": 73,
+        "instructors_if_qualified": 8,
+        "admitted_by_declared_capacity": 73,
+        "unplaced_at_start": 0,
+        "graduates_if_qualified": 62,
+        "duration": 3
+      },
+      {
+        "name": "technical",
+        "role": "technical",
+        "intake": 4,
+        "instructors_if_qualified": 1,
+        "admitted_by_declared_capacity": 4,
+        "unplaced_at_start": 0,
+        "graduates_if_qualified": 3,
+        "duration": 2
+      }
+    ],
+    "years": [
+      {
+        "year": 1,
+        "qualified_roles_if_all_sources_valid": {
+          "clinical": 3150.0,
+          "education": 2100.0,
+          "care": 2050.0,
+          "network": 750.0,
+          "justice": 1020.0,
+          "admin": 1020.0,
+          "technical": 0.0
+        },
+        "gaps_against_postproject_10_percent_loss_target": {
+          "clinical": 265.0,
+          "education": 160.0,
+          "care": 155.0,
+          "network": 55.0,
+          "justice": 82.0,
+          "admin": 82.0,
+          "technical": 20.0
+        }
+      },
+      {
+        "year": 2,
+        "qualified_roles_if_all_sources_valid": {
+          "clinical": 3150.0,
+          "education": 2100.0,
+          "care": 2050.0,
+          "network": 750.0,
+          "justice": 1020.0,
+          "admin": 1120.0,
+          "technical": 0.0
+        },
+        "gaps_against_postproject_10_percent_loss_target": {
+          "clinical": 265.0,
+          "education": 160.0,
+          "care": 155.0,
+          "network": 55.0,
+          "justice": 82.0,
+          "admin": 0.0,
+          "technical": 20.0
+        }
+      },
+      {
+        "year": 3,
+        "qualified_roles_if_all_sources_valid": {
+          "clinical": 3150.0,
+          "education": 2100.0,
+          "care": 2250.0,
+          "network": 750.0,
+          "justice": 1020.0,
+          "admin": 1120.0,
+          "technical": 23.0
+        },
+        "gaps_against_postproject_10_percent_loss_target": {
+          "clinical": 265.0,
+          "education": 160.0,
+          "care": 0.0,
+          "network": 55.0,
+          "justice": 82.0,
+          "admin": 0.0,
+          "technical": 0.0
+        }
+      },
+      {
+        "year": 4,
+        "qualified_roles_if_all_sources_valid": {
+          "clinical": 3150.0,
+          "education": 2100.0,
+          "care": 2250.0,
+          "network": 812.0,
+          "justice": 1120.0,
+          "admin": 1120.0,
+          "technical": 23.0
+        },
+        "gaps_against_postproject_10_percent_loss_target": {
+          "clinical": 265.0,
+          "education": 160.0,
+          "care": 0.0,
+          "network": 0.0,
+          "justice": 0.0,
+          "admin": 0.0,
+          "technical": 0.0
+        }
+      },
+      {
+        "year": 5,
+        "qualified_roles_if_all_sources_valid": {
+          "clinical": 3150.0,
+          "education": 2278.0,
+          "care": 2250.0,
+          "network": 812.0,
+          "justice": 1120.0,
+          "admin": 1120.0,
+          "technical": 23.0
+        },
+        "gaps_against_postproject_10_percent_loss_target": {
+          "clinical": 265.0,
+          "education": 0.0,
+          "care": 0.0,
+          "network": 0.0,
+          "justice": 0.0,
+          "admin": 0.0,
+          "technical": 0.0
+        }
+      },
+      {
+        "year": 6,
+        "qualified_roles_if_all_sources_valid": {
+          "clinical": 3150.0,
+          "education": 2278.0,
+          "care": 2250.0,
+          "network": 812.0,
+          "justice": 1120.0,
+          "admin": 1120.0,
+          "technical": 23.0
+        },
+        "gaps_against_postproject_10_percent_loss_target": {
+          "clinical": 265.0,
+          "education": 0.0,
+          "care": 0.0,
+          "network": 0.0,
+          "justice": 0.0,
+          "admin": 0.0,
+          "technical": 0.0
+        }
+      },
+      {
+        "year": 7,
+        "qualified_roles_if_all_sources_valid": {
+          "clinical": 3150.0,
+          "education": 2278.0,
+          "care": 2250.0,
+          "network": 812.0,
+          "justice": 1120.0,
+          "admin": 1120.0,
+          "technical": 23.0
+        },
+        "gaps_against_postproject_10_percent_loss_target": {
+          "clinical": 265.0,
+          "education": 0.0,
+          "care": 0.0,
+          "network": 0.0,
+          "justice": 0.0,
+          "admin": 0.0,
+          "technical": 0.0
+        }
+      },
+      {
+        "year": 8,
+        "qualified_roles_if_all_sources_valid": {
+          "clinical": 3150.0,
+          "education": 2278.0,
+          "care": 2250.0,
+          "network": 812.0,
+          "justice": 1120.0,
+          "admin": 1120.0,
+          "technical": 23.0
+        },
+        "gaps_against_postproject_10_percent_loss_target": {
+          "clinical": 265.0,
+          "education": 0.0,
+          "care": 0.0,
+          "network": 0.0,
+          "justice": 0.0,
+          "admin": 0.0,
+          "technical": 0.0
+        }
+      },
+      {
+        "year": 9,
+        "qualified_roles_if_all_sources_valid": {
+          "clinical": 3445.0,
+          "education": 2278.0,
+          "care": 2250.0,
+          "network": 812.0,
+          "justice": 1120.0,
+          "admin": 1120.0,
+          "technical": 23.0
+        },
+        "gaps_against_postproject_10_percent_loss_target": {
+          "clinical": 0.0,
+          "education": 0.0,
+          "care": 0.0,
+          "network": 0.0,
+          "justice": 0.0,
+          "admin": 0.0,
+          "technical": 0.0
+        }
+      },
+      {
+        "year": 10,
+        "qualified_roles_if_all_sources_valid": {
+          "clinical": 3445.0,
+          "education": 2278.0,
+          "care": 2250.0,
+          "network": 812.0,
+          "justice": 1120.0,
+          "admin": 1120.0,
+          "technical": 23.0
+        },
+        "gaps_against_postproject_10_percent_loss_target": {
+          "clinical": 0.0,
+          "education": 0.0,
+          "care": 0.0,
+          "network": 0.0,
+          "justice": 0.0,
+          "admin": 0.0,
+          "technical": 0.0
+        }
+      }
+    ],
+    "first_year_stated_loss_target_fits": 9,
+    "additional_finance_for_unplaced_or_revised_completion": null,
+    "actual_qualification_or_delivery": null
+  },
+  "known_annual_continuing_bill_excluding_renewal_and_baseline": 60.5,
+  "full_current_function_costs": null,
+  "new_training_physical_inputs": null,
+  "actual_AI_net_capacity": null,
+  "actual_productivity_gain": null,
+  "actual_private_job_or_output_replacement": null,
+  "actual_readiness": false,
+  "limits": [
+    "All intakes, pay, 85% qualification, durations, instructor ratio, prices and dates are authored assumptions, not actual training/qualification evidence. Broad role categories do not certify clinical specialties or real staffing.",
+    "All 635 new trainees and 65 instructors are distinct source people with paid time drawn from prior market roles. The 55,000 accounting universe does not prove continued private employment/output or tax receipts.",
+    "The old 420-person preparation and its 2/year training line are retained only in their original bounded scope. Actual instructors/qualification for that older programme remain unknown and cannot be certified by this extension.",
+    "The proposed candidate model allocates old 108 capital/12 training separately from new 7 training facilities/other inputs. Actual baseline inclusion, overlap and all current 37-function attribution remain unknown, not a second actual bill.",
+    "7 training assets are assumed ready and paid at year 0, maintained 0.5/year and gross-replaced 0.35/year. Safe site, equipment, instructor access, energy, water, materials, FX and acceptance remain unverified.",
+    "Normal grants/appropriations are assumed upfront only to identify the required envelope. No source, creditor, tax receipt, permission, external counterparty or lawful actual budget is verified; borrowing would add its own service.",
+    "Training pay preserves the declared prior wage composition: clinical 209 higher-paid/139 middle-paid, rather than lowering all students to a cheaper uniform wage. Actual hardship and individual source rights need their separate records.",
+    "Minimum six-month bridges cover non-qualifiers and instructors after the declared term. They are not guaranteed private jobs, compulsory employment, cancellation of unresolved training claims or all future I05/care/pension costs.",
+    "Instruction-loss and unavailable-facility cases change usable admissions/graduates, not the normal spending envelope into a verified revised budget. Unplaced learners retain outstanding commitments; additional completion finance is unknown.",
+    "Yearly staffing counts become available only after the complete course; students and instructors are not also frontline capacity. A qualified credential still needs the actual role, shift, safe site and independent acceptance.",
+    "A two-year clinical delay is compared through year 10 with two post-completion operating years, retaining other wages/maintenance. A shorter year-8 snapshot cannot hide remaining obligations.",
+    "The eight/ten-year finance includes only this joined enabling/reserve programme; baseline public services, household income, all pension/survivor/credit obligations, private finance, existing debt/FX and current country costs are outside and unknown.",
+    "The technical opening zero is only the old additional project team, not a claim that an entire country has no other engineers or technicians. Gaps are against a stated postproject target, not proof that all earlier statutory duties were already due.",
+    "The known continuing bill excludes baseline capital replacement, future turnover/retirement training, new services, claims and shocks. Post-horizon renewal is unknown, not zero or a stationary workforce.",
+    "No assumed AI saving, higher GDP, future tax or birth/migration outcome funds present training or constitutes observed productivity. No real affected participation, independent qualified review or operating readiness was obtained.",
+    "The joined candidate attributes old-project wear replacement 5.4/year after commissioning in addition to the old envelope. It must be matched once against the general public replacement budget (29.4 in the older post-commission comparator), not added to that whole budget again. Actual baseline attribution remains unknown."
+  ]
+}

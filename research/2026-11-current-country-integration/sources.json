@@ -1,0 +1,56 @@
+{
+  "edition": 119,
+  "retrieved": "2026-11-02",
+  "scope": "Canonical/project texts establish the desk scope findings. Limited primary normative comparison is not actual participation/authority/outcomes or a complete current legal opinion.",
+  "inspected": [
+    {
+      "id": "UN_HRC_56_3",
+      "url": "https://mandates.un.org/mandate/A/HRC/RES/56/3",
+      "issuer": "United Nations Mandate Registry, HRC resolution text",
+      "date": "2024",
+      "inspection": "Full31-operative-paragraph registry text, especially2,4,9,14,19-23; prior35/12 page links this later version.",
+      "support": "Normative judicial selection/tenure, prosecution, legal aid/capacity and human-accountable judicial AI considerations.",
+      "limits": "Not project institutional design/quotas/appointments, actual effects/independence, full treaty implementation or exhaustive later-event search. Registry version list is not a world-wide final legal-status audit."
+    },
+    {
+      "id": "UN_HRC_35_12",
+      "url": "https://mandates.un.org/mandate/A/HRC/RES/35/12",
+      "issuer": "United Nations Mandate Registry",
+      "date": "2017",
+      "inspection": "Full24-operative-paragraph registry text; explicitly marked older with link to56/3.",
+      "limits": "Historical normative context only; same family, not independent outcome corroboration."
+    }
+  ],
+  "access_limits": [
+    {
+      "url": "https://www.ohchr.org/en/instruments-mechanisms/instruments/basic-principles-independence-judiciary",
+      "observed": "403; full instrument not claimed read."
+    },
+    {
+      "url": "https://www.ohchr.org/en/instruments-mechanisms/instruments/guidelines-role-prosecutors",
+      "observed": "403; full guidelines not claimed read."
+    },
+    {
+      "url": "https://www.ohchr.org/sites/default/files/prosecutors.pdf",
+      "observed": "403; search snippet not substituted for full instrument."
+    },
+    {
+      "url": "https://www.unodc.org/res/ji/import/international_standards/basic_principles_on_the_independence_of_the_judiciary/basic_principles_on_the_independence_of_the_judiciary.pdf",
+      "observed": "404; original path unavailable."
+    },
+    {
+      "url": "https://www.unodc.org/pdf/crime/uncjin/standards/Compendium/pt1d.pdf",
+      "observed": "404; compendium not inspected."
+    },
+    {
+      "url": "https://www.unodc.org/conig/uploads/res/publications_html/Working_Paper_-_Judicial_Selection_and_Appointments.pdf",
+      "observed": "404; working paper not inspected."
+    }
+  ],
+  "qualified_analysis_not_original_observation": [
+    "J1/A1 selected-source completeness findings and finite priority are root desk judgments, not affected or independent legal findings.",
+    "37-function overlay indexes all original rows; selected deep chain/source/calendar review is not exhaustive word-by-word876-file or whole-world function verification.",
+    "Old FD07 calendar and original bids/nulls trace exact predecessor artifacts; fictional1hour/time/loss/date cases are counterexamples, not new actual demand/source/eligibility."
+  ],
+  "actual_independent_affected_review_authority_operation_or_better_lives": null
+}

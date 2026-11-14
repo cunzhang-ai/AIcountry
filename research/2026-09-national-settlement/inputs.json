@@ -1,0 +1,341 @@
+{
+  "status": "Invented conditional national planning ledger; no population data, prices, legal appropriation or behavioral estimates",
+  "units": {
+    "money": "million fictional CU, except grant_per_person_cu",
+    "staff": "annual full-time-equivalent positions by non-interchangeable sector",
+    "energy": "public-service GWh per year",
+    "capital_delivery": "million CU worth of specified works at assumed fixed prices; proxy, not national construction supply"
+  },
+  "population": {
+    "residents": 100000,
+    "children": 20000,
+    "adults": 80000,
+    "older_adults_within_adults": 15000
+  },
+  "years": [
+    1,
+    2,
+    3
+  ],
+  "gdp": [
+    3000,
+    3000,
+    3000
+  ],
+  "revenue": {
+    "personal_tax": [
+      400,
+      410,
+      420
+    ],
+    "corporate_tax": [
+      120,
+      125,
+      130
+    ],
+    "consumption_tax_net_of_refunds": [
+      220,
+      225,
+      230
+    ],
+    "land_tax": [
+      100,
+      100,
+      100
+    ],
+    "pollution_charge": [
+      20,
+      15,
+      10
+    ],
+    "fees_and_other_recurring": [
+      40,
+      40,
+      40
+    ]
+  },
+  "opening_debt": 600,
+  "opening_cash": 150,
+  "minimum_cash_buffer": 100,
+  "interest_rate": 0.05,
+  "maturing_principal": [
+    100,
+    100,
+    100
+  ],
+  "assumed_refinancing_capacity": [
+    100,
+    100,
+    100
+  ],
+  "max_new_borrowing": [
+    60,
+    60,
+    60
+  ],
+  "income_support": [
+    100,
+    100,
+    100
+  ],
+  "income_components": {
+    "old_age": 45,
+    "disability": 15,
+    "other_income_security": 40
+  },
+  "targeted_cash_distribution": [
+    70,
+    25,
+    5
+  ],
+  "population_groups": [
+    40000,
+    40000,
+    20000
+  ],
+  "sectors": {
+    "health": {
+      "retain_cost": [
+        230,
+        235,
+        240
+      ],
+      "expand_cost": [
+        230,
+        240,
+        250
+      ],
+      "retain_staff": [
+        3000,
+        3000,
+        3000
+      ],
+      "required_staff": [
+        3000,
+        3100,
+        3200
+      ],
+      "available_staff": [
+        3050,
+        3150,
+        3250
+      ]
+    },
+    "education": {
+      "retain_cost": [
+        140,
+        143,
+        146
+      ],
+      "expand_cost": [
+        140,
+        145,
+        150
+      ],
+      "retain_staff": [
+        2000,
+        2000,
+        2000
+      ],
+      "required_staff": [
+        2000,
+        2050,
+        2100
+      ],
+      "available_staff": [
+        2050,
+        2100,
+        2150
+      ]
+    },
+    "care": {
+      "retain_cost": [
+        100,
+        102,
+        104
+      ],
+      "expand_cost": [
+        100,
+        110,
+        120
+      ],
+      "retain_staff": [
+        1800,
+        1800,
+        1800
+      ],
+      "required_staff": [
+        1800,
+        2000,
+        2200
+      ],
+      "available_staff": [
+        1850,
+        2050,
+        2250
+      ]
+    },
+    "housing_networks": {
+      "retain_cost": [
+        100,
+        102,
+        104
+      ],
+      "expand_cost": [
+        100,
+        105,
+        110
+      ],
+      "retain_staff": [
+        700,
+        700,
+        700
+      ],
+      "required_staff": [
+        700,
+        730,
+        760
+      ],
+      "available_staff": [
+        720,
+        750,
+        780
+      ]
+    },
+    "justice_safety_defense": {
+      "retain_cost": [
+        90,
+        92,
+        94
+      ],
+      "expand_cost": [
+        90,
+        92,
+        94
+      ],
+      "retain_staff": [
+        1000,
+        1000,
+        1000
+      ],
+      "required_staff": [
+        1000,
+        1000,
+        1000
+      ],
+      "available_staff": [
+        1020,
+        1020,
+        1020
+      ]
+    },
+    "democracy_administration_science_culture": {
+      "retain_cost": [
+        80,
+        81,
+        82
+      ],
+      "expand_cost": [
+        80,
+        82,
+        84
+      ],
+      "retain_staff": [
+        1000,
+        1000,
+        1000
+      ],
+      "required_staff": [
+        1000,
+        1000,
+        1000
+      ],
+      "available_staff": [
+        1020,
+        1020,
+        1020
+      ]
+    }
+  },
+  "capital_delivery_capacity": [
+    65,
+    65,
+    65
+  ],
+  "public_service_energy_capacity": [
+    340,
+    350,
+    360
+  ],
+  "essential_energy_requirement": [
+    300,
+    320,
+    340
+  ],
+  "packages": {
+    "B_retain": {
+      "expand": false,
+      "capital": [
+        40,
+        40,
+        40
+      ],
+      "grant_per_person_cu": 0,
+      "energy": [
+        300,
+        300,
+        300
+      ]
+    },
+    "S_services": {
+      "expand": true,
+      "capital": [
+        60,
+        60,
+        60
+      ],
+      "grant_per_person_cu": 0,
+      "energy": [
+        300,
+        320,
+        340
+      ]
+    },
+    "U_cash_supplement": {
+      "expand": false,
+      "capital": [
+        40,
+        40,
+        40
+      ],
+      "grant_per_person_cu": 600,
+      "energy": [
+        300,
+        300,
+        300
+      ]
+    }
+  },
+  "scenarios": {
+    "reference": {},
+    "revenue_and_need_shock": {
+      "year": 2,
+      "revenue_factor": 0.9,
+      "extra_income_support": 20
+    },
+    "care_workforce_loss": {
+      "year": 2,
+      "care_capacity_factor": 0.9
+    }
+  },
+  "limits": [
+    "All numeric quantities are authored assumptions, not empirically calibrated.",
+    "Selected population is not a founding electorate.",
+    "Annual cash accounting cannot establish payment by individual due dates.",
+    "No tax-incidence, behavioral, housing-output, inflation or growth model.",
+    "No complete land, materials, ecological or balance-of-payments account.",
+    "Existing commitments assumed represented; actual liabilities could change every result.",
+    "Staff allocations do not demonstrate quality, geographic access, safe staffing or adequate benefits.",
+    "Unpaid financing gaps carry as arrears with no modeled penalty interest; no implicit debt or cancellation."
+  ]
+}

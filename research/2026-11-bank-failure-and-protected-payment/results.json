@@ -1,0 +1,95 @@
+{
+  "edition": 99,
+  "scope": "Independent authored amount/headroom/UTCelapsed/workingordinal/Gregoriandate probes, no eligibility/group/authority/receipt inference",
+  "claims": {
+    "cap_CU": 6000,
+    "covered_CU": [
+      4000,
+      6000
+    ],
+    "advance_CU": [
+      500,
+      500
+    ],
+    "total_covered_CU": 10000,
+    "total_advance_CU": 1000,
+    "remaining_CU": 9000,
+    "uninsured_CU": [
+      0,
+      4000
+    ],
+    "actual_eligible_title_or_group_T0_or_receipt": null
+  },
+  "separate_banks": {
+    "A_only_failed_covered_CU": 4000,
+    "B_healthy_insurer_due_CU": 0,
+    "if_both_separately_failed_CU": 8000,
+    "former_group_cap_comparator_CU": 6000,
+    "actual_banks_events_or_eligibility": null
+  },
+  "merger_quantity_prototype": {
+    "normal_quantity_CU": 6000,
+    "legacy_quantity_CU": 8000,
+    "nonadditive_prototype_CU": 8000,
+    "incorrect_added_quantity_CU": 14000,
+    "actual_sixmonth_eligibility_or_traced_title": null
+  },
+  "facility": {
+    "additional_maximum_liquidity_million": 98,
+    "undrawn_principal_headroom_million": 88,
+    "headroom_gap_million": 10,
+    "principal_cap_respected": true,
+    "headroom_quantity_pass": false,
+    "due_window_cash_quantity_million": 2,
+    "due_window_unpaid_million": 1,
+    "interest_or_full_source_or_actual_payment": null
+  },
+  "public_due": {
+    "G_due_CU": 1400,
+    "G_unpaid_CU": 400,
+    "insurer_cash_not_G_CU": 1000,
+    "actual_source_or_due_receipt": null
+  },
+  "recognition_clock": {
+    "report_elapsed_h": 2.5,
+    "report_2h_bound": false,
+    "decision_from_referral_h": 6.5,
+    "decision_6h_bound": false,
+    "advance_from_original_event_h": 26.0,
+    "advance_24h_original_bound": false,
+    "misleading_24h_from_decision_pass": true,
+    "balance_within_7_workday_indices": false,
+    "actual_objective_event_or_finding_or_entitlement_or_receipt": null
+  },
+  "review_clock": {
+    "hearing_original_elapsed_h": 73.0,
+    "72h_original_bound": false,
+    "misleading_replacement_bound": true,
+    "actual_meaningful_hearing_or_continuation_authority": null
+  },
+  "stay_ordinal": {
+    "original_outer_index": 2,
+    "asserted_end_within_original_bound": false,
+    "misleading_reset_outer_index": 3,
+    "actual_legal_calendar_or_valid_stay": null
+  },
+  "bridge_date": {
+    "original_expiry": "2028-11-01",
+    "first_review_due": "2027-05-01",
+    "asserted_end_within_original_bound": false,
+    "misleading_shell_expiry": "2029-11-01",
+    "actual_paid_bridge_or_lawful_renewal": null
+  },
+  "actual": {
+    "source_law_or_public_mandate": null,
+    "member_or_beneficial_title_or_event": null,
+    "qualified_panel_insurer_payer_court_valuer": null,
+    "full_cost_or_owned_sources_or_fx": null,
+    "independent_professional_review": null,
+    "affected_participation": null,
+    "lawful_entry_or_interference": null,
+    "enactment": null,
+    "safe_receiver_or_delivered_remedy": null,
+    "better_lives": null
+  }
+}

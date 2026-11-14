@@ -1,0 +1,86 @@
+{
+  "edition": 82,
+  "access_date": "2026-10-15",
+  "documentary_entries": 5,
+  "institutional_families": 2,
+  "publisher_byte_archive": false,
+  "full_treaty_clinical_legal_or_operational_conformity": false,
+  "sources": [
+    {
+      "id": "CRPD-A12",
+      "family": "UN system",
+      "type": "Treaty article, partial search inspection",
+      "url": "https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities/article-12-equal-recognition-before-the-law.html",
+      "inspected": "Life-law agent official search excerpts; direct root UN/OHCHR HTML retrieval failed403",
+      "use": "Located equal agency/support/safeguards issue; not a complete treaty or party/conformity review",
+      "full_text_inspected": false
+    },
+    {
+      "id": "GC1-2014",
+      "family": "UN system",
+      "type": "Committee interpretive text",
+      "url": "https://documents.un.org/doc/undoc/gen/g14/031/20/pdf/g1403120.pdf",
+      "date": "19 May2014",
+      "inspected": "Root/task-agent selected13–22,27–29,40–42; official full PDF accessible, not full country-specific application",
+      "use": "Distinguishes legal/mental capacity, will/preferences and substituted medical consent; real incompatibility objection retained",
+      "outcome_evidence": false
+    },
+    {
+      "id": "GC1-CORR2018",
+      "family": "UN system",
+      "type": "Committee corrigendum",
+      "url": "https://docstore.ohchr.org/SelfServices/FilesHandler.ashx?enc=XBJrja1NI23jjzoD%2BXg0DS7wIHEnIp93rTAvLUIgIGhNhE2likgU4AkIThrKpkkNWeW7IQ3hrAlle3kxQv83LLDoo%2BSXjSfNEtrtgzN4f%2FU%3D",
+      "date": "26 January2018",
+      "inspected": "Root/task agents paragraph27 replacement",
+      "use": "Characteristics are alternatives, not cumulative tests. Formal retained capacity/single-act scope do not prove Committee compatibility",
+      "outcome_evidence": false
+    },
+    {
+      "id": "MCA-S4",
+      "family": "UK legislation publisher",
+      "type": "Statutory section",
+      "url": "https://www.legislation.gov.uk/ukpga/2005/9/section/4",
+      "retrieved_endpoint": "https://www.legislation.gov.uk/ukpga/2005/9/section/4/data.xml",
+      "inspected": "Rendered direct open failed; root independently fetched official XML36412bytes and read section paragraphs/notes",
+      "use": "Best-interests comparator including participation/recovery/wishes and life-sustaining motivation; not imported as UA authority",
+      "full_Act_case_law_or_clinical_review": false
+    },
+    {
+      "id": "MCA-S6",
+      "family": "UK legislation publisher",
+      "type": "Statutory section",
+      "url": "https://www.legislation.gov.uk/ukpga/2005/9/section/6",
+      "retrieved_endpoint": "https://www.legislation.gov.uk/ukpga/2005/9/section/6/data.xml",
+      "inspected": "Rendered direct open failed; root independently fetched official XML30893bytes and read section paragraphs/notes",
+      "use": "Restraint includes movement restriction without resistance; source exceptions differ from UA, no complete amended-Act conformity claim",
+      "full_Act_case_law_or_clinical_review": false
+    }
+  ],
+  "failed_or_limited_routes": [
+    {
+      "url": "https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-persons-disabilities",
+      "result": "403Forbidden"
+    },
+    {
+      "url": "https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities/article-12-equal-recognition-before-the-law.html",
+      "result": "403Forbidden; agent search excerpt only"
+    },
+    {
+      "url": "https://www.legislation.gov.uk/ukpga/2005/9/section/4",
+      "result": "Rendered open internal error; official XML fetched via direct publisher request"
+    },
+    {
+      "url": "https://www.legislation.gov.uk/ukpga/2005/9/section/6",
+      "result": "Rendered open internal error; official XML fetched via direct publisher request"
+    },
+    {
+      "url": "https://www.legislation.gov.uk/ukpga/2005/9/section/4/data.xml",
+      "result": "Browser tool unsupported XML content-type; direct publisher retrieval succeeded"
+    },
+    {
+      "url": "https://www.legislation.gov.uk/ukpga/2005/9/section/6/data.xml",
+      "result": "Browser tool inaccessible; direct publisher retrieval succeeded"
+    }
+  ],
+  "review": "Root and three agents share one AI controller. No claimed clinical/legal qualification, independent external review, actual affected participation, treaty party/reservation position, adoption or observed outcomes."
+}

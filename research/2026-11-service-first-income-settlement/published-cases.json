@@ -1,0 +1,85 @@
+{
+  "source": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2018/04/basic-income-or-a-single-tapering-rule-incentives-inclusiveness-and-affordability-compared-for-the-case-of-finland_bba33b82/d8c0fbc4-en.pdf",
+  "doi": "10.1787/d8c0fbc4-en",
+  "original_family": "Pareliussen-Hwang-Viitamaki-2018 TaxBen/TUJA study",
+  "reference_rules": "2015-07-01",
+  "kind": "published model households, not observed individual records",
+  "unit": "AETR percentage, rounded at source",
+  "cases": [
+    {
+      "id": "insured_lone_parent_lower_return_wage",
+      "source_table": "A3.2 A right",
+      "page_zero_based": 29,
+      "UI": true,
+      "children": [
+        2,
+        5
+      ],
+      "previous_AW_fraction": "1",
+      "time_fraction": "1",
+      "AETR_percent": {
+        "published_current": "103.4",
+        "published_BI": "82.9",
+        "published_UC": "74.4"
+      },
+      "return_full_time_equivalent_wage_AW_fraction": "0.8"
+    },
+    {
+      "id": "insured_second_earner_children_same_wage",
+      "source_table": "A3.2 A left",
+      "page_zero_based": 29,
+      "UI": true,
+      "children": [
+        2,
+        5
+      ],
+      "previous_AW_fraction": "1",
+      "time_fraction": "1",
+      "AETR_percent": {
+        "published_current": "93.9",
+        "published_BI": "59.7",
+        "published_UC": "75.8"
+      },
+      "return_full_time_equivalent_wage_AW_fraction": "1"
+    },
+    {
+      "id": "uninsured_second_earner_children_half_time",
+      "source_table": "5 half time",
+      "page_zero_based": 18,
+      "UI": false,
+      "children": [
+        2,
+        5
+      ],
+      "previous_AW_fraction": null,
+      "time_fraction": "0.5",
+      "AETR_percent": {
+        "published_current": "89.4",
+        "published_BI": "86.3",
+        "published_UC": "56.0"
+      },
+      "return_full_time_equivalent_wage_AW_fraction": "0.67"
+    },
+    {
+      "id": "uninsured_second_earner_no_children_half_time",
+      "source_table": "5 half time",
+      "page_zero_based": 18,
+      "UI": false,
+      "children": [],
+      "previous_AW_fraction": null,
+      "time_fraction": "0.5",
+      "AETR_percent": {
+        "published_current": "11.6",
+        "published_BI": "41.9",
+        "published_UC": "11.6"
+      },
+      "return_full_time_equivalent_wage_AW_fraction": "0.67"
+    }
+  ],
+  "unresolved_source_fields": [
+    "spouse earnings detail not transcribed",
+    "absolute housing amounts",
+    "actual service receipt and quality",
+    "full tax bases and source-law individual pension records"
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "edition": 97,
+  "scope": "Authored planned-work/threshold/UTC arithmetic only; required_h means declared plan, not legal minimum, actual truth/authority or force decision",
+  "commission_independent_probes": [
+    {
+      "present": 5,
+      "affirmative": 4,
+      "fixed_arithmetic_only": true
+    },
+    {
+      "present": 4,
+      "affirmative": 4,
+      "fixed_arithmetic_only": false
+    },
+    {
+      "present": 5,
+      "affirmative": 3,
+      "fixed_arithmetic_only": false
+    },
+    {
+      "present": 7,
+      "affirmative": 4,
+      "fixed_arithmetic_only": true
+    }
+  ],
+  "selectors": {
+    "legal_fixed_arithmetic": true,
+    "public_fixed_arithmetic": false,
+    "opposition_required": 5,
+    "opposition_fixed_arithmetic": true
+  },
+  "finite_seats": {
+    "available": 5,
+    "unavailable": 2,
+    "reserve_in_use": 1,
+    "actual_commission_decision": null
+  },
+  "public_panel_quorum_only": {
+    "planned_members": 36,
+    "present_members": 26,
+    "additional_present_needed": 1,
+    "minimum_quorum_member_h": 81,
+    "quorum_member_h_gap": 3,
+    "support_plus_quorum_minimum_planned_h": 137,
+    "actual_lawful_replacement_or_valid_approval": null
+  },
+  "work": {
+    "tasks": {
+      "selection_access_staff": {
+        "required_h": 9,
+        "available_h": 6,
+        "gap_h": 3
+      },
+      "ordinary_judge": {
+        "required_h": 9,
+        "available_h": 6,
+        "gap_h": 3
+      },
+      "independent_counsel": {
+        "required_h": 8,
+        "available_h": 6,
+        "gap_h": 2
+      },
+      "election_executor_receiver": {
+        "required_h": 4,
+        "available_h": 2,
+        "gap_h": 2
+      },
+      "clinical_aid": {
+        "required_h": 6,
+        "available_h": 6,
+        "gap_h": 0
+      },
+      "outside_investigator": {
+        "required_h": 8,
+        "available_h": 4,
+        "gap_h": 4
+      },
+      "election_custodian": {
+        "required_h": 3,
+        "available_h": 3,
+        "gap_h": 0
+      },
+      "force_custodian": {
+        "required_h": 5,
+        "available_h": 2,
+        "gap_h": 3
+      },
+      "election_interpreter": {
+        "required_h": 2,
+        "available_h": 0,
+        "gap_h": 2
+      },
+      "force_interpreter": {
+        "required_h": 2,
+        "available_h": 2,
+        "gap_h": 0
+      },
+      "public_panel_members": {
+        "required_h": 108,
+        "available_h": 78,
+        "gap_h": 30
+      }
+    },
+    "required_h": 164,
+    "available_h": 115,
+    "role_gap_h": 49,
+    "aggregate_balance_h": -49,
+    "all_role_hours_met": false,
+    "full_panel_or_country_cost": null,
+    "actual_qualified_receivers": null
+  },
+  "force_record": {
+    "outer_12h_pass": true,
+    "earlier_shift_deadline": "2026-11-03T16:00:00+00:00",
+    "both_bounds_pass": false,
+    "actual_report_or_aid_received": null
+  },
+  "liberty": {
+    "elapsed_original_hours": 25.0,
+    "24h_bound_pass": false,
+    "misleading_transfer_bound_pass": true,
+    "actual_order_or_release": null
+  },
+  "campaign": {
+    "five_day_bound_pass": true,
+    "decision_useful_time_pass": false,
+    "support_48h_after_assumed_qualification_pass": true,
+    "support_useful_time_pass": false,
+    "original_outer_due": "2026-11-04T12:00:00+00:00",
+    "wrong_referral_reset_due": "2026-11-07T12:00:00+00:00",
+    "actual_qualification_or_equal_reach": null
+  },
+  "actual": {
+    "source_law_or_force_authority": null,
+    "legitimate_public_mandate": null,
+    "original_count_or_qualification": null,
+    "owned_cash_or_fx": null,
+    "full_cost_or_qualified_staff": null,
+    "professional_independent_review": null,
+    "affected_participation": null,
+    "safe_aid_or_inquiry": null,
+    "enactment": null,
+    "received_remedy": null,
+    "better_lives": null
+  }
+}

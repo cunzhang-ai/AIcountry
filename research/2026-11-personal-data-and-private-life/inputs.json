@@ -1,0 +1,97 @@
+{
+  "edition": 96,
+  "status": "Authored scope/work/time examples; no real data subjects, permission, safe roster, source, technology or operating system",
+  "unit": "Hours and invented CU as labelled. UTC calendar examples only; actual working-day/holiday/jurisdiction rules not computed.",
+  "intake": {
+    "online_h": 0.25,
+    "assisted_h": 1.5,
+    "interpretation_h": 0.5,
+    "available_assisted_h": 1,
+    "actual_clinical_receipt": null
+  },
+  "correction": {
+    "tasks": {
+      "source": 1,
+      "feature_model": 2,
+      "housing_redecision": 1,
+      "independent_challenge": 1
+    },
+    "available_by_task": {
+      "source": 1,
+      "feature_model": 1,
+      "housing_redecision": 2,
+      "independent_challenge": 1
+    },
+    "completed_nodes": [
+      "source"
+    ],
+    "actual_corrected_model_or_decision": null
+  },
+  "proof": {
+    "issuer_pilot_CU": 8,
+    "verifier_pilot_CU": 5,
+    "first_year_audit_training_CU": 2,
+    "assisted_fallback_CU": null,
+    "claim": "over65_hypothetical_threshold",
+    "actual_earned_units_or_payee_or_receipt": null,
+    "actual_anonymity_or_safe_proof": null
+  },
+  "vendor": {
+    "shared_forensic_core_h": 40,
+    "health_response_h": 30,
+    "benefit_response_h": 30,
+    "coordination_h": 15,
+    "actual_qualified_shifts_or_receivers": null
+  },
+  "agent": {
+    "scope_version": "booking_example_v1",
+    "allowed_purpose": "book_clinical_visit",
+    "allowed_recipient": "chosen_clinician",
+    "allowed_actions": [
+      "book_visit",
+      "send_listed_symptoms"
+    ],
+    "requested_actions": [
+      "book_visit",
+      "train_on_full_archive",
+      "send_to_insurer"
+    ],
+    "direct_assisted_alternative_h": 0.75,
+    "fixture_prior_valid_booking": true,
+    "actual_data_basis_or_current_mandate": null,
+    "actual_unlearning_or_received_care": null
+  },
+  "request_clock": {
+    "first_usable_received": "2026-11-01T10:00:00+00:00",
+    "later_referral_received": "2026-11-20T10:00:00+00:00",
+    "answer_given": "2026-12-05T10:00:00+00:00",
+    "ordinary_days": 30,
+    "extension_days": 30,
+    "extension_given": null,
+    "extension_genuine_complexity": false,
+    "extension_previously_used": false,
+    "urgent_protection_due": "2026-11-01T12:00:00+00:00",
+    "protection_given": "2026-11-01T15:00:00+00:00",
+    "actual_legal_or_service_finding": null
+  },
+  "breach_clock": {
+    "reasonable_awareness": "2026-11-01T08:00:00+00:00",
+    "regulator_notice": "2026-11-04T08:00:00+00:00",
+    "affected_notice": "2026-11-04T08:00:00+00:00",
+    "outer_hours": 72,
+    "useful_protection_due": "2026-11-01T10:00:00+00:00",
+    "protection_given": "2026-11-01T13:00:00+00:00",
+    "actual_secure_recovery_or_notice_receipt": null
+  },
+  "actual": {
+    "jurisdiction_law_and_treaties": null,
+    "appropriation_and_owned_sources": null,
+    "qualified_controller_supervisor_or_court_staff": null,
+    "lawful_bases_consent_and_mandates": null,
+    "safe_custody_anonymity_or_unlearning": null,
+    "affected_participation": null,
+    "qualified_independent_review": null,
+    "received_remedies": null,
+    "better_lives": null
+  }
+}

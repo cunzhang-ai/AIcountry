@@ -1,0 +1,24 @@
+# Effective control, fair process and remedies that reach people
+
+*Part of [international-crime journeys](README.md); fictional IC13–IC24.*
+
+| Case | Candidate boundary and continuing obligation |
+|---|---|
+| IC13 A command diagram and later casualty estimate are the only evidence against a superior | G07 needs effective control, actual information/knowledge branch, real available prevention/repression, causal contribution and a proved subordinate G crime. Rank, hindsight and pooled staff knowledge cannot replace those elements. |
+| IC14 A superior learns of an already completed unexpected crime and conceals it | That discovery cannot retroactively cause the completed act. The specific knowing reporting duty/K12 obstruction may apply on their own proof, with five-year reporting ceiling and lawful-excuse/ability safeguards. Preservation/inquiry must be outside the implicated command. |
+| IC15 Three AI reports trace back to one altered recording or coerced account | P11–P14 source history, independent challenge and exclusion remain. Agreement is not corroboration; a new investigator/translation does not cleanse taint. Support/protection is separate from proof of guilt. |
+| IC16 A foreign accused is present, but the charge relies solely on a new domestic extension | G09's presence-only route needs a demonstrated applicable international basis for the particular core crime, plus actual competence/immunity and defense. Domestic extension alone is insufficient. Territorial/personal routes and safe victim receiving retain their own scope. |
+| IC17 A visiting foreign leader or international body claims immunity | Determine the actual person, court, act, source/period and cooperation regime. No rank-based acquittal or blanket no-immunity slogan. A domestic court is not automatically the ICC, and a minister cannot choose the outcome. Actual unresolved protection/remedy remains visible. |
+| IC18 A foreign acquittal is unpopular or alleged to be a shield | G10's narrow foreign exception requires prosecution proof beyond reasonable doubt of the specified shielding/not-genuine defect before a different independent formation. A different penalty/result is insufficient; permission to proceed is not guilt. Domestic acquittal finality is not generically reopened. |
+| IC19 A 17-year-old is alleged to have committed atrocity conduct | No adult G charge under the chosen age 18 scope. Only independently applicable ordinary child law, with actual fault, counsel and five-year cap; below 16 no conviction. Protect the young person's voice and actual victims without punishment disguised as care. |
+| IC20 A frightened survivor needs housing but cannot tolerate public testimony | Receive support on its own grounds, preserve safe participation/source/privacy and funded advice. No service penalty for refusal. Criminal proof still needs fair challenge; unusably secret material cannot become guilt evidence. A failed case is not proof of fabrication. |
+| IC21 Actual command knowledge is not proved, but the military should-have-known branch is | The ten-year command ceiling is distinct from civilian conscious-disregard 15 and actual-knowledge 25; prove its duty, ability, context and causation. No automatic maximum or penalty by rank. All same-course actual custody is credited. |
+| IC22 An international court requests surrender | G13 identifies actual competence/cooperation and domestic implementing authority. The inspected Article 59 distinguishes domestic identity/process/rights/release roles from retrying the international warrant's merits. P23's ordinary thirty-day file condition is not automatically imported; a conflict cannot authorize an indefinite executive hold. |
+| IC23 A historic case predates a new domestic G extension | Prove the actual then-applicable offense/international basis and jurisdiction, not the authority of today's Markdown. New extensions are prospective; preserve lawful leniency, existing support, actual judgments and independent migration review. No automatic amnesty or retroactive charge. |
+| IC24 A sentence/compensation judgment exists but assets and a safe receiver do not | Court order, actual recovery, due payment and received remedy remain distinct. C06/C07 identify real sources/interim receiving; no fine forecast, promised foreign help, unpaid relative or symbolic national healing supplies capacity. Expiry still requires release and continuing services. |
+
+No courtroom/outcome calculator is built. Ages, ranges, custody/compensation
+and legal qualifications need actual independent authority and evidence.
+The country-book bids have not qualified the new investigative, specialist,
+defense, source, custody, receiving or execution increment. No invented
+case-volume or AI productivity is used to claim that it is already funded.

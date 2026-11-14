@@ -1,0 +1,16 @@
+{
+  "status": "passed",
+  "functions": 37,
+  "selections": 54,
+  "snapshot_documents": 207,
+  "checks": [
+    "source pinning and snapshot integrity",
+    "complete named coverage with no duplicated owners",
+    "selection/dependency links",
+    "unknowns remain unknown",
+    "unchanged historical reproduction",
+    "cash/debt conservation",
+    "separate compound staffing shortages"
+  ],
+  "qualification": "Checks establish artifact consistency and conditional arithmetic only; no legitimate authority, complete cost, operating independence or better lives."
+}

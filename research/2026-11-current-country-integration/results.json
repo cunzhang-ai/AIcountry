@@ -1,0 +1,56 @@
+{
+  "edition": 119,
+  "inventory": {
+    "original_functions": 37,
+    "original_selections": 61,
+    "inherited_reference_objects": 58,
+    "historical_bid_sum_CU_million": 1053.05,
+    "actual_current_cost": {
+      "known_subtotal": 0.0,
+      "unknown_count": 37,
+      "full_total": null
+    },
+    "historical_bid_is_current_cost": false
+  },
+  "calendar": {
+    "annual_used": 9480,
+    "annual_capacity": 9720,
+    "annual_spare": 240,
+    "stress_month": 3,
+    "stressed_month_use": 811,
+    "stress_month_capacity": 810,
+    "additional_one_hour_fits": false,
+    "ordinary_or_external_judge_capacity_proven": null,
+    "actual_new_demand": null
+  },
+  "paid_representation": {
+    "paid_week": 32.0,
+    "distinct_paid_representation": 8.0,
+    "ordinary_task_hours": 24.0,
+    "unmet_ordinary_task_hours": 8.0,
+    "actual_qualified_cover_or_productivity": null
+  },
+  "same_loss": {
+    "alternative_pleaded_amount": 180.0,
+    "distinct_economic_loss": 100.0,
+    "actual_receipts": 30.0,
+    "unmet_by_loss": {
+      "eventA/item1": 50.0,
+      "eventA/item2": 20.0
+    },
+    "promises_deducted": 0,
+    "actual_legal_liability_or_public_risk_estimate": null
+  },
+  "source_clock": {
+    "new_duty_due": "2027-05-01",
+    "new_tax_start": "2028-01-01",
+    "source_start_lag_days": 245,
+    "gross_early_due": 100.0,
+    "actual_declared_due_date_cash": 0.0,
+    "unfinanced_early_fixture": 100.0,
+    "future_assessment_credited_early": 0,
+    "actual_country_opening_source": null,
+    "new_real_world_calendar_adopted": false
+  },
+  "actual_authority_independent_affected_review_paid_operation_or_better_lives": null
+}

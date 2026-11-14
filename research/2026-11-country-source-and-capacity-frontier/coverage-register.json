@@ -1,0 +1,2360 @@
+{
+  "edition": 151,
+  "baseline_edition": 150,
+  "scope": "All37 original functions and90 predecessor reference dictionaries considered, not127 additive programs or an exhaustive legal census. COFOG homes identify plausible statistical purposes only; no fraction of a published total is allocated or claimed to satisfy candidate law. Original61 selections are preserved and hashed separately. WF analysis creates no new office/source power. Actual price/match/capacity/source unknowns remain null.",
+  "rows": [
+    {
+      "kind": "original_function",
+      "key": "D01",
+      "complete_source_object_sha256": "14f3950389a58c9c9ca207f08e992566a3038e1055bd369f7adbf57b0ae10747",
+      "source_declared_canonical": null,
+      "source_function_name": "Founding, constitutional rank and amendment",
+      "reference_purpose_homes": [
+        "1"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "original_function",
+      "key": "D02",
+      "complete_source_object_sha256": "519bcd182c708ab2d680053695f577e42bfa109230d726c7d3fc7d63e2287812",
+      "source_declared_canonical": null,
+      "source_function_name": "Personhood, identity, membership and collective claims",
+      "reference_purpose_homes": [
+        "1",
+        "3",
+        "10"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "original_function",
+      "key": "D03",
+      "complete_source_object_sha256": "79a85dbe2d73f9b6789f0ddfc8bf47c2ab95d2bc9987307d8b45f80621a07be2",
+      "source_declared_canonical": null,
+      "source_function_name": "Equal standing, accommodation and discrimination remedies",
+      "reference_purpose_homes": [
+        "1",
+        "3",
+        "10"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "original_function",
+      "key": "D04",
+      "complete_source_object_sha256": "9933db8d89b5764bada8cf0477536da8f3da527c59a94ed7f044796f147d5562",
+      "source_declared_canonical": null,
+      "source_function_name": "Elections, legislature, opposition and replacement",
+      "reference_purpose_homes": [
+        "1"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "original_function",
+      "key": "D05",
+      "complete_source_object_sha256": "b2231e75ba3917488892143151f0828c541f38cdfb420eb010a360eeb1fa5968",
+      "source_declared_canonical": null,
+      "source_function_name": "Political finance, campaign access and state-resource misuse",
+      "reference_purpose_homes": [
+        "1",
+        "8"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "original_function",
+      "key": "D06",
+      "complete_source_object_sha256": "ac1ba5afd1250449f6cd9879fe746e4841b0ae553a525b8ec51152f031d26149",
+      "source_declared_canonical": null,
+      "source_function_name": "Government formation, confidence and caretaker",
+      "reference_purpose_homes": [
+        "1"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "original_function",
+      "key": "D07",
+      "complete_source_object_sha256": "a6ab2025e79e5c0ce89f0d8cf88c9068b73d5dc24daaf2fd00f691bf2060dcea",
+      "source_declared_canonical": null,
+      "source_function_name": "Executive, career service, procurement and integrity",
+      "reference_purpose_homes": [
+        "1"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "original_function",
+      "key": "D08",
+      "complete_source_object_sha256": "7bd58232cd1c840993b6ee0be90e7854c3df8de3a8c459d62d42d05c3e314348",
+      "source_declared_canonical": null,
+      "source_function_name": "Local power, shared areas and territorial status",
+      "reference_purpose_homes": [
+        "1",
+        "6"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "original_function",
+      "key": "D09",
+      "complete_source_object_sha256": "a42f96cccee7202edc11f948f20eed124465485317fc4abd5d7030662b6fc2d5",
+      "source_declared_canonical": null,
+      "source_function_name": "National form across different scales",
+      "reference_purpose_homes": [
+        "1"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "original_function",
+      "key": "D10",
+      "complete_source_object_sha256": "1a43fbce38c8998f8b78758350324a95202dead379b73597b4e23acec0e5839e",
+      "source_declared_canonical": null,
+      "source_function_name": "Civil law, family, property, succession and contracts",
+      "reference_purpose_homes": [
+        "3"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "original_function",
+      "key": "D11",
+      "complete_source_object_sha256": "07542ebd2d2a1b4841cdcd7de8a446ddb8c990d84284368a936eba4840b2af2d",
+      "source_declared_canonical": null,
+      "source_function_name": "Courts, legal aid, appeals and order execution",
+      "reference_purpose_homes": [
+        "3"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "original_function",
+      "key": "D12",
+      "complete_source_object_sha256": "01a1155af62b223ee2210dde6111cd1627bc0f5539d04814ac2ce787fbfdfff2",
+      "source_declared_canonical": null,
+      "source_function_name": "Crime prevention, policing, custody and official abuse",
+      "reference_purpose_homes": [
+        "3"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "original_function",
+      "key": "L01",
+      "complete_source_object_sha256": "044003c003e8113fc552580a43c6b2e72903e20d1d44b2abb99f1a453dae3931",
+      "source_declared_canonical": null,
+      "source_function_name": "Ordinary population health and prevention",
+      "reference_purpose_homes": [
+        "7"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "original_function",
+      "key": "L02",
+      "complete_source_object_sha256": "31a7832522f1a054ca49f69621b9b266171559fb9b21c9dfe9dc7818aa08cdc4",
+      "source_declared_canonical": null,
+      "source_function_name": "Mental health, substance use, crisis care and liberty",
+      "reference_purpose_homes": [
+        "7",
+        "10",
+        "3"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "original_function",
+      "key": "L03",
+      "complete_source_object_sha256": "138eeba03c126e07ad4bc29253fb78913a9d46afa9d470e5b606a25758e18dec",
+      "source_declared_canonical": null,
+      "source_function_name": "Interpersonal violence, survivor safety and fair process",
+      "reference_purpose_homes": [
+        "3",
+        "7",
+        "10"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "original_function",
+      "key": "L04",
+      "complete_source_object_sha256": "20fcba6eb935a76f5f7be53322d326685076ad0b61d1bac11ffde41ded267d8d",
+      "source_declared_canonical": null,
+      "source_function_name": "Production, ownership, competition and labor",
+      "reference_purpose_homes": [
+        "4"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "original_function",
+      "key": "L05",
+      "complete_source_object_sha256": "e238fb3068676991b3a44b15a61eeba8f35455cbae3853ffa5668675f19b111e",
+      "source_declared_canonical": null,
+      "source_function_name": "Consumer rights and product safety",
+      "reference_purpose_homes": [
+        "4",
+        "7",
+        "3"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "original_function",
+      "key": "L06",
+      "complete_source_object_sha256": "481db3aa36ad359ea45e8b4f811073dffb27c5e434641fc4c7bc68bfc9dc59fe",
+      "source_declared_canonical": null,
+      "source_function_name": "Income, pension and disability support",
+      "reference_purpose_homes": [
+        "10"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "original_function",
+      "key": "L07",
+      "complete_source_object_sha256": "e73e4aa28709dee250a0bd987484fbeec8c3754b87695193b447c45272184cfc",
+      "source_declared_canonical": null,
+      "source_function_name": "Health, education, child and adult care",
+      "reference_purpose_homes": [
+        "7",
+        "9",
+        "10"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "original_function",
+      "key": "L08",
+      "complete_source_object_sha256": "60abcbd8b984198f9750115df81f359b616416d59c5e76614c668b0e1311562b",
+      "source_declared_canonical": null,
+      "source_function_name": "Serious illness, death and survivors",
+      "reference_purpose_homes": [
+        "7",
+        "10"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "original_function",
+      "key": "L09",
+      "complete_source_object_sha256": "1d1cbff3fc6384c7780bb1cbc4c42bc8ca94cbfd1c85fffee803f8724f367a7e",
+      "source_declared_canonical": null,
+      "source_function_name": "Reproductive choice, maternal/newborn care and parentage",
+      "reference_purpose_homes": [
+        "7",
+        "10",
+        "3"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "original_function",
+      "key": "L10",
+      "complete_source_object_sha256": "5bc4e358b64dffabb0bc3446c9bdc5ca06d088810d29aa07cb53287e66fe06b9",
+      "source_declared_canonical": null,
+      "source_function_name": "Housing, passenger mobility and utilities",
+      "reference_purpose_homes": [
+        "6",
+        "4",
+        "10"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "original_function",
+      "key": "L11",
+      "complete_source_object_sha256": "0c0650251cf771f6be5c66e76bb5d75d0f45a549c06bfdc3c1620e9c7d5f67c7",
+      "source_declared_canonical": null,
+      "source_function_name": "Ordinary food production, access, nutrition and safety",
+      "reference_purpose_homes": [
+        "4",
+        "7",
+        "10"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "original_function",
+      "key": "R01",
+      "complete_source_object_sha256": "f9ba46eef797207d93903ae10d8e26914b5aea2b3729fb15e4e4521e5f4fea41",
+      "source_declared_canonical": null,
+      "source_function_name": "Defense, intelligence, public health and disasters",
+      "reference_purpose_homes": [
+        "2",
+        "3",
+        "7"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "original_function",
+      "key": "R02",
+      "complete_source_object_sha256": "47d0c6f69a1c632f4282c07c69e2642e29e4d7a65500c97bbc493c6a915525cd",
+      "source_declared_canonical": null,
+      "source_function_name": "Disaster recovery, displacement and rebuilding finance",
+      "reference_purpose_homes": [
+        "2",
+        "4",
+        "6",
+        "10"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "original_function",
+      "key": "R03",
+      "complete_source_object_sha256": "e21bd8dea217578daef0d665ca8d6fb054e402f9f32a8a6959f9fca968ade1e8",
+      "source_declared_canonical": null,
+      "source_function_name": "Diplomacy, treaties, migration and external harm",
+      "reference_purpose_homes": [
+        "1",
+        "2",
+        "10"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "original_function",
+      "key": "R04",
+      "complete_source_object_sha256": "01997cdcb538758f4496f8e7ada8871ad7bd8605555a47e31fc6f67c91bfba99",
+      "source_declared_canonical": null,
+      "source_function_name": "Tax, budget, currency, credit, payments and public debt",
+      "reference_purpose_homes": [
+        "1",
+        "4"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "original_function",
+      "key": "R05",
+      "complete_source_object_sha256": "b336094d52725d90594f58aae266c4a451ddc574f27c29c9e007dc18e290c5e6",
+      "source_declared_canonical": null,
+      "source_function_name": "Water, electricity and food",
+      "reference_purpose_homes": [
+        "4",
+        "6",
+        "7",
+        "10"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "original_function",
+      "key": "R06",
+      "complete_source_object_sha256": "e000368000e47a54d0b9ffe3e1174a93114da616987d1ee46e40ce1ad4eda6c9",
+      "source_declared_canonical": null,
+      "source_function_name": "Animal welfare, veterinary care and human–animal–environment interface",
+      "reference_purpose_homes": [
+        "4",
+        "5",
+        "7"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "original_function",
+      "key": "R07",
+      "complete_source_object_sha256": "07b3aa8140d0da967318d413178a17fd968d71cb092bb30e6ccdbb03753846b0",
+      "source_declared_canonical": null,
+      "source_function_name": "Land, shared planning and future ecological options",
+      "reference_purpose_homes": [
+        "4",
+        "5",
+        "6"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "original_function",
+      "key": "R08",
+      "complete_source_object_sha256": "592f46f417e0c155bf8c77e291a2852c1de796f6b355f16dd04960ea47a6dae3",
+      "source_declared_canonical": null,
+      "source_function_name": "Climate mitigation, reliable energy transition and distinct nature protection",
+      "reference_purpose_homes": [
+        "4",
+        "5"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "original_function",
+      "key": "R09",
+      "complete_source_object_sha256": "ac6279c3ca2f609dd83124a50e8ea454e1f33871239b115ec71936e0aeecb8fb",
+      "source_declared_canonical": null,
+      "source_function_name": "Communications, legal correspondence and freight",
+      "reference_purpose_homes": [
+        "4"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "original_function",
+      "key": "R10",
+      "complete_source_object_sha256": "6790bed927de054efcb56e0a237ad2315acf49d1769da192b2e4ac03e4282ece",
+      "source_declared_canonical": null,
+      "source_function_name": "Wastewater, sanitation and solid waste",
+      "reference_purpose_homes": [
+        "5"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "original_function",
+      "key": "R11",
+      "complete_source_object_sha256": "7198d999ec50bc69f789b301cdeda8b20fb19da8778f0b4031ce34d8d5b810f0",
+      "source_declared_canonical": null,
+      "source_function_name": "Customs and trade clearance at borders",
+      "reference_purpose_homes": [
+        "1",
+        "4",
+        "7"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "original_function",
+      "key": "K01",
+      "complete_source_object_sha256": "af6b383ee7336f55cc46946bc30900e4fe9df8f175b4d004cde7be7a631468ec",
+      "source_declared_canonical": null,
+      "source_function_name": "Knowledge, statistics, culture, media and AI",
+      "reference_purpose_homes": [
+        "1",
+        "8",
+        "9"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "original_function",
+      "key": "K02",
+      "complete_source_object_sha256": "ba976c24243f1bcd36171ee619e155bcd9991efba4137b36b2056b2e5d7fd9eb",
+      "source_declared_canonical": null,
+      "source_function_name": "Evaluation, public correction and continuity",
+      "reference_purpose_homes": [
+        "1"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "original_function",
+      "key": "K03",
+      "complete_source_object_sha256": "09fc34677a7966ac066c90d9ab1f6df111e0d8850f2eaf3ea0a60eb983161ba4",
+      "source_declared_canonical": null,
+      "source_function_name": "Cyber incidents against civic and essential systems",
+      "reference_purpose_homes": [
+        "1",
+        "3",
+        "4"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "income_reference",
+      "complete_source_object_sha256": "01acff3d5af0d644593ff3251a22fbf4696b076fbdc79c238657624a70783b5e",
+      "source_declared_canonical": null,
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "1",
+        "10"
+      ],
+      "treatment": "Historical/rival diagnostic, never an additive budget; compatible continuing source obligations remain",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "national_reference",
+      "complete_source_object_sha256": "ccb008fa1497963262f9d15de2c417256147c18cb1066e0e54dcc7c471adb1a5",
+      "source_declared_canonical": null,
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "treatment": "Historical/rival diagnostic, never an additive budget; compatible continuing source obligations remain",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "transition_reference",
+      "complete_source_object_sha256": "a1dc58d0b100bad913380fcc22486c88ec4ecbb92f6a5a423a7d1667f9ceb129",
+      "source_declared_canonical": null,
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "criminal_core_reference",
+      "complete_source_object_sha256": "a7b51692f4698e46bf73637a368d44ce784cdf5d13cce4435516dabf9d987def",
+      "source_declared_canonical": null,
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "3"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "civil_core_reference",
+      "complete_source_object_sha256": "d556b4560e9fc23726180d3b36bb9c0313904a803a03582dc38cac2c3dab8ed2",
+      "source_declared_canonical": null,
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "3"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "private_insolvency_reference",
+      "complete_source_object_sha256": "e8338d9fff1851b729e86f6c8778c334a9ed7054002ba289798087d3cbeccef8",
+      "source_declared_canonical": null,
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "3"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "operating_reference",
+      "complete_source_object_sha256": "db4f59c287373402501f4a8fd49c283a052ad48eec5ffb153c8f983917d7bd3c",
+      "source_declared_canonical": null,
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "treatment": "Historical/rival diagnostic, never an additive budget; compatible continuing source obligations remain",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "retirement_reference",
+      "complete_source_object_sha256": "70324fcf3e1f5ca5c228921b8397ac5b7b7502e15588856b3598add48f2a3f59",
+      "source_declared_canonical": "country/C07/04-retirement-security.md",
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "1",
+        "10"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "capability_reference",
+      "complete_source_object_sha256": "b9552a99b1efe58c7633b550afc4d0b5b46f1f1e28a16ad7d32e10d4fe2f83ce",
+      "source_declared_canonical": "country/C05/07-production-learning-and-capacity.md",
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "service_entitlement_reference",
+      "complete_source_object_sha256": "b098db6e2a02493c94a2933a19e02b531a96dbae33f83f9c611c55f13c33e5fa",
+      "source_declared_canonical": "country/C07/13-public-service-entitlements.md",
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "country_book_reference",
+      "complete_source_object_sha256": "b479498a8c133b18a3d88ffd6a93b4560b60a12ae1974f461b364c8f9936a2c5",
+      "source_declared_canonical": "country/C06/22-country-operating-resource-book.md",
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "treatment": "Historical/rival diagnostic, never an additive budget; compatible continuing source obligations remain",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "country_model_reference",
+      "complete_source_object_sha256": "e5b1f5999e12de3f38af6173b04c2772640b0ffbac7d914a73e02198776c8ff4",
+      "source_declared_canonical": "country/C05/08-income-ownership-and-country-choice.md",
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "treatment": "Historical/rival diagnostic, never an additive budget; compatible continuing source obligations remain",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "special_sanctions_reference",
+      "complete_source_object_sha256": "7c743e600f00e3724fd9c17367e208a58cd9a5806c7de8e28cb5d15e5f0dabe7",
+      "source_declared_canonical": "country/C08/15-special-crimes-and-bounded-sanctions.md",
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "3"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "family_civil_reference",
+      "complete_source_object_sha256": "0d65c63dd0d0e121db5a80cdd5c94e79735e25c2f65fb273b9df5c5d99ee57da",
+      "source_declared_canonical": "country/C08/16-family-agency-property-and-estates.md",
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "3"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "jurisdiction_reference",
+      "complete_source_object_sha256": "3ca4b1de11ca937d377e45c5229793a514cc279852172c89a5d6e6edf2ee26fc",
+      "source_declared_canonical": "country/C08/17-jurisdiction-and-legal-cooperation.md",
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "3"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "international_crimes_reference",
+      "complete_source_object_sha256": "22f2c5fc9c25a4f5cb81eaf0ba950599930b03163163933800ce9705c166eb58",
+      "source_declared_canonical": "country/C08/18-international-crimes-and-accountability.md",
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "1",
+        "2",
+        "3"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "regulatory_finance_reference",
+      "complete_source_object_sha256": "aa26e802363013b64c2e5f6ccb586bc626c5763f7d64bee1b08b30b1db24afa2",
+      "source_declared_canonical": null,
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "1",
+        "3",
+        "4"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "source_finance_reference",
+      "complete_source_object_sha256": "b92c082cd3cbdcd8aa954e1e5f8bce52980b95c635b681f57f9c7a52dc847a00",
+      "source_declared_canonical": "country/C06/25-source-finance-and-payment-continuity.md",
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "1",
+        "4"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "reproductive_law_reference",
+      "complete_source_object_sha256": "8453cd03b21da226b9e00062a4a676c9e01c542a49cc182b740dcc857150a523",
+      "source_declared_canonical": "country/C08/20-reproductive-law-and-parentage.md",
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "7",
+        "10",
+        "3"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "conflict_custody_reference",
+      "complete_source_object_sha256": "de5cd7f8a0f486e886f3cc9561d522de49a9331a0aa3f5574fbc59991c4f2af5",
+      "source_declared_canonical": "country/C08/21-conflict-detention-and-release.md",
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "2",
+        "3"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "technical_safety_reference",
+      "complete_source_object_sha256": "6693c74982a8cf2036fc20a61618c76f8c714186a02b0db9c766d06ea0befbe4",
+      "source_declared_canonical": "country/C08/22-technical-safety-and-accountable-operation.md",
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "country_reconciliation_reference",
+      "complete_source_object_sha256": "39dc745eb844f95f96e923a5aaee782b0fdbb9626f120f75e64e1692f8325165",
+      "source_declared_canonical": "country/C06/28-national-commitments-and-residual-scarcity.md",
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "constitutional_review_reference",
+      "complete_source_object_sha256": "e6c6ee59c0b9ed6ebd3802cf4f8e3f8bd9b9ead257553973d10e2100fe2feab4",
+      "source_declared_canonical": "country/C03/08-constitutional-review-and-public-control.md",
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "1",
+        "3"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "belonging_reference",
+      "complete_source_object_sha256": "9268fb249f89d62939a12081e5c8dc0a53b60967131878b303cfe858ba8d43c3",
+      "source_declared_canonical": "country/C02/06-citizenship-and-secure-belonging.md",
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "1",
+        "3",
+        "10"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "necessary_care_reference",
+      "complete_source_object_sha256": "dfafcaf00c02cd3fe2873a784cc74c4342a6be2cfd15a81281c9ae17963a94e8",
+      "source_declared_canonical": "country/C08/23-necessary-care-and-unknown-will.md",
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "7",
+        "10",
+        "3"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "democratic_revision_reference",
+      "complete_source_object_sha256": "067aa39b595f07cef4a9bc6aa1c086a2731c38602441271b56498323ae1a9cf4",
+      "source_declared_canonical": null,
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "1",
+        "8",
+        "3"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "material_country_reference",
+      "complete_source_object_sha256": "3348f753b8796532246f9ff1f543ce24b046bc5ec00b675f14f00282705b47a9",
+      "source_declared_canonical": "country/C06/33-protection-production-and-national-expansion.md",
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "comparative_country_reference",
+      "complete_source_object_sha256": "4aa72d56b0b849b9cf2c8d2a70ef57f98ea182be0a7b9405bc578769c7ebd2a2",
+      "source_declared_canonical": "country/C01/03-country-case-and-competing-designs.md",
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "named_resource_reference",
+      "complete_source_object_sha256": "adc1b013d50ab8111ef93dc054e9ae50aee217ee24bd08ddce8aaae15adf89c9",
+      "source_declared_canonical": "country/C06/34-reference-costs-and-delivery-conflicts.md",
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "finance_delivery_reference",
+      "complete_source_object_sha256": "4aa73541617bb46f8281baa361d13c55060cc0126edbf061e2db148020ccba20",
+      "source_declared_canonical": "country/C06/35-finance-production-and-delivery-bridge.md",
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "income_investment_reference",
+      "complete_source_object_sha256": "58e64dfd941890a1ff071bf4964ee58843a737676092fb8973c886d97021dd55",
+      "source_declared_canonical": "country/C05/09-income-capital-and-democratic-investment.md",
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "1",
+        "4",
+        "10"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "recurring_finance_reference",
+      "complete_source_object_sha256": "37d20ee05f1f7f3f0ed1fb144498921c01ae7ab6bd2255ac10fc5ae2e0eb4b75",
+      "source_declared_canonical": "country/C06/36-recurring-finance-and-pension-commitments.md",
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "1",
+        "4",
+        "10"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "work_time_reference",
+      "complete_source_object_sha256": "67f9a976730aaf12c24cbe1dd26a1838a814e472dc34a98c80b466c99e00b8bd",
+      "source_declared_canonical": "country/C05/10-work-rest-and-paid-capability.md",
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "4",
+        "7",
+        "9",
+        "10"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "housing_reference",
+      "complete_source_object_sha256": "a26590455a282a1671d3ea5c8f96231c6e3a6844253a8540ba4f0485d7c3efe1",
+      "source_declared_canonical": "country/C09/12-secure-housing-and-repair.md",
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "6",
+        "10"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "physical_supply_reference",
+      "complete_source_object_sha256": "89ff7910e956e0399fbc0ebed8c35c5be865f2d00604d778aa15a7f2eb0a692f",
+      "source_declared_canonical": "country/C06/37-physical-supply-and-paid-trade.md",
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "4",
+        "5",
+        "6",
+        "7",
+        "10"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "work_pay_country_reference",
+      "complete_source_object_sha256": "bd02fab693c3b8784d2a9aaac558f0191b8305e957f025d57d405f82eec49589",
+      "source_declared_canonical": "country/C06/38-work-pay-prices-and-country-income.md",
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "access_evidence_context_reference",
+      "complete_source_object_sha256": "aef61515e21299aaef21327f1c41e2ad06e22068f8d63fa0fb742f307ea28fc1",
+      "source_declared_canonical": [
+        "country/C07/17-ordinary-mobility-and-effective-journeys.md",
+        "country/C11/06-public-evidence-service.md",
+        "country/C14/10-context-and-commencement-comparison.md"
+      ],
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "knowledge_rights_reference",
+      "complete_source_object_sha256": "f657ccefa03155a2d12bad3e8e962cc90483a7903fe6c632b91a687a0123b7be",
+      "source_declared_canonical": "country/C11/07-knowledge-rights-and-innovation.md",
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "1",
+        "4",
+        "8",
+        "9"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "personal_data_reference",
+      "complete_source_object_sha256": "6f04c7e71f8d5a4cf4d9784e168f26e6dd4c2c728a5a06e77deffdee4364880c",
+      "source_declared_canonical": "country/C02/07-private-life-and-personal-data.md",
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "1",
+        "3",
+        "8"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "public_power_reference",
+      "complete_source_object_sha256": "fbe07a7c4b32f0418035bfae13c733b2f09702b9da4bcd6b057e47660f3e6bdc",
+      "source_declared_canonical": [
+        "country/C03/09-electoral-administration-and-public-control.md",
+        "country/C08/24-lawful-force-and-civilian-response.md"
+      ],
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "1",
+        "3",
+        "4"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "competition_reference",
+      "complete_source_object_sha256": "3f36e8909fe9d5b75d10c50032af2dcfdcf0ff232993b83e91c85d96c62e4594",
+      "source_declared_canonical": "country/C05/11-competition-and-economic-power.md",
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "1",
+        "4"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "bank_failure_reference",
+      "complete_source_object_sha256": "4e7af44f507f3c3b08154ca1ae6476c1574e15c3a9d503339b285aab31c984c3",
+      "source_declared_canonical": "country/C06/39-bank-failure-and-protected-payment.md",
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "1",
+        "4"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "civil_tax_reference",
+      "complete_source_object_sha256": "6a9d9c0ff1a76e5412d79ba27626685db9d256097b4ab641a650c95fc3a1f207",
+      "source_declared_canonical": "country/C06/40-tax-law-and-accountable-revenue.md",
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "1",
+        "4",
+        "10"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "campaign_access_reference",
+      "complete_source_object_sha256": "18e47cffab5edc4c3f2d4d3dae0ac5f6491cff29bb76072cc8d030d9cd74abd1",
+      "source_declared_canonical": "country/C03/10-democratic-entry-and-campaign-resources.md",
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "1",
+        "8",
+        "3"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "civilian_assessment_reference",
+      "complete_source_object_sha256": "103f83ae64c7b8409c063ee638f4db608a9f702d2c340edd2b576764c2030483",
+      "source_declared_canonical": "country/C10/10-civilian-assessment-and-intelligence-limits.md",
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "1",
+        "2",
+        "3"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "delegated_rules_reference",
+      "complete_source_object_sha256": "9edbfd1e2806a4bb0639f3d5edb777801b891a336db291cd7768c62ba59fd96c",
+      "source_declared_canonical": "country/C03/11-delegated-rules-and-effective-public-control.md",
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "1",
+        "3"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "monetary_control_reference",
+      "complete_source_object_sha256": "e9eb5a3d0572161c7d855b6311d00cb1bee09df34fba4144d7647c60e129a056",
+      "source_declared_canonical": "country/C06/41-money-and-financial-public-control.md",
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "1",
+        "4"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "recurring_tax_reference",
+      "complete_source_object_sha256": "65acaf08e738782db0000c154502068288816c4fd0893316223f254cc456b7a9",
+      "source_declared_canonical": "country/C06/42-recurring-tax-and-noncash-work.md",
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "1",
+        "4",
+        "10"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "country_source_delivery_reference",
+      "complete_source_object_sha256": "cf991bfcf420fd942f1b8ac995ca8a68e0e8e5ac5ca569dbf327c211bfd07d16",
+      "source_declared_canonical": "country/C06/43-country-source-and-delivery.md",
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "continuous_political_finance_reference",
+      "complete_source_object_sha256": "10ce347001bf4ab5fd3dc2b88a8876c69a9bffbc3357752d98b8a4418f782764",
+      "source_declared_canonical": "country/C03/12-continuous-political-finance.md",
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "1",
+        "8",
+        "3"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "franchise_and_usable_elections_reference",
+      "complete_source_object_sha256": "d38966e6850bc38c6a904dc9929c578b89c313ba4f6272daf5e2545ed36787a0",
+      "source_declared_canonical": "country/C03/13-equal-franchise-and-usable-elections.md",
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "1",
+        "8",
+        "3"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "local_law_and_public_control_reference",
+      "complete_source_object_sha256": "3a9a6f4a73062ed9abfd6363d0579455b14e28c3d47ec0c20173181af1374fc3",
+      "source_declared_canonical": "country/C03/14-local-law-and-public-control.md",
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "1",
+        "6"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "nonbank_finance_and_client_protection_reference",
+      "complete_source_object_sha256": "556ea80f82245bff829b9fe489d24defece509b082aa27147af5c088b2bf05ca",
+      "source_declared_canonical": "country/C06/44-nonbank-finance-and-client-protection.md",
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "1",
+        "4",
+        "10"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "national_production_prices_and_financial_claims_reference",
+      "complete_source_object_sha256": "e743f7e7e4d6b633b73f3ff36c54f69c56a86a7faae8fc55d84d5724cdad5262",
+      "source_declared_canonical": "country/C06/43-country-source-and-delivery.md",
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "living_standard_and_context_reference",
+      "complete_source_object_sha256": "2ceeb315d49bffc4fb213953bef72022b621668492864d1cd5554ca28f062ce0",
+      "source_declared_canonical": "country/C05/06-income-floor-and-safe-resources.md",
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "6",
+        "7",
+        "9",
+        "10"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "person_directed_assistance_reference",
+      "complete_source_object_sha256": "6dce7e3e8755d67a0b7e093f19011fe12212bcd57864613b9e5df2476099f813",
+      "source_declared_canonical": "country/C07/18-person-directed-assistance.md",
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "7",
+        "10"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "work_contracts_and_collective_power_reference",
+      "complete_source_object_sha256": "07cc029bbae138fce53fafa72edf384d0fba6991e343db49b37741bf1bf48c0f",
+      "source_declared_canonical": "country/C05/12-work-contracts-and-collective-power.md",
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "3",
+        "4",
+        "10"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "enterprise_and_association_constitutions_reference",
+      "complete_source_object_sha256": "016cc82e126767d77a01cb306e288fcb7fe288c2da4292c8e089fb9346136387",
+      "source_declared_canonical": "country/C05/13-enterprise-and-association-constitutions.md",
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "1",
+        "4"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "current_country_integration_reference",
+      "complete_source_object_sha256": "37cec43fc990b3943fb0533c43d7ad46066374824c8041f3a97f21b245d6f324",
+      "source_declared_canonical": "country/C06/18-joint-commitment-and-delivery-schedule.md",
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "ordinary_justice_and_public_prosecution_reference",
+      "complete_source_object_sha256": "d3f414f14e3be4d4a3b72f04ba958ddd8a6888db6754b9fd2d4ef88da914f734",
+      "source_declared_canonical": "country/C08/25-ordinary-justice-and-public-prosecution.md",
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "1",
+        "3"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "public_audit_and_accountable_oversight_reference",
+      "complete_source_object_sha256": "b3a31f656f723c05dcef90202ba556be95bfb77cccd06963938859519fdf03e6",
+      "source_declared_canonical": "country/C04/04-public-audit-and-accountable-oversight.md",
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "1"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "country_operation_and_handover_reference",
+      "complete_source_object_sha256": "fa600a72fdce74acaa401924f1aca36066e4d6ede13843289f6ee39bbe13c341",
+      "source_declared_canonical": "country/C06/45-country-operation-and-handover.md",
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "life_needs_and_paid_capacity_reference",
+      "complete_source_object_sha256": "8402cd997bb7b11a89b3778c94e3215b89b8c6d8d532efece76dabde1c52e1aa",
+      "source_declared_canonical": "country/C06/46-life-needs-and-paid-capacity.md",
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "ordinary_life_and_household_production_reference",
+      "complete_source_object_sha256": "a110a665d2f45777214451ebc1cff7b1c6fe22295ef2e51e79fe4b9ca997860a",
+      "source_declared_canonical": "country/C05/14-ordinary-life-and-household-production.md",
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "4",
+        "6",
+        "7",
+        "9",
+        "10"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "joined_country_operating_book_reference",
+      "complete_source_object_sha256": "8b63db0e678483d8bf83d06d5352d3e6cbcb7002207dbbe1d29bcbfd375019a9",
+      "source_declared_canonical": "country/C06/48-joined-country-operating-book.md",
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "country_source_and_claims_reference",
+      "complete_source_object_sha256": "279c6f346be3a741ccad54cc4b19e85b21d6c087d64f3269d88e79ae806240b9",
+      "source_declared_canonical": "country/C06/49-country-source-and-claims.md",
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "country_physical_portfolio_reference",
+      "complete_source_object_sha256": "5b32a5e74ac8e96b7085421c97bae4f34cdaf6fb29cb7ebf688a4a209c85aad3",
+      "source_declared_canonical": "country/C06/50-country-physical-portfolio.md",
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "4",
+        "5",
+        "6",
+        "7",
+        "10"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "democratic_operation_and_public_understanding_reference",
+      "complete_source_object_sha256": "1eedb7d3103e76da15afa21d51f351cf633832c86c7ebb7f319ccab1ce4ef42f",
+      "source_declared_canonical": "country/C03/15-democratic-operation-and-public-understanding.md",
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "1",
+        "8",
+        "3"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "country_closure_and_lived_operation_reference",
+      "complete_source_object_sha256": "25e493504204cef8e0ca9d8efea4a9f99ee582925d88bef4e366dfe4971514ec",
+      "source_declared_canonical": "country/C14/11-country-closure-and-current-priorities.md",
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "current_country_operating_and_source_reference",
+      "complete_source_object_sha256": "5a8e136fdd8f22caef9dd2d905b884d23111e132f15e6d37f0a06cafc4cdf5e5",
+      "source_declared_canonical": "country/C06/52-current-country-operating-and-source-reference.md",
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "treatment": "Historical/rival diagnostic, never an additive budget; compatible continuing source obligations remain",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "productive_choice_and_work_incidence_reference",
+      "complete_source_object_sha256": "81fb7a7593f37811beaa80c0fceec160d733bd198f7757902cefd9e43c0c2519",
+      "source_declared_canonical": "country/C06/53-productive-choice-and-work-incidence.md",
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "treatment": "Historical/rival diagnostic, never an additive budget; compatible continuing source obligations remain",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "public_supply_and_procurement_reference",
+      "complete_source_object_sha256": "9725812303c7a70abc4edb4dcffbaf57a95f4830bb2d6ffa183b5b93a37e180f",
+      "source_declared_canonical": "country/C04/05-public-buying-and-continuous-supply.md",
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "national_production_and_source_strategy_reference",
+      "complete_source_object_sha256": "5795ce2170e12a9efdc7de3e126aad5c1fb98cc53ea8cf997f8a25c25469d774",
+      "source_declared_canonical": "country/C06/54-national-production-and-source-strategy.md",
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "observed_economy_and_country_comparison_reference",
+      "complete_source_object_sha256": "899b5bbe95a5de2cf876a7f5b01e60cd766b9a77a7de2588c4774879c007a460",
+      "source_declared_canonical": "country/C06/55-observed-economy-and-country-comparison.md",
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "income_security_and_credit_continuity_reference",
+      "complete_source_object_sha256": "f360929d71c47042823d1d3a13549f1d8ccf4cb8b118f462df3ad871d6e7c6ab",
+      "source_declared_canonical": "country/C05/09/06-income-security-and-credit-continuity.md",
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "1",
+        "10"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "service_first_income_settlement_reference",
+      "complete_source_object_sha256": "32a5955b7d328ed776ac79fbf6c1373a627317325627aa4d6e3c506c72b11dcb",
+      "source_declared_canonical": "country/C05/15-service-first-personal-security.md",
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "6",
+        "7",
+        "9",
+        "10"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "public_inputs_and_operating_resilience_reference",
+      "complete_source_object_sha256": "871a523be5c9e4b76af4791ce86ca63169d998eed53b868ba5c492e586f10a9e",
+      "source_declared_canonical": "country/C04/05/06-need-and-upstream-capability.md",
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "whole_country_fiscal_disposition_reference",
+      "complete_source_object_sha256": "679c1ebf56fb272906e6a858bd927fa93a97f47c26a6068ca52e44e6890efc3e",
+      "source_declared_canonical": "country/C06/56-national-fiscal-settlement-and-source-boundaries.md",
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "published_fiscal_context_and_revenue_design_reference",
+      "complete_source_object_sha256": "38993b5387638246cc9f5e09ea9a38d3608a4f1cecc56796762497e962bf104a",
+      "source_declared_canonical": "country/C06/56-national-fiscal-settlement-and-source-boundaries.md",
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "administrative_standing_and_finite_decisions_reference",
+      "complete_source_object_sha256": "de823c74d12a95ad8538d8ccb56128a28ab2f8af172da9215d4bf044badd3e22",
+      "source_declared_canonical": "country/C04/06-reachable-administration-and-finite-decisions.md",
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "1",
+        "3",
+        "10"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "whole_country_bargain_and_institutional_burden_reference",
+      "complete_source_object_sha256": "bdb98383b6d373914597a7da49c33a86a74de7911aa6f4a387b994d595553a24",
+      "source_declared_canonical": "country/C01/03-country-case-and-competing-designs.md",
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "private_retirement_tax_and_personal_capital_reference",
+      "complete_source_object_sha256": "a18ecc3e5de4ec9b5edadabaad16556f579b582e10a31e463cd9e68284844cf2",
+      "source_declared_canonical": "country/C06/57-private-retirement-tax-and-personal-capital.md",
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "1",
+        "4",
+        "10"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "territorial_status_and_constitutional_coherence_reference",
+      "complete_source_object_sha256": "ccde4b9d8bd32d789f6a96e30e38d1c41439321e0960655253679a28dff13429",
+      "source_declared_canonical": "country/C04/02-territorial-self-government.md",
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "rights_limits_and_emergency_continuity_reference",
+      "complete_source_object_sha256": "a217e894ff0558e027d4e22e6bc9cfdb591cc95323a58d226d3a1cf4cd02bf6f",
+      "source_declared_canonical": "country/C10/01-public-safety-and-emergencies.md",
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "1",
+        "3",
+        "7",
+        "10"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "country_gaps_and_public_acquisition_reference",
+      "complete_source_object_sha256": "05d89c9342c28da690cdbdf2fb8c75d748972c514a889878b6722fb6856e9e3a",
+      "source_declared_canonical": "country/C09/13-public-acquisition-and-secure-relocation.md",
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "1",
+        "4",
+        "6",
+        "10"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "public_media_and_editorial_independence_reference",
+      "complete_source_object_sha256": "2ae26dcf2034031b17a8b7cd30cd67304ba0b3eac858e0c87c5da0649d6aa599",
+      "source_declared_canonical": "country/C11/08-public-media-and-editorial-independence.md",
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "1",
+        "8"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "ordinary_health_and_hazard_protection_reference",
+      "complete_source_object_sha256": "06ccc3e249de8b79bc0cc4b05046210f17fe978f13b8503201b9128c380936de",
+      "source_declared_canonical": "country/C10/11-ordinary-health-and-hazard-protection.md",
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "7",
+        "10",
+        "3"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "property_title_and_secured_credit_reference",
+      "complete_source_object_sha256": "1abf336e8cb004208ed2f6f321b544e3978bdfbdf8691d40da1fdf610cdaac57",
+      "source_declared_canonical": "country/C08/26-property-transfers-and-secured-credit.md",
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "1",
+        "3",
+        "4",
+        "6"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "shared_buildings_and_neighbor_rights_reference",
+      "complete_source_object_sha256": "24eae7bb9dc54bf457e43731ded54f2781bd66f6c5edc6d09a5b1721433a1d18",
+      "source_declared_canonical": "country/C09/14-shared-buildings-and-neighbor-rights.md",
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "6",
+        "10"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    },
+    {
+      "kind": "predecessor_reference",
+      "key": "public_digital_operation_and_continuity_reference",
+      "complete_source_object_sha256": "6e7c4bda2be9831336dae250236ac8d6b91c7ee3197de44fe43adf4d12787523",
+      "source_declared_canonical": "country/C11/09-public-digital-operation-and-continuity.md",
+      "source_function_name": null,
+      "reference_purpose_homes": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "treatment": "Potential overlapping reference purposes, not cost allocation or proof of equivalent candidate rights",
+      "qualified_baseline_match": null,
+      "qualified_incremental_net_cost": null,
+      "qualified_legacy_transition_or_reserve_source": null,
+      "actual_paid_delivery_or_better_lives": null
+    }
+  ],
+  "original_selection_count": 61,
+  "original_selections_complete_sha256": "e8e96ced395a1febad9d31146f3a2e0b15abf5c3711c9d010df2e58cba8b6292",
+  "actual_candidate_total_cost_or_adequacy": null
+}

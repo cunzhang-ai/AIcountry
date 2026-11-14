@@ -1,0 +1,24 @@
+{
+  "edition": 106,
+  "status": "Authored bounded re-comparison, no full national account",
+  "allowance_fraction_M": 0.4,
+  "adoption_date_hypothesis": "2026-11-02",
+  "sources": {
+    "physical": "2026-11-physical-supply-and-trade/results.json",
+    "persons": "2026-11-work-pay-and-country-account/inputs.json",
+    "ordinary_goods": "2026-11-work-pay-and-country-account/results.json",
+    "personal_calculation": "2026-11-work-pay-and-country-account/personal.py"
+  },
+  "scope": "PS same-food subset plus disjoint PA border-goods quote, not sum of full national models; tax/person comparator separately fixed-price, no total yield",
+  "actual": {
+    "country_tax_bases": null,
+    "opening_cash_and_FX": null,
+    "accepted_workforce_and_receivers": null,
+    "prices_and_take_up": null,
+    "qualified_independent_review": null,
+    "affected_public_choice": null,
+    "lawful_adoption": null,
+    "country_readiness": null,
+    "better_lives": null
+  }
+}

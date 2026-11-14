@@ -1,0 +1,32 @@
+{
+  "edition": 114,
+  "checked_date": "2026-11-02",
+  "actual_country_observations": null,
+  "sources": [
+    {
+      "id": "BoE_money_2014",
+      "url": "https://www.bankofengland.co.uk/quarterly-bulletin/2014/q1/money-creation-in-the-modern-economy",
+      "date": "14March2014",
+      "inspected": "Official article explanation/source, not a claim of this country's actual bank lending or current operational readiness.",
+      "scope": "Loan/deposit creation and separate constraints; not permission for fiscal issue or a sufficient source/viability/FX assessment."
+    },
+    {
+      "id": "ECB_external_accounts_2025",
+      "url": "https://www.ecb.europa.eu/press/pubbydate/2025/html/ecb.bopiipbook202507.en.html",
+      "date": "As ofJuly2025",
+      "inspected": "Official general external-account/ownership and net-lending distinctions; not entire country tables or an exhaustive standard implementation.",
+      "scope": "Resident/nonresident transactions, claims and external net lending differ from one issuer's spendable currency; not our fixedFU rates/voluntary conversion or actual import capacities."
+    },
+    {
+      "id": "UN_SNA_2025",
+      "url": "https://unstats.un.org/unsd/Nationalaccount/sna.asp",
+      "identified_white_cover": "https://unstats.un.org/unsd/nationalaccount/docs/2025_SNA_Pre-edit.pdf",
+      "status": "Current official SNA2025 material identified in primary search; interactive landing redirects to unreadable JavaScript shell. White-cover PDF identified, not read as a complete manual.",
+      "scope": "No SNA2025 compliance, GDP or national account completeness claimed from the search/landing page."
+    }
+  ],
+  "source_families": "All107/108/109 and later inputs/models are authored research, not independent national observations; an older AI review/source rephrasing is not fresh professional or affected evidence.",
+  "new_hypotheses": "Same final retail items and supported wholesale quote substitutions; same hypothetical worker/tenure identities;4percent gross inventory financing; matched import-reference B and92k-equivalent allocation; explicit January general-CPI=B ratio proxy, not measured; tax-paid invoices/registration; fixedFU-at-base1 and optional conversion lens; G openingFX0 only a declared case, actual property unknown. Separate matched first-year30m mortgage-interest receipt at prior5000 holder identities, year-end15m principal protected with zero other opening liquidity/no saleable loan; actual title/other resources/receipt and later asset draw unknown.",
+  "review": "Fresh root conceptual/code/source inspection and exact scoped checks; no new received independent professional/affected review or exhaustive current events/objections survey.",
+  "sensitive_testimony_collected": false
+}

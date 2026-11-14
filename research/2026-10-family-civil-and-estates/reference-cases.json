@@ -1,0 +1,111 @@
+{
+  "edition": 71,
+  "date": "2026-10-15",
+  "scope": "Authored quantities with stipulated legal standing/priority only; not actual rights, needs, values, tax, judgments, a court simulator or a country forecast",
+  "joint_estate": {
+    "joint_asset_gross": 180,
+    "joint_debt": 30,
+    "equal_members": [
+      "A",
+      "B",
+      "C"
+    ],
+    "deceased": "A",
+    "separate_assets": 70,
+    "estate_debts": 40,
+    "reasonable_costs": 5,
+    "dependant_provision": 15,
+    "assumed_transfer_tax": 0,
+    "qualifying_partner_ids": [
+      "P1",
+      "P2"
+    ],
+    "descendant_branch_members": [
+      [
+        "D1"
+      ],
+      [
+        "G1",
+        "G2"
+      ]
+    ]
+  },
+  "insolvent_estate": {
+    "assets": 100,
+    "secured_debt": 60,
+    "realizable_collateral": 70,
+    "reasonable_costs": 5,
+    "priority_maintenance": 25,
+    "ordinary_claims": 50
+  },
+  "child_support": [
+    {
+      "id": "received_support",
+      "need": 1200,
+      "non_means_resources": 200,
+      "obligors": [
+        {
+          "id": "A",
+          "usable_resources": 2500,
+          "protected_own_needs": 1300,
+          "already_delivered": 300
+        },
+        {
+          "id": "B",
+          "usable_resources": 1800,
+          "protected_own_needs": 1300,
+          "already_delivered": 0
+        }
+      ]
+    },
+    {
+      "id": "insufficient_ability",
+      "need": 1200,
+      "non_means_resources": 200,
+      "obligors": [
+        {
+          "id": "A",
+          "usable_resources": 1300,
+          "protected_own_needs": 1300,
+          "already_delivered": 0
+        },
+        {
+          "id": "B",
+          "usable_resources": 1400,
+          "protected_own_needs": 1300,
+          "already_delivered": 0
+        }
+      ]
+    }
+  ],
+  "gross_docket": {
+    "ordinary_matters": 20,
+    "judge_hours_each": 4,
+    "urgent_matters": 8,
+    "urgent_judge_hours_each": 2,
+    "available_hours": 80
+  },
+  "actual": {
+    "families": null,
+    "standing": null,
+    "prices_or_values": null,
+    "claims_or_awards": null,
+    "transfer_tax": null,
+    "full_required_workload": null,
+    "appropriation": null,
+    "registry_compensation_exposure": null,
+    "received_remedies": null,
+    "affected_participation": null,
+    "independent_review": null,
+    "lawful_adoption": null,
+    "superiority": null
+  },
+  "limits": [
+    "All numerical legal/value assumptions are authored. Amounts are arbitrary common units; child amounts are a separate monthly price fixture, not the old national cohort schedule.",
+    "The joint estate excludes other peoples shares and joint debt once; private/secured/support priorities are stipulated, not determined by the check.",
+    "Estate example uses zero assumed transfer tax only for arithmetic; C06 progressive estate/large-gift policy is not amended. Actual tax is unknown.",
+    "Obligor C/E is stipulated before this period child payment; already received in-kind credit is counted once against its share, not another resource. Means-tested public bridging is not private income or canceled private duty.",
+    "Gross annual judge hours cannot establish urgent 24-hour coverage, full costs, actual independent staff, evidence or accepted safe receiving.",
+    "No automated parentage, capacity, clinical choice, custody, wills, title or liability decision follows from these inputs or checks."
+  ]
+}

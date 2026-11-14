@@ -1,0 +1,473 @@
+{
+  "edition": 137,
+  "register_summary": {
+    "count": 66,
+    "primary_analysis_families": {
+      "access_notices_and_democratic_materials": {
+        "count": 16,
+        "named_quote_CU": "3586720.000"
+      },
+      "sanitation_environment_and_testing": {
+        "count": 6,
+        "named_quote_CU": "3231000.0000"
+      },
+      "clinical_products": {
+        "count": 7,
+        "named_quote_CU": "43618304.000"
+      },
+      "fuel": {
+        "count": 5,
+        "named_quote_CU": "8430198.7840"
+      },
+      "knowledge_digital_and_protected_sources": {
+        "count": 10,
+        "named_quote_CU": "9129600.000"
+      },
+      "care_custody_and_external_support": {
+        "count": 6,
+        "named_quote_CU": "1426560.000"
+      },
+      "equipment_materials_and_repairs": {
+        "count": 7,
+        "named_quote_CU": "17632000.000"
+      },
+      "purchased_independent_expertise": {
+        "count": 3,
+        "named_quote_CU": "320000.00"
+      },
+      "specialist_care_and_employer_support": {
+        "count": 2,
+        "named_quote_CU": "6808000.00"
+      },
+      "linked_utilities": {
+        "count": 2,
+        "named_quote_CU": "16416373.37717306369592260531"
+      },
+      "linked_food": {
+        "count": 1,
+        "named_quote_CU": "7592213.490697498926768235662"
+      },
+      "linked_housing_programme": {
+        "count": 1,
+        "named_quote_CU": "5795014.022976458351836388794"
+      }
+    },
+    "named_total_CU": "123985983.6748470209745272298",
+    "previous_unmatched_quote_CU_not_new_cost": "94182382.7840",
+    "six_clinical_legacy_quote_CU_not_adequacy": "43520000.000",
+    "actual_matched_current_recipes_sources_or_receipts": null
+  },
+  "counterexamples": [
+    {
+      "id": "retained_stock_no_new_delivery",
+      "opening_physical_units": "19",
+      "conditional_received_units": "19",
+      "daily": [
+        {
+          "day": 0,
+          "usable_before_issue": "12",
+          "requirement": "5",
+          "served": "5",
+          "unmet": "0",
+          "issued": [
+            {
+              "batch": "short",
+              "units": "5"
+            }
+          ]
+        },
+        {
+          "day": 1,
+          "usable_before_issue": "4",
+          "requirement": "5",
+          "served": "4",
+          "unmet": "1",
+          "issued": [
+            {
+              "batch": "long",
+              "units": "4"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "usable_before_issue": "0",
+          "requirement": "5",
+          "served": "0",
+          "unmet": "5",
+          "issued": []
+        }
+      ],
+      "served_units": "9",
+      "unmet_units": "6",
+      "held_units_not_disposed": "10",
+      "expired_held_units": "7",
+      "pending_or_recalled_held_units": "3",
+      "physical_conservation_residue": "0",
+      "blocked_routes": [],
+      "same_currency_hypothetical_source_gap": "0",
+      "unconverted_source_currency": null,
+      "actual_received_source": null,
+      "actual_safe_clinical_receipt_or_funded_operation": null
+    },
+    {
+      "id": "one_route_no_disruption",
+      "opening_physical_units": "19",
+      "conditional_received_units": "25",
+      "daily": [
+        {
+          "day": 0,
+          "usable_before_issue": "12",
+          "requirement": "5",
+          "served": "5",
+          "unmet": "0",
+          "issued": [
+            {
+              "batch": "short",
+              "units": "5"
+            }
+          ]
+        },
+        {
+          "day": 1,
+          "usable_before_issue": "10",
+          "requirement": "5",
+          "served": "5",
+          "unmet": "0",
+          "issued": [
+            {
+              "batch": "delivery:a",
+              "units": "5"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "usable_before_issue": "5",
+          "requirement": "5",
+          "served": "5",
+          "unmet": "0",
+          "issued": [
+            {
+              "batch": "delivery:a",
+              "units": "1"
+            },
+            {
+              "batch": "long",
+              "units": "4"
+            }
+          ]
+        }
+      ],
+      "served_units": "15",
+      "unmet_units": "0",
+      "held_units_not_disposed": "10",
+      "expired_held_units": "7",
+      "pending_or_recalled_held_units": "3",
+      "physical_conservation_residue": "0",
+      "blocked_routes": [],
+      "same_currency_hypothetical_source_gap": "0",
+      "unconverted_source_currency": null,
+      "actual_received_source": null,
+      "actual_safe_clinical_receipt_or_funded_operation": null
+    },
+    {
+      "id": "two_labels_one_factory",
+      "opening_physical_units": "19",
+      "conditional_received_units": "19",
+      "daily": [
+        {
+          "day": 0,
+          "usable_before_issue": "12",
+          "requirement": "5",
+          "served": "5",
+          "unmet": "0",
+          "issued": [
+            {
+              "batch": "short",
+              "units": "5"
+            }
+          ]
+        },
+        {
+          "day": 1,
+          "usable_before_issue": "4",
+          "requirement": "5",
+          "served": "4",
+          "unmet": "1",
+          "issued": [
+            {
+              "batch": "long",
+              "units": "4"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "usable_before_issue": "0",
+          "requirement": "5",
+          "served": "0",
+          "unmet": "5",
+          "issued": []
+        }
+      ],
+      "served_units": "9",
+      "unmet_units": "6",
+      "held_units_not_disposed": "10",
+      "expired_held_units": "7",
+      "pending_or_recalled_held_units": "3",
+      "physical_conservation_residue": "0",
+      "blocked_routes": [
+        "a",
+        "b"
+      ],
+      "same_currency_hypothetical_source_gap": "0",
+      "unconverted_source_currency": null,
+      "actual_received_source": null,
+      "actual_safe_clinical_receipt_or_funded_operation": null
+    },
+    {
+      "id": "two_factories_insufficient_backup",
+      "opening_physical_units": "19",
+      "conditional_received_units": "22",
+      "daily": [
+        {
+          "day": 0,
+          "usable_before_issue": "12",
+          "requirement": "5",
+          "served": "5",
+          "unmet": "0",
+          "issued": [
+            {
+              "batch": "short",
+              "units": "5"
+            }
+          ]
+        },
+        {
+          "day": 1,
+          "usable_before_issue": "7",
+          "requirement": "5",
+          "served": "5",
+          "unmet": "0",
+          "issued": [
+            {
+              "batch": "delivery:b",
+              "units": "3"
+            },
+            {
+              "batch": "long",
+              "units": "2"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "usable_before_issue": "2",
+          "requirement": "5",
+          "served": "2",
+          "unmet": "3",
+          "issued": [
+            {
+              "batch": "long",
+              "units": "2"
+            }
+          ]
+        }
+      ],
+      "served_units": "12",
+      "unmet_units": "3",
+      "held_units_not_disposed": "10",
+      "expired_held_units": "7",
+      "pending_or_recalled_held_units": "3",
+      "physical_conservation_residue": "0",
+      "blocked_routes": [
+        "a"
+      ],
+      "same_currency_hypothetical_source_gap": "0",
+      "unconverted_source_currency": null,
+      "actual_received_source": null,
+      "actual_safe_clinical_receipt_or_funded_operation": null
+    },
+    {
+      "id": "full_backup_source_shortfall",
+      "opening_physical_units": "19",
+      "conditional_received_units": "25",
+      "daily": [
+        {
+          "day": 0,
+          "usable_before_issue": "12",
+          "requirement": "5",
+          "served": "5",
+          "unmet": "0",
+          "issued": [
+            {
+              "batch": "short",
+              "units": "5"
+            }
+          ]
+        },
+        {
+          "day": 1,
+          "usable_before_issue": "10",
+          "requirement": "5",
+          "served": "5",
+          "unmet": "0",
+          "issued": [
+            {
+              "batch": "delivery:b",
+              "units": "5"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "usable_before_issue": "5",
+          "requirement": "5",
+          "served": "5",
+          "unmet": "0",
+          "issued": [
+            {
+              "batch": "delivery:b",
+              "units": "1"
+            },
+            {
+              "batch": "long",
+              "units": "4"
+            }
+          ]
+        }
+      ],
+      "served_units": "15",
+      "unmet_units": "0",
+      "held_units_not_disposed": "10",
+      "expired_held_units": "7",
+      "pending_or_recalled_held_units": "3",
+      "physical_conservation_residue": "0",
+      "blocked_routes": [
+        "a"
+      ],
+      "same_currency_hypothetical_source_gap": "40",
+      "unconverted_source_currency": null,
+      "actual_received_source": null,
+      "actual_safe_clinical_receipt_or_funded_operation": null
+    },
+    {
+      "id": "full_backup_wrong_currency",
+      "opening_physical_units": "19",
+      "conditional_received_units": "25",
+      "daily": [
+        {
+          "day": 0,
+          "usable_before_issue": "12",
+          "requirement": "5",
+          "served": "5",
+          "unmet": "0",
+          "issued": [
+            {
+              "batch": "short",
+              "units": "5"
+            }
+          ]
+        },
+        {
+          "day": 1,
+          "usable_before_issue": "10",
+          "requirement": "5",
+          "served": "5",
+          "unmet": "0",
+          "issued": [
+            {
+              "batch": "delivery:b",
+              "units": "5"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "usable_before_issue": "5",
+          "requirement": "5",
+          "served": "5",
+          "unmet": "0",
+          "issued": [
+            {
+              "batch": "delivery:b",
+              "units": "1"
+            },
+            {
+              "batch": "long",
+              "units": "4"
+            }
+          ]
+        }
+      ],
+      "served_units": "15",
+      "unmet_units": "0",
+      "held_units_not_disposed": "10",
+      "expired_held_units": "7",
+      "pending_or_recalled_held_units": "3",
+      "physical_conservation_residue": "0",
+      "blocked_routes": [
+        "a"
+      ],
+      "same_currency_hypothetical_source_gap": null,
+      "unconverted_source_currency": "FU",
+      "actual_received_source": null,
+      "actual_safe_clinical_receipt_or_funded_operation": null
+    },
+    {
+      "id": "large_pending_lot",
+      "opening_physical_units": "119",
+      "conditional_received_units": "119",
+      "daily": [
+        {
+          "day": 0,
+          "usable_before_issue": "12",
+          "requirement": "5",
+          "served": "5",
+          "unmet": "0",
+          "issued": [
+            {
+              "batch": "short",
+              "units": "5"
+            }
+          ]
+        },
+        {
+          "day": 1,
+          "usable_before_issue": "4",
+          "requirement": "5",
+          "served": "4",
+          "unmet": "1",
+          "issued": [
+            {
+              "batch": "long",
+              "units": "4"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "usable_before_issue": "0",
+          "requirement": "5",
+          "served": "0",
+          "unmet": "5",
+          "issued": []
+        }
+      ],
+      "served_units": "9",
+      "unmet_units": "6",
+      "held_units_not_disposed": "110",
+      "expired_held_units": "7",
+      "pending_or_recalled_held_units": "103",
+      "physical_conservation_residue": "0",
+      "blocked_routes": [],
+      "same_currency_hypothetical_source_gap": "0",
+      "unconverted_source_currency": null,
+      "actual_received_source": null,
+      "actual_safe_clinical_receipt_or_funded_operation": null
+    }
+  ],
+  "country_selection": "Retain public critical-input competence and accountable plural procurement, conditional nonexclusive pooling, qualified usable buffers and paid alternative routes; reject clinical budget quotes as adequate source prices. No assumed foreign access or domestic self-sufficiency.",
+  "actual_full_country_cost_authority_capacity_or_better_lives": null
+}

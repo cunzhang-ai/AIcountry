@@ -1,0 +1,204 @@
+{
+  "edition": 155,
+  "covered_persons": 4938895,
+  "source_rows": [
+    {
+      "code": "100",
+      "count": 544831,
+      "published_income_DKK": 16055276000,
+      "lower": null,
+      "upper": 100000
+    },
+    {
+      "code": "110",
+      "count": 669454,
+      "published_income_DKK": 106437522000,
+      "lower": 100000,
+      "upper": 200000
+    },
+    {
+      "code": "810",
+      "count": 1072773,
+      "published_income_DKK": 266277711000,
+      "lower": 200000,
+      "upper": 300000
+    },
+    {
+      "code": "815",
+      "count": 815221,
+      "published_income_DKK": 285311794000,
+      "lower": 300000,
+      "upper": 400000
+    },
+    {
+      "code": "820",
+      "count": 713219,
+      "published_income_DKK": 318954140000,
+      "lower": 400000,
+      "upper": 500000
+    },
+    {
+      "code": "900",
+      "count": 770862,
+      "published_income_DKK": 459293282000,
+      "lower": 500000,
+      "upper": 750000
+    },
+    {
+      "code": "910",
+      "count": 197721,
+      "published_income_DKK": 168234432000,
+      "lower": 750000,
+      "upper": 1000000
+    },
+    {
+      "code": "915",
+      "count": 122222,
+      "published_income_DKK": 158225026000,
+      "lower": 1000000,
+      "upper": 2000000
+    },
+    {
+      "code": "920",
+      "count": 16554,
+      "published_income_DKK": 39737646000,
+      "lower": 2000000,
+      "upper": 3000000
+    },
+    {
+      "code": "925",
+      "count": 6020,
+      "published_income_DKK": 20687841000,
+      "lower": 3000000,
+      "upper": 4000000
+    },
+    {
+      "code": "930",
+      "count": 2942,
+      "published_income_DKK": 13112812000,
+      "lower": 4000000,
+      "upper": 5000000
+    },
+    {
+      "code": "935",
+      "count": 4832,
+      "published_income_DKK": 32642357000,
+      "lower": 5000000,
+      "upper": 10000000
+    },
+    {
+      "code": "940",
+      "count": 2244,
+      "published_income_DKK": 68536552000,
+      "lower": 10000000,
+      "upper": null
+    }
+  ],
+  "published_total_income_DKK": 1953506389000,
+  "sum_interval_income_DKK": 1953506391000,
+  "income_cell_reconciliation_difference_DKK": 2000,
+  "mean_products_are_rounded_proxies": {
+    "105": {
+      "published_mean_DKK": 395500,
+      "count": 4938895,
+      "rounded_product_DKK": 1953332972500
+    },
+    "110": {
+      "published_mean_DKK": 275500,
+      "count": 4938895,
+      "rounded_product_DKK": 1360665572500
+    },
+    "115": {
+      "published_mean_DKK": 255900,
+      "count": 4938895,
+      "rounded_product_DKK": 1263863230500
+    },
+    "120": {
+      "published_mean_DKK": 18600,
+      "count": 4938895,
+      "rounded_product_DKK": 91863447000
+    },
+    "125": {
+      "published_mean_DKK": 1000,
+      "count": 4938895,
+      "rounded_product_DKK": 4938895000
+    },
+    "255": {
+      "published_mean_DKK": 129800,
+      "count": 4938895,
+      "rounded_product_DKK": 641068571000
+    },
+    "260": {
+      "published_mean_DKK": 108600,
+      "count": 4938895,
+      "rounded_product_DKK": 536363997000
+    },
+    "265": {
+      "published_mean_DKK": 21200,
+      "count": 4938895,
+      "rounded_product_DKK": 104704574000
+    }
+  },
+  "conditional_extra_compensation_bnDKK": 70.712528363047,
+  "experiments": [
+    {
+      "authored_M_DKK": 400000,
+      "proxy_PA_lower_bnDKK": 391.32039,
+      "proxy_PA_upper_bnDKK": 400.096065544,
+      "ordinary_tax_replacement_change_bnDKK": [
+        -145.043607,
+        -136.267931456
+      ],
+      "conditional_NL_before_other_increments_bnDKK": [
+        -118.243135363047,
+        -109.467459819047
+      ],
+      "conditional_NL_with_wage_only_Y_replacement_bnDKK": [
+        -96.561386313047,
+        -87.785710769047
+      ],
+      "full_candidate_NL_bnDKK": null,
+      "actual_tax_yield_or_due_cash": null
+    },
+    {
+      "authored_M_DKK": 500000,
+      "proxy_PA_lower_bnDKK": 325.6162733,
+      "proxy_PA_upper_bnDKK": 331.34288892,
+      "ordinary_tax_replacement_change_bnDKK": [
+        -210.7477237,
+        -205.02110808
+      ],
+      "conditional_NL_before_other_increments_bnDKK": [
+        -183.947252063047,
+        -178.220636443047
+      ],
+      "conditional_NL_with_wage_only_Y_replacement_bnDKK": [
+        -162.265503013047,
+        -156.538887393047
+      ],
+      "full_candidate_NL_bnDKK": null,
+      "actual_tax_yield_or_due_cash": null
+    },
+    {
+      "authored_M_DKK": 600000,
+      "proxy_PA_lower_bnDKK": 273.7799732,
+      "proxy_PA_upper_bnDKK": 284.154471456,
+      "ordinary_tax_replacement_change_bnDKK": [
+        -262.5840238,
+        -252.209525544
+      ],
+      "conditional_NL_before_other_increments_bnDKK": [
+        -235.783552163047,
+        -225.409053907047
+      ],
+      "conditional_NL_with_wage_only_Y_replacement_bnDKK": [
+        -214.101803113047,
+        -203.727304857047
+      ],
+      "full_candidate_NL_bnDKK": null,
+      "actual_tax_yield_or_due_cash": null
+    }
+  ],
+  "actual_W_or_M": null,
+  "actual_full_source_cost_independence_or_outcomes": null
+}

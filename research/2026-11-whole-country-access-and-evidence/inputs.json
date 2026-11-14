@@ -1,0 +1,251 @@
+{
+  "edition": 94,
+  "context": {
+    "edition": 94,
+    "status": "Authored conditional commencement/source-frontier seed; no selected funded launch, actual offer, source or readiness",
+    "unit": "CU quote-equivalent; actual payment currencies and exchange rates unknown",
+    "source_pins": [
+      {
+        "path": "2026-11-work-pay-and-country-account/results.json",
+        "sha256": "1ace126e28ed9c408857357a0ca9e2abc36fb11fd3207749ec0d81b03cebd313",
+        "use": "Quoted authored predecessor result, not actual observation or validation of upstream dependencies"
+      },
+      {
+        "path": "2026-11-physical-supply-and-trade/results.json",
+        "sha256": "a10c7c13c9e42a37fdc430657659432cdf416067cbb3572c5440e6050cb843db",
+        "use": "Quoted authored predecessor result, not actual observation or validation of upstream dependencies"
+      }
+    ],
+    "pin_limit": "Pins only the exact quoted predecessor result artifacts. Arithmetic below uses their disclosed scalars; it does not independently validate or qualify the upstream models, empirical inputs or complete dependency scope.",
+    "selected_research_context": "Existing-community retrofit; actual territory, residents, titles, lawful authority and opening accounts unknown",
+    "rival_context": "Paid new settlement/greenfield; all required assets, land, construction, imports and public capacity need explicit acquisition/source; not assumed absent in retrofit",
+    "comparisons": [
+      {
+        "id": "retain_repair_I05",
+        "context": "existing-community retrofit",
+        "new_U_start_selected": false
+      },
+      {
+        "id": "retrofit_protected_U",
+        "context": "same opening community and legacy claims",
+        "new_U_start_selected": false
+      },
+      {
+        "id": "paid_greenfield",
+        "context": "separately paid new settlement",
+        "new_U_start_selected": false
+      }
+    ],
+    "opening_classes": [
+      {
+        "id": "retained_housing_networks_generation",
+        "class": "Public/private/cooperative productive assets and household shelter; owners/title/vintage/inclusion unknown",
+        "quote_CU": null,
+        "automatic_purchase": false,
+        "actual_source": null
+      },
+      {
+        "id": "PA_operator_assets",
+        "class": "Producer capital, actual public/private/cooperative ownership unknown; bus ownership/subsidy unresolved",
+        "replacement_quote_CU": 108330000,
+        "CFC_reference_CU": 6323500.0,
+        "automatic_purchase": false,
+        "actual_source": null
+      },
+      {
+        "id": "PA_household_durables",
+        "class": "Consumer durables; not producer fixed capital",
+        "new_replacement_quote_CU": 92500000,
+        "automatic_purchase": false,
+        "actual_source": null
+      },
+      {
+        "id": "PA_inventory",
+        "class": "Importer/retailer working inventory; actual public/private/cooperative owner unknown",
+        "if_absent_working_stock_quote_CU": 3139726.02739726,
+        "tonnes": 304.1095890410959,
+        "automatic_purchase": false,
+        "actual_source": null
+      },
+      {
+        "id": "PS_new_water_package",
+        "class": "Proposed source/reuse/leak/storage productive assets; public/common-accountability choice does not establish title or payer",
+        "automatic_purchase": false,
+        "actual_source": null
+      }
+    ],
+    "paths": [
+      {
+        "id": "resource_fit_mixed/desal",
+        "PS_named_recurring_foreign_quote_CU": 60445717.35297477,
+        "PA_disjoint_final_goods_border_quote_CU": 38200000.0,
+        "PS_named_new_water_asset_quote_CU": 68850000,
+        "water_asset_foreign_quote_CU": 35752500.0,
+        "potable_initial_fill_m3": 200000,
+        "initial_fill_process_GWh": 0.8,
+        "actual_owned_foreign_source": null,
+        "unpriced_other_foreign_obligations": null,
+        "complete_foreign_requirement": null
+      },
+      {
+        "id": "import_heavy/bulk",
+        "PS_named_recurring_foreign_quote_CU": 73433156.47144523,
+        "PA_disjoint_final_goods_border_quote_CU": 38200000.0,
+        "PS_named_new_water_asset_quote_CU": 40000000,
+        "water_asset_foreign_quote_CU": 16400000.0,
+        "potable_initial_fill_m3": 200000,
+        "initial_fill_process_GWh": 0.02,
+        "actual_owned_foreign_source": null,
+        "unpriced_other_foreign_obligations": null,
+        "complete_foreign_requirement": null
+      }
+    ],
+    "old_claims_preserved": [
+      "Already due and accrued needs/services and source dates",
+      "Wages, notice, severance, learning and employment contracts",
+      "Pension earned/care/survivor units, original indexation and protected net claims",
+      "Property, tenancies, concessions, borrower/creditor/security and currency terms",
+      "Tax periods, treaty/foreign-law duties and external protection",
+      "Court orders, coercion safeguards, pending cases, protected records and lawful successors"
+    ],
+    "frontiers": {
+      "recurring_general_public": {
+        "required_CU": null,
+        "received_recurring_sources_CU": null,
+        "residual_CU": null,
+        "coverage": "Current protection/services/admin + actual own replacement + external coupons/other continuing obligations; distinguish financial subscriptions, new capital and principal. Keep G and S separate and remove internal transfers/coupons only in a stated consolidation."
+      },
+      "initial_assets_and_transition": {
+        "actual_required_CU": null,
+        "owned_uncommitted_sources_CU": null,
+        "coverage": "Only absent/new/paid-acquired assets, land/title settlement, inventories/fill, training/overlap, compensation, required subscriptions and liquidity seeds, with distinct owners and no duplicate initial-vs-replacement purchase."
+      },
+      "due_date_liquidity": {
+        "required_by_account_currency_date": null,
+        "usable_owned_cash_and_actual_receipts": null,
+        "maximum_uncovered_requirement": null,
+        "coverage": "Calendar cumulative due uses minus usable owned opening cash and receipts; restricted S/client/renewal cash not a G offer. Include pre-first-pay seed, maturity, fees/coupons and source dates. No automatic overdraft or end-year money funding first month."
+      },
+      "owned_foreign_settlement": {
+        "full_required_by_currency_date": null,
+        "actual_owned_source_by_currency_date": null,
+        "coverage": "Reference subtotals calculated below; full uses add other imports/foreign debt/initial purchases/fees and matching timing. No assumed exports, conversion guarantee, grants, lender consent or private pooling."
+      }
+    },
+    "scope_limits": [
+      "10GWh PA allocation only provisional replacement of PS10; bus-depot overlap with retained public60GWh unresolved",
+      "Other suppliers, household choice/additional needs, full public duties, ownership/land/finance/insurance and job/time/price matches remain unpriced",
+      "No requirement to list every future private good/job or approve every private contract; credible bounded forecasts and representative statistics are admissible",
+      "Critical material/public commitments require explicit exposure, responsible operator, timing, fallback, source and failure/remedy account",
+      "No threshold creates a readiness veto over existing or enacted due rights; legislative dates do not float"
+    ],
+    "actual": {
+      "territory_or_lawful_founding": null,
+      "opening_assets_and_accounts": null,
+      "tax_and_employment_bases": null,
+      "offers_or_owned_sources": null,
+      "engineering_and_safe_receiving": null,
+      "affected_participation": null,
+      "qualified_independent_review": null,
+      "outcomes": null
+    }
+  },
+  "mobility": {
+    "residents": 1000,
+    "returns_per_week": 2,
+    "weeks": 52,
+    "return_km": 10,
+    "speed_kmh": 25,
+    "handling_hours_per_return": 0.2,
+    "annual_task_hours": 1110.6,
+    "wage_quote_CU": 30000,
+    "fuel_quote_CU_litre": 1.2,
+    "cases": [
+      {
+        "id": "packed_network",
+        "passengers": 50,
+        "empty_fraction": 0.25,
+        "reserve_posts": 1,
+        "dispatch_posts": 0.5,
+        "fleet": 2,
+        "vehicle_quote_CU": 200000,
+        "life_years": 12,
+        "maintenance_CU_vehicle": 8000,
+        "fuel_litre_km": 0.3,
+        "premises_CU": 12000
+      },
+      {
+        "id": "demand_responsive",
+        "passengers": 2,
+        "empty_fraction": 0.5,
+        "reserve_posts": 2,
+        "dispatch_posts": 2,
+        "fleet": 12,
+        "vehicle_quote_CU": 60000,
+        "life_years": 8,
+        "maintenance_CU_vehicle": 4000,
+        "fuel_litre_km": 0.1,
+        "premises_CU": 24000
+      }
+    ],
+    "country_people": 100000,
+    "distances_return_km": [
+      10,
+      20
+    ],
+    "usage_cases": [
+      1,
+      0.5
+    ],
+    "old_PA_passenger_km": 150000000,
+    "wheelchair_peak": {
+      "people": 3,
+      "vehicles": 2,
+      "spaces_per_vehicle": 1,
+      "ready_minute": 495,
+      "deadline_minute": 540,
+      "boarding_minutes": 10,
+      "oneway_minutes": 20
+    }
+  },
+  "evidence": {
+    "seats": 101,
+    "vote_numerator": 3,
+    "vote_denominator": 5,
+    "term_years": 6,
+    "continuity_limit_days": 180,
+    "vacancy_days": [
+      0,
+      179,
+      180,
+      181,
+      365
+    ],
+    "actual_appointment": null,
+    "actual_publication_or_funding": null
+  },
+  "actual": {
+    "authority": null,
+    "appropriation": null,
+    "owned_sources": null,
+    "vehicles_drivers_or_staff": null,
+    "affected_participation": null,
+    "qualified_independent_review": null,
+    "delivered_remedies": null,
+    "better_lives": null
+  },
+  "quoted_support_pins": {
+    "2026-11-work-pay-and-country-account/inputs.json": "3bbd53cfab61298536ad567df6a5441fe10069769853914b8690a9d6748f446c",
+    "2026-11-work-pay-and-country-account/model.py": "5db335c9cf9720282fc0f5f2c3cdf13667d118cb3d9b34895c43b7c1073fb3b0",
+    "2026-11-work-pay-and-country-account/personal.py": "09005cb2abff4c710558244cc1ec6ee2119bb63d71288ac499a13ff323c416b1",
+    "2026-11-work-pay-and-country-account/producers.py": "1e185ab0c4f217138429231deab84b7abf2e97f3f8b4dc6f176d060fd6c0f005",
+    "2026-11-work-pay-and-country-account/results.json": "1ace126e28ed9c408857357a0ca9e2abc36fb11fd3207749ec0d81b03cebd313",
+    "2026-11-work-pay-and-country-account/scope-record.json": "888602bfc6ea090a2367834c75e77858f167a4686caf4c9494bc00a8e36c1556",
+    "2026-11-work-pay-and-country-account/sources.json": "161b384bb1de3063ce582465f7b2625d4ab6ddcb19a97af3695282d0bcb18fb8",
+    "2026-11-physical-supply-and-trade/inputs.json": "c742177860a8fe34085824e7268c20ddd6893967edfcfe65454e9e7d8bdc2b83",
+    "2026-11-physical-supply-and-trade/model.py": "5f47d443657e7f94d0cdc089405e76901ac2df48c7792a83d2296727c5e9a9ae",
+    "2026-11-physical-supply-and-trade/results.json": "a10c7c13c9e42a37fdc430657659432cdf416067cbb3572c5440e6050cb843db",
+    "2026-11-physical-supply-and-trade/scope-record.json": "4076607f1464161fb23c3eec4649eabe696be6f16716f630c21e8cdc7b3d5959",
+    "2026-11-physical-supply-and-trade/sources.json": "c4901976130df686a2a5895ad140e51d3990cab7b6561704002cf467665358df"
+  }
+}

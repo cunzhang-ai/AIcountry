@@ -1,0 +1,78 @@
+{
+  "numeric_fields": {
+    "high": "Cost to eradicate high risk backlog (£)",
+    "significant": "Cost to eradicate significant risk backlog (£)",
+    "moderate": "Cost to eradicate moderate risk backlog (£)",
+    "low": "Cost to eradicate low risk backlog (£)",
+    "investment_critical": "Investment to reduce backlog maintenance - Critical Infrastructure Risk (£)",
+    "investment_noncritical": "Investment to reduce backlog maintenance - non Critical Infrastructure Risk (£)"
+  },
+  "periods": {
+    "2023/24": {
+      "download_url": "https://files.digital.nhs.uk/C7/C7C191/ERIC%20-%202023_24%20-%20Site%20data.csv",
+      "download_sha256": "bbaf49db31b168ee7aa10c5b86993b9843ef506df8428625c76463ed741c7e8b",
+      "download_encoding": "utf-8-sig",
+      "sites": [
+        {
+          "trust_code": "REF",
+          "site_code": "REF12",
+          "site_name": "ROYAL CORNWALL HOSPITAL",
+          "surveyed_gia_band": "81 - 100%",
+          "method": "Formal 6 facet survey",
+          "high": 47786,
+          "significant": 22846806,
+          "moderate": 21730360,
+          "low": 6987615,
+          "investment_critical": 2965000,
+          "investment_noncritical": 2028000
+        },
+        {
+          "trust_code": "RGT",
+          "site_code": "RGT01",
+          "site_name": "ADDENBROOKE'S HOSPITAL",
+          "surveyed_gia_band": "81 - 100%",
+          "method": "Formal 6 facet survey",
+          "high": 14693346,
+          "significant": 100473366,
+          "moderate": 80936272,
+          "low": 12456424,
+          "investment_critical": 18810000,
+          "investment_noncritical": 0
+        }
+      ]
+    },
+    "2024/25": {
+      "download_url": "https://files.digital.nhs.uk/AA/2375EE/ERIC%20-%202024_25%20-%20Site%20data.csv",
+      "download_sha256": "a9b6798fd6bc57aaf810164f575d4ac914ee313834cdfa87cabbe05f23dfe84f",
+      "download_encoding": "cp1252",
+      "sites": [
+        {
+          "trust_code": "REF",
+          "site_code": "REF12",
+          "site_name": "ROYAL CORNWALL HOSPITAL",
+          "surveyed_gia_band": "81 - 100%",
+          "method": "Formal 6 facet survey",
+          "high": 47486,
+          "significant": 17383780,
+          "moderate": 21005875,
+          "low": 6987615,
+          "investment_critical": 5463026,
+          "investment_noncritical": 724485
+        },
+        {
+          "trust_code": "RGT",
+          "site_code": "RGT01",
+          "site_name": "ADDENBROOKE'S HOSPITAL",
+          "surveyed_gia_band": "81 - 100%",
+          "method": "Formal 6 facet survey",
+          "high": 27982778,
+          "significant": 104567142,
+          "moderate": 88557417,
+          "low": 13644165,
+          "investment_critical": 18000000,
+          "investment_noncritical": 0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,305 @@
+{
+  "edition": 65,
+  "date": "2026-10-15",
+  "units": "Fictional service-year currency with explicit price ratios; annual pension at claim prices; finance in million fictional units; no actual life tables/claims",
+  "pinned_sources": {
+    "2026-10-income-floor/inputs.json": "83a829f77ceff901848b31447e28c15d2bf603e66d97359ac9d6414308646337",
+    "2026-10-demand-and-steady-stocks/inputs.json": "afd5f53ce5c25dbc22eff59ed849e57b6988b625e665fbbbdf29a1d40d2e5ffa",
+    "2026-10-demand-and-steady-stocks/results.json": "b688fc7b9cd5f2d4e82fc226fc93df7685b04282d0b9055e66622a7677c327b3"
+  },
+  "parameters": {
+    "standard_age": 65,
+    "worker_contribution_rate": 0.1,
+    "annual_accrual_base_multiple": 2,
+    "credit_reference_fraction": 0.5,
+    "annual_accrual_rate": 0.0125,
+    "maximum_calendar_bases": 48,
+    "survivor_pot_fraction": 0.5,
+    "reserve_months": 4,
+    "default_real_discount": 0
+  },
+  "career_cases": [
+    {
+      "name": "single_year",
+      "blocks": [
+        {
+          "years": 1,
+          "periods": [
+            {
+              "from_month": 0,
+              "until_month": 12,
+              "annualized_labor_pay": 30000,
+              "eligible_credit": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "forty_year_middle_pay",
+      "blocks": [
+        {
+          "years": 40,
+          "periods": [
+            {
+              "from_month": 0,
+              "until_month": 12,
+              "annualized_labor_pay": 30000,
+              "eligible_credit": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "forty_year_above_cap",
+      "blocks": [
+        {
+          "years": 40,
+          "periods": [
+            {
+              "from_month": 0,
+              "until_month": 12,
+              "annualized_labor_pay": 120000,
+              "eligible_credit": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "twenty_work_twenty_care",
+      "blocks": [
+        {
+          "years": 20,
+          "periods": [
+            {
+              "from_month": 0,
+              "until_month": 12,
+              "annualized_labor_pay": 30000,
+              "eligible_credit": false
+            }
+          ]
+        },
+        {
+          "years": 20,
+          "periods": [
+            {
+              "from_month": 0,
+              "until_month": 12,
+              "annualized_labor_pay": 0,
+              "eligible_credit": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "care_with_10000_pay",
+      "blocks": [
+        {
+          "years": 1,
+          "periods": [
+            {
+              "from_month": 0,
+              "until_month": 12,
+              "annualized_labor_pay": 10000,
+              "eligible_credit": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "paid_leave_not_double",
+      "blocks": [
+        {
+          "years": 1,
+          "periods": [
+            {
+              "from_month": 0,
+              "until_month": 12,
+              "annualized_labor_pay": 30000,
+              "eligible_credit": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "fifty_year_same_pay",
+      "blocks": [
+        {
+          "years": 50,
+          "periods": [
+            {
+              "from_month": 0,
+              "until_month": 12,
+              "annualized_labor_pay": 30000,
+              "eligible_credit": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "higher_year_replaces_low",
+      "blocks": [
+        {
+          "years": 48,
+          "periods": [
+            {
+              "from_month": 0,
+              "until_month": 12,
+              "annualized_labor_pay": 30000,
+              "eligible_credit": false
+            }
+          ]
+        },
+        {
+          "years": 1,
+          "periods": [
+            {
+              "from_month": 0,
+              "until_month": 12,
+              "annualized_labor_pay": 60000,
+              "eligible_credit": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "inflation_doubles",
+      "blocks": [
+        {
+          "years": 1,
+          "periods": [
+            {
+              "from_month": 0,
+              "until_month": 12,
+              "annualized_labor_pay": 30000,
+              "eligible_credit": false
+            }
+          ],
+          "price_ratios_since_service": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "name": "deflation_preserves_nominal",
+      "blocks": [
+        {
+          "years": 1,
+          "periods": [
+            {
+              "from_month": 0,
+              "until_month": 12,
+              "annualized_labor_pay": 30000,
+              "eligible_credit": false
+            }
+          ],
+          "price_ratios_since_service": [
+            0.9
+          ]
+        }
+      ]
+    },
+    {
+      "name": "work_then_half_year_care",
+      "blocks": [
+        {
+          "years": 1,
+          "periods": [
+            {
+              "from_month": 0,
+              "until_month": 6,
+              "annualized_labor_pay": 30000
+            },
+            {
+              "from_month": 6,
+              "until_month": 12,
+              "annualized_labor_pay": 0,
+              "eligible_credit": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "half_year_only",
+      "blocks": [
+        {
+          "years": 1,
+          "periods": [
+            {
+              "from_month": 0,
+              "until_month": 6,
+              "annualized_labor_pay": 120000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "inflation_then_deflation",
+      "blocks": [
+        {
+          "years": 1,
+          "periods": [
+            {
+              "from_month": 0,
+              "until_month": 12,
+              "annualized_labor_pay": 30000
+            }
+          ],
+          "price_ratios_since_service": [
+            2,
+            0.9
+          ]
+        }
+      ]
+    }
+  ],
+  "aggregate": {
+    "retired_people": 15000,
+    "adult_ordinary_monthly": 1000,
+    "known_worker_receipts": 228,
+    "known_bond_interest": 5,
+    "restricted_opening_cash": 25,
+    "actual_legacy_claims": null
+  },
+  "finance_histories": [
+    {
+      "name": "old_scheduled_250_monthly",
+      "monthly_earned": 250
+    },
+    {
+      "name": "forty_year_middle_pay",
+      "career": "forty_year_middle_pay"
+    },
+    {
+      "name": "care_interruption_history",
+      "career": "twenty_work_twenty_care"
+    },
+    {
+      "name": "above_cap_history",
+      "career": "forty_year_above_cap"
+    }
+  ],
+  "limits": [
+    "All histories, wages, thresholds, ages, accrual/credit/levy choices and reserve months are authored normative hypotheses, not calibrated optimal parameters.",
+    "Career cases determine proposed annual pension units, not assets owned or actuarial cash values. A contribution transfer does not price the lifetime liability.",
+    "Alternative 15000-recipient histories are not transitions, measured cohorts, or a forecast; the old 45 scheduled payment is not overwritten by these examples.",
+    "The old 228 receipts assume unchanged wages/work and full collection, not a forecast or proof that prices, work, tax and needs transfers stay unchanged.",
+    "The known 5 interest needs lawful actual payment. Administration, survivor claims, care-credit transfers, inherited accrual, basic/floor interactions and asset/claim valuation remain unknown, not zero.",
+    "Finance margins are known components before omissions, not surpluses available for the general floor. No annual margin is recorded as a willing loan or bank deposit.",
+    "Annual advance cash examples hold only one declared due date. Bank liquidity, source access, reserve replenishment, protection and actual receipt remain unverified.",
+    "Toy annuity survival curves explicitly close at 85 solely to check the common-base-age formula; no actual early/deferred quote is available without original survival/tail evidence and law.",
+    "A best-48-calendar-base cap is an explicit distribution choice: partial service amounts are prorated; a partial calendar year still occupies a calendar base slot. No minimum vesting-years cliff exists.",
+    "No new pension law is enacted, no actual people participated, and no independently qualified actuarial review or observed superiority was obtained.",
+    "Service-year contribution totals retain their original-year currency units; they are not present values, accumulated owned assets or a price for the lifetime benefit."
+  ]
+}

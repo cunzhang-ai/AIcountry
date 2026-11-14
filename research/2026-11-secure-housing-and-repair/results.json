@@ -1,0 +1,422 @@
+{
+  "edition": 91,
+  "status": "Authored conditional housing subset, not current national closure",
+  "retained_reference_structures": 75000,
+  "reference_persons": 100000,
+  "actual_occupied_structures_or_household_choices": null,
+  "old_private_rent_CU": 429550000.0,
+  "old_public_rent_CU": 21000000.0,
+  "old_total_rent_CU": 450550000.0,
+  "old_explicit_profit_or_finance_margin_CU": 0,
+  "old_margin_zero_is_observed_landlord_profit": false,
+  "programs": {
+    "selected32": {
+      "all_rebuild": {
+        "rebuild_events_average": 1875.0,
+        "repair_events_average": 0.0,
+        "new_input_tonnes": 93750.0,
+        "task_hours": 3750000.0,
+        "annual_task_hours_per_post": 1110.6000000000001,
+        "annual_post_lower_bound": 3378,
+        "roles": {
+          "craft": {
+            "task_hours": 3375000.0,
+            "annual_post_lower_bound": 3039,
+            "ordinary_payroll_CU": 91170000
+          },
+          "design": {
+            "task_hours": 300000.0,
+            "annual_post_lower_bound": 271,
+            "ordinary_payroll_CU": 16260000
+          },
+          "independent_technical": {
+            "task_hours": 75000.0,
+            "annual_post_lower_bound": 68,
+            "ordinary_payroll_CU": 4080000
+          }
+        },
+        "ordinary_payroll_CU": 111510000,
+        "average_temporary_dwelling_demand": 937.5,
+        "temporary_dwelling_lower_bound": 938,
+        "new_material_quote_CU": 46875000.0,
+        "distinct_other_quote_CU": 131250000.0,
+        "temporary_stock_lease_quote_CU": 8442000,
+        "named_total_quote_CU": 298077000.0,
+        "actual_safe_repair_acceptance": null,
+        "actual_roster": null,
+        "actual_temporary_stock": null,
+        "qualified_national_saving": false
+      },
+      "repair40": {
+        "rebuild_events_average": 468.75,
+        "repair_events_average": 1406.25,
+        "new_input_tonnes": 40312.5,
+        "task_hours": 3046875.0,
+        "annual_task_hours_per_post": 1110.6000000000001,
+        "annual_post_lower_bound": 2745,
+        "roles": {
+          "craft": {
+            "task_hours": 2531250.0,
+            "annual_post_lower_bound": 2280,
+            "ordinary_payroll_CU": 68400000
+          },
+          "design": {
+            "task_hours": 412500.0,
+            "annual_post_lower_bound": 372,
+            "ordinary_payroll_CU": 22320000
+          },
+          "independent_technical": {
+            "task_hours": 103125.0,
+            "annual_post_lower_bound": 93,
+            "ordinary_payroll_CU": 5580000
+          }
+        },
+        "ordinary_payroll_CU": 96300000,
+        "average_temporary_dwelling_demand": 292.96875,
+        "temporary_dwelling_lower_bound": 293,
+        "new_material_quote_CU": 20156250.0,
+        "distinct_other_quote_CU": 60937500.0,
+        "temporary_stock_lease_quote_CU": 2637000,
+        "named_total_quote_CU": 180030750.0,
+        "actual_safe_repair_acceptance": null,
+        "actual_roster": null,
+        "actual_temporary_stock": null,
+        "qualified_national_saving": false
+      },
+      "repair20": {
+        "rebuild_events_average": 468.75,
+        "repair_events_average": 2812.5,
+        "new_input_tonnes": 57187.5,
+        "task_hours": 5156250.0,
+        "annual_task_hours_per_post": 1110.6000000000001,
+        "annual_post_lower_bound": 4644,
+        "roles": {
+          "craft": {
+            "task_hours": 4218750.0,
+            "annual_post_lower_bound": 3799,
+            "ordinary_payroll_CU": 113970000
+          },
+          "design": {
+            "task_hours": 750000.0,
+            "annual_post_lower_bound": 676,
+            "ordinary_payroll_CU": 40560000
+          },
+          "independent_technical": {
+            "task_hours": 187500.0,
+            "annual_post_lower_bound": 169,
+            "ordinary_payroll_CU": 10140000
+          }
+        },
+        "ordinary_payroll_CU": 164670000,
+        "average_temporary_dwelling_demand": 351.5625,
+        "temporary_dwelling_lower_bound": 352,
+        "new_material_quote_CU": 28593750.0,
+        "distinct_other_quote_CU": 89062500.0,
+        "temporary_stock_lease_quote_CU": 3168000,
+        "named_total_quote_CU": 285494250.0,
+        "actual_safe_repair_acceptance": null,
+        "actual_roster": null,
+        "actual_temporary_stock": null,
+        "qualified_national_saving": false
+      }
+    },
+    "rival40": {
+      "all_rebuild": {
+        "rebuild_events_average": 1875.0,
+        "repair_events_average": 0.0,
+        "new_input_tonnes": 93750.0,
+        "task_hours": 3750000.0,
+        "annual_task_hours_per_post": 1427.4,
+        "annual_post_lower_bound": 2629,
+        "roles": {
+          "craft": {
+            "task_hours": 3375000.0,
+            "annual_post_lower_bound": 2365,
+            "ordinary_payroll_CU": 70950000
+          },
+          "design": {
+            "task_hours": 300000.0,
+            "annual_post_lower_bound": 211,
+            "ordinary_payroll_CU": 12660000
+          },
+          "independent_technical": {
+            "task_hours": 75000.0,
+            "annual_post_lower_bound": 53,
+            "ordinary_payroll_CU": 3180000
+          }
+        },
+        "ordinary_payroll_CU": 86790000,
+        "average_temporary_dwelling_demand": 937.5,
+        "temporary_dwelling_lower_bound": 938,
+        "new_material_quote_CU": 46875000.0,
+        "distinct_other_quote_CU": 131250000.0,
+        "temporary_stock_lease_quote_CU": 8442000,
+        "named_total_quote_CU": 273357000.0,
+        "actual_safe_repair_acceptance": null,
+        "actual_roster": null,
+        "actual_temporary_stock": null,
+        "qualified_national_saving": false
+      },
+      "repair40": {
+        "rebuild_events_average": 468.75,
+        "repair_events_average": 1406.25,
+        "new_input_tonnes": 40312.5,
+        "task_hours": 3046875.0,
+        "annual_task_hours_per_post": 1427.4,
+        "annual_post_lower_bound": 2136,
+        "roles": {
+          "craft": {
+            "task_hours": 2531250.0,
+            "annual_post_lower_bound": 1774,
+            "ordinary_payroll_CU": 53220000
+          },
+          "design": {
+            "task_hours": 412500.0,
+            "annual_post_lower_bound": 289,
+            "ordinary_payroll_CU": 17340000
+          },
+          "independent_technical": {
+            "task_hours": 103125.0,
+            "annual_post_lower_bound": 73,
+            "ordinary_payroll_CU": 4380000
+          }
+        },
+        "ordinary_payroll_CU": 74940000,
+        "average_temporary_dwelling_demand": 292.96875,
+        "temporary_dwelling_lower_bound": 293,
+        "new_material_quote_CU": 20156250.0,
+        "distinct_other_quote_CU": 60937500.0,
+        "temporary_stock_lease_quote_CU": 2637000,
+        "named_total_quote_CU": 158670750.0,
+        "actual_safe_repair_acceptance": null,
+        "actual_roster": null,
+        "actual_temporary_stock": null,
+        "qualified_national_saving": false
+      },
+      "repair20": {
+        "rebuild_events_average": 468.75,
+        "repair_events_average": 2812.5,
+        "new_input_tonnes": 57187.5,
+        "task_hours": 5156250.0,
+        "annual_task_hours_per_post": 1427.4,
+        "annual_post_lower_bound": 3614,
+        "roles": {
+          "craft": {
+            "task_hours": 4218750.0,
+            "annual_post_lower_bound": 2956,
+            "ordinary_payroll_CU": 88680000
+          },
+          "design": {
+            "task_hours": 750000.0,
+            "annual_post_lower_bound": 526,
+            "ordinary_payroll_CU": 31560000
+          },
+          "independent_technical": {
+            "task_hours": 187500.0,
+            "annual_post_lower_bound": 132,
+            "ordinary_payroll_CU": 7920000
+          }
+        },
+        "ordinary_payroll_CU": 128160000,
+        "average_temporary_dwelling_demand": 351.5625,
+        "temporary_dwelling_lower_bound": 352,
+        "new_material_quote_CU": 28593750.0,
+        "distinct_other_quote_CU": 89062500.0,
+        "temporary_stock_lease_quote_CU": 3168000,
+        "named_total_quote_CU": 248984250.0,
+        "actual_safe_repair_acceptance": null,
+        "actual_roster": null,
+        "actual_temporary_stock": null,
+        "qualified_national_saving": false
+      }
+    }
+  },
+  "quarterly_counterexample": {
+    "all_monthly_dwellings": [
+      937,
+      937,
+      937,
+      938,
+      938,
+      938,
+      938,
+      938,
+      938,
+      937,
+      937,
+      937
+    ],
+    "repair_monthly_dwellings": [
+      322,
+      322,
+      234,
+      322,
+      322,
+      234,
+      323,
+      323,
+      235,
+      323,
+      323,
+      235
+    ],
+    "all_peak": 938,
+    "repair_peak": 323,
+    "repair_moves": 352,
+    "additional_named_lease_CU_above_average_bound": 270000,
+    "actual_dated_local_plan": null,
+    "actual_outage_or_accessible_capacity": null
+  },
+  "workforce_continuity": {
+    "hypothetical_retained_craft_posts": 3039,
+    "additional_current_payroll_if_all_retained_CU": 22770000,
+    "extra_design_posts_needed": 101,
+    "extra_independent_posts_needed": 25,
+    "actual_retained_or_reassigned_workers": null,
+    "capitalized_idle_work_CU": 0
+  },
+  "conversion": {
+    "grant_paid20_remaining": {
+      "homes": 500,
+      "expected_occupied_homes": 475.0,
+      "total_structures_added": 0,
+      "acquisition_payment_CU": 95000000,
+      "appropriated_capital_grant_required_CU": 95000000,
+      "new_debt_required_CU": 0,
+      "loan_annual_payment_CU": 0.0,
+      "year1_interest_CU": 0.0,
+      "year1_principal_CU": 0.0,
+      "upkeep_CU": 750000,
+      "management_CU": 300000,
+      "site_levy_CU": 400000,
+      "annual_capital_consumption_reference_CU": 3750000.0,
+      "annual_cash_renewal_deposit_CU": 3750000.0,
+      "year1_economic_cost_CU": 5200000.0,
+      "year1_cash_requirement_including_held_reserve_CU": 5200000.0,
+      "year1_actual_outflow_excluding_held_reserve_CU": 1450000.0,
+      "monthly_cash_cover_rent_per_occupied_home_CU": 912.280701754386,
+      "monthly_economic_cost_per_occupied_home_CU": 912.280701754386,
+      "remaining_service_years_hypothesis": 20,
+      "loan_matures_within_current_service_hypothesis": true,
+      "full_lifetime_finance_qualified": false,
+      "actual_land_or_equity_quote": null,
+      "actual_grant_or_debt_receipt": null,
+      "individual_affordability": null
+    },
+    "debt_paid20_remaining": {
+      "homes": 500,
+      "expected_occupied_homes": 475.0,
+      "total_structures_added": 0,
+      "acquisition_payment_CU": 95000000,
+      "appropriated_capital_grant_required_CU": 0,
+      "new_debt_required_CU": 95000000,
+      "loan_annual_payment_CU": 6179886.332626273,
+      "year1_interest_CU": 4750000.0,
+      "year1_principal_CU": 1429886.332626273,
+      "upkeep_CU": 750000,
+      "management_CU": 300000,
+      "site_levy_CU": 400000,
+      "annual_capital_consumption_reference_CU": 3750000.0,
+      "annual_cash_renewal_deposit_CU": 3750000.0,
+      "year1_economic_cost_CU": 9950000.0,
+      "year1_cash_requirement_including_held_reserve_CU": 11379886.332626272,
+      "year1_actual_outflow_excluding_held_reserve_CU": 7629886.332626273,
+      "monthly_cash_cover_rent_per_occupied_home_CU": 1996.4712864256617,
+      "monthly_economic_cost_per_occupied_home_CU": 1745.6140350877192,
+      "remaining_service_years_hypothesis": 20,
+      "loan_matures_within_current_service_hypothesis": false,
+      "full_lifetime_finance_qualified": false,
+      "actual_land_or_equity_quote": null,
+      "actual_grant_or_debt_receipt": null,
+      "individual_affordability": null
+    },
+    "grant_paid40_remaining_sensitivity": {
+      "homes": 500,
+      "expected_occupied_homes": 475.0,
+      "total_structures_added": 0,
+      "acquisition_payment_CU": 95000000,
+      "appropriated_capital_grant_required_CU": 95000000,
+      "new_debt_required_CU": 0,
+      "loan_annual_payment_CU": 0.0,
+      "year1_interest_CU": 0.0,
+      "year1_principal_CU": 0.0,
+      "upkeep_CU": 750000,
+      "management_CU": 300000,
+      "site_levy_CU": 400000,
+      "annual_capital_consumption_reference_CU": 1875000.0,
+      "annual_cash_renewal_deposit_CU": 1875000.0,
+      "year1_economic_cost_CU": 3325000.0,
+      "year1_cash_requirement_including_held_reserve_CU": 3325000.0,
+      "year1_actual_outflow_excluding_held_reserve_CU": 1450000.0,
+      "monthly_cash_cover_rent_per_occupied_home_CU": 583.3333333333334,
+      "monthly_economic_cost_per_occupied_home_CU": 583.3333333333334,
+      "remaining_service_years_hypothesis": 40,
+      "loan_matures_within_current_service_hypothesis": true,
+      "full_lifetime_finance_qualified": false,
+      "actual_land_or_equity_quote": null,
+      "actual_grant_or_debt_receipt": null,
+      "individual_affordability": null
+    },
+    "debt_paid40_remaining_sensitivity": {
+      "homes": 500,
+      "expected_occupied_homes": 475.0,
+      "total_structures_added": 0,
+      "acquisition_payment_CU": 95000000,
+      "appropriated_capital_grant_required_CU": 0,
+      "new_debt_required_CU": 95000000,
+      "loan_annual_payment_CU": 6179886.332626273,
+      "year1_interest_CU": 4750000.0,
+      "year1_principal_CU": 1429886.332626273,
+      "upkeep_CU": 750000,
+      "management_CU": 300000,
+      "site_levy_CU": 400000,
+      "annual_capital_consumption_reference_CU": 1875000.0,
+      "annual_cash_renewal_deposit_CU": 1875000.0,
+      "year1_economic_cost_CU": 8075000.0,
+      "year1_cash_requirement_including_held_reserve_CU": 9504886.332626272,
+      "year1_actual_outflow_excluding_held_reserve_CU": 7629886.332626273,
+      "monthly_cash_cover_rent_per_occupied_home_CU": 1667.5239180046092,
+      "monthly_economic_cost_per_occupied_home_CU": 1416.6666666666667,
+      "remaining_service_years_hypothesis": 40,
+      "loan_matures_within_current_service_hypothesis": true,
+      "full_lifetime_finance_qualified": false,
+      "actual_land_or_equity_quote": null,
+      "actual_grant_or_debt_receipt": null,
+      "individual_affordability": null
+    }
+  },
+  "four_year_equivalent_schedule": [
+    {
+      "rebuild": 469,
+      "repair": 1406
+    },
+    {
+      "rebuild": 469,
+      "repair": 1406
+    },
+    {
+      "rebuild": 469,
+      "repair": 1406
+    },
+    {
+      "rebuild": 468,
+      "repair": 1407
+    }
+  ],
+  "actual": {
+    "occupancy": null,
+    "private_space": null,
+    "title_priority": null,
+    "acquisition_price": null,
+    "qualified_trade_crews": null,
+    "safe_repair_life": null,
+    "material_supply": null,
+    "temporary_dwellings": null,
+    "sources": null,
+    "independent_review": null,
+    "participation": null,
+    "enactment": null,
+    "delivered_remedy": null,
+    "better_lives": null
+  }
+}

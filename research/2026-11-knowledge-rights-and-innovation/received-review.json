@@ -1,0 +1,97 @@
+{
+  "edition": 95,
+  "same_controller": true,
+  "actual_qualified_independent_review": null,
+  "actual_affected_participation": null,
+  "scope": "Read-only actual-file reviews after integration, followed by correction-only rereads and authored-model variants; helpers share root controller. Not independent legal/engineering/public review.",
+  "reviews": [
+    {
+      "reviewer": "civil_law",
+      "actual_inspection": "C11/07hub+parts, C08civil/penal/jurisdiction links; originaltreatyread reported separately; correctionreread KR01/B46 and digitalK25",
+      "result": "Exclusive-rightterritoriallaw and digitalthreshold ambiguity corrected; other scopedrights/Qextensions coherent, normative/treaty/outcome limits retained."
+    },
+    {
+      "reviewer": "whole_country_democracy",
+      "actual_inspection": "KRcontrol/remedies/continuity/transition against C04/IC; correctionreread KR13localcompetence and KR20novation",
+      "result": "No ministry/EV/expertsovereign created; localwindows corrected. Annual/materiallicencereview replacing blanket12monthcap acceptable stated choice; no actual authority/source qualification."
+    },
+    {
+      "reviewer": "political_economy",
+      "actual_inspection": "ActualKRfunding/continuity/accounts and affectedC05/C07; dated95inputs/model/results, fresh in-memoryrecompute/variants; finalcorrectionreread KR15/18/20/27",
+      "result": "Fiveauthored arithmeticcases reproduce; broadcontinuity/worldwiderights/digitaldefinition/modelreuseandforecastbugs corrected and reread. No actual country/source/receiver qualification."
+    }
+  ],
+  "findings": [
+    {
+      "issue": "KR13 accidentally nationalized local funding-window control",
+      "status": "corrected_and_reread",
+      "correction": "Assemblynationalframework/nationalwindows; electedcouncilslocalwithinC03; no unrelated powers via funding."
+    },
+    {
+      "issue": "Cross-borderIP could inherit generic injury-law rule for wholeworld",
+      "status": "corrected_and_reread",
+      "correction": "KR01/B46 law of territory for which exclusive protection claimed; multi-territory segmentation; forum, contractroyalties and secrecy/unfaircompetition kept separate."
+    },
+    {
+      "issue": "Every material arts/basicresearch award inherited alternateoperator/spares duty",
+      "status": "corrected_and_reread",
+      "correction": "KR18trigger now creates/maintains essential-service operationaldependence; other grants get actualKR15foreground scope."
+    },
+    {
+      "issue": "Publicpayment did not prove worldwide chain of title",
+      "status": "corrected_and_reread",
+      "correction": "KR15verifiesemployee/co-owner/foreignauthority; narroweracquiredpermission explicitlydeclared, exantepricedexceptionorawardrejection."
+    },
+    {
+      "issue": "100digital units could be inflated by storage/download/accounts",
+      "status": "corrected_and_reread",
+      "correction": "KR27physicalarticleunits countedonce; digitalonly proved directlyattributable received/bindingcontractvalue; actusreus/intentseparate."
+    },
+    {
+      "issue": "Publicroyaltypayment assumption might silently novate operator or double claim",
+      "status": "corrected_and_reread",
+      "correction": "KR20/fixture retainoperatorunlessvalidcreditor/statutorynovation; one0.5claim creditedonceoverlappingpayers, noautomaticGguarantee."
+    },
+    {
+      "issue": "Emptyexplicit input silently loaded baseline",
+      "status": "corrected_and_reread",
+      "correction": "OnlyNone loads baseline; emptydict raisesValueError."
+    },
+    {
+      "issue": "Numeric1 treated as Booleanpermission",
+      "status": "corrected_and_reread",
+      "correction": "Bothconditionfields strictboolandTrue; 1 rejected on either side."
+    },
+    {
+      "issue": "Royaltytitle could turn forecast3 into availablecash",
+      "status": "corrected_and_reread",
+      "correction": "Titlealonecredits0; onlyverifiedownedunrestrictedfixture-receipt cancreditrealizedamount, neverforecast."
+    },
+    {
+      "issue": "Mutable schema and records could authorize their own scopechange",
+      "status": "corrected_and_reread",
+      "correction": "CodepinsEXPECTED_SCOPE_KEYS; unfamiliar/addedorremovedmeaningrejects forfreshinterpretation."
+    }
+  ],
+  "material_draft_choices_displaced": [
+    {
+      "draft": "Two-yearIP-onlycustody",
+      "selected": "Fine-onlyK25withQneeds/attribution/collection/finality and actualcivil/proceeds correction; deterrence/poverty/treatyfit remains unverified."
+    },
+    {
+      "draft": "Finalessentialpatentlicence maximum12months",
+      "selected": "Definiteexpiry<=underlyingright withannual/materialreview andendedgroundtermination; avoids automaticannualtrial/continuitychurn, actualinvestment/effectunknown."
+    },
+    {
+      "draft": "Release12monthsafterpublication or repeatedlypostponedacceptance",
+      "selected": "Earlieractualacceptance/fixedcontractualmilestone plus oneprespecified<=12monthembargo, protectedcontent exceptions; no clockchosenbyindefinitedelay."
+    }
+  ],
+  "not_examined": [
+    "alloriginalcountryclauses/studies",
+    "actualjurisdiction/treaties/rights and records",
+    "affectedcreators/patients/farmers/community/testimony",
+    "qualifiedcourt/lab/supplier staffing",
+    "actualcountryfinancing or observedbetterlives"
+  ]
+}

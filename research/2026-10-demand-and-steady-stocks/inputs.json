@@ -1,0 +1,271 @@
+{
+  "date": "2026-10-15",
+  "edition": 64,
+  "units": "Fictional million nominal domestic/foreign units at declared fixed conversion; not actual prices/output",
+  "pinned_sources": {
+    "2026-10-income-floor/inputs.json": "83a829f77ceff901848b31447e28c15d2bf603e66d97359ac9d6414308646337",
+    "2026-10-income-floor/model.py": "b15a17b92deb6358a790d222524f2ce4a916bf9bcc2cac71b5ab27f8362566da",
+    "2026-10-national-economic-package/inputs.json": "051ebe7bdbabcbe351abfd6e54c256cd6f1c00aa3f127395b9a9e4639fcf46f0",
+    "2026-10-national-economic-package/results.json": "954a1ecf11466c850b0189b61d4922a6bc98e0d410872bdb01ffcd7681cf83ad",
+    "2026-10-staged-transition/inputs.json": "96a8705207ed374075c7cea2d522017b879514db0e2eb23cd58e1d272c0250f6",
+    "2026-10-staged-transition/results.json": "8d6909e94731abe2539c8b1d97a632aae4517da42d6be99e625c2a9f876ad24d"
+  },
+  "opening": {
+    "public_real_assets": 588,
+    "market_real_assets": 1920,
+    "public_cash": 325,
+    "household_cash": 0,
+    "insurance_cash": 25,
+    "foreign_reserves": 100,
+    "reserve_floor": 75,
+    "cash_floor": 100,
+    "insurance_cash_floor": 15,
+    "general_bonds": 830,
+    "household_bonds": 425,
+    "insurance_bonds": 100,
+    "foreign_bonds": 205,
+    "settlement_deposit_liability": 350,
+    "public_equity_share": 0.25,
+    "scheduled_maturity": 100,
+    "contingent_fx_limit": 64,
+    "monetary_bonds": 100,
+    "monetary_foreign_assets": 75,
+    "monetary_reserve_liability": 175,
+    "bank_equity": 100,
+    "internal_market_bank_loan": 275,
+    "market_equity": 1745,
+    "private_payroll_working_limit": 160
+  },
+  "rates": {
+    "government_bond_interest": 0.05,
+    "corporate": 0.5,
+    "capital_personal": 0.4,
+    "depreciation": 0.05,
+    "product_tax": 0.14722222222222223,
+    "fx_line_interest": 0.05
+  },
+  "exact_product_tax": [
+    265,
+    1800
+  ],
+  "public_services": {
+    "legacy_cash": 774,
+    "legacy_wages": 400,
+    "reassigned_wages": 16.8,
+    "maintenance": 16,
+    "foreign_line_fee": 1,
+    "unknown_remaining_duty_cost": null
+  },
+  "work": {
+    "wages": 2280,
+    "public_people_opening": 10090,
+    "private_people_opening": 44910,
+    "moves": {
+      "care": 200,
+      "justice": 100,
+      "admin": 100,
+      "technical": 20
+    },
+    "bonus_max_monthly": 100,
+    "bonus_disregard_monthly": 200,
+    "bonus_rate": 0.5,
+    "cases_bonus": true
+  },
+  "imports": {
+    "households": 280,
+    "public_intermediate_base": 80,
+    "maintenance": 3,
+    "foreign_line_fee": 1,
+    "private_intermediate": 30,
+    "capital_import_fraction": 0.5
+  },
+  "insurance": {
+    "scheduled_annual_legacy_paid": 45,
+    "monthly_earned": 250,
+    "household_entitlement_symbol": "L(t), actual accrued claims/changes unknown",
+    "closed_legacy_contribution_exact": [
+      40,
+      2280
+    ],
+    "new_accrual_in_closed_rival": false,
+    "legacy_claim_scope_verified": false
+  },
+  "resources": {
+    "firm_energy_opening": 1000,
+    "commissioned_energy_target": 500,
+    "energy_standby": 50,
+    "public_energy": 330,
+    "private_energy_at_GVA_2202": 600,
+    "private_GVA_reference": 2202,
+    "raw_water": 9,
+    "ecological_water": 2,
+    "water_standby": 0.5,
+    "independent_water_target": 1,
+    "verified_saving_target": 1.5,
+    "public_water": 2.05,
+    "private_water_at_GVA_2202": 4
+  },
+  "cases": [
+    {
+      "name": "conditional_45_retention",
+      "method": "work_credit",
+      "retention": 0.45,
+      "insurance_mode": "closed_legacy",
+      "payout": 1,
+      "commissioned": true,
+      "export_factor": 1,
+      "rollover": true
+    },
+    {
+      "name": "conditional_35_retention",
+      "method": "work_credit",
+      "retention": 0.35,
+      "insurance_mode": "closed_legacy",
+      "payout": 1,
+      "commissioned": true,
+      "export_factor": 1,
+      "rollover": true
+    },
+    {
+      "name": "conditional_25_retention",
+      "method": "work_credit",
+      "retention": 0.25,
+      "insurance_mode": "closed_legacy",
+      "payout": 1,
+      "commissioned": true,
+      "export_factor": 1,
+      "rollover": true
+    },
+    {
+      "name": "current_I05_and_10_percent_contribution",
+      "method": "current",
+      "retention": null,
+      "insurance_mode": "current",
+      "payout": 1,
+      "commissioned": true,
+      "export_factor": 1,
+      "rollover": true
+    },
+    {
+      "name": "half_profits_retained",
+      "method": "work_credit",
+      "retention": 0.45,
+      "insurance_mode": "closed_legacy",
+      "payout": 0.5,
+      "commissioned": true,
+      "export_factor": 1,
+      "rollover": true
+    },
+    {
+      "name": "capacity_not_commissioned",
+      "method": "work_credit",
+      "retention": 0.45,
+      "insurance_mode": "closed_legacy",
+      "payout": 1,
+      "commissioned": false,
+      "export_factor": 1,
+      "rollover": true
+    },
+    {
+      "name": "10_percent_export_loss",
+      "method": "work_credit",
+      "retention": 0.45,
+      "insurance_mode": "closed_legacy",
+      "payout": 1,
+      "commissioned": true,
+      "export_factor": 0.9,
+      "rollover": true
+    },
+    {
+      "name": "refinancing_not_received",
+      "method": "work_credit",
+      "retention": 0.45,
+      "insurance_mode": "closed_legacy",
+      "payout": 1,
+      "commissioned": true,
+      "export_factor": 1,
+      "rollover": false
+    },
+    {
+      "name": "additional_100_unpriced_duty_sensitivity",
+      "method": "work_credit",
+      "retention": 0.45,
+      "insurance_mode": "closed_legacy",
+      "payout": 1,
+      "commissioned": true,
+      "export_factor": 1,
+      "rollover": true,
+      "extra_public_cash": 100
+    },
+    {
+      "name": "qualified_reserve_target",
+      "method": "work_credit",
+      "retention": 0.45,
+      "insurance_mode": "closed_legacy",
+      "payout": 1,
+      "commissioned": true,
+      "export_factor": 1,
+      "rollover": true,
+      "additional_role_targets": {
+        "clinical": 295,
+        "education": 178,
+        "network": 62,
+        "technical": 3
+      },
+      "additional_reassigned_pay": 21.45,
+      "additional_public_energy": 6,
+      "additional_public_water": 0.03,
+      "conditional_monetary_liquidity_limit": 140,
+      "eligible_collateral_face": 275,
+      "collateral_haircut": 0.4,
+      "reassigned_wage_composition": {
+        "annual_60000": 177,
+        "annual_30000": 361
+      }
+    }
+  ],
+  "limits": [
+    "All stocks, wages, prices, tax choices, bonuses, costs, dates, supplies and borrower/export/rollover/FX-line contracts are authored hypotheses.",
+    "No actual opening wealth, prior acquisition/enabling finance or working-capital bond is verified. Public 588 includes 108 from a separately paid programme; Treasury cash 325 includes prior working-cash lending and equity placement requiring source review, not future GDP.",
+    "F consolidates market firms and a settlement provider; internal producer bank loans 275 cancel against bank assets. This is a declared schematic perimeter, not actual SNA sector classification or public control.",
+    "Cash and pension claims differ; L(t) is paired H asset/S liability, never set to zero. Existing obligations beyond scheduled 45 and new accrual/lifetime demography are unpriced and prevent readiness.",
+    "Closed-legacy rival uses 40 employee receipts plus existing 5 interest for scheduled 45 only and assumes no new earned accrual; adoption requires full grandfathered-claim audit and future public-pension choice.",
+    "Work-credit rival preserves an ordinary needs allowance in positive tax, credits received nonwork for actual topup, gives a bounded earnings bonus and separately taxes capital. It is not I05 or the earlier integrated nonwork-withdrawal rule; no automatic legal set-off.",
+    "Full payout is a voluntary cooperative/shareholder policy hypothesis; capital replacement is paid before distribution. No state law forces all firms to distribute profit.",
+    "Households are assumed to consume their safely available modeled cash; this is no commanded behavior. Saving, prices, take-up, bargaining and productivity changes require new scenarios/evidence.",
+    "Derived GDP is the output required to sell the planned final uses, not measured supply, welfare or an achieved productive gain. Nonmarket output is a simplified cost convention, not certification of 2025 SNA implementation.",
+    "Imports are invoice components, not extra domestic expense. FX facility is a conditional lender agreement with fee/interest; it creates debt when drawn and cannot repeat spent headroom.",
+    "30-day reference months, due costs day 1, exports/taxes day 21; ordinary line carry uses 20 days. Annual surplus is no timely payment proof.",
+    "Full 37-function costs, real goods/baskets, pollution, geography, controller independence and actual received remedies remain unknown.",
+    "Opening subledgers: producers 1920 real assets/275 bank loan/1645 equity; bank loans 275 plus monetary reserves 175 against deposits 350 and equity 100; monetary unit bonds 100 plus foreign assets 75 against reserves 175. G consolidates Treasury/monetary only for this reference, without merging their powers or usable reserves.",
+    "Prior working-cash bond 100, bank capitalization 100, 75 private-bank-equity placement/foreign purchase of household bonds, and paid public capital 108 require actual verified opening transactions. They are not funded by later output. G cash is 325; Treasury FX 100 and monetary FX 75 are separate.",
+    "The stock book is declared cost/equity, not market valuation. Housing titles, other assets, prudential collateral/haircuts, bank operating allocation and full claim history remain unknown.",
+    "The +100 public-duty case is an authored domestic intermediate-purchase sensitivity, not a price for current 37 functions; its labor/quality/displacement is unverified.",
+    "Market payroll is due before sales: a conditional 160 internal bank working line funds monthly wages 155.2667; interest/repayment are internal to consolidated F, not free liquidity. At peak bank deposits are 505.2667 and a 60% withdrawal exceeds liquid reserves by 128.16. No actual line/collateral/source permission is verified.",
+    "Regular fiscal receipts/outflows use equal monthly installments; FX net realization is conservatively credited only on day 21. Domestic new-bond funding is a conditional upfront agreement, not proof that annual lender savings are already cash. Internal monetary coupon/remittance is assumed same-day and cancels only in the declared consolidation.",
+    "The reserve-target case moves 538 further workers: 177 high-wage clinical roles and 361 middle-wage clinical/education/network/technical roles, payroll 21.45. Their private jobs/output are displaced and total wages unchanged. Recruitment/qualification, extra initial training/sites, permission and actual scope remain unverified, not free.",
+    "Conditional monetary liquidity 140 against face 275 with 40% haircut is a capacity comparison, not actual eligible collateral, solvency, authorized draw, bailout or FX funding; post-draw interest/repayment must receive a separate lawful funded schedule.",
+    "The second export-loss year tracks foreign cash/debt/unpaid amounts only. It is not a second-year domestic production, arrears-interest, default or demographic forecast; unpaid suppliers require a new response, not continued booking as delivered goods."
+  ],
+  "staffing": {
+    "post_stage_if_qualified": {
+      "clinical": 3150,
+      "education": 2100,
+      "care": 2250,
+      "network": 750,
+      "justice": 1120,
+      "admin": 1120,
+      "technical": 20
+    },
+    "required_by_distinct_role": {
+      "clinical": 3100,
+      "education": 2050,
+      "care": 2000,
+      "network": 730,
+      "justice": 1000,
+      "admin": 1000,
+      "technical": 20
+    },
+    "loss_fraction": 0.1
+  }
+}

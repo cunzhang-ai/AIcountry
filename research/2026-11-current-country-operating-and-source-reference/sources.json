@@ -1,0 +1,184 @@
+{
+  "edition": 130,
+  "inspection_date": "2026-11-03",
+  "external_sources": [
+    {
+      "publisher": "International Monetary Fund",
+      "title": "Government Finance Statistics Manual2014",
+      "url": "https://www.imf.org/external/pubs/ft/gfs/manual/2014/gfsfinal.pdf",
+      "retrieved_original_sha256": "a9784952f445597e35caba3096dd1468276c6adea8b4b109a9df3fcafcb31be9",
+      "actually_read": "Selected paragraphs3.59 (PDFpage72),4.20 (94),4.23-4.26 (95),9.44 (261); source timing, capital/finance/interest/principal distinctions. No complete470-page manual or statistical compliance review.",
+      "access": "Browser IMF PDF/eLibrary requests returned403. Direct original IMF PDF retrieval succeededHTTP200; selected text was extracted and inspected. No search snippet is treated as full reading.",
+      "use_limit": "Conceptual accounting definitions only; no project tax base, actual public lending authority, independent empirical review or social outcome."
+    }
+  ],
+  "unsuccessful_or_unqualified_attempts": [
+    {
+      "url": "https://unstats.un.org/unsd/Nationalaccount/sna.asp",
+      "result": "Redirected JavaScript shell, no substantive2025SNAtext inspected; unused as a qualified source."
+    },
+    {
+      "url": "https://www.elibrary.imf.org/display/book/9781498343763/ch004.xml",
+      "result": "403; successful original primaryPDF used instead."
+    }
+  ],
+  "local_scoped_sources": [
+    {
+      "path": "2026-11-country-physical-portfolio/inputs.json",
+      "sha256": "47188a7d9d00f0e8f1106a2ed767caa5c3420e34ba6a0ceb6e07b75f4efb0983",
+      "scope": "Current selected canonical text or authored original input/result/code; identity is not actual law, an empirical observation or transferred final review."
+    },
+    {
+      "path": "2026-11-country-physical-portfolio/results.json",
+      "sha256": "2ba9d8498a5d8420117b619cd91669261bbd15239da97a05906dd3edb5fe74a8",
+      "scope": "Current selected canonical text or authored original input/result/code; identity is not actual law, an empirical observation or transferred final review."
+    },
+    {
+      "path": "2026-11-country-source-and-claims/cash.py",
+      "sha256": "242b265eb6f43603d2ff662a76bb40a6e823fccbfcc71445e862af371cb84272",
+      "scope": "Current selected canonical text or authored original input/result/code; identity is not actual law, an empirical observation or transferred final review."
+    },
+    {
+      "path": "2026-11-country-source-and-claims/inputs.json",
+      "sha256": "0163f5662553037ec58c595fa322d15bc31892c45f9806d116c79f4e82b1ae91",
+      "scope": "Current selected canonical text or authored original input/result/code; identity is not actual law, an empirical observation or transferred final review."
+    },
+    {
+      "path": "2026-11-country-source-and-claims/people.py",
+      "sha256": "dd977f6f8d3fdb358aeed61a5cb06c31c6491212f3c46f8d2438bf46680b529f",
+      "scope": "Current selected canonical text or authored original input/result/code; identity is not actual law, an empirical observation or transferred final review."
+    },
+    {
+      "path": "2026-11-democratic-operation-and-public-understanding/inputs.json",
+      "sha256": "c23cc43a5a1697d594438e8f5c1417c5c970fd5c3ddaa59e2a66e84cdacaab05",
+      "scope": "Current selected canonical text or authored original input/result/code; identity is not actual law, an empirical observation or transferred final review."
+    },
+    {
+      "path": "2026-11-democratic-operation-and-public-understanding/results.json",
+      "sha256": "4a74e31101e40e6c7b72662c96efaf5c9061e4235fddd693a50662c6f7a773a0",
+      "scope": "Current selected canonical text or authored original input/result/code; identity is not actual law, an empirical observation or transferred final review."
+    },
+    {
+      "path": "2026-11-joined-country-operating-book/inputs.json",
+      "sha256": "cb29d26264a6d522ad6a2b84a6aebb6dfd4bbaec4b69a1137258d4cf6d7f34c1",
+      "scope": "Current selected canonical text or authored original input/result/code; identity is not actual law, an empirical observation or transferred final review."
+    },
+    {
+      "path": "2026-11-joined-country-operating-book/results.json",
+      "sha256": "0f939a3ba31da3027ccc3d87785b3c3dfb214d6df5cf22f4e8f42768667ea5a8",
+      "scope": "Current selected canonical text or authored original input/result/code; identity is not actual law, an empirical observation or transferred final review."
+    },
+    {
+      "path": "2026-11-life-needs-and-paid-capacity/results.json",
+      "sha256": "ecfee2136e7afcdb8db9de68da008b7b683262535258de60948082e3a1ac9004",
+      "scope": "Current selected canonical text or authored original input/result/code; identity is not actual law, an empirical observation or transferred final review."
+    },
+    {
+      "path": "2026-11-matched-country-comparison/public-results.json",
+      "sha256": "edab2a5fdf4d34f8df599746fcd441fce4420d2c353ed746bf1b5a4bf06ade56",
+      "scope": "Current selected canonical text or authored original input/result/code; identity is not actual law, an empirical observation or transferred final review."
+    },
+    {
+      "path": "2026-11-ordinary-life-and-household-production/inputs.json",
+      "sha256": "70483113590c967f9a1bbd40c031c4c82daa8f7198f7a663de8cfd50ae6978d0",
+      "scope": "Current selected canonical text or authored original input/result/code; identity is not actual law, an empirical observation or transferred final review."
+    },
+    {
+      "path": "2026-11-ordinary-life-and-household-production/model.py",
+      "sha256": "b0273785bdd26c8d78b2f3300dae6cbd084e5d85a9aefcecee6e497323e45c5a",
+      "scope": "Current selected canonical text or authored original input/result/code; identity is not actual law, an empirical observation or transferred final review."
+    },
+    {
+      "path": "2026-11-ordinary-life-and-household-production/results.json",
+      "sha256": "6d4724dc69b2d4275eaa863fedbcb75cd16cec98a605fbe9c815cb5f2c7708c5",
+      "scope": "Current selected canonical text or authored original input/result/code; identity is not actual law, an empirical observation or transferred final review."
+    },
+    {
+      "path": "2026-11-secure-housing-and-repair/inputs.json",
+      "sha256": "b4160a695f6f9830b3c0209a2ec50e5135e3c9da58740efc1ad4766105b693e0",
+      "scope": "Current selected canonical text or authored original input/result/code; identity is not actual law, an empirical observation or transferred final review."
+    },
+    {
+      "path": "COUNTRY-DESIGN.md",
+      "sha256": "fbf7b44d3fca96406426cf47737d1c4224df3830224fd6d34e4731e52926999c",
+      "scope": "Current selected canonical text or authored original input/result/code; identity is not actual law, an empirical observation or transferred final review."
+    },
+    {
+      "path": "DECISION-TEMPLATE.md",
+      "sha256": "bba55908feae8fc60b61556e67ab1f6672fbcc0876214f0db20542d61001246a",
+      "scope": "Current selected canonical text or authored original input/result/code; identity is not actual law, an empirical observation or transferred final review."
+    },
+    {
+      "path": "DESIGN-STATUS.md",
+      "sha256": "f64d2fbe42c6157653008c7062a7433bae8fc5167ffe28cfaf350c45b6a600f9",
+      "scope": "Current selected canonical text or authored original input/result/code; identity is not actual law, an empirical observation or transferred final review."
+    },
+    {
+      "path": "FRAMEWORK.md",
+      "sha256": "a4498fcc9578b2cd15aebcafac97a7d806218b4b1b71b9df9f22c40ec9e11fc3",
+      "scope": "Current selected canonical text or authored original input/result/code; identity is not actual law, an empirical observation or transferred final review."
+    },
+    {
+      "path": "country/C03/13/03-local-councils-and-continuity.md",
+      "sha256": "2da5fbdc65e072fc43fe2eab8bbf442b770183fb91bde07e9baf7ee28c4c1252",
+      "scope": "Current selected canonical text or authored original input/result/code; identity is not actual law, an empirical observation or transferred final review."
+    },
+    {
+      "path": "country/C05/10/03-leave-learning-and-income.md",
+      "sha256": "b837abef370e1ff5fde98efba6e8bb0940ad0dea0f092a0f1041ca8558e03961",
+      "scope": "Current selected canonical text or authored original input/result/code; identity is not actual law, an empirical observation or transferred final review."
+    },
+    {
+      "path": "country/C06/42/03-vat-supply-registration-and-essential-zero-rate.md",
+      "sha256": "a5b0a7874dbee0ffe8bef935dd0f93af3e6f1be8fc1c7df1c3415e9a37ba3526",
+      "scope": "Current selected canonical text or authored original input/result/code; identity is not actual law, an empirical observation or transferred final review."
+    },
+    {
+      "path": "country/C06/42/04-vat-invoices-border-refunds-and-living-cost.md",
+      "sha256": "505838973294b685a43957457973783508b5afa2a6e27934c8f2f2878dc06f0b",
+      "scope": "Current selected canonical text or authored original input/result/code; identity is not actual law, an empirical observation or transferred final review."
+    },
+    {
+      "path": "country/C06/42/06-home-deferral-revenue-share-and-equalization.md",
+      "sha256": "e7723fcb2b893c57aa6ee4733e2f34833d7f0609111fc05b7000fe944d4e6d4a",
+      "scope": "Current selected canonical text or authored original input/result/code; identity is not actual law, an empirical observation or transferred final review."
+    },
+    {
+      "path": "country/C06/43/06-complete-rivals-and-reopening.md",
+      "sha256": "a26773197cbbe28ec52b1ab6da76045e5e592f29378f67dea1db3e5f945ad5d3",
+      "scope": "Current selected canonical text or authored original input/result/code; identity is not actual law, an empirical observation or transferred final review."
+    },
+    {
+      "path": "country/C06/43/08-financing-owners-and-country-choice.md",
+      "sha256": "7d52761bb7d15c4afec279ab01ca5064d95e4e422968f573b30993b77bb3acc6",
+      "scope": "Current selected canonical text or authored original input/result/code; identity is not actual law, an empirical observation or transferred final review."
+    },
+    {
+      "path": "country/C06/49/03-dated-sources-and-local-government.md",
+      "sha256": "e3b1c4d9d9b968d1d154712a51fc236b05857ea5a078f51f71682d02f42cab62",
+      "scope": "Current selected canonical text or authored original input/result/code; identity is not actual law, an empirical observation or transferred final review."
+    },
+    {
+      "path": "country/C06/50/05-costs-source-and-handover.md",
+      "sha256": "d5b274ce4c40a48d298bf9e09bdae5c3b66d83cd4e3eca3a2983ea79f13ca613",
+      "scope": "Current selected canonical text or authored original input/result/code; identity is not actual law, an empirical observation or transferred final review."
+    },
+    {
+      "path": "country/C06/51-democratic-operation-and-paid-capacity.md",
+      "sha256": "03709c79c597c1c71bf6e9d044ebf3c056c1ba30e8b5d25ef8f47ec6cb9adc8a",
+      "scope": "Current selected canonical text or authored original input/result/code; identity is not actual law, an empirical observation or transferred final review."
+    },
+    {
+      "path": "country/C14/11-country-closure-and-current-priorities.md",
+      "sha256": "dc3cd46d9047bb543897f283ca9ffc57622af1262236a6e400e333897125c390",
+      "scope": "Current selected canonical text or authored original input/result/code; identity is not actual law, an empirical observation or transferred final review."
+    }
+  ],
+  "source_families": "Earlier CS/clinical/food/engineering/rights sources keep their exact predecessor scope. IMF definitions are one conceptual family, not independent country observations.",
+  "numeric_original_observations": null,
+  "numeric_scope": "All quantities, worker/profile/price/receipt/tax classifications, no-overlap/compatible stations, local cash schedules and prestart dates are authored hypotheses.",
+  "author_and_review": "One AI-assisted research controller; no affected-party participation, independent professional review or governing mandate.",
+  "actual_legal_authority": null,
+  "actual_paid_source_or_safe_receiving": null,
+  "actual_better_lives": null
+}

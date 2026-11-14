@@ -1,0 +1,118 @@
+{
+  "edition": 138,
+  "meaning": "Missing or partial modeled source coverage is unknown, never zero or an invented residual tax yield. No complete-cost/fiscal estimate results from this list.",
+  "rows": [
+    {
+      "id": "personal_payroll_pension_tax",
+      "diagnostic_coverage": "partial_explicit_settlement_events_plus_implicit_own_payroll_netting",
+      "canonical": "country/C06/43/02-income-tax-and-payment-packages.md",
+      "required_scope": "Individual actual receipts, payer attribution, source-year/calendar; own-payroll netting is not another source",
+      "actual_full_base_amount_source_dates_and_receiving": null
+    },
+    {
+      "id": "personal_capital_other_and_noncash_tax",
+      "diagnostic_coverage": "no_separately_qualified_full_base_or_event_series",
+      "canonical": "country/C06/40-tax-law-and-accountable-revenue.md",
+      "required_scope": "Full person/company/source overlap and actual usable income; no imputed public surplus",
+      "actual_full_base_amount_source_dates_and_receiving": null
+    },
+    {
+      "id": "company_profit_tax",
+      "diagnostic_coverage": "no_matched_country_collection_events",
+      "canonical": "country/C06/42/01-company-unit-source-and-profit.md",
+      "required_scope": "Real taxable profit, loss/capital cost/dividend overlap, assessment and collection dates",
+      "actual_full_base_amount_source_dates_and_receiving": null
+    },
+    {
+      "id": "net_VAT",
+      "diagnostic_coverage": "no_matched_country_collection_refund_events",
+      "canonical": "country/C06/42/04-vat-invoices-border-refunds-and-living-cost.md",
+      "required_scope": "Taxable/zero/exempt supply, input credits/imports, actual refunds and gross prefinance",
+      "actual_full_base_amount_source_dates_and_receiving": null
+    },
+    {
+      "id": "site_value_tax",
+      "diagnostic_coverage": "partial_conditional_receipt_share_events",
+      "canonical": "country/C06/42/06-home-deferral-revenue-share-and-equalization.md",
+      "required_scope": "Valuation/access/deferral/stay; actual80/20 ownership, timed local distributions and grants",
+      "actual_full_base_amount_source_dates_and_receiving": null
+    },
+    {
+      "id": "received_gift_inheritance_tax",
+      "diagnostic_coverage": "no_matched_country_collection_events",
+      "canonical": "country/C06/42/07-gifts-inheritance-and-private-accumulation.md",
+      "required_scope": "Recipient/source/period, prior transfers/exclusions/credit and actual collection; no annual recurring windfall assumption",
+      "actual_full_base_amount_source_dates_and_receiving": null
+    },
+    {
+      "id": "public_rents",
+      "diagnostic_coverage": "partial_conditional_receipt_events",
+      "canonical": "country/C06/45/04-sources-and-first-payments.md",
+      "required_scope": "Actual lawful title, tenant resources, maintenance and collection; not free assets",
+      "actual_full_base_amount_source_dates_and_receiving": null
+    },
+    {
+      "id": "public_dividends_royalties_other_returns",
+      "diagnostic_coverage": "no_qualified_distributable_country_base",
+      "canonical": "country/C05/09/03-public-investment-charter.md",
+      "required_scope": "Paid title/risks, tax overlap, maintenance/retention and lawful distribution; no assumed yield",
+      "actual_full_base_amount_source_dates_and_receiving": null
+    },
+    {
+      "id": "worked_insurance_contributions",
+      "diagnostic_coverage": "partial_paid_deducted_remitted_cash_events",
+      "canonical": "country/C07/04/02-earnings-credits-and-accrual.md",
+      "required_scope": "Worked/noncash/independent earnings, actual restricted S receipt and old source years; not G revenue",
+      "actual_full_base_amount_source_dates_and_receiving": null
+    },
+    {
+      "id": "insurance_investment_returns",
+      "diagnostic_coverage": "no_qualified_full_return_series",
+      "canonical": "country/C07/04/04-finance-transition-and-adjustment.md",
+      "required_scope": "Restricted assets/ownership and actual risk/receipt; G coupon cancels only in the declared reporting boundary",
+      "actual_full_base_amount_source_dates_and_receiving": null
+    },
+    {
+      "id": "internal_grants_backing_reservations",
+      "diagnostic_coverage": "conditional_internal_account_events",
+      "canonical": "country/C06/45/04-sources-and-first-payments.md",
+      "required_scope": "Recipient source requirement and continuing legal obligation, not new external national revenue",
+      "actual_full_base_amount_source_dates_and_receiving": null
+    },
+    {
+      "id": "borrowing_and_principal",
+      "diagnostic_coverage": "named_legacy_service_only_no_new_accepted_bridge",
+      "canonical": "country/C06/36/01-recurring-sources-and-borrowing.md",
+      "required_scope": "Gross/new/rollover/interest/principal, actual currency/source/counterparties/terms and future burdens",
+      "actual_full_base_amount_source_dates_and_receiving": null
+    },
+    {
+      "id": "asset_sales_equity_loans",
+      "diagnostic_coverage": "local_loan_counterpart_only_no_complete_other_financial_source",
+      "canonical": "country/C06/36/01-recurring-sources-and-borrowing.md",
+      "required_scope": "Asset/liability/title/repayment and risk, distinct from recurring income or output",
+      "actual_full_base_amount_source_dates_and_receiving": null
+    },
+    {
+      "id": "opening_cash_reserves",
+      "diagnostic_coverage": "authored_opening_balances_only",
+      "canonical": "country/C06/45/04-sources-and-first-payments.md",
+      "required_scope": "Stock/title/restriction/date and replacement; not current revenue or permission to sweep",
+      "actual_full_base_amount_source_dates_and_receiving": null
+    },
+    {
+      "id": "separate_finite_fiscal_issue_rival",
+      "diagnostic_coverage": "no_current_authority_or_source_events",
+      "canonical": "country/C06/41-money-and-financial-public-control.md",
+      "required_scope": "Explicit different lawful regime, currency/liability/price/FX/resources; no automatic Treasury credit",
+      "actual_full_base_amount_source_dates_and_receiving": null
+    },
+    {
+      "id": "owned_foreign_settlement",
+      "diagnostic_coverage": "separate_partial_private_FX_need_not_CU_source",
+      "canonical": "country/C06/52/05-prestart-assets-and-owned-foreign-sources.md",
+      "required_scope": "Real owners/offers/foreign acceptance and later claims; no currency conversion or forced saving",
+      "actual_full_base_amount_source_dates_and_receiving": null
+    }
+  ]
+}

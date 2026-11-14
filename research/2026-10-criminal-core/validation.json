@@ -1,0 +1,71 @@
+{
+  "status": "passed",
+  "scope": "Artifact preservation, current dependency identity and document/case consistency, not law, verdict, calibrated effects, capacity or independent review",
+  "snapshot_hashed_artifacts": 251,
+  "current_functions": 37,
+  "current_selections": 59,
+  "legacy_conflicts_and_gaps": 70,
+  "candidate_clause_ids": [
+    "P06",
+    "P07",
+    "P08",
+    "P09",
+    "P10",
+    "P16",
+    "P17",
+    "P18",
+    "P19",
+    "P20",
+    "P01",
+    "P02",
+    "P03",
+    "P04",
+    "P05",
+    "P11",
+    "P12",
+    "P13",
+    "P14",
+    "P15"
+  ],
+  "core_offense_ids": [
+    "K01",
+    "K02",
+    "K03",
+    "K04",
+    "K05",
+    "K06",
+    "K07",
+    "K08",
+    "K09",
+    "K10",
+    "K11",
+    "K12"
+  ],
+  "reasoned_case_count": 13,
+  "organization_check": "Research organization OK: 259 current files, 14 chapters, 37 single-owned audit findings, local links resolved.",
+  "checks": [
+    "251 predecessor artifacts retained byte-for-byte",
+    "pinned manuscript and current dependencies",
+    "unique P01-P20, K01-K12 and thirteen case references",
+    "selection/function/conflict alignment",
+    "English publication, current short-file organization and local links"
+  ],
+  "manual_scope_review": [
+    "personal duty/fault distinguished from AI, rank and bad outcome",
+    "support/civil/protection distinguished from criminal proof",
+    "unavailable fine/community route does not justify custody by default",
+    "restore/plea participation cannot become an evidence trap or trial penalty",
+    "custody age/time limits cannot reset through transfers or care",
+    "revenue incentives and punishment quotas excluded; actual control unknown"
+  ],
+  "legal_authorization": null,
+  "actual_independent_review": null,
+  "actual_qualified_capacity": null,
+  "actual_executed_remedy": null,
+  "observed_superiority": null,
+  "known_incomplete": [
+    "special offense, child sexual-law, corporate/fine/community, limitation and jurisdiction schedules",
+    "complete civil obligations and execution core",
+    "real founding, source-law migration, full national finance and actual delivery"
+  ]
+}

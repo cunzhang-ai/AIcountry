@@ -1,0 +1,154 @@
+{
+  "dict": {
+    "edition": {
+      "type": "int"
+    },
+    "year": {
+      "type": "int"
+    },
+    "scope": {
+      "type": "str"
+    },
+    "sources": {
+      "dict": {
+        "public_inputs": {
+          "type": "str"
+        },
+        "public_results": {
+          "type": "str"
+        },
+        "personal_inputs": {
+          "type": "str"
+        },
+        "household_inputs": {
+          "type": "str"
+        },
+        "household_results": {
+          "type": "str"
+        },
+        "physical_inputs": {
+          "type": "str"
+        },
+        "physical_results": {
+          "type": "str"
+        },
+        "election_inputs": {
+          "type": "str"
+        },
+        "election_results": {
+          "type": "str"
+        },
+        "housing_inputs": {
+          "type": "str"
+        },
+        "housing_results": {
+          "type": "str"
+        }
+      }
+    },
+    "physical_cases": {
+      "list": {
+        "type": "str"
+      }
+    },
+    "service_cases": {
+      "list": {
+        "type": "str"
+      }
+    },
+    "packages": {
+      "list": {
+        "type": "str"
+      }
+    },
+    "helper_case": {
+      "type": "str"
+    },
+    "private_wage_received_fraction": {
+      "type": "str"
+    },
+    "finance": {
+      "dict": {
+        "new_capital_interest": {
+          "type": "str"
+        },
+        "equal_principal_years": {
+          "type": "int"
+        },
+        "actual_accepted_lenders_equity_currency_or_terms": {
+          "null": true
+        }
+      }
+    },
+    "actual_food_product_VAT_or_market_markup": {
+      "null": true
+    },
+    "housing_electricity_in_old_other_cost_hypothesis": {
+      "type": "bool"
+    },
+    "housing_upkeep_scope_compatible_hypothesis": {
+      "type": "bool"
+    },
+    "station_baseline_compatible_fraction_hypothesis": {
+      "type": "str"
+    },
+    "actual_station_overlap_or_compatibility": {
+      "null": true
+    },
+    "actual_complete_country_source_readiness_or_better_lives": {
+      "null": true
+    },
+    "food_VAT_sensitivity_by_product": {
+      "dict": {
+        "cereals": {
+          "type": "str"
+        },
+        "roots": {
+          "type": "str"
+        },
+        "vegetables": {
+          "type": "str"
+        },
+        "fruit": {
+          "type": "str"
+        },
+        "pulses": {
+          "type": "str"
+        },
+        "nuts": {
+          "type": "str"
+        },
+        "protein_finished": {
+          "type": "str"
+        },
+        "dairy_finished": {
+          "type": "str"
+        },
+        "oils_condiments": {
+          "type": "str"
+        }
+      }
+    },
+    "public_input_credit_fraction_hypothesis": {
+      "type": "str"
+    },
+    "helper_energy_in_old_inputs_hypothesis": {
+      "type": "bool"
+    },
+    "actual_net_VAT_input_credit_or_refund_timing": {
+      "null": true
+    },
+    "housing_reserve_funding_timing": {
+      "type": "str"
+    },
+    "local_cash_advance_mode": {
+      "type": "str"
+    },
+    "higher_prior_units_hypothesis": {
+      "type": "bool"
+    },
+    "net_makewhole_hypothesis": {
+      "type": "bool"
+    }
+  }
+}

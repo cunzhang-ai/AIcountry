@@ -1,0 +1,315 @@
+{
+  "edition": 124,
+  "scope": "Authored100000person retrofit comparison with explicit50000occupiedhomes, all quantities/prices/age weights/tenure/asset vintages/paid demand are hypothetical. No actual jurisdiction, households/diet/title/source/capacity/contract or welfare winner; no changed benefit or tax law.",
+  "population": {
+    "working": 65000,
+    "older": 15000,
+    "0_2": 3000,
+    "6_12": 8000,
+    "3_5": 3000,
+    "13_17": 6000
+  },
+  "ordinary": {
+    "per_person_component_quotes_CU": {
+      "adult": "8715.0",
+      "0_2": "3564.750",
+      "3_5": "5367.000",
+      "6_12": "7414.000",
+      "13_17": "8553.00"
+    },
+    "country_named_ordinary_quote_CU": "834625250.000",
+    "named_quantity_quote_CU": "815425250.000",
+    "unassigned_choice_envelope_CU": "19200000",
+    "rows": [
+      {
+        "id": "staples",
+        "quantity": "8599500.00",
+        "unit": "kg",
+        "purchaser_quote_CU": "21498750.000",
+        "actual_source_or_adequacy": null
+      },
+      {
+        "id": "fruit_vegetables",
+        "quantity": "28665000.00",
+        "unit": "kg",
+        "purchaser_quote_CU": "85995000.00",
+        "actual_source_or_adequacy": null
+      },
+      {
+        "id": "pulses_nuts",
+        "quantity": "2866500.00",
+        "unit": "kg",
+        "purchaser_quote_CU": "20065500.00",
+        "actual_source_or_adequacy": null
+      },
+      {
+        "id": "protein_alternatives",
+        "quantity": "9555000.00",
+        "unit": "kg",
+        "purchaser_quote_CU": "76440000.00",
+        "actual_source_or_adequacy": null
+      },
+      {
+        "id": "dairy_alternatives",
+        "quantity": "9555000.00",
+        "unit": "litre",
+        "purchaser_quote_CU": "19110000.00",
+        "actual_source_or_adequacy": null
+      },
+      {
+        "id": "oils_condiments",
+        "quantity": "1911000.00",
+        "unit": "kg",
+        "purchaser_quote_CU": "15288000.00",
+        "actual_source_or_adequacy": null
+      },
+      {
+        "id": "garments",
+        "quantity": "1213200.00",
+        "unit": "item",
+        "purchaser_quote_CU": "60660000.00",
+        "actual_source_or_adequacy": null
+      },
+      {
+        "id": "shoes",
+        "quantity": "202200.00",
+        "unit": "pair",
+        "purchaser_quote_CU": "18198000.00",
+        "actual_source_or_adequacy": null
+      },
+      {
+        "id": "personal_hygiene",
+        "quantity": "1165200.00",
+        "unit": "month_bundle",
+        "purchaser_quote_CU": "58260000.00",
+        "actual_source_or_adequacy": null
+      },
+      {
+        "id": "mobile_connection",
+        "quantity": "1087200.00",
+        "unit": "month",
+        "purchaser_quote_CU": "27180000.00",
+        "actual_source_or_adequacy": null
+      },
+      {
+        "id": "reading_culture",
+        "quantity": "1150800.00",
+        "unit": "month_bundle",
+        "purchaser_quote_CU": "57540000.00",
+        "actual_source_or_adequacy": null
+      },
+      {
+        "id": "social_activity",
+        "quantity": "4986800.00",
+        "unit": "event",
+        "purchaser_quote_CU": "124670000.00",
+        "actual_source_or_adequacy": null
+      },
+      {
+        "id": "fitness",
+        "quantity": "1150800.00",
+        "unit": "month",
+        "purchaser_quote_CU": "40278000.00",
+        "actual_source_or_adequacy": null
+      },
+      {
+        "id": "uncovered_private_journeys",
+        "quantity": "2301600.00",
+        "unit": "journey",
+        "purchaser_quote_CU": "46032000.00",
+        "actual_source_or_adequacy": null
+      },
+      {
+        "id": "holiday_stay",
+        "quantity": "671300.00",
+        "unit": "night",
+        "purchaser_quote_CU": "53704000.00",
+        "actual_source_or_adequacy": null
+      },
+      {
+        "id": "holiday_travel",
+        "quantity": "95900.00",
+        "unit": "return_journey",
+        "purchaser_quote_CU": "38360000.00",
+        "actual_source_or_adequacy": null
+      },
+      {
+        "id": "personal_services",
+        "quantity": "1165200.00",
+        "unit": "visit",
+        "purchaser_quote_CU": "29130000.00",
+        "actual_source_or_adequacy": null
+      },
+      {
+        "id": "meal_venue_preparation_service",
+        "quantity": "2301600.00",
+        "unit": "episode",
+        "purchaser_quote_CU": "23016000.00",
+        "actual_source_or_adequacy": null
+      },
+      {
+        "id": "adult_private_choice",
+        "quantity": "960000",
+        "unit": "month_envelope",
+        "purchaser_quote_CU": "19200000",
+        "actual_source_or_adequacy": null
+      }
+    ],
+    "old_reference_minus_named_quote_by_age_CU": {
+      "adult": "4533.0",
+      "0_2": "4384.050",
+      "3_5": "2581.800",
+      "6_12": "534.800",
+      "13_17": "-604.20"
+    },
+    "research_reference_keep_old_nominal_envelope_where_larger_CU": "1222441200.00",
+    "unmapped_old_adult_13248_CU": "4533.0",
+    "actual_new_adequate_basket_or_benefit": null
+  },
+  "housing": {
+    "occupied_homes": 50000,
+    "unoccupied_private_structures": 25000,
+    "persons": 100000,
+    "owner_named_cash_and_renewal_CU": "162000000",
+    "private_rent_CU": "96000000",
+    "public_rent_CU": "26600000",
+    "unoccupied_owner_burden_not_person_need_CU": "80000000",
+    "household_power_kWh": "130000000",
+    "household_water_m3": "4200000",
+    "power_household_invoice_CU": "21450000.000",
+    "potable_water_invoice_CU": "8400000",
+    "shared_home_broadband_quote_CU": "15000000",
+    "actual_housing_adequacy_usable_title_levy_or_national_utility_supply": null
+  },
+  "home_help": {
+    "retained_source": {
+      "people": 5000,
+      "salary_CU": "90000000",
+      "available_annual_task_hours": "5553000.0",
+      "task_hours": "3200000.0",
+      "purchasing_homes": "40000.0",
+      "named_cost_exVAT_CU": "93500000",
+      "sales_exVAT_CU": "99110000.00",
+      "customer_cash_CU": "109021000.000",
+      "consumer_unit_CU": "34.0690625",
+      "actual_buyer_pay_contract_and_roster": null
+    },
+    "prospective_wholeposts": {
+      "people": 2882,
+      "salary_CU": "86460000",
+      "available_annual_task_hours": "3200749.2",
+      "task_hours": "3200000.0",
+      "purchasing_homes": "40000.0",
+      "named_cost_exVAT_CU": "89960000",
+      "sales_exVAT_CU": "95357600.00",
+      "customer_cash_CU": "104893360.000",
+      "consumer_unit_CU": "32.779175",
+      "actual_buyer_pay_contract_and_roster": null
+    },
+    "retained_staff_old_price_new_quantity": {
+      "old_consumer_unit_CU": "22.71270833333333333333333333",
+      "new_sales_exVAT_CU": "66073333.33333333333333333333",
+      "residual_before_finance_and_unknowns_CU": "-27426666.66666666666666666667",
+      "new_actual_loss_or_wage_source": null
+    }
+  },
+  "goods_base": [
+    {
+      "id": "shared_home_kit",
+      "stock_units": 50000,
+      "new_units": 5000,
+      "retired_units": 5000,
+      "closing_units": 50000,
+      "retail_posts": 10,
+      "annual_foreign_quote_FU": "8500000",
+      "gross_30day_inventory_seed_CU": "768493.1506849315068493150685",
+      "retail_interest_CU": "30739.72602739726027397260274",
+      "retail_service_cost_CU": "680739.7260273972602739726027",
+      "sales_exVAT_CU": "9221584.109589041095890410959",
+      "household_cash_CU": "10143742.52054794520547945205",
+      "consumer_unit_CU": "2028.74850410958904109589041",
+      "economic_quote_stock_not_old_book_or_cash_CU": "101437425.2054794520547945205",
+      "actual_inputs_title_credit_cash_or_FX": null
+    },
+    {
+      "id": "personal_device",
+      "stock_units": 90000,
+      "new_units": 22500,
+      "retired_units": 22500,
+      "closing_units": 90000,
+      "retail_posts": 6,
+      "annual_foreign_quote_FU": "6750000",
+      "gross_30day_inventory_seed_CU": "610273.9726027397260273972603",
+      "retail_interest_CU": "24410.95890410958904109589041",
+      "retail_service_cost_CU": "434410.9589041095890410958904",
+      "sales_exVAT_CU": "7210475.616438356164383561644",
+      "household_cash_CU": "7931523.178082191780821917808",
+      "consumer_unit_CU": "352.5121412480974124809741248",
+      "economic_quote_stock_not_old_book_or_cash_CU": "31726092.71232876712328767123",
+      "actual_inputs_title_credit_cash_or_FX": null
+    }
+  ],
+  "goods_FX_stress": [
+    {
+      "id": "shared_home_kit",
+      "stock_units": 50000,
+      "new_units": 5000,
+      "retired_units": 5000,
+      "closing_units": 50000,
+      "retail_posts": 10,
+      "annual_foreign_quote_FU": "8500000",
+      "gross_30day_inventory_seed_CU": "960616.4383561643835616438356",
+      "retail_interest_CU": "38424.65753424657534246575342",
+      "retail_service_cost_CU": "688424.6575342465753424657534",
+      "sales_exVAT_CU": "11354730.13698630136986301370",
+      "household_cash_CU": "12490203.15068493150684931507",
+      "consumer_unit_CU": "2498.040630136986301369863014",
+      "economic_quote_stock_not_old_book_or_cash_CU": "124902031.5068493150684931507",
+      "actual_inputs_title_credit_cash_or_FX": null
+    },
+    {
+      "id": "personal_device",
+      "stock_units": 90000,
+      "new_units": 22500,
+      "retired_units": 22500,
+      "closing_units": 90000,
+      "retail_posts": 6,
+      "annual_foreign_quote_FU": "6750000",
+      "gross_30day_inventory_seed_CU": "762842.4657534246575342465754",
+      "retail_interest_CU": "30513.69863013698630136986302",
+      "retail_service_cost_CU": "440513.6986301369863013698630",
+      "sales_exVAT_CU": "8904444.520547945205479452055",
+      "household_cash_CU": "9794888.972602739726027397260",
+      "consumer_unit_CU": "435.3283987823439878234398782",
+      "economic_quote_stock_not_old_book_or_cash_CU": "39179555.89041095890410958904",
+      "actual_inputs_title_credit_cash_or_FX": null
+    }
+  ],
+  "worker_tax_examples": [
+    {
+      "gross": "18000",
+      "restricted_Y": "1800.0",
+      "PA_assessment": "840.00",
+      "net_if_received": "15360.00",
+      "actual_source_year_eligibility_or_collection": null
+    },
+    {
+      "gross": "30000",
+      "restricted_Y": "3000.0",
+      "PA_assessment": "3000.00",
+      "net_if_received": "24000.00",
+      "actual_source_year_eligibility_or_collection": null
+    }
+  ],
+  "replacement_additional_N_before_I05_if_promised_only": "1528.74850410958904109589041",
+  "replacement_additional_N_before_I05_if_matching_receipt": "1128.74850410958904109589041",
+  "actual_national_year_cost_and_source": null,
+  "actual_adequate_lives_or_receipt": null,
+  "actual_independent_affected_or_legal_authority": null,
+  "open_country_scope": [
+    "Actual complete ordinary basket and age/functional/privacy/choice adequacy; unpriced COICOP/service/extra needs and new/current duty scope outside these named quotes",
+    "All37current law/source/independent democracy/remedy and education/health/care/physical/foreign/pension/legacy/risk/time requirements remain;123 healthcare/housing are not erased",
+    "Buyer willingness/safe qualified time/skill/controller/title/vintage/new old overlap, complete paid input/VAT/customs/finance/accepted FX, private incomes and actual full national sources",
+    "All old actual tenant/creditor/worker/pension/net rights/source due dates and paid transition survive; old600m loan/claims and9000m equity lenses are not new liquid sources"
+  ]
+}

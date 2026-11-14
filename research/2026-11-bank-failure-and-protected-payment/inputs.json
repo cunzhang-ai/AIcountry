@@ -1,0 +1,67 @@
+{
+  "edition": 99,
+  "claims": {
+    "B_CU": 500,
+    "eligible_balances_CU": [
+      4000,
+      10000
+    ],
+    "declared_partition": "two_distinct_beneficiaries_one_failed_licensed_bank"
+  },
+  "facility": {
+    "C_million": 100,
+    "F_million": 2,
+    "L_principal_cap_million": 98,
+    "D_outstanding_principal_million": 10,
+    "due_insured_million": 3,
+    "actually_available_new_treasury_cash_million": 0,
+    "G_standby_million": 1,
+    "S_standby_million": 20,
+    "M11_account_million": 0.5,
+    "bridge_capital_million": 1
+  },
+  "separate_public_due": {
+    "benefit_CU": 800,
+    "election_work_CU": 600,
+    "G_owned_cash_CU": 1000,
+    "insurer_owned_cash_CU": 1000
+  },
+  "recognition_clock": {
+    "objective_event": "2026-11-01T08:00:00+00:00",
+    "bank_knows_event": "2026-11-01T08:00:00+00:00",
+    "bank_report_and_first_credible_referral": "2026-11-01T10:30:00+00:00",
+    "officer_decision": "2026-11-01T17:00:00+00:00",
+    "advance_given": "2026-11-02T10:00:00+00:00",
+    "balance_workday_index": 8
+  },
+  "review_clock": {
+    "first_M09_entry": "2026-11-01T12:00:00+00:00",
+    "replacement_operator": "2026-11-02T12:00:00+00:00",
+    "hearing": "2026-11-04T13:00:00+00:00"
+  },
+  "stay_ordinal": {
+    "original_entry_index": 0,
+    "replacement_index": 1,
+    "asserted_end_index": 3
+  },
+  "bridge_date": {
+    "original_establishment": "2026-11-01",
+    "new_shell": "2027-11-01",
+    "asserted_end": "2029-11-01"
+  },
+  "separate_banks": {
+    "B_CU": 500,
+    "bank_A_balance_CU": 4000,
+    "bank_B_balance_CU": 4000,
+    "declared_partition": "same_beneficiary_two_separately_licensed_bank_debtors"
+  },
+  "merger_quantity_prototype": {
+    "B_CU": 500,
+    "still_attributable_legacy_CU": [
+      4000,
+      4000
+    ],
+    "all_current_balance_CU": 10000,
+    "declared_partition": "two_distinct_legacy_buckets_assumed_live_grace"
+  }
+}

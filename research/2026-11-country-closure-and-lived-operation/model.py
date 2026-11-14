@@ -1,0 +1,18 @@
+"""Finite interval compatibility only: child-hours do not identify workers or safe received care."""
+from pathlib import Path
+import json
+D=Path(__file__).resolve().parent
+KEYS={'edition','scope','work_start_minute','work_end_minute','chosen_work_days','current_care_start_minute','current_care_end_minute','current_care_offered_days','journey_minutes_each_way','alternative_care_start_minute','alternative_care_end_minute','S10_weekly_reference_minutes','similarly_affected_families_hypothesis','reference_weeks','actual_child_choice_safe_capacity_received_service_or_authority'}
+def compute(c):
+ if set(c)!=KEYS or c['edition']!=129 or type(c['scope']) is not str or c['S10_weekly_reference_minutes']!=2400 or c['actual_child_choice_safe_capacity_received_service_or_authority'] is not None:raise ValueError('Unsupported/actual future meaning requires scoped interpretation, not omission')
+ numeric=[v for k,v in c.items() if k not in ['scope','actual_child_choice_safe_capacity_received_service_or_authority']]
+ if any(type(v) is not int or v<0 for v in numeric):raise ValueError('Nonnegative authored integer minutes/counts required')
+ if not 0<c['chosen_work_days']<=c['current_care_offered_days']<=7 or not 0<c['reference_weeks']<=52 or c['similarly_affected_families_hypothesis']<1:raise ValueError('Invalid finite offer scope')
+ if any(not 0<=c[k]<=1440 for k in ['work_start_minute','work_end_minute','current_care_start_minute','current_care_end_minute','alternative_care_start_minute','alternative_care_end_minute']):raise ValueError('This fixture does not interpret overnight shifts')
+ for prefix in ['work','current_care','alternative_care']:
+  if c[prefix+'_start_minute']>=c[prefix+'_end_minute']:raise ValueError('Unsupported empty/overnight interval')
+ def route(prefix):
+  earliest=c[prefix+'_start_minute']+c['journey_minutes_each_way'];latest=c[prefix+'_end_minute']-c['journey_minutes_each_way'];fit=max(0,min(latest,c['work_end_minute'])-max(earliest,c['work_start_minute']));care=(c[prefix+'_end_minute']-c[prefix+'_start_minute'])*c['chosen_work_days'];return {'earliest_work_arrival_minute':earliest,'latest_work_departure_minute':latest,'feasible_requested_work_minutes_each_day':fit,'feasible_requested_work_minutes_week':fit*c['chosen_work_days'],'chosen_care_minutes_week':care,'chosen_minutes_within_S10_reference':care<=c['S10_weekly_reference_minutes'],'time_compatibility_only':fit==c['work_end_minute']-c['work_start_minute'],'actual_safe_received_service_or_free_choice':None}
+ current=route('current_care');alternative=route('alternative_care');extra=max(0,alternative['chosen_care_minutes_week']-current['chosen_care_minutes_week']);weekly=extra*c['similarly_affected_families_hypothesis']
+ return {'edition':129,'scope':c['scope'],'requested_paid_work_minutes_week':(c['work_end_minute']-c['work_start_minute'])*c['chosen_work_days'],'nominal_current_care_offer_minutes_week':(c['current_care_end_minute']-c['current_care_start_minute'])*c['current_care_offered_days'],'current':current,'alternative':alternative,'missing_current_work_minutes_week':(c['work_end_minute']-c['work_start_minute'])*c['chosen_work_days']-current['feasible_requested_work_minutes_week'],'additional_chosen_edge_child_minutes_week':extra,'hypothetical_all_family_edge_child_hours_week':weekly/60,'hypothetical_all_family_edge_child_hours_year':weekly*c['reference_weeks']/60,'additional_staff_hours_or_budget':None,'actual_staff_ratio_group_schedule_release_child_preference_or_quality':None,'actual_new_entitlement_or_legal_authority':None,'actual_better_lives':None}
+if __name__=='__main__':(D/'results.json').write_text(json.dumps(compute(json.loads((D/'inputs.json').read_text())),indent=2)+'\n')

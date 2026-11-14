@@ -1,0 +1,189 @@
+{
+  "edition": 84,
+  "scope": "Authored one-window cash priority and small accepted-care/independent-review examples only; no calibrated country-cost/output model",
+  "cash_cases": [
+    {
+      "id": "selected_priority",
+      "restricted_cash_untouched": 30,
+      "core_cash_requirement_assumed": 60,
+      "actual_law_or_received_payment": null,
+      "status": "Conditional arithmetic under authored compatible priority",
+      "core_cash_reserved": 60,
+      "residual_claim_payments": {
+        "claim_A": 10,
+        "claim_B": 30
+      },
+      "unpaid_claims": {
+        "claim_A": 10,
+        "claim_B": 30
+      },
+      "optional_legally_deferrable_uncommitted_spending": 0,
+      "optional_not_committed": 20,
+      "closing_unrestricted_cash": 0,
+      "cash_identity_verified": true
+    },
+    {
+      "id": "arrears_first_rival",
+      "restricted_cash_untouched": 30,
+      "core_cash_requirement_assumed": 60,
+      "actual_law_or_received_payment": null,
+      "status": "Authored rival priority only, not current source law",
+      "residual_claim_payments": {
+        "claim_A": 20,
+        "claim_B": 60
+      },
+      "cash_remaining_for_core": 20,
+      "core_cash_shortfall": 40,
+      "actual_service_or_treatment_allocation": null
+    },
+    {
+      "id": "law_gate_unmet",
+      "restricted_cash_untouched": 30,
+      "core_cash_requirement_assumed": 60,
+      "actual_law_or_received_payment": null,
+      "status": "Not computed: applicable legal priority unresolved",
+      "payment_allocation": null,
+      "available_unrestricted_cash": 100,
+      "limit": "No instruction to withhold, override orders or invent a priority; actual law/remedies govern"
+    },
+    {
+      "id": "core_shortage",
+      "restricted_cash_untouched": 30,
+      "core_cash_requirement_assumed": 60,
+      "actual_law_or_received_payment": null,
+      "status": "Core cash requirement exceeds assumed available supply",
+      "core_cash_shortfall": 10,
+      "residual_class_payment": 0,
+      "payment_allocation": null,
+      "available_cash_for_applicable_useful_time_relief": 50,
+      "limit": "Apply actual pre-enacted needs/continuity law and E19; no model-imposed waiting or capability pro rata"
+    },
+    {
+      "id": "fully_funded_window",
+      "restricted_cash_untouched": 30,
+      "core_cash_requirement_assumed": 60,
+      "actual_law_or_received_payment": null,
+      "status": "Conditional arithmetic under authored compatible priority",
+      "core_cash_reserved": 60,
+      "residual_claim_payments": {
+        "claim_A": 20,
+        "claim_B": 60
+      },
+      "unpaid_claims": {
+        "claim_A": 0,
+        "claim_B": 0
+      },
+      "optional_legally_deferrable_uncommitted_spending": 20,
+      "optional_not_committed": 0,
+      "closing_unrestricted_cash": 10,
+      "cash_identity_verified": true
+    }
+  ],
+  "capacity_cases": [
+    {
+      "id": "spot_promise",
+      "same_scenario_care_hours_required": 4,
+      "same_scenario_accepted_care_hours_assumed": 2,
+      "care_hour_gap": 2,
+      "independent_review_hour_gap": 1,
+      "authored_contract_cash_cost": 24,
+      "compatible_with_this_assumed_role_window_only": false,
+      "actual_competence_independence_safe_receipt": null
+    },
+    {
+      "id": "paid_public_backbone",
+      "same_scenario_care_hours_required": 4,
+      "same_scenario_accepted_care_hours_assumed": 4,
+      "care_hour_gap": 0,
+      "independent_review_hour_gap": 0,
+      "authored_contract_cash_cost": 59,
+      "compatible_with_this_assumed_role_window_only": true,
+      "actual_competence_independence_safe_receipt": null
+    },
+    {
+      "id": "paid_plural_alternative",
+      "same_scenario_care_hours_required": 4,
+      "same_scenario_accepted_care_hours_assumed": 4,
+      "care_hour_gap": 0,
+      "independent_review_hour_gap": 0,
+      "authored_contract_cash_cost": 71,
+      "compatible_with_this_assumed_role_window_only": true,
+      "actual_competence_independence_safe_receipt": null
+    },
+    {
+      "id": "same_controller_review",
+      "same_scenario_care_hours_required": 4,
+      "same_scenario_accepted_care_hours_assumed": 4,
+      "care_hour_gap": 0,
+      "independent_review_hour_gap": 1,
+      "authored_contract_cash_cost": 59,
+      "compatible_with_this_assumed_role_window_only": false,
+      "actual_competence_independence_safe_receipt": null
+    },
+    {
+      "id": "adverse_provider_loss",
+      "same_scenario_care_hours_required": 4,
+      "same_scenario_accepted_care_hours_assumed": 1,
+      "care_hour_gap": 3,
+      "independent_review_hour_gap": 0,
+      "authored_contract_cash_cost": 59,
+      "compatible_with_this_assumed_role_window_only": false,
+      "actual_competence_independence_safe_receipt": null
+    }
+  ],
+  "current_function_recipes": 37,
+  "functions_with_unqualified_actual_requirements": [
+    "D01",
+    "D02",
+    "D03",
+    "D04",
+    "D05",
+    "D06",
+    "D07",
+    "D08",
+    "D09",
+    "D10",
+    "D11",
+    "D12",
+    "L01",
+    "L02",
+    "L03",
+    "L04",
+    "L05",
+    "L06",
+    "L07",
+    "L08",
+    "L09",
+    "L10",
+    "L11",
+    "R01",
+    "R02",
+    "R03",
+    "R04",
+    "R05",
+    "R06",
+    "R07",
+    "R08",
+    "R09",
+    "R10",
+    "R11",
+    "K01",
+    "K02",
+    "K03"
+  ],
+  "actual_national_full_duty_cost": null,
+  "actual_country_feasibility": null,
+  "actual_legal_adoption": null,
+  "actual_affected_public_participation": null,
+  "actual_operational_readiness": null,
+  "observed_superiority": null,
+  "limits": [
+    "No actual legal compatibility/adoption established",
+    "Core insufficiency intentionally has no invented Treasury ranking or capability-value pro rata",
+    "Restricted cash is never added to fungible supply",
+    "No task/care cost scales to all37 functions or a national GDP",
+    "No optimal public/private price, safe skill, controller independence or received remedy inferred",
+    "Optional new spending in these cases is legally deferrable and uncommitted; binding cancellation/compensation costs are separate actual unknowns",
+    "Cash reservations are not received food/care or permission to override an actual creditor/order priority"
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "edition": 126,
+  "inspected_on": "2026-11-02",
+  "scope": "Selected primaryweb scopes and actual local authoredmodels/law read; no actualprojectreceipts/people/independentaffectedauthority/country/clinical/engineering/actuarial/treaty validation. Numericassumptionsallauthored; old finalreviewsnottransferred.",
+  "external_sources": [
+    {
+      "url": "https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/australian-system-government-finance-statistics-concepts-sources-and-methods/2015/12-statement-sources-and-uses-cash/part-b-statement-sources-and-uses-cash",
+      "status": "HTMLactuallyopened/read",
+      "family": "ABSGFSmethodology, explicitlyreferencesIMF2014framework; relatedconceptualsource,nottwoindependentprojectobservations",
+      "edition": "23December2015,2015reference",
+      "inspected_scope": "12.3cashstatement/liquidity, operating/nonfinancial/financing flows; receivables/payables/depreciation/in-kind notcash. Nofullmanualcompliance/valuation/classificationclaim.",
+      "support": "Distinguishcashfromaccountingclaims/financing;nosupportforprojectprices/rights/optimalinstitutions/outcomes."
+    },
+    {
+      "url": "https://www.imf.org/en/data/statistics/government-finance-statistics-manual",
+      "status": "HTMLactuallyopened/read",
+      "family": "IMFmanualupdateoverview",
+      "inspected_scope": "Updateobjectives/program/ongoingprocess;targetDecember2027,notcompleted/adoptednewmanual. No fullmanual/consultationread.",
+      "support": "Datenormalize/provisionalstandardscope,noprojectfiscalorlegalapproval."
+    },
+    {
+      "url": "https://www.imf.org/external/pubs/ft/gfs/manual/aboutgfs.htm",
+      "status": "403accessfailure,notreadfulltext",
+      "family": "SameIMFfamily",
+      "support": "Noclausesorcompletecompliancefromsearchsnippets."
+    }
+  ],
+  "local_scoped_sources": [
+    {
+      "path": "COUNTRY-DESIGN.md",
+      "sha256": "fd4a0e5a688ad2f6bdf34ffd6e3571f64277b4a642bede7380439d1d91555f3b",
+      "status": "Actual localscopeinspected; local designhypothesis, not independentprojectobservationorreal authority"
+    },
+    {
+      "path": "DESIGN-STATUS.md",
+      "sha256": "d21d3941b28d8e32dead15f87dc3bd29c8e3d5c1f84a3918199c7a3800bb2e08",
+      "status": "Actual localscopeinspected; local designhypothesis, not independentprojectobservationorreal authority"
+    },
+    {
+      "path": "2026-11-joined-country-operating-book/results.json",
+      "sha256": "0f939a3ba31da3027ccc3d87785b3c3dfb214d6df5cf22f4e8f42768667ea5a8",
+      "status": "Actual localscopeinspected; local designhypothesis, not independentprojectobservationorreal authority"
+    },
+    {
+      "path": "2026-11-joined-country-operating-book/inputs.json",
+      "sha256": "cb29d26264a6d522ad6a2b84a6aebb6dfd4bbaec4b69a1137258d4cf6d7f34c1",
+      "status": "Actual localscopeinspected; local designhypothesis, not independentprojectobservationorreal authority"
+    },
+    {
+      "path": "2026-11-ordinary-life-and-household-production/inputs.json",
+      "sha256": "70483113590c967f9a1bbd40c031c4c82daa8f7198f7a663de8cfd50ae6978d0",
+      "status": "Actual localscopeinspected; local designhypothesis, not independentprojectobservationorreal authority"
+    },
+    {
+      "path": "2026-11-ordinary-life-and-household-production/results.json",
+      "sha256": "6d4724dc69b2d4275eaa863fedbcb75cd16cec98a605fbe9c815cb5f2c7708c5",
+      "status": "Actual localscopeinspected; local designhypothesis, not independentprojectobservationorreal authority"
+    },
+    {
+      "path": "2026-11-ordinary-life-and-household-production/model.py",
+      "sha256": "b0273785bdd26c8d78b2f3300dae6cbd084e5d85a9aefcecee6e497323e45c5a",
+      "status": "Actual localscopeinspected; local designhypothesis, not independentprojectobservationorreal authority"
+    },
+    {
+      "path": "2026-11-recurring-finance-and-pension-commitments/cohort-inputs.json",
+      "sha256": "428eed29d10af94b6688180711471e07f14db6d968118bd6e1e7102130afdbad",
+      "status": "Actual localscopeinspected; local designhypothesis, not independentprojectobservationorreal authority"
+    },
+    {
+      "path": "2026-10-demand-and-steady-stocks/inputs.json",
+      "sha256": "afd5f53ce5c25dbc22eff59ed849e57b6988b625e665fbbbdf29a1d40d2e5ffa",
+      "status": "Actual localscopeinspected; local designhypothesis, not independentprojectobservationorreal authority"
+    },
+    {
+      "path": "2026-10-country-operating-book/inputs.json",
+      "sha256": "6b8b81b56f6114957f7654dd66fb255ba15d22630033a4f7baaac5e2207b28fe",
+      "status": "Actual localscopeinspected; local designhypothesis, not independentprojectobservationorreal authority"
+    },
+    {
+      "path": "country/C05/06/02-resources-and-benefit-formula.md",
+      "sha256": "0720d9d327a9839ab3cf0f9ee54326a69ab132bb1e6f5e17db60f75227c99d2f",
+      "status": "Actual localscopeinspected; local designhypothesis, not independentprojectobservationorreal authority"
+    },
+    {
+      "path": "country/C05/06/03-payment-correction-and-transition.md",
+      "sha256": "76b28a1c4d46c1e71fc4b933c025698a0bfab1c3ec0ab3ef1a2c8eb5535cf18a",
+      "status": "Actual localscopeinspected; local designhypothesis, not independentprojectobservationorreal authority"
+    },
+    {
+      "path": "country/C05/06/05-component-standards-and-cash-control.md",
+      "sha256": "022da1ffbc18defaedeaac8eaa42517470afcf0c714815af93493c4377b5d8d4",
+      "status": "Actual localscopeinspected; local designhypothesis, not independentprojectobservationorreal authority"
+    },
+    {
+      "path": "country/C05/06/06-received-services-time-and-replacement.md",
+      "sha256": "669a7779fcc51accedb662e81b3bf3df8c656e1b02c68411abde20b4f6c4821b",
+      "status": "Actual localscopeinspected; local designhypothesis, not independentprojectobservationorreal authority"
+    },
+    {
+      "path": "country/C05/09/01-personal-foundation-and-continuity.md",
+      "sha256": "c20dd6f2d39b2b5cc7106368d2908c4980b7d8952fdd2da8b3db052ea421074c",
+      "status": "Actual localscopeinspected; local designhypothesis, not independentprojectobservationorreal authority"
+    },
+    {
+      "path": "country/C07/04/01-basic-age-and-choice.md",
+      "sha256": "15f06d2260f42d6eb577b81af2794bde37d8f7d05f2e52fe8a61d80f96a6c4ba",
+      "status": "Actual localscopeinspected; local designhypothesis, not independentprojectobservationorreal authority"
+    },
+    {
+      "path": "country/C07/04/02-earnings-credits-and-accrual.md",
+      "sha256": "efa575fbf200cf34593d6c821f59485922970c5a9c541c07e4cf10824fb4ec9e",
+      "status": "Actual localscopeinspected; local designhypothesis, not independentprojectobservationorreal authority"
+    },
+    {
+      "path": "country/C07/04/03-survivors-records-and-control.md",
+      "sha256": "6a9e825d0acce747efa2cf058b0e3584228ab0ea159e81e08ce1ed16f9a3214d",
+      "status": "Actual localscopeinspected; local designhypothesis, not independentprojectobservationorreal authority"
+    },
+    {
+      "path": "country/C07/04/04-finance-transition-and-adjustment.md",
+      "sha256": "42d543a8bb0a898d4ab21f5cebbed3719c8524f5bb0a50b275f6f6d4ddd0ee78",
+      "status": "Actual localscopeinspected; local designhypothesis, not independentprojectobservationorreal authority"
+    },
+    {
+      "path": "country/C06/36/02-pension-units-cash-and-generations.md",
+      "sha256": "dda80d381773445ec594da0e214c118d75a07ba804a1db526766db59bd90556c",
+      "status": "Actual localscopeinspected; local designhypothesis, not independentprojectobservationorreal authority"
+    },
+    {
+      "path": "country/C06/40/03-filing-withholding-assessment-and-cash.md",
+      "sha256": "a6cc8c372dd16907b996c9008f8a3a62967a84d0ecc1fbfe11fe6cd25f378620",
+      "status": "Actual localscopeinspected; local designhypothesis, not independentprojectobservationorreal authority"
+    },
+    {
+      "path": "country/C06/42/06-home-deferral-revenue-share-and-equalization.md",
+      "sha256": "3f0de9a5a3eb4cdecbe5c3d2ae4c92e67f80682e99a20bab780121a0666270e0",
+      "status": "Actual localscopeinspected; local designhypothesis, not independentprojectobservationorreal authority"
+    },
+    {
+      "path": "country/C06/43/02-income-tax-and-payment-packages.md",
+      "sha256": "116ec3bda48c5f96457054539a4cc23b45f5337d19bfd5f72e35e8529717461b",
+      "status": "Actual localscopeinspected; local designhypothesis, not independentprojectobservationorreal authority"
+    },
+    {
+      "path": "country/C06/43/03-sources-ownership-and-cash.md",
+      "sha256": "618986103f69b22643d2420da785a0088ee9264beb4666614bb15205dafa692d",
+      "status": "Actual localscopeinspected; local designhypothesis, not independentprojectobservationorreal authority"
+    }
+  ],
+  "actual_project_independent_affected_or_authorized_review": null,
+  "actual_paid_source_capacity_and_outcomes": null
+}

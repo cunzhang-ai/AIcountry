@@ -1,0 +1,546 @@
+{
+  "status": "Authored income-floor and partial fiscal-launch fixture; not observed people, adequate prices, tax estimates or legitimate law",
+  "scenarios": [
+    {
+      "calibration": "illustrative_1000_300",
+      "package": "pooled",
+      "people": 100000,
+      "annual_general_transfers": 752.7,
+      "annual_modeled_personal_tax": 316.5,
+      "annual_restricted_contributions": 228.0,
+      "annual_private_support_flow": 105.6,
+      "launch": {
+        "receipts": 821.5,
+        "outlays_excluding_refinanced_principal": 1618.2,
+        "allowed_borrowing_and_cash_draw": 110.0,
+        "unfunded_cash": 686.7,
+        "unknown_extra_cost": null,
+        "status": "One-year partial reference. Actual law, all tax bases, prices, demand and full delivery unverified; restricted contributions not general funds."
+      },
+      "unclassified_40_launch": {
+        "receipts": 821.5,
+        "outlays_excluding_refinanced_principal": 1658.2,
+        "allowed_borrowing_and_cash_draw": 110.0,
+        "unfunded_cash": 726.7,
+        "unknown_extra_cost": null,
+        "status": "One-year partial reference. Actual law, all tax bases, prices, demand and full delivery unverified; restricted contributions not general funds."
+      },
+      "compound_launch": {
+        "receipts": 739.35,
+        "outlays_excluding_refinanced_principal": 1638.2,
+        "allowed_borrowing_and_cash_draw": 110.0,
+        "unfunded_cash": 788.85,
+        "unknown_extra_cost": null,
+        "status": "One-year partial reference. Actual law, all tax bases, prices, demand and full delivery unverified; restricted contributions not general funds."
+      },
+      "feasibility": "Not established"
+    },
+    {
+      "calibration": "illustrative_1000_300",
+      "package": "individual",
+      "people": 100000,
+      "annual_general_transfers": 830.7,
+      "annual_modeled_personal_tax": 316.5,
+      "annual_restricted_contributions": 228.0,
+      "annual_private_support_flow": 105.6,
+      "launch": {
+        "receipts": 821.5,
+        "outlays_excluding_refinanced_principal": 1696.2,
+        "allowed_borrowing_and_cash_draw": 110.0,
+        "unfunded_cash": 764.7,
+        "unknown_extra_cost": null,
+        "status": "One-year partial reference. Actual law, all tax bases, prices, demand and full delivery unverified; restricted contributions not general funds."
+      },
+      "unclassified_40_launch": {
+        "receipts": 821.5,
+        "outlays_excluding_refinanced_principal": 1736.2,
+        "allowed_borrowing_and_cash_draw": 110.0,
+        "unfunded_cash": 804.7,
+        "unknown_extra_cost": null,
+        "status": "One-year partial reference. Actual law, all tax bases, prices, demand and full delivery unverified; restricted contributions not general funds."
+      },
+      "compound_launch": {
+        "receipts": 739.35,
+        "outlays_excluding_refinanced_principal": 1716.2,
+        "allowed_borrowing_and_cash_draw": 110.0,
+        "unfunded_cash": 866.85,
+        "unknown_extra_cost": null,
+        "status": "One-year partial reference. Actual law, all tax bases, prices, demand and full delivery unverified; restricted contributions not general funds."
+      },
+      "feasibility": "Not established"
+    },
+    {
+      "calibration": "illustrative_1000_300",
+      "package": "universal",
+      "people": 100000,
+      "annual_general_transfers": 1230.6,
+      "annual_modeled_personal_tax": 316.5,
+      "annual_restricted_contributions": 228.0,
+      "annual_private_support_flow": 105.6,
+      "launch": {
+        "receipts": 821.5,
+        "outlays_excluding_refinanced_principal": 2096.1,
+        "allowed_borrowing_and_cash_draw": 110.0,
+        "unfunded_cash": 1164.6,
+        "unknown_extra_cost": null,
+        "status": "One-year partial reference. Actual law, all tax bases, prices, demand and full delivery unverified; restricted contributions not general funds."
+      },
+      "unclassified_40_launch": {
+        "receipts": 821.5,
+        "outlays_excluding_refinanced_principal": 2136.1,
+        "allowed_borrowing_and_cash_draw": 110.0,
+        "unfunded_cash": 1204.6,
+        "unknown_extra_cost": null,
+        "status": "One-year partial reference. Actual law, all tax bases, prices, demand and full delivery unverified; restricted contributions not general funds."
+      },
+      "compound_launch": {
+        "receipts": 739.35,
+        "outlays_excluding_refinanced_principal": 2116.1,
+        "allowed_borrowing_and_cash_draw": 110.0,
+        "unfunded_cash": 1266.75,
+        "unknown_extra_cost": null,
+        "status": "One-year partial reference. Actual law, all tax bases, prices, demand and full delivery unverified; restricted contributions not general funds."
+      },
+      "feasibility": "Not established"
+    },
+    {
+      "calibration": "lower_unqualified_500_200",
+      "package": "pooled",
+      "people": 100000,
+      "annual_general_transfers": 287.85,
+      "annual_modeled_personal_tax": 316.5,
+      "annual_restricted_contributions": 228.0,
+      "annual_private_support_flow": 105.6,
+      "launch": {
+        "receipts": 821.5,
+        "outlays_excluding_refinanced_principal": 1153.35,
+        "allowed_borrowing_and_cash_draw": 110.0,
+        "unfunded_cash": 221.85,
+        "unknown_extra_cost": null,
+        "status": "One-year partial reference. Actual law, all tax bases, prices, demand and full delivery unverified; restricted contributions not general funds."
+      },
+      "unclassified_40_launch": {
+        "receipts": 821.5,
+        "outlays_excluding_refinanced_principal": 1193.35,
+        "allowed_borrowing_and_cash_draw": 110.0,
+        "unfunded_cash": 261.85,
+        "unknown_extra_cost": null,
+        "status": "One-year partial reference. Actual law, all tax bases, prices, demand and full delivery unverified; restricted contributions not general funds."
+      },
+      "compound_launch": {
+        "receipts": 739.35,
+        "outlays_excluding_refinanced_principal": 1173.35,
+        "allowed_borrowing_and_cash_draw": 110.0,
+        "unfunded_cash": 324.0,
+        "unknown_extra_cost": null,
+        "status": "One-year partial reference. Actual law, all tax bases, prices, demand and full delivery unverified; restricted contributions not general funds."
+      },
+      "feasibility": "Not established"
+    },
+    {
+      "calibration": "lower_unqualified_500_200",
+      "package": "individual",
+      "people": 100000,
+      "annual_general_transfers": 329.85,
+      "annual_modeled_personal_tax": 316.5,
+      "annual_restricted_contributions": 228.0,
+      "annual_private_support_flow": 105.6,
+      "launch": {
+        "receipts": 821.5,
+        "outlays_excluding_refinanced_principal": 1195.35,
+        "allowed_borrowing_and_cash_draw": 110.0,
+        "unfunded_cash": 263.85,
+        "unknown_extra_cost": null,
+        "status": "One-year partial reference. Actual law, all tax bases, prices, demand and full delivery unverified; restricted contributions not general funds."
+      },
+      "unclassified_40_launch": {
+        "receipts": 821.5,
+        "outlays_excluding_refinanced_principal": 1235.35,
+        "allowed_borrowing_and_cash_draw": 110.0,
+        "unfunded_cash": 303.85,
+        "unknown_extra_cost": null,
+        "status": "One-year partial reference. Actual law, all tax bases, prices, demand and full delivery unverified; restricted contributions not general funds."
+      },
+      "compound_launch": {
+        "receipts": 739.35,
+        "outlays_excluding_refinanced_principal": 1215.35,
+        "allowed_borrowing_and_cash_draw": 110.0,
+        "unfunded_cash": 366.0,
+        "unknown_extra_cost": null,
+        "status": "One-year partial reference. Actual law, all tax bases, prices, demand and full delivery unverified; restricted contributions not general funds."
+      },
+      "feasibility": "Not established"
+    },
+    {
+      "calibration": "lower_unqualified_500_200",
+      "package": "universal",
+      "people": 100000,
+      "annual_general_transfers": 641.4,
+      "annual_modeled_personal_tax": 316.5,
+      "annual_restricted_contributions": 228.0,
+      "annual_private_support_flow": 105.6,
+      "launch": {
+        "receipts": 821.5,
+        "outlays_excluding_refinanced_principal": 1506.9,
+        "allowed_borrowing_and_cash_draw": 110.0,
+        "unfunded_cash": 575.4,
+        "unknown_extra_cost": null,
+        "status": "One-year partial reference. Actual law, all tax bases, prices, demand and full delivery unverified; restricted contributions not general funds."
+      },
+      "unclassified_40_launch": {
+        "receipts": 821.5,
+        "outlays_excluding_refinanced_principal": 1546.9,
+        "allowed_borrowing_and_cash_draw": 110.0,
+        "unfunded_cash": 615.4,
+        "unknown_extra_cost": null,
+        "status": "One-year partial reference. Actual law, all tax bases, prices, demand and full delivery unverified; restricted contributions not general funds."
+      },
+      "compound_launch": {
+        "receipts": 739.35,
+        "outlays_excluding_refinanced_principal": 1526.9,
+        "allowed_borrowing_and_cash_draw": 110.0,
+        "unfunded_cash": 677.55,
+        "unknown_extra_cost": null,
+        "status": "One-year partial reference. Actual law, all tax bases, prices, demand and full delivery unverified; restricted contributions not general funds."
+      },
+      "feasibility": "Not established"
+    }
+  ],
+  "cases": [
+    {
+      "case": "no income resident",
+      "individual": {
+        "tax": 0.0,
+        "contribution": 0.0,
+        "net_earnings": 0.0,
+        "basic": 0.0,
+        "topup": 1300.0,
+        "disability_support": 0.0,
+        "asset_draw": 0.0,
+        "disposable_after_work_support_cost": 1300.0,
+        "ordinary_needs": 1300.0,
+        "general_transfer": 1300.0,
+        "received_support": 0.0,
+        "paid_support": 0.0
+      },
+      "universal": {
+        "tax": 0.0,
+        "contribution": 0.0,
+        "net_earnings": 0.0,
+        "basic": 1000.0,
+        "topup": 300.0,
+        "disability_support": 0.0,
+        "asset_draw": 0.0,
+        "disposable_after_work_support_cost": 1300.0,
+        "ordinary_needs": 1300.0,
+        "general_transfer": 1300.0,
+        "received_support": 0.0,
+        "paid_support": 0.0
+      }
+    },
+    {
+      "case": "low earnings",
+      "individual": {
+        "tax": 0.0,
+        "contribution": 100.0,
+        "net_earnings": 900.0,
+        "basic": 0.0,
+        "topup": 950.0,
+        "disability_support": 0.0,
+        "asset_draw": 0.0,
+        "disposable_after_work_support_cost": 1850.0,
+        "ordinary_needs": 1300.0,
+        "general_transfer": 950.0,
+        "received_support": 0.0,
+        "paid_support": 0.0
+      },
+      "universal": {
+        "tax": 0.0,
+        "contribution": 100.0,
+        "net_earnings": 900.0,
+        "basic": 1000.0,
+        "topup": 0.0,
+        "disability_support": 0.0,
+        "asset_draw": 0.0,
+        "disposable_after_work_support_cost": 1900.0,
+        "ordinary_needs": 1300.0,
+        "general_transfer": 1000.0,
+        "received_support": 0.0,
+        "paid_support": 0.0
+      }
+    },
+    {
+      "case": "work with 600 necessary expense",
+      "individual": {
+        "tax": 80.0,
+        "contribution": 200.0,
+        "net_earnings": 1720.0,
+        "basic": 0.0,
+        "topup": 1140.0,
+        "disability_support": 0.0,
+        "asset_draw": 0.0,
+        "disposable_after_work_support_cost": 2260.0,
+        "ordinary_needs": 1300.0,
+        "general_transfer": 1140.0,
+        "received_support": 0.0,
+        "paid_support": 0.0
+      },
+      "universal": {
+        "tax": 80.0,
+        "contribution": 200.0,
+        "net_earnings": 1720.0,
+        "basic": 1000.0,
+        "topup": 140.0,
+        "disability_support": 0.0,
+        "asset_draw": 0.0,
+        "disposable_after_work_support_cost": 2260.0,
+        "ordinary_needs": 1300.0,
+        "general_transfer": 1140.0,
+        "received_support": 0.0,
+        "paid_support": 0.0
+      }
+    },
+    {
+      "case": "partner money inaccessible",
+      "individual": {
+        "tax": 0.0,
+        "contribution": 0.0,
+        "net_earnings": 0.0,
+        "basic": 0.0,
+        "topup": 1300.0,
+        "disability_support": 0.0,
+        "asset_draw": 0.0,
+        "disposable_after_work_support_cost": 1300.0,
+        "ordinary_needs": 1300.0,
+        "general_transfer": 1300.0,
+        "received_support": 0.0,
+        "paid_support": 0.0
+      },
+      "universal": {
+        "tax": 0.0,
+        "contribution": 0.0,
+        "net_earnings": 0.0,
+        "basic": 1000.0,
+        "topup": 300.0,
+        "disability_support": 0.0,
+        "asset_draw": 0.0,
+        "disposable_after_work_support_cost": 1300.0,
+        "ordinary_needs": 1300.0,
+        "general_transfer": 1300.0,
+        "received_support": 0.0,
+        "paid_support": 0.0
+      }
+    },
+    {
+      "case": "all personal in-kind needs offered, cash agency preserved",
+      "individual": {
+        "tax": 0.0,
+        "contribution": 0.0,
+        "net_earnings": 0.0,
+        "basic": 0.0,
+        "topup": 200.0,
+        "disability_support": 0.0,
+        "asset_draw": 0.0,
+        "disposable_after_work_support_cost": 200.0,
+        "ordinary_needs": 1000.0,
+        "general_transfer": 200.0,
+        "received_support": 0.0,
+        "paid_support": 0.0
+      },
+      "universal": {
+        "tax": 0.0,
+        "contribution": 0.0,
+        "net_earnings": 0.0,
+        "basic": 1000.0,
+        "topup": 0.0,
+        "disability_support": 0.0,
+        "asset_draw": 0.0,
+        "disposable_after_work_support_cost": 1000.0,
+        "ordinary_needs": 1000.0,
+        "general_transfer": 1000.0,
+        "received_support": 0.0,
+        "paid_support": 0.0
+      }
+    },
+    {
+      "case": "usable assets above buffer",
+      "individual": {
+        "tax": 0.0,
+        "contribution": 0.0,
+        "net_earnings": 0.0,
+        "basic": 0.0,
+        "topup": 625.0,
+        "disability_support": 0.0,
+        "asset_draw": 675.0,
+        "disposable_after_work_support_cost": 625.0,
+        "ordinary_needs": 1300.0,
+        "general_transfer": 625.0,
+        "received_support": 0.0,
+        "paid_support": 0.0
+      },
+      "universal": {
+        "tax": 0.0,
+        "contribution": 0.0,
+        "net_earnings": 0.0,
+        "basic": 1000.0,
+        "topup": 0.0,
+        "disability_support": 0.0,
+        "asset_draw": 675.0,
+        "disposable_after_work_support_cost": 1000.0,
+        "ordinary_needs": 1300.0,
+        "general_transfer": 1000.0,
+        "received_support": 0.0,
+        "paid_support": 0.0
+      }
+    },
+    {
+      "case": "same assets blocked",
+      "individual": {
+        "tax": 0.0,
+        "contribution": 0.0,
+        "net_earnings": 0.0,
+        "basic": 0.0,
+        "topup": 1300.0,
+        "disability_support": 0.0,
+        "asset_draw": 0.0,
+        "disposable_after_work_support_cost": 1300.0,
+        "ordinary_needs": 1300.0,
+        "general_transfer": 1300.0,
+        "received_support": 0.0,
+        "paid_support": 0.0
+      },
+      "universal": {
+        "tax": 0.0,
+        "contribution": 0.0,
+        "net_earnings": 0.0,
+        "basic": 1000.0,
+        "topup": 300.0,
+        "disability_support": 0.0,
+        "asset_draw": 0.0,
+        "disposable_after_work_support_cost": 1300.0,
+        "ordinary_needs": 1300.0,
+        "general_transfer": 1300.0,
+        "received_support": 0.0,
+        "paid_support": 0.0
+      }
+    },
+    {
+      "case": "child no received support",
+      "individual": {
+        "tax": 0.0,
+        "contribution": 0.0,
+        "net_earnings": 0.0,
+        "basic": 0.0,
+        "topup": 900.0,
+        "disability_support": 0.0,
+        "asset_draw": 0.0,
+        "disposable_after_work_support_cost": 900.0,
+        "ordinary_needs": 900.0,
+        "general_transfer": 900.0,
+        "received_support": 0.0,
+        "paid_support": 0.0
+      },
+      "universal": {
+        "tax": 0.0,
+        "contribution": 0.0,
+        "net_earnings": 0.0,
+        "basic": 600.0,
+        "topup": 300.0,
+        "disability_support": 0.0,
+        "asset_draw": 0.0,
+        "disposable_after_work_support_cost": 900.0,
+        "ordinary_needs": 900.0,
+        "general_transfer": 900.0,
+        "received_support": 0.0,
+        "paid_support": 0.0
+      }
+    },
+    {
+      "case": "child safe support received",
+      "individual": {
+        "tax": 0.0,
+        "contribution": 0.0,
+        "net_earnings": 0.0,
+        "basic": 0.0,
+        "topup": 500.0,
+        "disability_support": 0.0,
+        "asset_draw": 0.0,
+        "disposable_after_work_support_cost": 900.0,
+        "ordinary_needs": 900.0,
+        "general_transfer": 500.0,
+        "received_support": 400.0,
+        "paid_support": 0.0
+      },
+      "universal": {
+        "tax": 0.0,
+        "contribution": 0.0,
+        "net_earnings": 0.0,
+        "basic": 600.0,
+        "topup": 0.0,
+        "disability_support": 0.0,
+        "asset_draw": 0.0,
+        "disposable_after_work_support_cost": 1000.0,
+        "ordinary_needs": 900.0,
+        "general_transfer": 600.0,
+        "received_support": 400.0,
+        "paid_support": 0.0
+      }
+    },
+    {
+      "case": "older distinct earned pension",
+      "individual": {
+        "tax": 0.0,
+        "contribution": 0.0,
+        "net_earnings": 0.0,
+        "basic": 1000.0,
+        "topup": 100.0,
+        "disability_support": 0.0,
+        "asset_draw": 0.0,
+        "disposable_after_work_support_cost": 1350.0,
+        "ordinary_needs": 1300.0,
+        "general_transfer": 1100.0,
+        "received_support": 0.0,
+        "paid_support": 0.0
+      },
+      "universal": {
+        "tax": 0.0,
+        "contribution": 0.0,
+        "net_earnings": 0.0,
+        "basic": 1000.0,
+        "topup": 100.0,
+        "disability_support": 0.0,
+        "asset_draw": 0.0,
+        "disposable_after_work_support_cost": 1350.0,
+        "ordinary_needs": 1300.0,
+        "general_transfer": 1100.0,
+        "received_support": 0.0,
+        "paid_support": 0.0
+      }
+    }
+  ],
+  "minimum_gain_per_one_gross_cu_fixed_needs": 0.27,
+  "external_fee_cliff_change": -599.595,
+  "expense_recognized_change": 0.405,
+  "insurance_branch": {
+    "population": {
+      "people": 100000,
+      "annual_general_transfers": 794.7,
+      "annual_modeled_personal_tax": 316.5,
+      "annual_restricted_contributions": 228.0,
+      "annual_private_support_flow": 105.6
+    },
+    "launch": {
+      "receipts": 821.5,
+      "outlays_excluding_refinanced_principal": 1660.2,
+      "allowed_borrowing_and_cash_draw": 110.0,
+      "unfunded_cash": 728.7,
+      "unknown_extra_cost": null,
+      "status": "One-year partial reference. Actual law, all tax bases, prices, demand and full delivery unverified; restricted contributions not general funds."
+    },
+    "separately_owed_legacy_insurance": 45,
+    "unknown_remaining_insurance_liability": null
+  },
+  "actual_national_cost": null,
+  "observed_wellbeing": null,
+  "qualification": "Authored scope/price/cohort comparisons and conservation only. No adequate basket, optimal rate, actual resources, behavioral forecast, lawful launch or superior lives established."
+}

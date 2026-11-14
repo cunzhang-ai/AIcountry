@@ -1,0 +1,113 @@
+{
+  "edition": 97,
+  "commission": [
+    {
+      "present": 5,
+      "affirmative": 4
+    },
+    {
+      "present": 4,
+      "affirmative": 4
+    },
+    {
+      "present": 5,
+      "affirmative": 3
+    },
+    {
+      "present": 7,
+      "affirmative": 4
+    }
+  ],
+  "legal_source": {
+    "present_by_category": [
+      2,
+      2,
+      2
+    ],
+    "affirmative_by_category": [
+      2,
+      2,
+      2
+    ]
+  },
+  "public_source": {
+    "present": 26,
+    "affirmative": 24
+  },
+  "opposition_source": {
+    "fixed_O": 7,
+    "affirmative": 5
+  },
+  "seats": [
+    "primary",
+    "reserve",
+    "unavailable",
+    "primary",
+    "primary",
+    "unavailable",
+    "primary"
+  ],
+  "work": {
+    "selection_access_staff": [
+      9,
+      6
+    ],
+    "ordinary_judge": [
+      9,
+      6
+    ],
+    "independent_counsel": [
+      8,
+      6
+    ],
+    "election_executor_receiver": [
+      4,
+      2
+    ],
+    "clinical_aid": [
+      6,
+      6
+    ],
+    "outside_investigator": [
+      8,
+      4
+    ],
+    "election_custodian": [
+      3,
+      3
+    ],
+    "force_custodian": [
+      5,
+      2
+    ],
+    "election_interpreter": [
+      2,
+      0
+    ],
+    "force_interpreter": [
+      2,
+      2
+    ],
+    "public_panel_members": [
+      108,
+      78
+    ]
+  },
+  "force_record": {
+    "first_force": "2026-11-03T08:00:00+00:00",
+    "shift_end": "2026-11-03T16:00:00+00:00",
+    "recorded": "2026-11-03T20:00:00+00:00"
+  },
+  "liberty": {
+    "original_restraint": "2026-11-03T09:00:00+00:00",
+    "transfer": "2026-11-03T21:00:00+00:00",
+    "hearing": "2026-11-04T10:00:00+00:00"
+  },
+  "campaign": {
+    "first_receipt": "2026-10-30T12:00:00+00:00",
+    "referral": "2026-11-02T12:00:00+00:00",
+    "useful_opportunity": "2026-11-02T12:00:00+00:00",
+    "decision": "2026-11-03T12:00:00+00:00",
+    "support_received": "2026-11-05T12:00:00+00:00"
+  }
+}

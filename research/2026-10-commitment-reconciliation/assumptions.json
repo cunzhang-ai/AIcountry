@@ -1,0 +1,39 @@
+{
+  "date": "2026-10-13",
+  "status": "Authored compound stress of a pinned historical reference; not empirical estimates or enacted policy",
+  "historical_sha256": {
+    "inputs.json": "7cf664218f244b89e09e6f7cc8b89756d757ea548fd42bba7c4b6e124ad5b9a8",
+    "model.py": "ed7fff6c20589041653269b7e54070b1bc7c477f2c2331dbd8dcc74f895a5f50",
+    "results.json": "a6152b5fdf6e8b86ab369a2fd7aed14ba90807002695b985a92ed2e0f4dcfe65"
+  },
+  "cash_and_care_shock": {
+    "year": 2,
+    "revenue_factor": 0.9,
+    "extra_income_support": 20,
+    "care_capacity_factor": 0.9
+  },
+  "institutional_staff_loss": {
+    "year": 2,
+    "factor": 0.9,
+    "sectors": [
+      "justice_safety_defense",
+      "democracy_administration_science_culture"
+    ],
+    "status": "New illustrative loss of gross available staff; no estimate of actual independence, safe shifts or particular closed institution"
+  },
+  "unquantified_institutional_condition": {
+    "condition": "A first claim route and its proposed substitute share a failed payment operator or records credential during the same shortage",
+    "probability": null,
+    "duration": null,
+    "staff_gap_by_function": null,
+    "status": "Separate structural test; not included as a numeric annual event"
+  },
+  "limits": [
+    "No unit costs or current function-level quantity supplied.",
+    "New duties could be already included, incremental or overlapping; their attribution is unknown.",
+    "All employment and cash flows are annual; no payment-by-due-date or lawful shift coverage proved.",
+    "No model of inflation, private supply, incidence, ecological limits or foreign currency.",
+    "10% institutional staff loss is an authored assumption, not an empirical forecast.",
+    "No default power to remove claims, ration essentials, cancel elections or postpone court orders."
+  ]
+}

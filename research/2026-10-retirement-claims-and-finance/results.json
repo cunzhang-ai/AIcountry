@@ -1,0 +1,2535 @@
+{
+  "edition": 65,
+  "status": "Authored formula and alternative-history checks only; no population or solvency forecast",
+  "careers": {
+    "single_year": {
+      "annual_earned_at_standard_age": 375.0,
+      "monthly_earned_exact": 31.25,
+      "service_calendar_years": 1,
+      "used_calendar_bases": 1,
+      "service_year_worker_contributions": 3000.0,
+      "service_year_public_credit_transfers": 0.0,
+      "annual_records": [
+        {
+          "service_year": 1,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        }
+      ],
+      "actual_claim_or_funding": null
+    },
+    "forty_year_middle_pay": {
+      "annual_earned_at_standard_age": 15000.0,
+      "monthly_earned_exact": 1250.0,
+      "service_calendar_years": 40,
+      "used_calendar_bases": 40,
+      "service_year_worker_contributions": 120000.0,
+      "service_year_public_credit_transfers": 0.0,
+      "annual_records": [
+        {
+          "service_year": 1,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 2,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 3,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 4,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 5,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 6,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 7,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 8,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 9,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 10,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 11,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 12,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 13,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 14,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 15,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 16,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 17,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 18,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 19,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 20,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 21,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 22,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 23,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 24,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 25,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 26,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 27,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 28,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 29,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 30,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 31,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 32,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 33,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 34,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 35,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 36,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 37,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 38,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 39,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 40,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        }
+      ],
+      "actual_claim_or_funding": null
+    },
+    "forty_year_above_cap": {
+      "annual_earned_at_standard_age": 30000.0,
+      "monthly_earned_exact": 2500.0,
+      "service_calendar_years": 40,
+      "used_calendar_bases": 40,
+      "service_year_worker_contributions": 480000.0,
+      "service_year_public_credit_transfers": 0.0,
+      "annual_records": [
+        {
+          "service_year": 1,
+          "cash_earnings": 120000.0,
+          "covered_months": 12,
+          "benefit_base": 60000.0,
+          "revalued_base": 60000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 12000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 2,
+          "cash_earnings": 120000.0,
+          "covered_months": 12,
+          "benefit_base": 60000.0,
+          "revalued_base": 60000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 12000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 3,
+          "cash_earnings": 120000.0,
+          "covered_months": 12,
+          "benefit_base": 60000.0,
+          "revalued_base": 60000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 12000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 4,
+          "cash_earnings": 120000.0,
+          "covered_months": 12,
+          "benefit_base": 60000.0,
+          "revalued_base": 60000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 12000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 5,
+          "cash_earnings": 120000.0,
+          "covered_months": 12,
+          "benefit_base": 60000.0,
+          "revalued_base": 60000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 12000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 6,
+          "cash_earnings": 120000.0,
+          "covered_months": 12,
+          "benefit_base": 60000.0,
+          "revalued_base": 60000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 12000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 7,
+          "cash_earnings": 120000.0,
+          "covered_months": 12,
+          "benefit_base": 60000.0,
+          "revalued_base": 60000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 12000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 8,
+          "cash_earnings": 120000.0,
+          "covered_months": 12,
+          "benefit_base": 60000.0,
+          "revalued_base": 60000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 12000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 9,
+          "cash_earnings": 120000.0,
+          "covered_months": 12,
+          "benefit_base": 60000.0,
+          "revalued_base": 60000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 12000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 10,
+          "cash_earnings": 120000.0,
+          "covered_months": 12,
+          "benefit_base": 60000.0,
+          "revalued_base": 60000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 12000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 11,
+          "cash_earnings": 120000.0,
+          "covered_months": 12,
+          "benefit_base": 60000.0,
+          "revalued_base": 60000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 12000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 12,
+          "cash_earnings": 120000.0,
+          "covered_months": 12,
+          "benefit_base": 60000.0,
+          "revalued_base": 60000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 12000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 13,
+          "cash_earnings": 120000.0,
+          "covered_months": 12,
+          "benefit_base": 60000.0,
+          "revalued_base": 60000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 12000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 14,
+          "cash_earnings": 120000.0,
+          "covered_months": 12,
+          "benefit_base": 60000.0,
+          "revalued_base": 60000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 12000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 15,
+          "cash_earnings": 120000.0,
+          "covered_months": 12,
+          "benefit_base": 60000.0,
+          "revalued_base": 60000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 12000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 16,
+          "cash_earnings": 120000.0,
+          "covered_months": 12,
+          "benefit_base": 60000.0,
+          "revalued_base": 60000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 12000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 17,
+          "cash_earnings": 120000.0,
+          "covered_months": 12,
+          "benefit_base": 60000.0,
+          "revalued_base": 60000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 12000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 18,
+          "cash_earnings": 120000.0,
+          "covered_months": 12,
+          "benefit_base": 60000.0,
+          "revalued_base": 60000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 12000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 19,
+          "cash_earnings": 120000.0,
+          "covered_months": 12,
+          "benefit_base": 60000.0,
+          "revalued_base": 60000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 12000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 20,
+          "cash_earnings": 120000.0,
+          "covered_months": 12,
+          "benefit_base": 60000.0,
+          "revalued_base": 60000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 12000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 21,
+          "cash_earnings": 120000.0,
+          "covered_months": 12,
+          "benefit_base": 60000.0,
+          "revalued_base": 60000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 12000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 22,
+          "cash_earnings": 120000.0,
+          "covered_months": 12,
+          "benefit_base": 60000.0,
+          "revalued_base": 60000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 12000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 23,
+          "cash_earnings": 120000.0,
+          "covered_months": 12,
+          "benefit_base": 60000.0,
+          "revalued_base": 60000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 12000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 24,
+          "cash_earnings": 120000.0,
+          "covered_months": 12,
+          "benefit_base": 60000.0,
+          "revalued_base": 60000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 12000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 25,
+          "cash_earnings": 120000.0,
+          "covered_months": 12,
+          "benefit_base": 60000.0,
+          "revalued_base": 60000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 12000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 26,
+          "cash_earnings": 120000.0,
+          "covered_months": 12,
+          "benefit_base": 60000.0,
+          "revalued_base": 60000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 12000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 27,
+          "cash_earnings": 120000.0,
+          "covered_months": 12,
+          "benefit_base": 60000.0,
+          "revalued_base": 60000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 12000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 28,
+          "cash_earnings": 120000.0,
+          "covered_months": 12,
+          "benefit_base": 60000.0,
+          "revalued_base": 60000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 12000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 29,
+          "cash_earnings": 120000.0,
+          "covered_months": 12,
+          "benefit_base": 60000.0,
+          "revalued_base": 60000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 12000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 30,
+          "cash_earnings": 120000.0,
+          "covered_months": 12,
+          "benefit_base": 60000.0,
+          "revalued_base": 60000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 12000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 31,
+          "cash_earnings": 120000.0,
+          "covered_months": 12,
+          "benefit_base": 60000.0,
+          "revalued_base": 60000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 12000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 32,
+          "cash_earnings": 120000.0,
+          "covered_months": 12,
+          "benefit_base": 60000.0,
+          "revalued_base": 60000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 12000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 33,
+          "cash_earnings": 120000.0,
+          "covered_months": 12,
+          "benefit_base": 60000.0,
+          "revalued_base": 60000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 12000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 34,
+          "cash_earnings": 120000.0,
+          "covered_months": 12,
+          "benefit_base": 60000.0,
+          "revalued_base": 60000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 12000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 35,
+          "cash_earnings": 120000.0,
+          "covered_months": 12,
+          "benefit_base": 60000.0,
+          "revalued_base": 60000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 12000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 36,
+          "cash_earnings": 120000.0,
+          "covered_months": 12,
+          "benefit_base": 60000.0,
+          "revalued_base": 60000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 12000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 37,
+          "cash_earnings": 120000.0,
+          "covered_months": 12,
+          "benefit_base": 60000.0,
+          "revalued_base": 60000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 12000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 38,
+          "cash_earnings": 120000.0,
+          "covered_months": 12,
+          "benefit_base": 60000.0,
+          "revalued_base": 60000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 12000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 39,
+          "cash_earnings": 120000.0,
+          "covered_months": 12,
+          "benefit_base": 60000.0,
+          "revalued_base": 60000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 12000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 40,
+          "cash_earnings": 120000.0,
+          "covered_months": 12,
+          "benefit_base": 60000.0,
+          "revalued_base": 60000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 12000.0,
+          "public_credit_transfer": 0.0
+        }
+      ],
+      "actual_claim_or_funding": null
+    },
+    "twenty_work_twenty_care": {
+      "annual_earned_at_standard_age": 11250.0,
+      "monthly_earned_exact": 937.5,
+      "service_calendar_years": 40,
+      "used_calendar_bases": 40,
+      "service_year_worker_contributions": 60000.0,
+      "service_year_public_credit_transfers": 30000.0,
+      "annual_records": [
+        {
+          "service_year": 1,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 2,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 3,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 4,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 5,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 6,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 7,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 8,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 9,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 10,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 11,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 12,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 13,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 14,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 15,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 16,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 17,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 18,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 19,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 20,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 21,
+          "cash_earnings": 0.0,
+          "covered_months": 12,
+          "benefit_base": 15000.0,
+          "revalued_base": 15000.0,
+          "recognized_credit_base": 15000.0,
+          "worker_contribution": 0.0,
+          "public_credit_transfer": 1500.0
+        },
+        {
+          "service_year": 22,
+          "cash_earnings": 0.0,
+          "covered_months": 12,
+          "benefit_base": 15000.0,
+          "revalued_base": 15000.0,
+          "recognized_credit_base": 15000.0,
+          "worker_contribution": 0.0,
+          "public_credit_transfer": 1500.0
+        },
+        {
+          "service_year": 23,
+          "cash_earnings": 0.0,
+          "covered_months": 12,
+          "benefit_base": 15000.0,
+          "revalued_base": 15000.0,
+          "recognized_credit_base": 15000.0,
+          "worker_contribution": 0.0,
+          "public_credit_transfer": 1500.0
+        },
+        {
+          "service_year": 24,
+          "cash_earnings": 0.0,
+          "covered_months": 12,
+          "benefit_base": 15000.0,
+          "revalued_base": 15000.0,
+          "recognized_credit_base": 15000.0,
+          "worker_contribution": 0.0,
+          "public_credit_transfer": 1500.0
+        },
+        {
+          "service_year": 25,
+          "cash_earnings": 0.0,
+          "covered_months": 12,
+          "benefit_base": 15000.0,
+          "revalued_base": 15000.0,
+          "recognized_credit_base": 15000.0,
+          "worker_contribution": 0.0,
+          "public_credit_transfer": 1500.0
+        },
+        {
+          "service_year": 26,
+          "cash_earnings": 0.0,
+          "covered_months": 12,
+          "benefit_base": 15000.0,
+          "revalued_base": 15000.0,
+          "recognized_credit_base": 15000.0,
+          "worker_contribution": 0.0,
+          "public_credit_transfer": 1500.0
+        },
+        {
+          "service_year": 27,
+          "cash_earnings": 0.0,
+          "covered_months": 12,
+          "benefit_base": 15000.0,
+          "revalued_base": 15000.0,
+          "recognized_credit_base": 15000.0,
+          "worker_contribution": 0.0,
+          "public_credit_transfer": 1500.0
+        },
+        {
+          "service_year": 28,
+          "cash_earnings": 0.0,
+          "covered_months": 12,
+          "benefit_base": 15000.0,
+          "revalued_base": 15000.0,
+          "recognized_credit_base": 15000.0,
+          "worker_contribution": 0.0,
+          "public_credit_transfer": 1500.0
+        },
+        {
+          "service_year": 29,
+          "cash_earnings": 0.0,
+          "covered_months": 12,
+          "benefit_base": 15000.0,
+          "revalued_base": 15000.0,
+          "recognized_credit_base": 15000.0,
+          "worker_contribution": 0.0,
+          "public_credit_transfer": 1500.0
+        },
+        {
+          "service_year": 30,
+          "cash_earnings": 0.0,
+          "covered_months": 12,
+          "benefit_base": 15000.0,
+          "revalued_base": 15000.0,
+          "recognized_credit_base": 15000.0,
+          "worker_contribution": 0.0,
+          "public_credit_transfer": 1500.0
+        },
+        {
+          "service_year": 31,
+          "cash_earnings": 0.0,
+          "covered_months": 12,
+          "benefit_base": 15000.0,
+          "revalued_base": 15000.0,
+          "recognized_credit_base": 15000.0,
+          "worker_contribution": 0.0,
+          "public_credit_transfer": 1500.0
+        },
+        {
+          "service_year": 32,
+          "cash_earnings": 0.0,
+          "covered_months": 12,
+          "benefit_base": 15000.0,
+          "revalued_base": 15000.0,
+          "recognized_credit_base": 15000.0,
+          "worker_contribution": 0.0,
+          "public_credit_transfer": 1500.0
+        },
+        {
+          "service_year": 33,
+          "cash_earnings": 0.0,
+          "covered_months": 12,
+          "benefit_base": 15000.0,
+          "revalued_base": 15000.0,
+          "recognized_credit_base": 15000.0,
+          "worker_contribution": 0.0,
+          "public_credit_transfer": 1500.0
+        },
+        {
+          "service_year": 34,
+          "cash_earnings": 0.0,
+          "covered_months": 12,
+          "benefit_base": 15000.0,
+          "revalued_base": 15000.0,
+          "recognized_credit_base": 15000.0,
+          "worker_contribution": 0.0,
+          "public_credit_transfer": 1500.0
+        },
+        {
+          "service_year": 35,
+          "cash_earnings": 0.0,
+          "covered_months": 12,
+          "benefit_base": 15000.0,
+          "revalued_base": 15000.0,
+          "recognized_credit_base": 15000.0,
+          "worker_contribution": 0.0,
+          "public_credit_transfer": 1500.0
+        },
+        {
+          "service_year": 36,
+          "cash_earnings": 0.0,
+          "covered_months": 12,
+          "benefit_base": 15000.0,
+          "revalued_base": 15000.0,
+          "recognized_credit_base": 15000.0,
+          "worker_contribution": 0.0,
+          "public_credit_transfer": 1500.0
+        },
+        {
+          "service_year": 37,
+          "cash_earnings": 0.0,
+          "covered_months": 12,
+          "benefit_base": 15000.0,
+          "revalued_base": 15000.0,
+          "recognized_credit_base": 15000.0,
+          "worker_contribution": 0.0,
+          "public_credit_transfer": 1500.0
+        },
+        {
+          "service_year": 38,
+          "cash_earnings": 0.0,
+          "covered_months": 12,
+          "benefit_base": 15000.0,
+          "revalued_base": 15000.0,
+          "recognized_credit_base": 15000.0,
+          "worker_contribution": 0.0,
+          "public_credit_transfer": 1500.0
+        },
+        {
+          "service_year": 39,
+          "cash_earnings": 0.0,
+          "covered_months": 12,
+          "benefit_base": 15000.0,
+          "revalued_base": 15000.0,
+          "recognized_credit_base": 15000.0,
+          "worker_contribution": 0.0,
+          "public_credit_transfer": 1500.0
+        },
+        {
+          "service_year": 40,
+          "cash_earnings": 0.0,
+          "covered_months": 12,
+          "benefit_base": 15000.0,
+          "revalued_base": 15000.0,
+          "recognized_credit_base": 15000.0,
+          "worker_contribution": 0.0,
+          "public_credit_transfer": 1500.0
+        }
+      ],
+      "actual_claim_or_funding": null
+    },
+    "care_with_10000_pay": {
+      "annual_earned_at_standard_age": 187.5,
+      "monthly_earned_exact": 15.625,
+      "service_calendar_years": 1,
+      "used_calendar_bases": 1,
+      "service_year_worker_contributions": 1000.0,
+      "service_year_public_credit_transfers": 500.0,
+      "annual_records": [
+        {
+          "service_year": 1,
+          "cash_earnings": 10000.0,
+          "covered_months": 12,
+          "benefit_base": 15000.0,
+          "revalued_base": 15000.0,
+          "recognized_credit_base": 5000.0,
+          "worker_contribution": 1000.0,
+          "public_credit_transfer": 500.0
+        }
+      ],
+      "actual_claim_or_funding": null
+    },
+    "paid_leave_not_double": {
+      "annual_earned_at_standard_age": 375.0,
+      "monthly_earned_exact": 31.25,
+      "service_calendar_years": 1,
+      "used_calendar_bases": 1,
+      "service_year_worker_contributions": 3000.0,
+      "service_year_public_credit_transfers": 0.0,
+      "annual_records": [
+        {
+          "service_year": 1,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        }
+      ],
+      "actual_claim_or_funding": null
+    },
+    "fifty_year_same_pay": {
+      "annual_earned_at_standard_age": 18000.0,
+      "monthly_earned_exact": 1500.0,
+      "service_calendar_years": 50,
+      "used_calendar_bases": 48,
+      "service_year_worker_contributions": 150000.0,
+      "service_year_public_credit_transfers": 0.0,
+      "annual_records": [
+        {
+          "service_year": 1,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 2,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 3,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 4,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 5,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 6,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 7,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 8,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 9,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 10,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 11,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 12,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 13,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 14,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 15,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 16,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 17,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 18,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 19,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 20,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 21,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 22,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 23,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 24,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 25,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 26,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 27,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 28,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 29,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 30,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 31,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 32,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 33,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 34,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 35,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 36,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 37,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 38,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 39,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 40,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 41,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 42,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 43,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 44,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 45,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 46,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 47,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 48,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 49,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 50,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        }
+      ],
+      "actual_claim_or_funding": null
+    },
+    "higher_year_replaces_low": {
+      "annual_earned_at_standard_age": 18375.0,
+      "monthly_earned_exact": 1531.25,
+      "service_calendar_years": 49,
+      "used_calendar_bases": 48,
+      "service_year_worker_contributions": 150000.0,
+      "service_year_public_credit_transfers": 0.0,
+      "annual_records": [
+        {
+          "service_year": 1,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 2,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 3,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 4,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 5,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 6,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 7,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 8,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 9,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 10,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 11,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 12,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 13,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 14,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 15,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 16,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 17,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 18,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 19,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 20,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 21,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 22,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 23,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 24,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 25,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 26,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 27,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 28,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 29,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 30,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 31,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 32,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 33,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 34,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 35,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 36,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 37,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 38,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 39,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 40,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 41,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 42,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 43,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 44,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 45,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 46,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 47,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 48,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        },
+        {
+          "service_year": 49,
+          "cash_earnings": 60000.0,
+          "covered_months": 12,
+          "benefit_base": 60000.0,
+          "revalued_base": 60000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 6000.0,
+          "public_credit_transfer": 0.0
+        }
+      ],
+      "actual_claim_or_funding": null
+    },
+    "inflation_doubles": {
+      "annual_earned_at_standard_age": 750.0,
+      "monthly_earned_exact": 62.5,
+      "service_calendar_years": 1,
+      "used_calendar_bases": 1,
+      "service_year_worker_contributions": 3000.0,
+      "service_year_public_credit_transfers": 0.0,
+      "annual_records": [
+        {
+          "service_year": 1,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 60000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        }
+      ],
+      "actual_claim_or_funding": null
+    },
+    "deflation_preserves_nominal": {
+      "annual_earned_at_standard_age": 375.0,
+      "monthly_earned_exact": 31.25,
+      "service_calendar_years": 1,
+      "used_calendar_bases": 1,
+      "service_year_worker_contributions": 3000.0,
+      "service_year_public_credit_transfers": 0.0,
+      "annual_records": [
+        {
+          "service_year": 1,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        }
+      ],
+      "actual_claim_or_funding": null
+    },
+    "work_then_half_year_care": {
+      "annual_earned_at_standard_age": 281.25,
+      "monthly_earned_exact": 23.4375,
+      "service_calendar_years": 1,
+      "used_calendar_bases": 1,
+      "service_year_worker_contributions": 1500.0,
+      "service_year_public_credit_transfers": 750.0,
+      "annual_records": [
+        {
+          "service_year": 1,
+          "cash_earnings": 15000.0,
+          "covered_months": 12,
+          "benefit_base": 22500.0,
+          "revalued_base": 22500.0,
+          "recognized_credit_base": 7500.0,
+          "worker_contribution": 1500.0,
+          "public_credit_transfer": 750.0
+        }
+      ],
+      "actual_claim_or_funding": null
+    },
+    "half_year_only": {
+      "annual_earned_at_standard_age": 375.0,
+      "monthly_earned_exact": 31.25,
+      "service_calendar_years": 1,
+      "used_calendar_bases": 1,
+      "service_year_worker_contributions": 6000.0,
+      "service_year_public_credit_transfers": 0.0,
+      "annual_records": [
+        {
+          "service_year": 1,
+          "cash_earnings": 60000.0,
+          "covered_months": 6,
+          "benefit_base": 30000.0,
+          "revalued_base": 30000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 6000.0,
+          "public_credit_transfer": 0.0
+        }
+      ],
+      "actual_claim_or_funding": null
+    },
+    "inflation_then_deflation": {
+      "annual_earned_at_standard_age": 750.0,
+      "monthly_earned_exact": 62.5,
+      "service_calendar_years": 1,
+      "used_calendar_bases": 1,
+      "service_year_worker_contributions": 3000.0,
+      "service_year_public_credit_transfers": 0.0,
+      "annual_records": [
+        {
+          "service_year": 1,
+          "cash_earnings": 30000.0,
+          "covered_months": 12,
+          "benefit_base": 30000.0,
+          "revalued_base": 60000.0,
+          "recognized_credit_base": 0.0,
+          "worker_contribution": 3000.0,
+          "public_credit_transfer": 0.0
+        }
+      ],
+      "actual_claim_or_funding": null
+    }
+  },
+  "survivors": {
+    "two_dependants": {
+      "maximum_annual_pot": 7500.0,
+      "actual_lost_support": 12000.0,
+      "annual_shares": [
+        2500.0,
+        5000.0
+      ],
+      "unallocated_pot": 0.0,
+      "eligibility_and_receipt_actually_verified": null
+    },
+    "loss_below_pot": {
+      "maximum_annual_pot": 7500.0,
+      "actual_lost_support": 1500.0,
+      "annual_shares": [
+        300.0,
+        1200.0
+      ],
+      "unallocated_pot": 6000.0,
+      "eligibility_and_receipt_actually_verified": null
+    },
+    "zero_proven_loss": {
+      "maximum_annual_pot": 7500.0,
+      "actual_lost_support": 0.0,
+      "annual_shares": [
+        0.0,
+        0.0
+      ],
+      "unallocated_pot": 7500.0,
+      "eligibility_and_receipt_actually_verified": null
+    }
+  },
+  "toy_annuity_quotes": {
+    "certain_alive_to_85_age60": 0.8,
+    "certain_alive_to_85_age65": 1.0,
+    "certain_alive_to_85_age70": 1.3333333333333333,
+    "explicit_survival_to_65_age60": 0.782608695652174,
+    "missing_real_life_table": null,
+    "ordinary_age_without_life_table": 1.0,
+    "unbounded_tail": null
+  },
+  "finance_histories": [
+    {
+      "case": "old_scheduled_250_monthly",
+      "annual_earned_payment_million": 45.0,
+      "known_receipts_less_earned_payments_before_omissions": 188.0,
+      "day1_payment_due": 3.75,
+      "day1_cash_paid_without_new_source": 3.75,
+      "day1_unpaid_without_new_source": 0.0,
+      "cash_after_actual_day1_payment": 21.25,
+      "four_month_normal_cash_floor_before_omitted_costs": 15.0,
+      "extra_cash_needed_to_pay_and_retain_floor": 0.0,
+      "actual_administration_survivor_credit_costs": null,
+      "actual_asset_liability_valuation": null,
+      "actual_readiness": false
+    },
+    {
+      "case": "forty_year_middle_pay",
+      "annual_earned_payment_million": 225.0,
+      "known_receipts_less_earned_payments_before_omissions": 8.0,
+      "day1_payment_due": 18.75,
+      "day1_cash_paid_without_new_source": 18.75,
+      "day1_unpaid_without_new_source": 0.0,
+      "cash_after_actual_day1_payment": 6.25,
+      "four_month_normal_cash_floor_before_omitted_costs": 75.0,
+      "extra_cash_needed_to_pay_and_retain_floor": 68.75,
+      "actual_administration_survivor_credit_costs": null,
+      "actual_asset_liability_valuation": null,
+      "actual_readiness": false
+    },
+    {
+      "case": "care_interruption_history",
+      "annual_earned_payment_million": 168.75,
+      "known_receipts_less_earned_payments_before_omissions": 64.25,
+      "day1_payment_due": 14.0625,
+      "day1_cash_paid_without_new_source": 14.0625,
+      "day1_unpaid_without_new_source": 0.0,
+      "cash_after_actual_day1_payment": 10.9375,
+      "four_month_normal_cash_floor_before_omitted_costs": 56.25,
+      "extra_cash_needed_to_pay_and_retain_floor": 45.3125,
+      "actual_administration_survivor_credit_costs": null,
+      "actual_asset_liability_valuation": null,
+      "actual_readiness": false
+    },
+    {
+      "case": "above_cap_history",
+      "annual_earned_payment_million": 450.0,
+      "known_receipts_less_earned_payments_before_omissions": -217.0,
+      "day1_payment_due": 37.5,
+      "day1_cash_paid_without_new_source": 25.0,
+      "day1_unpaid_without_new_source": 12.5,
+      "cash_after_actual_day1_payment": 0.0,
+      "four_month_normal_cash_floor_before_omitted_costs": 150.0,
+      "extra_cash_needed_to_pay_and_retain_floor": 162.5,
+      "actual_administration_survivor_credit_costs": null,
+      "actual_asset_liability_valuation": null,
+      "actual_readiness": false
+    }
+  ],
+  "basic_annual_million_at_reference_basket": 180.0,
+  "actual_lifetime_claims": null,
+  "actual_population_histories": null,
+  "actual_observed_outcomes": null,
+  "limits": [
+    "All histories, wages, thresholds, ages, accrual/credit/levy choices and reserve months are authored normative hypotheses, not calibrated optimal parameters.",
+    "Career cases determine proposed annual pension units, not assets owned or actuarial cash values. A contribution transfer does not price the lifetime liability.",
+    "Alternative 15000-recipient histories are not transitions, measured cohorts, or a forecast; the old 45 scheduled payment is not overwritten by these examples.",
+    "The old 228 receipts assume unchanged wages/work and full collection, not a forecast or proof that prices, work, tax and needs transfers stay unchanged.",
+    "The known 5 interest needs lawful actual payment. Administration, survivor claims, care-credit transfers, inherited accrual, basic/floor interactions and asset/claim valuation remain unknown, not zero.",
+    "Finance margins are known components before omissions, not surpluses available for the general floor. No annual margin is recorded as a willing loan or bank deposit.",
+    "Annual advance cash examples hold only one declared due date. Bank liquidity, source access, reserve replenishment, protection and actual receipt remain unverified.",
+    "Toy annuity survival curves explicitly close at 85 solely to check the common-base-age formula; no actual early/deferred quote is available without original survival/tail evidence and law.",
+    "A best-48-calendar-base cap is an explicit distribution choice: partial service amounts are prorated; a partial calendar year still occupies a calendar base slot. No minimum vesting-years cliff exists.",
+    "No new pension law is enacted, no actual people participated, and no independently qualified actuarial review or observed superiority was obtained.",
+    "Service-year contribution totals retain their original-year currency units; they are not present values, accumulated owned assets or a price for the lifetime benefit."
+  ]
+}

@@ -1,0 +1,314 @@
+{
+  "dict": {
+    "edition": {
+      "type": "int"
+    },
+    "scope": {
+      "type": "str"
+    },
+    "source_service": {
+      "type": "str"
+    },
+    "old_electoral_model": {
+      "type": "str"
+    },
+    "N": {
+      "type": "int"
+    },
+    "E_call": {
+      "type": "int"
+    },
+    "R_cutoff": {
+      "type": "int"
+    },
+    "K_nominees": {
+      "type": "int"
+    },
+    "local_bodies": {
+      "list": {
+        "dict": {
+          "id": {
+            "type": "str"
+          },
+          "E_ref": {
+            "type": "int"
+          },
+          "E_call": {
+            "type": "int"
+          },
+          "R_cutoff": {
+            "type": "int"
+          },
+          "K_nominees": {
+            "type": "int"
+          }
+        }
+      }
+    },
+    "questions": {
+      "list": {
+        "dict": {
+          "id": {
+            "type": "str"
+          },
+          "E_call": {
+            "type": "int"
+          },
+          "R_cutoff": {
+            "type": "int"
+          }
+        }
+      }
+    },
+    "matched_person_identity_count": {
+      "type": "int"
+    },
+    "matched_national_question_P_scope_hypothesis": {
+      "type": "bool"
+    },
+    "source_hours": {
+      "dict": {
+        "old_endorsement_each": {
+          "type": "str"
+        },
+        "old_nominee_each": {
+          "type": "str"
+        },
+        "list_each": {
+          "type": "int"
+        },
+        "identity_each": {
+          "type": "str"
+        },
+        "national_eligibility_each": {
+          "type": "str"
+        },
+        "local_eligibility_each": {
+          "type": "str"
+        },
+        "endorsement_act_each": {
+          "type": "str"
+        },
+        "national_nominee_act_each": {
+          "type": "str"
+        },
+        "local_nominee_act_each": {
+          "type": "str"
+        },
+        "available_final_task_days": {
+          "type": "int"
+        },
+        "task_hours_day": {
+          "type": "str"
+        },
+        "drill_hours_each": {
+          "type": "int"
+        },
+        "source_paid_role_fraction": {
+          "type": "str"
+        }
+      }
+    },
+    "judicial": {
+      "dict": {
+        "nominee_challenge_fraction": {
+          "type": "str"
+        },
+        "list_or_committee_challenge_fraction": {
+          "type": "str"
+        },
+        "urgent_hours_each": {
+          "type": "str"
+        },
+        "merits_hours_each": {
+          "type": "int"
+        },
+        "counsel_urgent_each": {
+          "type": "str"
+        },
+        "counsel_merits_each": {
+          "type": "int"
+        },
+        "merits_available_task_days": {
+          "type": "int"
+        },
+        "opt_in_common_fraction": {
+          "type": "str"
+        },
+        "common_families": {
+          "type": "int"
+        },
+        "common_urgent_hours": {
+          "type": "str"
+        },
+        "individual_urgent_hours": {
+          "type": "str"
+        },
+        "common_merits_hours": {
+          "type": "str"
+        },
+        "individual_merits_hours": {
+          "type": "str"
+        },
+        "common_counsel_urgent_hours": {
+          "type": "str"
+        },
+        "individual_counsel_urgent_hours": {
+          "type": "str"
+        },
+        "common_counsel_merits_hours": {
+          "type": "int"
+        },
+        "individual_counsel_merits_hours": {
+          "type": "int"
+        },
+        "clerk_hours_each": {
+          "type": "int"
+        },
+        "paid_role_fraction_each": {
+          "type": "str"
+        },
+        "actual_dispute_incidence_sharedness_or_qualified_rosters": {
+          "null": true
+        },
+        "clerk_urgent_hours_each": {
+          "type": "str"
+        },
+        "clerk_available_task_days": {
+          "type": "int"
+        },
+        "clerk_paid_role_fraction_each": {
+          "type": "str"
+        }
+      }
+    },
+    "information": {
+      "dict": {
+        "rows_per_choice_page": {
+          "type": "int"
+        },
+        "words_per_list": {
+          "type": "int"
+        },
+        "name_words_each": {
+          "type": "int"
+        },
+        "words_per_guide_page": {
+          "type": "int"
+        },
+        "requested_guides_national": {
+          "type": "int"
+        },
+        "requested_guides_local": {
+          "type": "int"
+        },
+        "requested_guides_question": {
+          "type": "int"
+        },
+        "requested_nominee_lists_national": {
+          "type": "int"
+        },
+        "requested_nominee_lists_local": {
+          "type": "int"
+        },
+        "access_factor": {
+          "type": "str"
+        },
+        "page_CU": {
+          "type": "str"
+        },
+        "help_request_fraction": {
+          "type": "str"
+        },
+        "help_hours_each": {
+          "type": "str"
+        },
+        "help_available_task_days": {
+          "type": "int"
+        },
+        "help_paid_role_fraction": {
+          "type": "str"
+        },
+        "actual_usability_requests_meaning_or_free_choice": {
+          "null": true
+        }
+      }
+    },
+    "pay": {
+      "dict": {
+        "professional": {
+          "type": "int"
+        },
+        "frontline": {
+          "type": "int"
+        },
+        "annual_task_hours": {
+          "type": "str"
+        }
+      }
+    },
+    "trainer": {
+      "dict": {
+        "group_people": {
+          "type": "int"
+        },
+        "prep_fraction": {
+          "type": "str"
+        },
+        "own_learning_task_hours": {
+          "type": "int"
+        }
+      }
+    },
+    "conditional_world_fixture": {
+      "dict": {
+        "votes": {
+          "dict": {
+            "A": {
+              "type": "int"
+            },
+            "B": {
+              "type": "int"
+            }
+          }
+        },
+        "seats": {
+          "type": "int"
+        },
+        "pools": {
+          "dict": {
+            "A": {
+              "list": {
+                "type": "str"
+              }
+            },
+            "B": {
+              "list": {
+                "type": "str"
+              }
+            }
+          }
+        },
+        "unknown_nominees": {
+          "list": {
+            "type": "str"
+          }
+        },
+        "max_executable_unknowns": {
+          "type": "int"
+        },
+        "actual_qualification_or_ballot_meaning": {
+          "null": true
+        }
+      }
+    },
+    "old_component_ids": {
+      "list": {
+        "type": "str"
+      }
+    },
+    "actual_country_democratic_adoption_or_readiness": {
+      "null": true
+    }
+  }
+}

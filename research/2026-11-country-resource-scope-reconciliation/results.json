@@ -1,0 +1,624 @@
+{
+  "edition": 176,
+  "scope": "Eight authored same-template annual joins. Overlap extremes are hypotheses, not estimated current bounds; retained old nonfood demand is an optional variant. Incremental supplier, staffing, capital and timing tails are unknown.",
+  "old_PA_nonshop_GWh": "8",
+  "two_goods_FU": "15250000",
+  "retained_garment_hygiene_variant_FU_quote_equivalent": "25200000",
+  "retained_variant_disjointness_and_conversion": {
+    "scope": "Continue older authored 100000-person garment/hygiene quantities and original25.2m border-CU quote, converted to FU quote-equivalent only under declared1CU/FU and assumed foreign-invoice boundary. In this variant PB shared-home-kit and personal-device contents explicitly exclude these garment/hygiene items. Not proved current demand, a foreign invoice, full basket or transferred adequacy/retail capacity.",
+    "kit_and_device_exclude_garments_and_hygiene": true,
+    "border_CU_is_foreign_invoice_hypothesis": true,
+    "CU_per_FU_quote_equivalence": "1"
+  },
+  "cases": [
+    {
+      "id": "water_limited/firm_seven_extended/no_match_demonstrated",
+      "physical_case": "water_limited/firm_seven_extended",
+      "conditional_matches": {
+        "id": "no_match_demonstrated",
+        "public_transport_match_GWh": "0",
+        "two_goods_retail_match_GWh": "0"
+      },
+      "old_PA_service_power_GWh": "10",
+      "additional_annual_meter_GWh": "10",
+      "joined_named_end_use_GWh": "259.1405712451287542689349206",
+      "annual_import_GWh": "20.9380294848053080458006039",
+      "extra_electricity_import_FU": "1276595.744680851063829787232",
+      "annual_import_volume_quote_pass_only": true,
+      "base_physical_plus_two_goods_normal_FU": "127289288.4940607353553146263",
+      "retained_goods_variant_normal_FU": "153765884.2387415864191444135",
+      "owner_specific_normal_calls": [
+        {
+          "owner": "food_producers",
+          "normal_import_FU": "99771075.00917151554544950360",
+          "new_capital_import_FU": "35499052.97273467173087357569",
+          "initial_stock_import_FU": "4360451.283986948022506485109",
+          "actual_owned_FU": null
+        },
+        {
+          "owner": "water_operator_U",
+          "normal_import_FU": "838356.8025045450193099486127",
+          "new_capital_import_FU": "55987500.00",
+          "initial_stock_import_FU": "110000.0",
+          "actual_owned_FU": null
+        },
+        {
+          "owner": "electricity_operator_U",
+          "normal_import_FU": "12706452.42706552585438496135",
+          "new_capital_import_FU": "126000000.0",
+          "initial_stock_import_FU": "2579052.565707133917396745932",
+          "actual_owned_FU": null
+        },
+        {
+          "owner": "two_goods_importers_not_a_common_cash_pool",
+          "normal_import_FU": "15250000",
+          "actual_owned_FU": null
+        },
+        {
+          "owner": "retained_garment_hygiene_variant_FU_quote_equivalent_only",
+          "normal_import_FU": "25200000",
+          "actual_owned_FU": null
+        }
+      ],
+      "outage_cases": [
+        {
+          "authored_additional_coincident_MW_not_inferred_from_GWh": "0",
+          "hours": 24,
+          "total_demand_MW": "145",
+          "deficit_MW": "0",
+          "required_battery_MWh": "0",
+          "available_battery_MWh": "224.0",
+          "ideal_static_pass_only": true,
+          "actual_dynamic_or_operational_acceptance": null
+        },
+        {
+          "authored_additional_coincident_MW_not_inferred_from_GWh": "8",
+          "hours": 24,
+          "total_demand_MW": "153",
+          "deficit_MW": "3",
+          "required_battery_MWh": "72",
+          "available_battery_MWh": "224.0",
+          "ideal_static_pass_only": true,
+          "actual_dynamic_or_operational_acceptance": null
+        }
+      ],
+      "new_incremental_capital_crew_peak_maintenance_and_input_tails_FU": null,
+      "actual_current_overlap": null,
+      "actual_due_dates_owned_source_or_national_total": null,
+      "actual_safe_power_or_better_lives": null
+    },
+    {
+      "id": "water_limited/firm_seven_extended/retail_match_only",
+      "physical_case": "water_limited/firm_seven_extended",
+      "conditional_matches": {
+        "id": "retail_match_only",
+        "public_transport_match_GWh": "0",
+        "two_goods_retail_match_GWh": ".4"
+      },
+      "old_PA_service_power_GWh": "10",
+      "additional_annual_meter_GWh": "9.6",
+      "joined_named_end_use_GWh": "258.7405712451287542689349206",
+      "annual_import_GWh": "20.5124975699116910245240082",
+      "extra_electricity_import_FU": "1225531.914893617021276595748",
+      "annual_import_volume_quote_pass_only": true,
+      "base_physical_plus_two_goods_normal_FU": "127289288.4940607353553146263",
+      "retained_goods_variant_normal_FU": "153714820.4089543523765912220",
+      "owner_specific_normal_calls": [
+        {
+          "owner": "food_producers",
+          "normal_import_FU": "99771075.00917151554544950360",
+          "new_capital_import_FU": "35499052.97273467173087357569",
+          "initial_stock_import_FU": "4360451.283986948022506485109",
+          "actual_owned_FU": null
+        },
+        {
+          "owner": "water_operator_U",
+          "normal_import_FU": "838356.8025045450193099486127",
+          "new_capital_import_FU": "55987500.00",
+          "initial_stock_import_FU": "110000.0",
+          "actual_owned_FU": null
+        },
+        {
+          "owner": "electricity_operator_U",
+          "normal_import_FU": "12655388.59727829181183176987",
+          "new_capital_import_FU": "126000000.0",
+          "initial_stock_import_FU": "2579052.565707133917396745932",
+          "actual_owned_FU": null
+        },
+        {
+          "owner": "two_goods_importers_not_a_common_cash_pool",
+          "normal_import_FU": "15250000",
+          "actual_owned_FU": null
+        },
+        {
+          "owner": "retained_garment_hygiene_variant_FU_quote_equivalent_only",
+          "normal_import_FU": "25200000",
+          "actual_owned_FU": null
+        }
+      ],
+      "outage_cases": [
+        {
+          "authored_additional_coincident_MW_not_inferred_from_GWh": "0",
+          "hours": 24,
+          "total_demand_MW": "145",
+          "deficit_MW": "0",
+          "required_battery_MWh": "0",
+          "available_battery_MWh": "224.0",
+          "ideal_static_pass_only": true,
+          "actual_dynamic_or_operational_acceptance": null
+        },
+        {
+          "authored_additional_coincident_MW_not_inferred_from_GWh": "8",
+          "hours": 24,
+          "total_demand_MW": "153",
+          "deficit_MW": "3",
+          "required_battery_MWh": "72",
+          "available_battery_MWh": "224.0",
+          "ideal_static_pass_only": true,
+          "actual_dynamic_or_operational_acceptance": null
+        }
+      ],
+      "new_incremental_capital_crew_peak_maintenance_and_input_tails_FU": null,
+      "actual_current_overlap": null,
+      "actual_due_dates_owned_source_or_national_total": null,
+      "actual_safe_power_or_better_lives": null
+    },
+    {
+      "id": "water_limited/firm_seven_extended/transport_match_only",
+      "physical_case": "water_limited/firm_seven_extended",
+      "conditional_matches": {
+        "id": "transport_match_only",
+        "public_transport_match_GWh": "1",
+        "two_goods_retail_match_GWh": "0"
+      },
+      "old_PA_service_power_GWh": "10",
+      "additional_annual_meter_GWh": "9",
+      "joined_named_end_use_GWh": "258.1405712451287542689349206",
+      "annual_import_GWh": "19.8741996975712654926091146",
+      "extra_electricity_import_FU": "1148936.170212765957446808516",
+      "annual_import_volume_quote_pass_only": true,
+      "base_physical_plus_two_goods_normal_FU": "127289288.4940607353553146263",
+      "retained_goods_variant_normal_FU": "153638224.6642735013127614348",
+      "owner_specific_normal_calls": [
+        {
+          "owner": "food_producers",
+          "normal_import_FU": "99771075.00917151554544950360",
+          "new_capital_import_FU": "35499052.97273467173087357569",
+          "initial_stock_import_FU": "4360451.283986948022506485109",
+          "actual_owned_FU": null
+        },
+        {
+          "owner": "water_operator_U",
+          "normal_import_FU": "838356.8025045450193099486127",
+          "new_capital_import_FU": "55987500.00",
+          "initial_stock_import_FU": "110000.0",
+          "actual_owned_FU": null
+        },
+        {
+          "owner": "electricity_operator_U",
+          "normal_import_FU": "12578792.85259744074800198264",
+          "new_capital_import_FU": "126000000.0",
+          "initial_stock_import_FU": "2579052.565707133917396745932",
+          "actual_owned_FU": null
+        },
+        {
+          "owner": "two_goods_importers_not_a_common_cash_pool",
+          "normal_import_FU": "15250000",
+          "actual_owned_FU": null
+        },
+        {
+          "owner": "retained_garment_hygiene_variant_FU_quote_equivalent_only",
+          "normal_import_FU": "25200000",
+          "actual_owned_FU": null
+        }
+      ],
+      "outage_cases": [
+        {
+          "authored_additional_coincident_MW_not_inferred_from_GWh": "0",
+          "hours": 24,
+          "total_demand_MW": "145",
+          "deficit_MW": "0",
+          "required_battery_MWh": "0",
+          "available_battery_MWh": "224.0",
+          "ideal_static_pass_only": true,
+          "actual_dynamic_or_operational_acceptance": null
+        },
+        {
+          "authored_additional_coincident_MW_not_inferred_from_GWh": "8",
+          "hours": 24,
+          "total_demand_MW": "153",
+          "deficit_MW": "3",
+          "required_battery_MWh": "72",
+          "available_battery_MWh": "224.0",
+          "ideal_static_pass_only": true,
+          "actual_dynamic_or_operational_acceptance": null
+        }
+      ],
+      "new_incremental_capital_crew_peak_maintenance_and_input_tails_FU": null,
+      "actual_current_overlap": null,
+      "actual_due_dates_owned_source_or_national_total": null,
+      "actual_safe_power_or_better_lives": null
+    },
+    {
+      "id": "water_limited/firm_seven_extended/both_hypothesized_matches",
+      "physical_case": "water_limited/firm_seven_extended",
+      "conditional_matches": {
+        "id": "both_hypothesized_matches",
+        "public_transport_match_GWh": "1",
+        "two_goods_retail_match_GWh": ".4"
+      },
+      "old_PA_service_power_GWh": "10",
+      "additional_annual_meter_GWh": "8.6",
+      "joined_named_end_use_GWh": "257.7405712451287542689349206",
+      "annual_import_GWh": "19.4486677826776484713325188",
+      "extra_electricity_import_FU": "1097872.340425531914893617020",
+      "annual_import_volume_quote_pass_only": true,
+      "base_physical_plus_two_goods_normal_FU": "127289288.4940607353553146263",
+      "retained_goods_variant_normal_FU": "153587160.8344862672702082433",
+      "owner_specific_normal_calls": [
+        {
+          "owner": "food_producers",
+          "normal_import_FU": "99771075.00917151554544950360",
+          "new_capital_import_FU": "35499052.97273467173087357569",
+          "initial_stock_import_FU": "4360451.283986948022506485109",
+          "actual_owned_FU": null
+        },
+        {
+          "owner": "water_operator_U",
+          "normal_import_FU": "838356.8025045450193099486127",
+          "new_capital_import_FU": "55987500.00",
+          "initial_stock_import_FU": "110000.0",
+          "actual_owned_FU": null
+        },
+        {
+          "owner": "electricity_operator_U",
+          "normal_import_FU": "12527729.02281020670544879114",
+          "new_capital_import_FU": "126000000.0",
+          "initial_stock_import_FU": "2579052.565707133917396745932",
+          "actual_owned_FU": null
+        },
+        {
+          "owner": "two_goods_importers_not_a_common_cash_pool",
+          "normal_import_FU": "15250000",
+          "actual_owned_FU": null
+        },
+        {
+          "owner": "retained_garment_hygiene_variant_FU_quote_equivalent_only",
+          "normal_import_FU": "25200000",
+          "actual_owned_FU": null
+        }
+      ],
+      "outage_cases": [
+        {
+          "authored_additional_coincident_MW_not_inferred_from_GWh": "0",
+          "hours": 24,
+          "total_demand_MW": "145",
+          "deficit_MW": "0",
+          "required_battery_MWh": "0",
+          "available_battery_MWh": "224.0",
+          "ideal_static_pass_only": true,
+          "actual_dynamic_or_operational_acceptance": null
+        },
+        {
+          "authored_additional_coincident_MW_not_inferred_from_GWh": "8",
+          "hours": 24,
+          "total_demand_MW": "153",
+          "deficit_MW": "3",
+          "required_battery_MWh": "72",
+          "available_battery_MWh": "224.0",
+          "ideal_static_pass_only": true,
+          "actual_dynamic_or_operational_acceptance": null
+        }
+      ],
+      "new_incremental_capital_crew_peak_maintenance_and_input_tails_FU": null,
+      "actual_current_overlap": null,
+      "actual_due_dates_owned_source_or_national_total": null,
+      "actual_safe_power_or_better_lives": null
+    },
+    {
+      "id": "water_limited/storage_extended/no_match_demonstrated",
+      "physical_case": "water_limited/storage_extended",
+      "conditional_matches": {
+        "id": "no_match_demonstrated",
+        "public_transport_match_GWh": "0",
+        "two_goods_retail_match_GWh": "0"
+      },
+      "old_PA_service_power_GWh": "10",
+      "additional_annual_meter_GWh": "10",
+      "joined_named_end_use_GWh": "259.1405712451287542689349206",
+      "annual_import_GWh": "56.2321471318641315752123687",
+      "extra_electricity_import_FU": "1276595.744680851063829787232",
+      "annual_import_volume_quote_pass_only": true,
+      "base_physical_plus_two_goods_normal_FU": "133471582.6117077941788440381",
+      "retained_goods_variant_normal_FU": "159948178.3563886452426738253",
+      "owner_specific_normal_calls": [
+        {
+          "owner": "food_producers",
+          "normal_import_FU": "99771075.00917151554544950360",
+          "new_capital_import_FU": "35499052.97273467173087357569",
+          "initial_stock_import_FU": "4360451.283986948022506485109",
+          "actual_owned_FU": null
+        },
+        {
+          "owner": "water_operator_U",
+          "normal_import_FU": "838356.8025045450193099486127",
+          "new_capital_import_FU": "55987500.00",
+          "initial_stock_import_FU": "110000.0",
+          "actual_owned_FU": null
+        },
+        {
+          "owner": "electricity_operator_U",
+          "normal_import_FU": "18888746.54471258467791437313",
+          "new_capital_import_FU": "401000000.0",
+          "initial_stock_import_FU": "1741405.506883604505632040050",
+          "actual_owned_FU": null
+        },
+        {
+          "owner": "two_goods_importers_not_a_common_cash_pool",
+          "normal_import_FU": "15250000",
+          "actual_owned_FU": null
+        },
+        {
+          "owner": "retained_garment_hygiene_variant_FU_quote_equivalent_only",
+          "normal_import_FU": "25200000",
+          "actual_owned_FU": null
+        }
+      ],
+      "outage_cases": [
+        {
+          "authored_additional_coincident_MW_not_inferred_from_GWh": "0",
+          "hours": 24,
+          "total_demand_MW": "145",
+          "deficit_MW": "70",
+          "required_battery_MWh": "1680",
+          "available_battery_MWh": "1728.0",
+          "ideal_static_pass_only": true,
+          "actual_dynamic_or_operational_acceptance": null
+        },
+        {
+          "authored_additional_coincident_MW_not_inferred_from_GWh": "8",
+          "hours": 24,
+          "total_demand_MW": "153",
+          "deficit_MW": "78",
+          "required_battery_MWh": "1872",
+          "available_battery_MWh": "1728.0",
+          "ideal_static_pass_only": false,
+          "actual_dynamic_or_operational_acceptance": null
+        }
+      ],
+      "new_incremental_capital_crew_peak_maintenance_and_input_tails_FU": null,
+      "actual_current_overlap": null,
+      "actual_due_dates_owned_source_or_national_total": null,
+      "actual_safe_power_or_better_lives": null
+    },
+    {
+      "id": "water_limited/storage_extended/retail_match_only",
+      "physical_case": "water_limited/storage_extended",
+      "conditional_matches": {
+        "id": "retail_match_only",
+        "public_transport_match_GWh": "0",
+        "two_goods_retail_match_GWh": ".4"
+      },
+      "old_PA_service_power_GWh": "10",
+      "additional_annual_meter_GWh": "9.6",
+      "joined_named_end_use_GWh": "258.7405712451287542689349206",
+      "annual_import_GWh": "55.8066152169705145539357730",
+      "extra_electricity_import_FU": "1225531.914893617021276595748",
+      "annual_import_volume_quote_pass_only": true,
+      "base_physical_plus_two_goods_normal_FU": "133471582.6117077941788440381",
+      "retained_goods_variant_normal_FU": "159897114.5266014112001206338",
+      "owner_specific_normal_calls": [
+        {
+          "owner": "food_producers",
+          "normal_import_FU": "99771075.00917151554544950360",
+          "new_capital_import_FU": "35499052.97273467173087357569",
+          "initial_stock_import_FU": "4360451.283986948022506485109",
+          "actual_owned_FU": null
+        },
+        {
+          "owner": "water_operator_U",
+          "normal_import_FU": "838356.8025045450193099486127",
+          "new_capital_import_FU": "55987500.00",
+          "initial_stock_import_FU": "110000.0",
+          "actual_owned_FU": null
+        },
+        {
+          "owner": "electricity_operator_U",
+          "normal_import_FU": "18837682.71492535063536118165",
+          "new_capital_import_FU": "401000000.0",
+          "initial_stock_import_FU": "1741405.506883604505632040050",
+          "actual_owned_FU": null
+        },
+        {
+          "owner": "two_goods_importers_not_a_common_cash_pool",
+          "normal_import_FU": "15250000",
+          "actual_owned_FU": null
+        },
+        {
+          "owner": "retained_garment_hygiene_variant_FU_quote_equivalent_only",
+          "normal_import_FU": "25200000",
+          "actual_owned_FU": null
+        }
+      ],
+      "outage_cases": [
+        {
+          "authored_additional_coincident_MW_not_inferred_from_GWh": "0",
+          "hours": 24,
+          "total_demand_MW": "145",
+          "deficit_MW": "70",
+          "required_battery_MWh": "1680",
+          "available_battery_MWh": "1728.0",
+          "ideal_static_pass_only": true,
+          "actual_dynamic_or_operational_acceptance": null
+        },
+        {
+          "authored_additional_coincident_MW_not_inferred_from_GWh": "8",
+          "hours": 24,
+          "total_demand_MW": "153",
+          "deficit_MW": "78",
+          "required_battery_MWh": "1872",
+          "available_battery_MWh": "1728.0",
+          "ideal_static_pass_only": false,
+          "actual_dynamic_or_operational_acceptance": null
+        }
+      ],
+      "new_incremental_capital_crew_peak_maintenance_and_input_tails_FU": null,
+      "actual_current_overlap": null,
+      "actual_due_dates_owned_source_or_national_total": null,
+      "actual_safe_power_or_better_lives": null
+    },
+    {
+      "id": "water_limited/storage_extended/transport_match_only",
+      "physical_case": "water_limited/storage_extended",
+      "conditional_matches": {
+        "id": "transport_match_only",
+        "public_transport_match_GWh": "1",
+        "two_goods_retail_match_GWh": "0"
+      },
+      "old_PA_service_power_GWh": "10",
+      "additional_annual_meter_GWh": "9",
+      "joined_named_end_use_GWh": "258.1405712451287542689349206",
+      "annual_import_GWh": "55.1683173446300890220208794",
+      "extra_electricity_import_FU": "1148936.170212765957446808516",
+      "annual_import_volume_quote_pass_only": true,
+      "base_physical_plus_two_goods_normal_FU": "133471582.6117077941788440381",
+      "retained_goods_variant_normal_FU": "159820518.7819205601362908466",
+      "owner_specific_normal_calls": [
+        {
+          "owner": "food_producers",
+          "normal_import_FU": "99771075.00917151554544950360",
+          "new_capital_import_FU": "35499052.97273467173087357569",
+          "initial_stock_import_FU": "4360451.283986948022506485109",
+          "actual_owned_FU": null
+        },
+        {
+          "owner": "water_operator_U",
+          "normal_import_FU": "838356.8025045450193099486127",
+          "new_capital_import_FU": "55987500.00",
+          "initial_stock_import_FU": "110000.0",
+          "actual_owned_FU": null
+        },
+        {
+          "owner": "electricity_operator_U",
+          "normal_import_FU": "18761086.97024449957153139442",
+          "new_capital_import_FU": "401000000.0",
+          "initial_stock_import_FU": "1741405.506883604505632040050",
+          "actual_owned_FU": null
+        },
+        {
+          "owner": "two_goods_importers_not_a_common_cash_pool",
+          "normal_import_FU": "15250000",
+          "actual_owned_FU": null
+        },
+        {
+          "owner": "retained_garment_hygiene_variant_FU_quote_equivalent_only",
+          "normal_import_FU": "25200000",
+          "actual_owned_FU": null
+        }
+      ],
+      "outage_cases": [
+        {
+          "authored_additional_coincident_MW_not_inferred_from_GWh": "0",
+          "hours": 24,
+          "total_demand_MW": "145",
+          "deficit_MW": "70",
+          "required_battery_MWh": "1680",
+          "available_battery_MWh": "1728.0",
+          "ideal_static_pass_only": true,
+          "actual_dynamic_or_operational_acceptance": null
+        },
+        {
+          "authored_additional_coincident_MW_not_inferred_from_GWh": "8",
+          "hours": 24,
+          "total_demand_MW": "153",
+          "deficit_MW": "78",
+          "required_battery_MWh": "1872",
+          "available_battery_MWh": "1728.0",
+          "ideal_static_pass_only": false,
+          "actual_dynamic_or_operational_acceptance": null
+        }
+      ],
+      "new_incremental_capital_crew_peak_maintenance_and_input_tails_FU": null,
+      "actual_current_overlap": null,
+      "actual_due_dates_owned_source_or_national_total": null,
+      "actual_safe_power_or_better_lives": null
+    },
+    {
+      "id": "water_limited/storage_extended/both_hypothesized_matches",
+      "physical_case": "water_limited/storage_extended",
+      "conditional_matches": {
+        "id": "both_hypothesized_matches",
+        "public_transport_match_GWh": "1",
+        "two_goods_retail_match_GWh": ".4"
+      },
+      "old_PA_service_power_GWh": "10",
+      "additional_annual_meter_GWh": "8.6",
+      "joined_named_end_use_GWh": "257.7405712451287542689349206",
+      "annual_import_GWh": "54.7427854297364720007442836",
+      "extra_electricity_import_FU": "1097872.340425531914893617020",
+      "annual_import_volume_quote_pass_only": true,
+      "base_physical_plus_two_goods_normal_FU": "133471582.6117077941788440381",
+      "retained_goods_variant_normal_FU": "159769454.9521333260937376551",
+      "owner_specific_normal_calls": [
+        {
+          "owner": "food_producers",
+          "normal_import_FU": "99771075.00917151554544950360",
+          "new_capital_import_FU": "35499052.97273467173087357569",
+          "initial_stock_import_FU": "4360451.283986948022506485109",
+          "actual_owned_FU": null
+        },
+        {
+          "owner": "water_operator_U",
+          "normal_import_FU": "838356.8025045450193099486127",
+          "new_capital_import_FU": "55987500.00",
+          "initial_stock_import_FU": "110000.0",
+          "actual_owned_FU": null
+        },
+        {
+          "owner": "electricity_operator_U",
+          "normal_import_FU": "18710023.14045726552897820292",
+          "new_capital_import_FU": "401000000.0",
+          "initial_stock_import_FU": "1741405.506883604505632040050",
+          "actual_owned_FU": null
+        },
+        {
+          "owner": "two_goods_importers_not_a_common_cash_pool",
+          "normal_import_FU": "15250000",
+          "actual_owned_FU": null
+        },
+        {
+          "owner": "retained_garment_hygiene_variant_FU_quote_equivalent_only",
+          "normal_import_FU": "25200000",
+          "actual_owned_FU": null
+        }
+      ],
+      "outage_cases": [
+        {
+          "authored_additional_coincident_MW_not_inferred_from_GWh": "0",
+          "hours": 24,
+          "total_demand_MW": "145",
+          "deficit_MW": "70",
+          "required_battery_MWh": "1680",
+          "available_battery_MWh": "1728.0",
+          "ideal_static_pass_only": true,
+          "actual_dynamic_or_operational_acceptance": null
+        },
+        {
+          "authored_additional_coincident_MW_not_inferred_from_GWh": "8",
+          "hours": 24,
+          "total_demand_MW": "153",
+          "deficit_MW": "78",
+          "required_battery_MWh": "1872",
+          "available_battery_MWh": "1728.0",
+          "ideal_static_pass_only": false,
+          "actual_dynamic_or_operational_acceptance": null
+        }
+      ],
+      "new_incremental_capital_crew_peak_maintenance_and_input_tails_FU": null,
+      "actual_current_overlap": null,
+      "actual_due_dates_owned_source_or_national_total": null,
+      "actual_safe_power_or_better_lives": null
+    }
+  ],
+  "actual_current_national_cost_source_or_readiness": null
+}

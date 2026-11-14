@@ -1,0 +1,91 @@
+{
+  "edition": 101,
+  "same_controller": true,
+  "prior_draft_review_transfer": false,
+  "actual_qualified_independent_review": null,
+  "actual_affected_participation": null,
+  "reports": {
+    "entry": [
+      "review/entry-initial.md",
+      "review/entry-reread.md"
+    ],
+    "finance": [
+      "review/finance-initial.md",
+      "review/finance-reread.md",
+      "review/finance-correction-close.md"
+    ],
+    "remedy": [
+      "review/remedy-initial.md",
+      "review/remedy-reread.md"
+    ]
+  },
+  "findings": [
+    {
+      "id": "candidate_reference_and_cutoff_proof",
+      "status": "corrected_and_actual_reread",
+      "report": "review/entry-reread.md",
+      "disposition": "Final P candidacy versus actual cutoff assent/preexisting dated facts explicitly separated; no projected signer eligibility."
+    },
+    {
+      "id": "late_delivery_not_early_voter_cure",
+      "status": "corrected_and_actual_reread",
+      "report": "review/entry-reread.md",
+      "disposition": "Alternate capacity before call/due duty; original due/V receiving governs, V\u2026P mitigation not complete restoration. Post-V withdrawal preserves valid votes/N\u2212I and actual vacancy routes."
+    },
+    {
+      "id": "precall_unknown_numeric_penalty",
+      "status": "corrected_and_actual_reread",
+      "report": "review/remedy-reread.md",
+      "disposition": "Civil trace/segregate pre-call assets, five-day usable cap correction; only actual post-call known-limit fault/ability is VD12, not futureB applied to earlier receipt."
+    },
+    {
+      "id": "repeat_earliest_voting_selector",
+      "status": "corrected_and_actual_reread",
+      "report": "review/remedy-reread.md",
+      "disposition": "Reference\u039414 enacted before contest, repeatV=J76/P=J90 automatic call. No after-judgment scheduler; actual postal feasibility remains unknown."
+    },
+    {
+      "id": "unbanked_receiving_and_real_title",
+      "status": "corrected_and_actual_reread",
+      "report": "review/finance-correction-close.md",
+      "disposition": "Optional public fiscal custody with actually segregated restricted grant property, immediate lawful disposal/24h payment, no mere ledger or mandatory private bank; actual source unknown."
+    },
+    {
+      "id": "cap_rejection_correction",
+      "status": "corrected_and_actual_reread",
+      "report": "review/finance-correction-close.md",
+      "disposition": "24h rejection notice and timely-request correction min(V3,max(V10,notice24h)),\u226448hpay; too-late claim not fresh postvote cash/duplicate/voter debt."
+    },
+    {
+      "id": "direct_thirdparty_source_bypass",
+      "status": "corrected_and_actual_reread",
+      "report": "review/finance-correction-close.md",
+      "disposition": "All direct eligible-human/company/foreign/association paid express candidate appeals obey exact source/opt-in/caps; protected editorial/issue speech distinct."
+    },
+    {
+      "id": "fine_ceiling_stale_reference",
+      "status": "corrected_and_actual_reread",
+      "report": "review/finance-correction-close.md",
+      "disposition": "CF08 aligns selected explicit ER19 VD12-only value alternative; unchangedQ08 is retained rival, not undecided final choice."
+    },
+    {
+      "id": "fiscal_agent_completeness_veto",
+      "status": "corrected_and_actual_reread",
+      "report": "review/finance-correction-close.md",
+      "disposition": "Minimal instruction/firstreceipt4h omissions/firstsufficient24h payment and undisputed portion, no serial resets or political approval. Actual roster/cash unknown."
+    }
+  ],
+  "retained_dissent": [
+    "1% gate/two scarce slots/short early-call organizing window can exclude genuinely small or coerced groups; more open architecture remains real rival.",
+    "Minor-unit/wholecredit40% cap can leave tiny track with zero cash; source and context need actual public calibration.",
+    "Full field/pool directories/courts and14day postal window require real paid capacity; no operational success inferred.",
+    "Optional Treasury custody may concentrate political control; actual segregated funds/credentials/independent source not established.",
+    "Late notice/payment and post-V mitigation cannot reconstruct earlier fair chance; lawful claims can remain unmet.",
+    "Year-round/local/referendum finance, independent editorial power and full country sources remain separate choices."
+  ],
+  "not_examined_by_helpers": [
+    "Numerical model/results/validator were not inspected by these text reviewers.",
+    "Not every country clause, actual law/treaty/electorate, implementation, professional/public authority or outcomes."
+  ],
+  "source_rule": "Reports disclose inspected actual text, shared controller and changing scope; no model label/account count establishes independence."
+}

@@ -1,0 +1,11 @@
+case,decision_date,source_date,claim_milestone,source_milestone,claim_basis,source_basis,claimed,source_value,expected
+original-target,2023-07-17,2023-07-17,completion target,completion target,original qualifying schemes,original qualifying schemes,40,40,supported
+audited-forecast,2023-07-17,2023-07-17,projected completions,projected completions,original qualifying schemes,original qualifying schemes,32,32,supported
+cohort-drift,2023-07-17,2023-07-17,projected completions,projected completions,original qualifying schemes,qualifying and pre-existing schemes,40,40,basis mismatch
+projected-as-delivered,2023-07-17,2023-07-17,actual completions,projected completions,original qualifying schemes,original qualifying schemes,32,32,milestone mismatch
+start-window,2025-01-20,2025-01-20,planned construction start,planned construction start,St Mary's Hospital,St Mary's Hospital,2035 to 2038,2035 to 2038,supported
+start-as-opening,2025-01-20,2025-01-20,planned clinical opening,planned construction start,St Mary's Hospital,St Mary's Hospital,2035 to 2038,2035 to 2038,milestone mismatch
+envelope-as-cash,2025-01-20,2025-01-20,annual spending authority,steady-state planning envelope,programme annual GBP billion,programme annual GBP billion,3,3,milestone mismatch
+clinical-cover,2025-01-20,2025-01-20,accepted interim clinical provision,accepted interim clinical provision,St Mary's Hospital,St Mary's Hospital,confirmed,,insufficient evidence
+later-plan-in-2023,2023-07-17,2025-01-20,planned construction start,planned construction start,St Mary's Hospital,St Mary's Hospital,2035 to 2038,2035 to 2038,source too late
+wrong-count,2023-07-17,2023-07-17,projected completions,projected completions,original qualifying schemes,original qualifying schemes,31,32,value mismatch
